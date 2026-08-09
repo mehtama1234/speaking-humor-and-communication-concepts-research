@@ -1,0 +1,97 @@
+{
+  "captured_on": "2026-08-09",
+  "project": "speaking-humor-and-communication-concepts-research",
+  "tiers": [
+    {
+      "tier": "tier-1-must-ingest-framework-channels",
+      "purpose": "Direct speaking-improvement frameworks and drills",
+      "channels": [
+        {
+          "name": "Ultraspeaking",
+          "url": "https://www.youtube.com/c/ultraspeaking",
+          "roles": ["speaking confidence", "flow", "spontaneity", "anti-script speaking", "drills"],
+          "priority": 1
+        },
+        {
+          "name": "Vinh Giang",
+          "url": "https://www.youtube.com/@askvinh",
+          "roles": ["delivery", "vocal variety", "stage presence", "energy", "audience engagement"],
+          "priority": 2
+        },
+        {
+          "name": "Think Fast Talk Smart",
+          "url": "https://www.youtube.com/@ThinkFastTalkSmart",
+          "roles": ["structured communication", "thinking under pressure", "speaking anxiety", "leadership communication"],
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "tier": "tier-2-supporting-framework-channels",
+      "purpose": "Workplace and professional communication support",
+      "channels": [
+        {
+          "name": "Communication Coach Alexander Lyon",
+          "url": "https://www.youtube.com/@alexanderlyon",
+          "roles": ["business communication", "executive presence", "workplace speaking"]
+        },
+        {
+          "name": "The Communication Coach",
+          "url": "https://www.youtube.com/@TheCommunicationDoctor",
+          "roles": ["public speaking", "conversation", "communication skills"]
+        },
+        {
+          "name": "Speak The Speech",
+          "url": "https://www.youtube.com/@speakthespeechLtd",
+          "roles": ["pressure speaking", "clarity", "charisma"]
+        }
+      ]
+    },
+    {
+      "tier": "tier-3-example-libraries",
+      "purpose": "Real speeches and talks to analyze as examples",
+      "channels": [
+        {
+          "name": "Toastmasters International",
+          "url": "https://www.youtube.com/toastmasters",
+          "roles": ["speech examples", "competition speaking", "speech craft"]
+        },
+        {
+          "name": "TED",
+          "url": "https://www.youtube.com/ted",
+          "roles": ["polished talks", "storytelling", "persuasion"]
+        },
+        {
+          "name": "TEDx Talks",
+          "url": "https://www.youtube.com/user/TEDxTalks",
+          "roles": ["comparison corpus", "hooks", "talk structure", "delivery variance"]
+        }
+      ]
+    },
+    {
+      "tier": "tier-4-social-charisma",
+      "purpose": "Conversational presence and likability patterns",
+      "channels": [
+        {
+          "name": "Charisma on Command",
+          "url": "https://www.youtube.com/user/charismaoncommand",
+          "roles": ["charisma", "humor", "likability", "social confidence"]
+        }
+      ]
+    }
+  ],
+  "missing_categories": [
+    "humor-first teaching channels",
+    "storytelling-first channels",
+    "improv-based speaking sources",
+    "podcast-style spontaneous speaking exemplars",
+    "founder or persuasion-heavy speaking channels"
+  ],
+  "recommended_ingestion_order": [
+    "Ultraspeaking",
+    "Vinh Giang",
+    "Think Fast Talk Smart",
+    "Toastmasters International",
+    "Charisma on Command"
+  ]
+}

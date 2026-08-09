@@ -46,3 +46,5 @@ See:
 - `analysis/project-objective.md`
 - `analysis/youtube-channel-shortlist.md`
 - `analysis/youtube-channel-shortlist.json`
+- `analysis/source-map.md`
+- `analysis/source-map.json`
