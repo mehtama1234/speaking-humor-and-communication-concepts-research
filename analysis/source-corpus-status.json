@@ -1,0 +1,48 @@
+{
+  "captured_on": "2026-08-09",
+  "project": "speaking-humor-and-communication-concepts-research",
+  "sources": [
+    {
+      "slug": "ultraspeaking-videos",
+      "title": "Ultraspeaking Videos",
+      "category": "framework",
+      "videos_captured": 108,
+      "status": "ready-for-first-transcript-wave",
+      "recommended_strategy": "Treat this as the first full channel corpus because the channel is large but still manageable.",
+      "notes": [
+        "Strong fit for anti-script speaking, flow, confidence, and drills.",
+        "Top manifest items already align tightly with the repo objective."
+      ]
+    },
+    {
+      "slug": "vinh-giang-videos",
+      "title": "Vinh Giang Videos",
+      "category": "framework",
+      "videos_captured": 388,
+      "status": "captured-but-should-be-sliced",
+      "recommended_strategy": "Do not ingest the whole channel first. Select a narrower first slice focused on delivery, articulation, conversation, and presence.",
+      "notes": [
+        "Very high-value source, but too large for an undifferentiated first transcript pull.",
+        "Top manifest items suggest strong relevance for articulation, influence, clarity, and quick-witted conversation."
+      ]
+    },
+    {
+      "slug": "think-fast-talk-smart-videos",
+      "title": "Think Fast Talk Smart Videos",
+      "category": "framework",
+      "videos_captured": 346,
+      "status": "captured-but-should-be-sliced",
+      "recommended_strategy": "Do not ingest the whole channel first. Select a narrower first slice focused on communication under pressure, clarity, humor, and workplace speaking.",
+      "notes": [
+        "Very strong complement to the performance-heavy channels.",
+        "Top manifest items show strong relevance for voice, idea stickiness, clarity, trust, and humor."
+      ]
+    }
+  ],
+  "next_recommended_actions": [
+    "Create the first transcript manifest for a 15-25 video Ultraspeaking starter corpus.",
+    "Define a narrow Vinh Giang starter slice centered on articulation, likeability, influence, and quick-witted speech.",
+    "Define a narrow Think Fast Talk Smart starter slice centered on pressure speaking, clarity, and humor.",
+    "Begin transcript capture for the first Ultraspeaking wave."
+  ]
+}
