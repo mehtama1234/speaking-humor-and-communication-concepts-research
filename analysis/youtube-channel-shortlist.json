@@ -1,0 +1,130 @@
+{
+  "captured_on": "2026-08-09",
+  "project": "speaking-humor-and-communication-concepts-research",
+  "primary_goal": "Identify the strongest YouTube channels for learning practical speaking, communication, humor, storytelling, and delivery.",
+  "channels": [
+    {
+      "name": "Ultraspeaking",
+      "url": "https://www.youtube.com/c/ultraspeaking",
+      "category": "core",
+      "focus": [
+        "public speaking",
+        "spontaneity",
+        "flow",
+        "speaking confidence",
+        "anti-script delivery"
+      ],
+      "why_selected": "Strong fit for fear reduction, practical drills, and learning to speak more fluidly without over-reliance on scripting."
+    },
+    {
+      "name": "Vinh Giang",
+      "url": "https://www.youtube.com/@askvinh",
+      "category": "core",
+      "focus": [
+        "communication skills",
+        "public speaking",
+        "vocal variety",
+        "presence",
+        "delivery"
+      ],
+      "why_selected": "High-value channel for making delivery, energy, and audience engagement practical and teachable."
+    },
+    {
+      "name": "Think Fast Talk Smart",
+      "url": "https://www.youtube.com/@ThinkFastTalkSmart",
+      "category": "core",
+      "focus": [
+        "structured communication",
+        "speaking under pressure",
+        "speaking anxiety",
+        "meetings",
+        "leadership communication"
+      ],
+      "why_selected": "Strong source for frameworks that help people think clearly and speak clearly in real professional situations."
+    },
+    {
+      "name": "Charisma on Command",
+      "url": "https://www.youtube.com/user/charismaoncommand",
+      "category": "core",
+      "focus": [
+        "charisma",
+        "confidence",
+        "likability",
+        "social communication",
+        "humor"
+      ],
+      "why_selected": "Useful for studying social presence, audience connection, and communication patterns through examples from public figures."
+    },
+    {
+      "name": "Toastmasters International",
+      "url": "https://www.youtube.com/toastmasters",
+      "category": "core",
+      "focus": [
+        "speech examples",
+        "speech craft",
+        "competition speaking",
+        "public speaking fundamentals"
+      ],
+      "why_selected": "Valuable because it offers real speech examples, not only advice."
+    },
+    {
+      "name": "TED",
+      "url": "https://www.youtube.com/ted",
+      "category": "core",
+      "focus": [
+        "talk structure",
+        "storytelling",
+        "clarity",
+        "persuasion",
+        "delivery examples"
+      ],
+      "why_selected": "Strong example library for polished speaking and memorable talk architecture."
+    },
+    {
+      "name": "TEDx Talks",
+      "url": "https://www.youtube.com/user/TEDxTalks",
+      "category": "core",
+      "focus": [
+        "talk examples",
+        "hooks",
+        "story arcs",
+        "public speaking comparisons"
+      ],
+      "why_selected": "Broader and noisier than TED, but extremely useful as a large example corpus for comparing stronger and weaker talks."
+    },
+    {
+      "name": "Communication Coach Alexander Lyon",
+      "url": "https://www.youtube.com/@alexanderlyon",
+      "category": "core",
+      "focus": [
+        "business communication",
+        "workplace speaking",
+        "executive presence",
+        "clarity"
+      ],
+      "why_selected": "Useful for practical workplace communication and professional speaking."
+    },
+    {
+      "name": "The Communication Coach",
+      "url": "https://www.youtube.com/@TheCommunicationDoctor",
+      "category": "secondary",
+      "focus": [
+        "communication skills",
+        "public speaking",
+        "conversation"
+      ],
+      "why_selected": "Worth tracking as a secondary source for broader communication material."
+    },
+    {
+      "name": "Speak The Speech",
+      "url": "https://www.youtube.com/@speakthespeechLtd",
+      "category": "secondary",
+      "focus": [
+        "clarity",
+        "charisma",
+        "high-pressure speaking"
+      ],
+      "why_selected": "Useful secondary source for pressure situations and delivery."
+    }
+  ]
+}
