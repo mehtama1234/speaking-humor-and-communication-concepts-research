@@ -1,0 +1,1731 @@
+[
+  {
+    "start": "00:00:00.150",
+    "end": "00:00:01.650",
+    "start_seconds": 0.15,
+    "end_seconds": 1.65,
+    "text": "- You are going to learn how to get"
+  },
+  {
+    "start": "00:00:01.650",
+    "end": "00:00:04.020",
+    "start_seconds": 1.65,
+    "end_seconds": 4.02,
+    "text": "right to the point in a conversation."
+  },
+  {
+    "start": "00:00:04.020",
+    "end": "00:00:06.540",
+    "start_seconds": 4.02,
+    "end_seconds": 6.54,
+    "text": "And today we're here with Chris Fenning."
+  },
+  {
+    "start": "00:00:06.540",
+    "end": "00:00:09.517",
+    "start_seconds": 6.54,
+    "end_seconds": 9.517,
+    "text": "He's the author of the book, \"The First Minute:"
+  },
+  {
+    "start": "00:00:09.517",
+    "end": "00:00:12.690",
+    "start_seconds": 9.517,
+    "end_seconds": 12.69,
+    "text": "\"How to Start Conversations That Get Results.\""
+  },
+  {
+    "start": "00:00:12.690",
+    "end": "00:00:14.370",
+    "start_seconds": 12.69,
+    "end_seconds": 14.37,
+    "text": "Thanks for being with us today, Chris."
+  },
+  {
+    "start": "00:00:14.370",
+    "end": "00:00:16.650",
+    "start_seconds": 14.37,
+    "end_seconds": 16.65,
+    "text": "- Hi, Alex, it's great to be here."
+  },
+  {
+    "start": "00:00:16.650",
+    "end": "00:00:18.000",
+    "start_seconds": 16.65,
+    "end_seconds": 18.0,
+    "text": "- If you'd like to connect with Chris,"
+  },
+  {
+    "start": "00:00:18.000",
+    "end": "00:00:21.360",
+    "start_seconds": 18.0,
+    "end_seconds": 21.36,
+    "text": "you can look at his website, his LinkedIn profile,"
+  },
+  {
+    "start": "00:00:21.360",
+    "end": "00:00:24.150",
+    "start_seconds": 21.36,
+    "end_seconds": 24.15,
+    "text": "of course, I'll link to his book on Amazon,"
+  },
+  {
+    "start": "00:00:24.150",
+    "end": "00:00:26.160",
+    "start_seconds": 24.15,
+    "end_seconds": 26.16,
+    "text": "and you can check out his YouTube page, as well."
+  },
+  {
+    "start": "00:00:26.160",
+    "end": "00:00:28.050",
+    "start_seconds": 26.16,
+    "end_seconds": 28.05,
+    "text": "I'll put links to all of those things"
+  },
+  {
+    "start": "00:00:28.050",
+    "end": "00:00:30.750",
+    "start_seconds": 28.05,
+    "end_seconds": 30.75,
+    "text": "in the description below the video."
+  },
+  {
+    "start": "00:00:30.750",
+    "end": "00:00:34.590",
+    "start_seconds": 30.75,
+    "end_seconds": 34.59,
+    "text": "So Chris, one of the most common questions I get is, Alex,"
+  },
+  {
+    "start": "00:00:34.590",
+    "end": "00:00:37.500",
+    "start_seconds": 34.59,
+    "end_seconds": 37.5,
+    "text": "when you're out in the work world consulting,"
+  },
+  {
+    "start": "00:00:37.500",
+    "end": "00:00:39.690",
+    "start_seconds": 37.5,
+    "end_seconds": 39.69,
+    "text": "what's the biggest communication problem"
+  },
+  {
+    "start": "00:00:39.690",
+    "end": "00:00:41.340",
+    "start_seconds": 39.69,
+    "end_seconds": 41.34,
+    "text": "that you hear about?"
+  },
+  {
+    "start": "00:00:41.340",
+    "end": "00:00:45.060",
+    "start_seconds": 41.34,
+    "end_seconds": 45.06,
+    "text": "And I would say the number one complaint I hear about is"
+  },
+  {
+    "start": "00:00:45.060",
+    "end": "00:00:47.310",
+    "start_seconds": 45.06,
+    "end_seconds": 47.31,
+    "text": "that people say, the people around me"
+  },
+  {
+    "start": "00:00:47.310",
+    "end": "00:00:50.370",
+    "start_seconds": 47.31,
+    "end_seconds": 50.37,
+    "text": "are really long-winded."
+  },
+  {
+    "start": "00:00:50.370",
+    "end": "00:00:53.550",
+    "start_seconds": 50.37,
+    "end_seconds": 53.55,
+    "text": "So what's your perspective on that complaint?"
+  },
+  {
+    "start": "00:00:53.550",
+    "end": "00:00:57.240",
+    "start_seconds": 53.55,
+    "end_seconds": 57.24,
+    "text": "- I think that is, yeah, one of the highest,"
+  },
+  {
+    "start": "00:00:57.240",
+    "end": "00:00:59.730",
+    "start_seconds": 57.24,
+    "end_seconds": 59.73,
+    "text": "if not the highest issues that I see, as well."
+  },
+  {
+    "start": "00:00:59.730",
+    "end": "00:01:02.490",
+    "start_seconds": 59.73,
+    "end_seconds": 62.49,
+    "text": "What I find interesting about it is it's always"
+  },
+  {
+    "start": "00:01:02.490",
+    "end": "00:01:04.440",
+    "start_seconds": 62.49,
+    "end_seconds": 64.44,
+    "text": "other people who are long-winded."
+  },
+  {
+    "start": "00:01:04.440",
+    "end": "00:01:06.540",
+    "start_seconds": 64.44,
+    "end_seconds": 66.54,
+    "text": "Ask a room full of people if they know someone"
+  },
+  {
+    "start": "00:01:06.540",
+    "end": "00:01:08.070",
+    "start_seconds": 66.54,
+    "end_seconds": 68.07,
+    "text": "who struggles to get to the point,"
+  },
+  {
+    "start": "00:01:08.070",
+    "end": "00:01:10.470",
+    "start_seconds": 68.07,
+    "end_seconds": 70.47,
+    "text": "they're all going to nod and say yes."
+  },
+  {
+    "start": "00:01:10.470",
+    "end": "00:01:13.200",
+    "start_seconds": 70.47,
+    "end_seconds": 73.2,
+    "text": "Ask those same people if they are the person who struggles"
+  },
+  {
+    "start": "00:01:13.200",
+    "end": "00:01:15.330",
+    "start_seconds": 73.2,
+    "end_seconds": 75.33,
+    "text": "to get to the point, oh no, no, it's not me,"
+  },
+  {
+    "start": "00:01:15.330",
+    "end": "00:01:19.230",
+    "start_seconds": 75.33,
+    "end_seconds": 79.23,
+    "text": "it's always other people who have that particular challenge."
+  },
+  {
+    "start": "00:01:19.230",
+    "end": "00:01:21.030",
+    "start_seconds": 79.23,
+    "end_seconds": 81.03,
+    "text": "- That's right, I find that one"
+  },
+  {
+    "start": "00:01:21.030",
+    "end": "00:01:24.270",
+    "start_seconds": 81.03,
+    "end_seconds": 84.27,
+    "text": "of the biggest misunderstandings about communication"
+  },
+  {
+    "start": "00:01:24.270",
+    "end": "00:01:27.030",
+    "start_seconds": 84.27,
+    "end_seconds": 87.03,
+    "text": "is that people who can just talk a lot"
+  },
+  {
+    "start": "00:01:27.030",
+    "end": "00:01:28.620",
+    "start_seconds": 87.03,
+    "end_seconds": 88.62,
+    "text": "think they're good communicators,"
+  },
+  {
+    "start": "00:01:28.620",
+    "end": "00:01:30.840",
+    "start_seconds": 88.62,
+    "end_seconds": 90.84,
+    "text": "but it's almost exactly the opposite."
+  },
+  {
+    "start": "00:01:30.840",
+    "end": "00:01:33.390",
+    "start_seconds": 90.84,
+    "end_seconds": 93.39,
+    "text": "So today what we're going to do is learn how to get"
+  },
+  {
+    "start": "00:01:33.390",
+    "end": "00:01:35.610",
+    "start_seconds": 93.39,
+    "end_seconds": 95.61,
+    "text": "right to the point in a way that will get results."
+  },
+  {
+    "start": "00:01:35.610",
+    "end": "00:01:38.460",
+    "start_seconds": 95.61,
+    "end_seconds": 98.46000000000001,
+    "text": "And we're going to do this by framing the conversation,"
+  },
+  {
+    "start": "00:01:38.460",
+    "end": "00:01:40.650",
+    "start_seconds": 98.46000000000001,
+    "end_seconds": 100.65,
+    "text": "which Chris talks about in his book,"
+  },
+  {
+    "start": "00:01:40.650",
+    "end": "00:01:42.720",
+    "start_seconds": 100.65,
+    "end_seconds": 102.72,
+    "text": "and we're gonna talk about three key questions"
+  },
+  {
+    "start": "00:01:42.720",
+    "end": "00:01:45.420",
+    "start_seconds": 102.72,
+    "end_seconds": 105.42,
+    "text": "that'll help us frame the conversation the right way."
+  },
+  {
+    "start": "00:01:45.420",
+    "end": "00:01:46.890",
+    "start_seconds": 105.42,
+    "end_seconds": 106.89,
+    "text": "Right when we start a conversation,"
+  },
+  {
+    "start": "00:01:46.890",
+    "end": "00:01:49.170",
+    "start_seconds": 106.89,
+    "end_seconds": 109.17,
+    "text": "people are often asking themselves,"
+  },
+  {
+    "start": "00:01:49.170",
+    "end": "00:01:51.360",
+    "start_seconds": 109.17,
+    "end_seconds": 111.36,
+    "text": "what are you talking about?"
+  },
+  {
+    "start": "00:01:51.360",
+    "end": "00:01:52.920",
+    "start_seconds": 111.36,
+    "end_seconds": 112.92,
+    "text": "So Chris, why does this happen"
+  },
+  {
+    "start": "00:01:52.920",
+    "end": "00:01:55.500",
+    "start_seconds": 112.92,
+    "end_seconds": 115.5,
+    "text": "and what can we do about it to answer that question?"
+  },
+  {
+    "start": "00:01:55.500",
+    "end": "00:01:59.010",
+    "start_seconds": 115.5,
+    "end_seconds": 119.00999999999999,
+    "text": "- We've all been there a minute or two minutes"
+  },
+  {
+    "start": "00:01:59.010",
+    "end": "00:02:01.560",
+    "start_seconds": 119.00999999999999,
+    "end_seconds": 121.56,
+    "text": "into a conversation and we're still thinking,"
+  },
+  {
+    "start": "00:02:01.560",
+    "end": "00:02:02.880",
+    "start_seconds": 121.56,
+    "end_seconds": 122.88,
+    "text": "what are you talking about?"
+  },
+  {
+    "start": "00:02:02.880",
+    "end": "00:02:05.250",
+    "start_seconds": 122.88,
+    "end_seconds": 125.25,
+    "text": "What is this, what does it relate to?"
+  },
+  {
+    "start": "00:02:05.250",
+    "end": "00:02:08.340",
+    "start_seconds": 125.25,
+    "end_seconds": 128.34,
+    "text": "And the reason this happens is the person who's speaking"
+  },
+  {
+    "start": "00:02:08.340",
+    "end": "00:02:11.550",
+    "start_seconds": 128.34,
+    "end_seconds": 131.55,
+    "text": "hasn't defined the context for the conversation."
+  },
+  {
+    "start": "00:02:11.550",
+    "end": "00:02:13.530",
+    "start_seconds": 131.55,
+    "end_seconds": 133.53,
+    "text": "You don't know whether they're talking about a meeting"
+  },
+  {
+    "start": "00:02:13.530",
+    "end": "00:02:15.240",
+    "start_seconds": 133.53,
+    "end_seconds": 135.24,
+    "text": "next week, or a client problem,"
+  },
+  {
+    "start": "00:02:15.240",
+    "end": "00:02:17.640",
+    "start_seconds": 135.24,
+    "end_seconds": 137.64,
+    "text": "or something that just was a funny story."
+  },
+  {
+    "start": "00:02:17.640",
+    "end": "00:02:19.950",
+    "start_seconds": 137.64,
+    "end_seconds": 139.95,
+    "text": "When we don't provide context,"
+  },
+  {
+    "start": "00:02:19.950",
+    "end": "00:02:22.290",
+    "start_seconds": 139.95,
+    "end_seconds": 142.29,
+    "text": "the people we're talking to struggle to focus"
+  },
+  {
+    "start": "00:02:22.290",
+    "end": "00:02:24.150",
+    "start_seconds": 142.29,
+    "end_seconds": 144.15,
+    "text": "and they're spending their time trying to work out"
+  },
+  {
+    "start": "00:02:24.150",
+    "end": "00:02:26.280",
+    "start_seconds": 144.15,
+    "end_seconds": 146.28,
+    "text": "what is it we're actually talking about."
+  },
+  {
+    "start": "00:02:26.280",
+    "end": "00:02:29.640",
+    "start_seconds": 146.28,
+    "end_seconds": 149.64,
+    "text": "The great thing is context is easy to provide."
+  },
+  {
+    "start": "00:02:29.640",
+    "end": "00:02:31.410",
+    "start_seconds": 149.64,
+    "end_seconds": 151.41,
+    "text": "In just three or five words,"
+  },
+  {
+    "start": "00:02:31.410",
+    "end": "00:02:33.600",
+    "start_seconds": 151.41,
+    "end_seconds": 153.6,
+    "text": "you can tell the person you're talking to."
+  },
+  {
+    "start": "00:02:33.600",
+    "end": "00:02:35.520",
+    "start_seconds": 153.6,
+    "end_seconds": 155.52,
+    "text": "what you're talking about."
+  },
+  {
+    "start": "00:02:35.520",
+    "end": "00:02:38.790",
+    "start_seconds": 155.52,
+    "end_seconds": 158.79,
+    "text": "Something like, I have an update on next week's meeting,"
+  },
+  {
+    "start": "00:02:38.790",
+    "end": "00:02:41.280",
+    "start_seconds": 158.79,
+    "end_seconds": 161.28,
+    "text": "or I'd like to talk to you about the Jefferson account,"
+  },
+  {
+    "start": "00:02:41.280",
+    "end": "00:02:44.340",
+    "start_seconds": 161.28,
+    "end_seconds": 164.34,
+    "text": "or can I talk to you about Robin's pay rise?"
+  },
+  {
+    "start": "00:02:44.340",
+    "end": "00:02:47.670",
+    "start_seconds": 164.34,
+    "end_seconds": 167.67000000000002,
+    "text": "Those few words tell you, I could say, hey, Alex,"
+  },
+  {
+    "start": "00:02:47.670",
+    "end": "00:02:49.860",
+    "start_seconds": 167.67000000000002,
+    "end_seconds": 169.86,
+    "text": "I wanna talk to you about our meeting next week."
+  },
+  {
+    "start": "00:02:49.860",
+    "end": "00:02:52.050",
+    "start_seconds": 169.86,
+    "end_seconds": 172.05,
+    "text": "You now know everything else I'm going"
+  },
+  {
+    "start": "00:02:52.050",
+    "end": "00:02:54.000",
+    "start_seconds": 172.05,
+    "end_seconds": 174.0,
+    "text": "to say is about the meeting next week"
+  },
+  {
+    "start": "00:02:54.000",
+    "end": "00:02:57.180",
+    "start_seconds": 174.0,
+    "end_seconds": 177.18,
+    "text": "and it's not about lunch, or reports, or anything else."
+  },
+  {
+    "start": "00:02:57.180",
+    "end": "00:02:59.040",
+    "start_seconds": 177.18,
+    "end_seconds": 179.04,
+    "text": "- That's why we buy a book, right?"
+  },
+  {
+    "start": "00:02:59.040",
+    "end": "00:03:00.570",
+    "start_seconds": 179.04,
+    "end_seconds": 180.57,
+    "text": "We see a title like yours"
+  },
+  {
+    "start": "00:03:00.570",
+    "end": "00:03:02.790",
+    "start_seconds": 180.57,
+    "end_seconds": 182.79,
+    "text": "and we say, oh, the first minute, I need to know about that,"
+  },
+  {
+    "start": "00:03:02.790",
+    "end": "00:03:05.160",
+    "start_seconds": 182.79,
+    "end_seconds": 185.16,
+    "text": "I know what this book is about now."
+  },
+  {
+    "start": "00:03:05.160",
+    "end": "00:03:07.890",
+    "start_seconds": 185.16,
+    "end_seconds": 187.89,
+    "text": "And if we are only thinking that in our heads"
+  },
+  {
+    "start": "00:03:07.890",
+    "end": "00:03:11.700",
+    "start_seconds": 187.89,
+    "end_seconds": 191.7,
+    "text": "but never verbalize that until later in the conversation,"
+  },
+  {
+    "start": "00:03:11.700",
+    "end": "00:03:14.070",
+    "start_seconds": 191.7,
+    "end_seconds": 194.07,
+    "text": "that's a really demanding way to start a conversation"
+  },
+  {
+    "start": "00:03:14.070",
+    "end": "00:03:16.650",
+    "start_seconds": 194.07,
+    "end_seconds": 196.65,
+    "text": "to make them guess what it is we're talking about."
+  },
+  {
+    "start": "00:03:16.650",
+    "end": "00:03:18.750",
+    "start_seconds": 196.65,
+    "end_seconds": 198.75,
+    "text": "So you want to be really upfront about that."
+  },
+  {
+    "start": "00:03:18.750",
+    "end": "00:03:19.980",
+    "start_seconds": 198.75,
+    "end_seconds": 199.98,
+    "text": "It takes a little reflection"
+  },
+  {
+    "start": "00:03:19.980",
+    "end": "00:03:21.570",
+    "start_seconds": 199.98,
+    "end_seconds": 201.57,
+    "text": "before you start the conversation,"
+  },
+  {
+    "start": "00:03:21.570",
+    "end": "00:03:23.190",
+    "start_seconds": 201.57,
+    "end_seconds": 203.19,
+    "text": "but it's pretty easy to get to."
+  },
+  {
+    "start": "00:03:23.190",
+    "end": "00:03:26.940",
+    "start_seconds": 203.19,
+    "end_seconds": 206.94,
+    "text": "And I noticed the samples that you used were very concise."
+  },
+  {
+    "start": "00:03:26.940",
+    "end": "00:03:29.310",
+    "start_seconds": 206.94,
+    "end_seconds": 209.31,
+    "text": "It's just one short little sentence"
+  },
+  {
+    "start": "00:03:29.310",
+    "end": "00:03:30.750",
+    "start_seconds": 209.31,
+    "end_seconds": 210.75,
+    "text": "that does a lot of heavy lifting."
+  },
+  {
+    "start": "00:03:30.750",
+    "end": "00:03:33.630",
+    "start_seconds": 210.75,
+    "end_seconds": 213.63,
+    "text": "So let's say we tell them what we're talking about."
+  },
+  {
+    "start": "00:03:33.630",
+    "end": "00:03:37.950",
+    "start_seconds": 213.63,
+    "end_seconds": 217.95,
+    "text": "The second question that most listeners ask themselves is,"
+  },
+  {
+    "start": "00:03:37.950",
+    "end": "00:03:41.520",
+    "start_seconds": 217.95,
+    "end_seconds": 221.52,
+    "text": "why are you talking to me about this specifically?"
+  },
+  {
+    "start": "00:03:41.520",
+    "end": "00:03:44.250",
+    "start_seconds": 221.52,
+    "end_seconds": 224.25,
+    "text": "So why do people always ask themselves this question"
+  },
+  {
+    "start": "00:03:44.250",
+    "end": "00:03:46.770",
+    "start_seconds": 224.25,
+    "end_seconds": 226.77,
+    "text": "and what can we do to make sure we don't leave"
+  },
+  {
+    "start": "00:03:46.770",
+    "end": "00:03:48.840",
+    "start_seconds": 226.77,
+    "end_seconds": 228.84,
+    "text": "that question unanswered?"
+  },
+  {
+    "start": "00:03:48.840",
+    "end": "00:03:52.350",
+    "start_seconds": 228.84,
+    "end_seconds": 232.35,
+    "text": "- Yes, this is the situation where someone has come up"
+  },
+  {
+    "start": "00:03:52.350",
+    "end": "00:03:54.030",
+    "start_seconds": 232.35,
+    "end_seconds": 234.03,
+    "text": "to you and you understand what the topic is,"
+  },
+  {
+    "start": "00:03:54.030",
+    "end": "00:03:54.863",
+    "start_seconds": 234.03,
+    "end_seconds": 234.863,
+    "text": "you know the context,"
+  },
+  {
+    "start": "00:03:54.863",
+    "end": "00:03:56.820",
+    "start_seconds": 234.863,
+    "end_seconds": 236.82,
+    "text": "but they've been talking for a few minutes,"
+  },
+  {
+    "start": "00:03:56.820",
+    "end": "00:03:59.850",
+    "start_seconds": 236.82,
+    "end_seconds": 239.85,
+    "text": "you have no idea whether you're being asked a question,"
+  },
+  {
+    "start": "00:03:59.850",
+    "end": "00:04:03.150",
+    "start_seconds": 239.85,
+    "end_seconds": 243.15,
+    "text": "is this just them venting about a situation,"
+  },
+  {
+    "start": "00:04:03.150",
+    "end": "00:04:04.770",
+    "start_seconds": 243.15,
+    "end_seconds": 244.77,
+    "text": "do you have to take an action?"
+  },
+  {
+    "start": "00:04:04.770",
+    "end": "00:04:06.780",
+    "start_seconds": 244.77,
+    "end_seconds": 246.78,
+    "text": "And the reason we think those things"
+  },
+  {
+    "start": "00:04:06.780",
+    "end": "00:04:08.850",
+    "start_seconds": 246.78,
+    "end_seconds": 248.85,
+    "text": "and we have that question of why are you talking to me,"
+  },
+  {
+    "start": "00:04:08.850",
+    "end": "00:04:10.230",
+    "start_seconds": 248.85,
+    "end_seconds": 250.23,
+    "text": "why are you telling me this,"
+  },
+  {
+    "start": "00:04:10.230",
+    "end": "00:04:12.420",
+    "start_seconds": 250.23,
+    "end_seconds": 252.42,
+    "text": "it's because the person speaking"
+  },
+  {
+    "start": "00:04:12.420",
+    "end": "00:04:15.570",
+    "start_seconds": 252.42,
+    "end_seconds": 255.57,
+    "text": "hasn't made the intent clear."
+  },
+  {
+    "start": "00:04:15.570",
+    "end": "00:04:17.100",
+    "start_seconds": 255.57,
+    "end_seconds": 257.1,
+    "text": "Now, there's some science behind this"
+  },
+  {
+    "start": "00:04:17.100",
+    "end": "00:04:18.960",
+    "start_seconds": 257.1,
+    "end_seconds": 258.96,
+    "text": "in the way our short-term memories work,"
+  },
+  {
+    "start": "00:04:18.960",
+    "end": "00:04:22.110",
+    "start_seconds": 258.96,
+    "end_seconds": 262.11,
+    "text": "that until our brain knows what to do"
+  },
+  {
+    "start": "00:04:22.110",
+    "end": "00:04:24.930",
+    "start_seconds": 262.11,
+    "end_seconds": 264.93,
+    "text": "with a piece of information, it struggles to process it"
+  },
+  {
+    "start": "00:04:24.930",
+    "end": "00:04:27.540",
+    "start_seconds": 264.93,
+    "end_seconds": 267.54,
+    "text": "because different parts of our brain work on listening"
+  },
+  {
+    "start": "00:04:27.540",
+    "end": "00:04:29.550",
+    "start_seconds": 267.54,
+    "end_seconds": 269.55,
+    "text": "to a funny story or answering a question."
+  },
+  {
+    "start": "00:04:29.550",
+    "end": "00:04:33.000",
+    "start_seconds": 269.55,
+    "end_seconds": 273.0,
+    "text": "And until we know the intent, until we know the purpose"
+  },
+  {
+    "start": "00:04:33.000",
+    "end": "00:04:35.610",
+    "start_seconds": 273.0,
+    "end_seconds": 275.61,
+    "text": "for that conversation, our brains are stuck in a loop"
+  },
+  {
+    "start": "00:04:35.610",
+    "end": "00:04:37.740",
+    "start_seconds": 275.61,
+    "end_seconds": 277.74,
+    "text": "saying, why are you telling me this, what do I do with it,"
+  },
+  {
+    "start": "00:04:37.740",
+    "end": "00:04:39.660",
+    "start_seconds": 277.74,
+    "end_seconds": 279.65999999999997,
+    "text": "what do I do with it, what do I do with it?"
+  },
+  {
+    "start": "00:04:39.660",
+    "end": "00:04:41.900",
+    "start_seconds": 279.65999999999997,
+    "end_seconds": 281.9,
+    "text": "And that's why we get stuck in that question of,"
+  },
+  {
+    "start": "00:04:41.900",
+    "end": "00:04:43.290",
+    "start_seconds": 281.9,
+    "end_seconds": 283.29,
+    "text": "well, why are you talking to me?"
+  },
+  {
+    "start": "00:04:43.290",
+    "end": "00:04:45.450",
+    "start_seconds": 283.29,
+    "end_seconds": 285.45,
+    "text": "Now, the easy way to avoid this is"
+  },
+  {
+    "start": "00:04:45.450",
+    "end": "00:04:49.500",
+    "start_seconds": 285.45,
+    "end_seconds": 289.5,
+    "text": "after providing context, you literally tell the other person"
+  },
+  {
+    "start": "00:04:49.500",
+    "end": "00:04:50.970",
+    "start_seconds": 289.5,
+    "end_seconds": 290.97,
+    "text": "what you want them to do"
+  },
+  {
+    "start": "00:04:50.970",
+    "end": "00:04:52.800",
+    "start_seconds": 290.97,
+    "end_seconds": 292.8,
+    "text": "with the information you're giving them."
+  },
+  {
+    "start": "00:04:52.800",
+    "end": "00:04:55.800",
+    "start_seconds": 292.8,
+    "end_seconds": 295.8,
+    "text": "For example, can I talk to you about next week's meeting?"
+  },
+  {
+    "start": "00:04:55.800",
+    "end": "00:04:59.400",
+    "start_seconds": 295.8,
+    "end_seconds": 299.4,
+    "text": "I need your help to identify the people to bring."
+  },
+  {
+    "start": "00:04:59.400",
+    "end": "00:05:00.840",
+    "start_seconds": 299.4,
+    "end_seconds": 300.84,
+    "text": "Or I want you to talk to you"
+  },
+  {
+    "start": "00:05:00.840",
+    "end": "00:05:03.000",
+    "start_seconds": 300.84,
+    "end_seconds": 303.0,
+    "text": "about this particular client's account,"
+  },
+  {
+    "start": "00:05:03.000",
+    "end": "00:05:05.100",
+    "start_seconds": 303.0,
+    "end_seconds": 305.1,
+    "text": "I need your help approving a refund."
+  },
+  {
+    "start": "00:05:05.100",
+    "end": "00:05:08.370",
+    "start_seconds": 305.1,
+    "end_seconds": 308.37,
+    "text": "So we've got, I need your help, I want your input."
+  },
+  {
+    "start": "00:05:08.370",
+    "end": "00:05:10.380",
+    "start_seconds": 308.37,
+    "end_seconds": 310.38,
+    "text": "Heads up, something is about to happen."
+  },
+  {
+    "start": "00:05:10.380",
+    "end": "00:05:13.890",
+    "start_seconds": 310.38,
+    "end_seconds": 313.89,
+    "text": "These short phrases that tell the other person what to do"
+  },
+  {
+    "start": "00:05:13.890",
+    "end": "00:05:15.960",
+    "start_seconds": 313.89,
+    "end_seconds": 315.96,
+    "text": "make the intent really clear"
+  },
+  {
+    "start": "00:05:15.960",
+    "end": "00:05:19.080",
+    "start_seconds": 315.96,
+    "end_seconds": 319.08,
+    "text": "and they will focus on everything else that you have to say."
+  },
+  {
+    "start": "00:05:19.080",
+    "end": "00:05:20.160",
+    "start_seconds": 319.08,
+    "end_seconds": 320.16,
+    "text": "- Excellent examples."
+  },
+  {
+    "start": "00:05:20.160",
+    "end": "00:05:22.500",
+    "start_seconds": 320.16,
+    "end_seconds": 322.5,
+    "text": "So we all ask this question whether we're watching"
+  },
+  {
+    "start": "00:05:22.500",
+    "end": "00:05:24.930",
+    "start_seconds": 322.5,
+    "end_seconds": 324.93,
+    "text": "a presentation, we're in a group meeting,"
+  },
+  {
+    "start": "00:05:24.930",
+    "end": "00:05:27.120",
+    "start_seconds": 324.93,
+    "end_seconds": 327.12,
+    "text": "one-on-one conversation, we all ask some version"
+  },
+  {
+    "start": "00:05:27.120",
+    "end": "00:05:28.890",
+    "start_seconds": 327.12,
+    "end_seconds": 328.89,
+    "text": "of Why are you telling me this?"
+  },
+  {
+    "start": "00:05:28.890",
+    "end": "00:05:30.780",
+    "start_seconds": 328.89,
+    "end_seconds": 330.78,
+    "text": "So I have this guy I know, I wouldn't call him"
+  },
+  {
+    "start": "00:05:30.780",
+    "end": "00:05:32.190",
+    "start_seconds": 330.78,
+    "end_seconds": 332.19,
+    "text": "a close friend, but I know him,"
+  },
+  {
+    "start": "00:05:32.190",
+    "end": "00:05:34.100",
+    "start_seconds": 332.19,
+    "end_seconds": 334.1,
+    "text": "and he frequently will interrupt you"
+  },
+  {
+    "start": "00:05:34.100",
+    "end": "00:05:35.550",
+    "start_seconds": 334.1,
+    "end_seconds": 335.55,
+    "text": "in the middle of a conversation."
+  },
+  {
+    "start": "00:05:35.550",
+    "end": "00:05:37.500",
+    "start_seconds": 335.55,
+    "end_seconds": 337.5,
+    "text": "And he asks a little bit rough,"
+  },
+  {
+    "start": "00:05:37.500",
+    "end": "00:05:40.440",
+    "start_seconds": 337.5,
+    "end_seconds": 340.44,
+    "text": "he'll say, what's this got to do with me?"
+  },
+  {
+    "start": "00:05:40.440",
+    "end": "00:05:44.820",
+    "start_seconds": 340.44,
+    "end_seconds": 344.82,
+    "text": "And I would not imitate his style, but he is being honest."
+  },
+  {
+    "start": "00:05:44.820",
+    "end": "00:05:46.800",
+    "start_seconds": 344.82,
+    "end_seconds": 346.8,
+    "text": "He doesn't understand why you're talking"
+  },
+  {
+    "start": "00:05:46.800",
+    "end": "00:05:48.180",
+    "start_seconds": 346.8,
+    "end_seconds": 348.18,
+    "text": "to him about this in particular."
+  },
+  {
+    "start": "00:05:48.180",
+    "end": "00:05:51.120",
+    "start_seconds": 348.18,
+    "end_seconds": 351.12,
+    "text": "And I think everybody asks some version of that question,"
+  },
+  {
+    "start": "00:05:51.120",
+    "end": "00:05:53.670",
+    "start_seconds": 351.12,
+    "end_seconds": 353.67,
+    "text": "hopefully a little more politely."
+  },
+  {
+    "start": "00:05:53.670",
+    "end": "00:05:54.600",
+    "start_seconds": 353.67,
+    "end_seconds": 354.6,
+    "text": "But they're always wondering,"
+  },
+  {
+    "start": "00:05:54.600",
+    "end": "00:05:56.370",
+    "start_seconds": 354.6,
+    "end_seconds": 356.37,
+    "text": "what do I have to do with this information?"
+  },
+  {
+    "start": "00:05:56.370",
+    "end": "00:05:57.510",
+    "start_seconds": 356.37,
+    "end_seconds": 357.51,
+    "text": "Why are you talking to me about it?"
+  },
+  {
+    "start": "00:05:57.510",
+    "end": "00:05:58.590",
+    "start_seconds": 357.51,
+    "end_seconds": 358.59000000000003,
+    "text": "How can I take action?"
+  },
+  {
+    "start": "00:05:58.590",
+    "end": "00:06:00.360",
+    "start_seconds": 358.59000000000003,
+    "end_seconds": 360.36,
+    "text": "Maybe they're even asking, how can I help?"
+  },
+  {
+    "start": "00:06:00.360",
+    "end": "00:06:02.640",
+    "start_seconds": 360.36,
+    "end_seconds": 362.64,
+    "text": "But unless you tell them that directly,"
+  },
+  {
+    "start": "00:06:02.640",
+    "end": "00:06:04.830",
+    "start_seconds": 362.64,
+    "end_seconds": 364.83,
+    "text": "they're still going to wonder."
+  },
+  {
+    "start": "00:06:04.830",
+    "end": "00:06:06.840",
+    "start_seconds": 364.83,
+    "end_seconds": 366.84,
+    "text": "So that brings us to the third question,"
+  },
+  {
+    "start": "00:06:06.840",
+    "end": "00:06:09.090",
+    "start_seconds": 366.84,
+    "end_seconds": 369.09,
+    "text": "and that is, you've already created context,"
+  },
+  {
+    "start": "00:06:09.090",
+    "end": "00:06:10.860",
+    "start_seconds": 369.09,
+    "end_seconds": 370.86,
+    "text": "you've already signaled intention,"
+  },
+  {
+    "start": "00:06:10.860",
+    "end": "00:06:14.370",
+    "start_seconds": 370.86,
+    "end_seconds": 374.37,
+    "text": "and the last part is they're asking, what's your point?"
+  },
+  {
+    "start": "00:06:14.370",
+    "end": "00:06:16.590",
+    "start_seconds": 374.37,
+    "end_seconds": 376.59,
+    "text": "What is the point of this conversation?"
+  },
+  {
+    "start": "00:06:16.590",
+    "end": "00:06:18.900",
+    "start_seconds": 376.59,
+    "end_seconds": 378.9,
+    "text": "So tell us how we can get to that point"
+  },
+  {
+    "start": "00:06:18.900",
+    "end": "00:06:21.090",
+    "start_seconds": 378.9,
+    "end_seconds": 381.09,
+    "text": "in the conversation really clearly."
+  },
+  {
+    "start": "00:06:21.090",
+    "end": "00:06:23.580",
+    "start_seconds": 381.09,
+    "end_seconds": 383.58,
+    "text": "- Oh yes, clearly and quickly."
+  },
+  {
+    "start": "00:06:23.580",
+    "end": "00:06:26.760",
+    "start_seconds": 383.58,
+    "end_seconds": 386.76,
+    "text": "There is very little that's more frustrating at work"
+  },
+  {
+    "start": "00:06:26.760",
+    "end": "00:06:29.460",
+    "start_seconds": 386.76,
+    "end_seconds": 389.46,
+    "text": "than listening to somebody go on and on and on"
+  },
+  {
+    "start": "00:06:29.460",
+    "end": "00:06:32.190",
+    "start_seconds": 389.46,
+    "end_seconds": 392.19,
+    "text": "and thinking, what is your point?"
+  },
+  {
+    "start": "00:06:32.190",
+    "end": "00:06:35.400",
+    "start_seconds": 392.19,
+    "end_seconds": 395.4,
+    "text": "I understand what you want from me, but what's the point?"
+  },
+  {
+    "start": "00:06:35.400",
+    "end": "00:06:39.780",
+    "start_seconds": 395.4,
+    "end_seconds": 399.78,
+    "text": "And that is caused by missing a headline"
+  },
+  {
+    "start": "00:06:39.780",
+    "end": "00:06:42.120",
+    "start_seconds": 399.78,
+    "end_seconds": 402.12,
+    "text": "from the start of your message."
+  },
+  {
+    "start": "00:06:42.120",
+    "end": "00:06:43.680",
+    "start_seconds": 402.12,
+    "end_seconds": 403.68,
+    "text": "One of the best ways to imagine this"
+  },
+  {
+    "start": "00:06:43.680",
+    "end": "00:06:46.140",
+    "start_seconds": 403.68,
+    "end_seconds": 406.14,
+    "text": "or to to experience this outside of a conversation"
+  },
+  {
+    "start": "00:06:46.140",
+    "end": "00:06:48.840",
+    "start_seconds": 406.14,
+    "end_seconds": 408.84000000000003,
+    "text": "is pick up a magazine, or newspaper,"
+  },
+  {
+    "start": "00:06:48.840",
+    "end": "00:06:50.340",
+    "start_seconds": 408.84000000000003,
+    "end_seconds": 410.34000000000003,
+    "text": "or look at an article online"
+  },
+  {
+    "start": "00:06:50.340",
+    "end": "00:06:53.010",
+    "start_seconds": 410.34000000000003,
+    "end_seconds": 413.01,
+    "text": "and start reading from paragraph seven."
+  },
+  {
+    "start": "00:06:53.010",
+    "end": "00:06:54.990",
+    "start_seconds": 413.01,
+    "end_seconds": 414.99,
+    "text": "How long will it take you to work out"
+  },
+  {
+    "start": "00:06:54.990",
+    "end": "00:06:56.760",
+    "start_seconds": 414.99,
+    "end_seconds": 416.76,
+    "text": "what the article is about?"
+  },
+  {
+    "start": "00:06:56.760",
+    "end": "00:06:58.530",
+    "start_seconds": 416.76,
+    "end_seconds": 418.53,
+    "text": "You could even read the entire thing"
+  },
+  {
+    "start": "00:06:58.530",
+    "end": "00:07:01.830",
+    "start_seconds": 418.53,
+    "end_seconds": 421.83,
+    "text": "from paragraph seven onwards and still not be quite sure"
+  },
+  {
+    "start": "00:07:01.830",
+    "end": "00:07:04.380",
+    "start_seconds": 421.83,
+    "end_seconds": 424.38,
+    "text": "what the overall article or message is."
+  },
+  {
+    "start": "00:07:04.380",
+    "end": "00:07:07.380",
+    "start_seconds": 424.38,
+    "end_seconds": 427.38,
+    "text": "Compare that to starting with a title"
+  },
+  {
+    "start": "00:07:07.380",
+    "end": "00:07:10.320",
+    "start_seconds": 427.38,
+    "end_seconds": 430.32,
+    "text": "and a really clear first line in the article."
+  },
+  {
+    "start": "00:07:10.320",
+    "end": "00:07:12.750",
+    "start_seconds": 430.32,
+    "end_seconds": 432.75,
+    "text": "If that's there and that's what you've read first,"
+  },
+  {
+    "start": "00:07:12.750",
+    "end": "00:07:16.290",
+    "start_seconds": 432.75,
+    "end_seconds": 436.29,
+    "text": "everything else after that makes a lot more sense."
+  },
+  {
+    "start": "00:07:16.290",
+    "end": "00:07:19.710",
+    "start_seconds": 436.29,
+    "end_seconds": 439.71,
+    "text": "If that's true in magazines, it's true in conversation."
+  },
+  {
+    "start": "00:07:19.710",
+    "end": "00:07:21.510",
+    "start_seconds": 439.71,
+    "end_seconds": 441.51,
+    "text": "When you start talking to someone,"
+  },
+  {
+    "start": "00:07:21.510",
+    "end": "00:07:23.190",
+    "start_seconds": 441.51,
+    "end_seconds": 443.19,
+    "text": "don't start on paragraph seven."
+  },
+  {
+    "start": "00:07:23.190",
+    "end": "00:07:24.480",
+    "start_seconds": 443.19,
+    "end_seconds": 444.48,
+    "text": "Don't start in the detail."
+  },
+  {
+    "start": "00:07:24.480",
+    "end": "00:07:27.270",
+    "start_seconds": 444.48,
+    "end_seconds": 447.27,
+    "text": "Don't start with backstory or evidence."
+  },
+  {
+    "start": "00:07:27.270",
+    "end": "00:07:29.520",
+    "start_seconds": 447.27,
+    "end_seconds": 449.52,
+    "text": "Start with a headline, say this is the thing"
+  },
+  {
+    "start": "00:07:29.520",
+    "end": "00:07:30.810",
+    "start_seconds": 449.52,
+    "end_seconds": 450.81,
+    "text": "I want to talk to you about."
+  },
+  {
+    "start": "00:07:30.810",
+    "end": "00:07:33.030",
+    "start_seconds": 450.81,
+    "end_seconds": 453.03,
+    "text": "So we've already given some examples of this."
+  },
+  {
+    "start": "00:07:33.030",
+    "end": "00:07:34.410",
+    "start_seconds": 453.03,
+    "end_seconds": 454.40999999999997,
+    "text": "I snuck them in a little earlier."
+  },
+  {
+    "start": "00:07:34.410",
+    "end": "00:07:37.020",
+    "start_seconds": 454.40999999999997,
+    "end_seconds": 457.02,
+    "text": "So one example would be, for context, I'd like"
+  },
+  {
+    "start": "00:07:37.020",
+    "end": "00:07:38.820",
+    "start_seconds": 457.02,
+    "end_seconds": 458.82,
+    "text": "to talk about the Jefferson's account."
+  },
+  {
+    "start": "00:07:38.820",
+    "end": "00:07:41.250",
+    "start_seconds": 458.82,
+    "end_seconds": 461.25,
+    "text": "The intent is I need your help."
+  },
+  {
+    "start": "00:07:41.250",
+    "end": "00:07:43.230",
+    "start_seconds": 461.25,
+    "end_seconds": 463.23,
+    "text": "And the key message is, I would like your help"
+  },
+  {
+    "start": "00:07:43.230",
+    "end": "00:07:45.300",
+    "start_seconds": 463.23,
+    "end_seconds": 465.3,
+    "text": "with approving a refund"
+  },
+  {
+    "start": "00:07:45.300",
+    "end": "00:07:47.700",
+    "start_seconds": 465.3,
+    "end_seconds": 467.7,
+    "text": "because we've had some late deliveries."
+  },
+  {
+    "start": "00:07:47.700",
+    "end": "00:07:50.070",
+    "start_seconds": 467.7,
+    "end_seconds": 470.07,
+    "text": "So the key message is we need to refund them"
+  },
+  {
+    "start": "00:07:50.070",
+    "end": "00:07:52.830",
+    "start_seconds": 470.07,
+    "end_seconds": 472.83,
+    "text": "or we Want to refund them because we've had late deliveries."
+  },
+  {
+    "start": "00:07:52.830",
+    "end": "00:07:54.900",
+    "start_seconds": 472.83,
+    "end_seconds": 474.9,
+    "text": "There's a lot more in that conversation"
+  },
+  {
+    "start": "00:07:54.900",
+    "end": "00:07:56.670",
+    "start_seconds": 474.9,
+    "end_seconds": 476.67,
+    "text": "about why are they late and what have we done about it,"
+  },
+  {
+    "start": "00:07:56.670",
+    "end": "00:08:00.360",
+    "start_seconds": 476.67,
+    "end_seconds": 480.36,
+    "text": "how much is the refund, but the person you're talking to"
+  },
+  {
+    "start": "00:08:00.360",
+    "end": "00:08:01.620",
+    "start_seconds": 480.36,
+    "end_seconds": 481.62,
+    "text": "will know and understand"
+  },
+  {
+    "start": "00:08:01.620",
+    "end": "00:08:03.510",
+    "start_seconds": 481.62,
+    "end_seconds": 483.51,
+    "text": "what that conversation is going to be about"
+  },
+  {
+    "start": "00:08:03.510",
+    "end": "00:08:05.850",
+    "start_seconds": 483.51,
+    "end_seconds": 485.85,
+    "text": "because it's been framed, they've got the context,"
+  },
+  {
+    "start": "00:08:05.850",
+    "end": "00:08:07.740",
+    "start_seconds": 485.85,
+    "end_seconds": 487.74,
+    "text": "they've got that intent, and that key message,"
+  },
+  {
+    "start": "00:08:07.740",
+    "end": "00:08:11.130",
+    "start_seconds": 487.74,
+    "end_seconds": 491.13,
+    "text": "the headline, has set up the rest of the conversation"
+  },
+  {
+    "start": "00:08:11.130",
+    "end": "00:08:12.990",
+    "start_seconds": 491.13,
+    "end_seconds": 492.99,
+    "text": "really clearly for them."
+  },
+  {
+    "start": "00:08:12.990",
+    "end": "00:08:14.640",
+    "start_seconds": 492.99,
+    "end_seconds": 494.64,
+    "text": "- I love it, excellent examples."
+  },
+  {
+    "start": "00:08:14.640",
+    "end": "00:08:18.240",
+    "start_seconds": 494.64,
+    "end_seconds": 498.24,
+    "text": "So in three concise sentences, you have created"
+  },
+  {
+    "start": "00:08:18.240",
+    "end": "00:08:21.930",
+    "start_seconds": 498.24,
+    "end_seconds": 501.93,
+    "text": "an effective and productive foundation"
+  },
+  {
+    "start": "00:08:21.930",
+    "end": "00:08:23.400",
+    "start_seconds": 501.93,
+    "end_seconds": 503.4,
+    "text": "for the rest of the conversation."
+  },
+  {
+    "start": "00:08:23.400",
+    "end": "00:08:26.580",
+    "start_seconds": 503.4,
+    "end_seconds": 506.58,
+    "text": "If you skip these three sentences, they're gonna be trying"
+  },
+  {
+    "start": "00:08:26.580",
+    "end": "00:08:29.250",
+    "start_seconds": 506.58,
+    "end_seconds": 509.25,
+    "text": "to answer these questions for themselves,"
+  },
+  {
+    "start": "00:08:29.250",
+    "end": "00:08:30.810",
+    "start_seconds": 509.25,
+    "end_seconds": 510.81,
+    "text": "they're gonna be jumping to conclusions,"
+  },
+  {
+    "start": "00:08:30.810",
+    "end": "00:08:33.210",
+    "start_seconds": 510.81,
+    "end_seconds": 513.21,
+    "text": "and it's going to create a very demanding"
+  },
+  {
+    "start": "00:08:33.210",
+    "end": "00:08:36.240",
+    "start_seconds": 513.21,
+    "end_seconds": 516.24,
+    "text": "and confusing conversation until you answer these."
+  },
+  {
+    "start": "00:08:36.240",
+    "end": "00:08:38.220",
+    "start_seconds": 516.24,
+    "end_seconds": 518.22,
+    "text": "So start on the right foot,"
+  },
+  {
+    "start": "00:08:38.220",
+    "end": "00:08:40.710",
+    "start_seconds": 518.22,
+    "end_seconds": 520.71,
+    "text": "answer these three questions in this order,"
+  },
+  {
+    "start": "00:08:40.710",
+    "end": "00:08:42.120",
+    "start_seconds": 520.71,
+    "end_seconds": 522.12,
+    "text": "and you're off to the races."
+  },
+  {
+    "start": "00:08:42.120",
+    "end": "00:08:45.360",
+    "start_seconds": 522.12,
+    "end_seconds": 525.36,
+    "text": "Now, in terms of next steps, we have these three tips."
+  },
+  {
+    "start": "00:08:45.360",
+    "end": "00:08:48.780",
+    "start_seconds": 525.36,
+    "end_seconds": 528.78,
+    "text": "What can people do with these three tips moving forward?"
+  },
+  {
+    "start": "00:08:48.780",
+    "end": "00:08:50.130",
+    "start_seconds": 528.78,
+    "end_seconds": 530.13,
+    "text": "- It's a simple method."
+  },
+  {
+    "start": "00:08:50.130",
+    "end": "00:08:52.770",
+    "start_seconds": 530.13,
+    "end_seconds": 532.77,
+    "text": "As with a lot of simple methods, the difficulty is"
+  },
+  {
+    "start": "00:08:52.770",
+    "end": "00:08:55.500",
+    "start_seconds": 532.77,
+    "end_seconds": 535.5,
+    "text": "how do you apply it and apply it consistently?"
+  },
+  {
+    "start": "00:08:55.500",
+    "end": "00:08:58.920",
+    "start_seconds": 535.5,
+    "end_seconds": 538.92,
+    "text": "And one thing that we can all do is if we are about"
+  },
+  {
+    "start": "00:08:58.920",
+    "end": "00:09:02.550",
+    "start_seconds": 538.92,
+    "end_seconds": 542.55,
+    "text": "to have a conversation with someone, take 30 seconds"
+  },
+  {
+    "start": "00:09:02.550",
+    "end": "00:09:04.620",
+    "start_seconds": 542.55,
+    "end_seconds": 544.62,
+    "text": "and just write down, you could do this mentally,"
+  },
+  {
+    "start": "00:09:04.620",
+    "end": "00:09:07.830",
+    "start_seconds": 544.62,
+    "end_seconds": 547.83,
+    "text": "but writing it down helps, just jot down the answers"
+  },
+  {
+    "start": "00:09:07.830",
+    "end": "00:09:09.150",
+    "start_seconds": 547.83,
+    "end_seconds": 549.15,
+    "text": "to those three questions."
+  },
+  {
+    "start": "00:09:09.150",
+    "end": "00:09:11.430",
+    "start_seconds": 549.15,
+    "end_seconds": 551.43,
+    "text": "Either say, my context is this, my intent is this,"
+  },
+  {
+    "start": "00:09:11.430",
+    "end": "00:09:13.020",
+    "start_seconds": 551.43,
+    "end_seconds": 553.02,
+    "text": "and the key message is that,"
+  },
+  {
+    "start": "00:09:13.020",
+    "end": "00:09:15.870",
+    "start_seconds": 553.02,
+    "end_seconds": 555.87,
+    "text": "or you can answer the question of, what is this about,"
+  },
+  {
+    "start": "00:09:15.870",
+    "end": "00:09:18.300",
+    "start_seconds": 555.87,
+    "end_seconds": 558.3,
+    "text": "why am I talking to them, and what's the point?"
+  },
+  {
+    "start": "00:09:18.300",
+    "end": "00:09:21.090",
+    "start_seconds": 558.3,
+    "end_seconds": 561.09,
+    "text": "And a single sentence, three to five words for each"
+  },
+  {
+    "start": "00:09:21.090",
+    "end": "00:09:25.110",
+    "start_seconds": 561.09,
+    "end_seconds": 565.11,
+    "text": "of them is enough to really set up that conversation."
+  },
+  {
+    "start": "00:09:25.110",
+    "end": "00:09:27.030",
+    "start_seconds": 565.11,
+    "end_seconds": 567.03,
+    "text": "So take that moment to prepare"
+  },
+  {
+    "start": "00:09:27.030",
+    "end": "00:09:29.100",
+    "start_seconds": 567.03,
+    "end_seconds": 569.1,
+    "text": "before any important conversation,"
+  },
+  {
+    "start": "00:09:29.100",
+    "end": "00:09:30.780",
+    "start_seconds": 569.1,
+    "end_seconds": 570.78,
+    "text": "and it will really, really help."
+  },
+  {
+    "start": "00:09:30.780",
+    "end": "00:09:33.690",
+    "start_seconds": 570.78,
+    "end_seconds": 573.69,
+    "text": "- Wonderful, thank you so much, Chris, for being here."
+  },
+  {
+    "start": "00:09:33.690",
+    "end": "00:09:35.280",
+    "start_seconds": 573.69,
+    "end_seconds": 575.28,
+    "text": "I just wanna remind viewers,"
+  },
+  {
+    "start": "00:09:35.280",
+    "end": "00:09:38.100",
+    "start_seconds": 575.28,
+    "end_seconds": 578.1,
+    "text": "you can check out Chris's book on Amazon."
+  },
+  {
+    "start": "00:09:38.100",
+    "end": "00:09:41.010",
+    "start_seconds": 578.1,
+    "end_seconds": 581.01,
+    "text": "There are links to his LinkedIn, his website,"
+  },
+  {
+    "start": "00:09:41.010",
+    "end": "00:09:43.860",
+    "start_seconds": 581.01,
+    "end_seconds": 583.86,
+    "text": "and his YouTube channel in the description below the video."
+  },
+  {
+    "start": "00:09:43.860",
+    "end": "00:09:46.920",
+    "start_seconds": 583.86,
+    "end_seconds": 586.92,
+    "text": "He's got amazing and helpful content just like this."
+  },
+  {
+    "start": "00:09:46.920",
+    "end": "00:09:48.770",
+    "start_seconds": 586.92,
+    "end_seconds": 588.77,
+    "text": "Thanks for being here with us, Chris."
+  },
+  {
+    "start": "00:09:49.740",
+    "end": "00:09:51.740",
+    "start_seconds": 589.74,
+    "end_seconds": 591.74,
+    "text": "- Thank you, Alex, it's been a pleasure."
+  }
+]

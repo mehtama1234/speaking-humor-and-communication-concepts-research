@@ -1,5 +1,5 @@
 {
-  "captured_on": "2026-08-09",
+  "captured_on": "2026-08-10",
   "project": "speaking-humor-and-communication-concepts-research",
   "tiers": [
     {
@@ -54,7 +54,8 @@
         {
           "name": "Toastmasters International",
           "url": "https://www.youtube.com/toastmasters",
-          "roles": ["speech examples", "competition speaking", "speech craft"]
+          "roles": ["speech examples", "competition speaking", "speech craft", "openings", "humor timing"],
+          "status": "ingested-as-toastmasters-wave-1"
         },
         {
           "name": "TED",
@@ -78,10 +79,36 @@
           "roles": ["charisma", "humor", "likability", "social confidence"]
         }
       ]
+    },
+    {
+      "tier": "tier-5-humor-and-storytelling-expansion",
+      "purpose": "Humor mechanics and spoken-storytelling exemplars",
+      "channels": [
+        {
+          "name": "Stand-Up Studios",
+          "url": "https://www.youtube.com/@WordsCommunicate",
+          "roles": ["humor performance clips", "comedy and satire examples", "occasional communication-adjacent humor material"]
+        },
+        {
+          "name": "Andrew Tarvin",
+          "url": "https://www.youtube.com/@theandrewtarvin",
+          "roles": ["humor for communication", "business-safe humor", "comic structure", "improv-style drills"],
+          "status": "ingested-as-andrew-tarvin-wave-1"
+        },
+        {
+          "name": "Ali Siddiq",
+          "url": "https://www.youtube.com/@AliSiddiqComedy",
+          "roles": ["spoken storytelling", "pacing", "specificity", "payoff structure"]
+        },
+        {
+          "name": "Dry Bar Comedy",
+          "url": "https://www.youtube.com/@DryBarComedy",
+          "roles": ["humor exemplar library", "delivery variation", "setup and payoff", "comparison across styles"]
+        }
+      ]
     }
   ],
   "missing_categories": [
-    "humor-first teaching channels",
     "storytelling-first channels",
     "improv-based speaking sources",
     "podcast-style spontaneous speaking exemplars",
@@ -91,7 +118,11 @@
     "Ultraspeaking",
     "Vinh Giang",
     "Think Fast Talk Smart",
+    "Charisma on Command",
+    "Communication Coach Alexander Lyon",
     "Toastmasters International",
-    "Charisma on Command"
+    "Matthew Dicks",
+    "Andrew Tarvin",
+    "Ali Siddiq"
   ]
 }

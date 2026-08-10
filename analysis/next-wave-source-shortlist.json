@@ -1,0 +1,80 @@
+{
+  "captured_on": "2026-08-10",
+  "purpose": "second-wave source expansion for speaking-humor-and-communication-concepts-research",
+  "priority_groups": [
+    {
+      "group": "wave-2a-highest-value-next-channels",
+      "channels": [
+        {
+          "name": "Ali Siddiq",
+          "url": "https://www.youtube.com/@AliSiddiqComedy",
+          "roles": [
+            "spoken storytelling",
+            "narrative pacing",
+            "specificity",
+            "payoff structure"
+          ],
+          "priority": 1
+        },
+        {
+          "name": "Stand-Up Studios",
+          "url": "https://www.youtube.com/@WordsCommunicate",
+          "roles": [
+            "humor performance clips",
+            "satire and spoof examples",
+            "timing observations"
+          ],
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "group": "wave-2b-humor-and-storytelling-expansion",
+      "channels": [
+        {
+          "name": "Dry Bar Comedy",
+          "url": "https://www.youtube.com/@DryBarComedy",
+          "roles": [
+            "humor exemplar library",
+            "delivery variation",
+            "setup and payoff",
+            "comparison corpus"
+          ],
+          "priority": 3
+        },
+        {
+          "name": "TED",
+          "url": "https://www.youtube.com/@TED",
+          "roles": [
+            "polished talks",
+            "memorable phrasing",
+            "storytelling",
+            "persuasion"
+          ],
+          "priority": 4
+        }
+      ]
+    },
+    {
+      "group": "wave-2c-polished-talk-and-comparison-expansion",
+      "channels": [
+        {
+          "name": "TEDx Talks",
+          "url": "https://www.youtube.com/@TEDx",
+          "roles": [
+            "comparison corpus",
+            "hooks and openings",
+            "strong weak contrast",
+            "talk structure"
+          ]
+        }
+      ]
+    }
+  ],
+  "recommended_next_ingestion_order": [
+    "Ali Siddiq",
+    "Dry Bar Comedy",
+    "TED",
+    "Stand-Up Studios"
+  ]
+}

@@ -6,6 +6,29 @@ of humor and storytelling.
 
 Captured on August 9, 2026.
 
+If the goal is not just to find channels but to find the exact move to study
+from them, pair this file with
+`analysis/transcript-backed-concrete-speaking-approaches.md`.
+
+For actual scouting decisions, also use:
+
+- `analysis/source-scouting-operator-prompt.md`
+
+Primary selection rule:
+
+Prefer channels with high `approach yield per transcript hour`.
+
+That means this shortlist should bias toward channels that repeatedly produce:
+
+- reusable speaking moves
+- concrete verbal examples
+- drills or exercises
+- weak-versus-strong contrasts
+- situation-specific adaptations
+
+Do not over-weight popularity, polish, or broad reputation if the channel does
+not reliably turn into usable approach inventory.
+
 ## Recommended core channels
 
 ### 1. Ultraspeaking
@@ -15,6 +38,8 @@ Captured on August 9, 2026.
   - strong fit for fear reduction, spontaneity, and speaking without scripts
   - good anchor for drills, flow, musicality, and speaking confidence
   - directly aligned with your example
+  Best exact approaches:
+  - `Approach 1`, `Approach 3`, `Approach 10`, `Approach 15`
 
 ### 2. Vinh Giang
 
@@ -23,6 +48,8 @@ Captured on August 9, 2026.
   - one of the strongest channels for delivery, vocal range, stage presence, and audience engagement
   - unusually good at making abstract speaking advice practical
   - strong crossover between communication, performance, and charisma
+  Best exact approaches:
+  - `Approach 2`, `Approach 7`, `Approach 10`, `Approach 21`
 
 ### 3. Think Fast Talk Smart
 
@@ -31,6 +58,8 @@ Captured on August 9, 2026.
   - excellent for structured communication, speaking under pressure, and reducing speaking anxiety
   - strong fit for interviews, meetings, leadership communication, and organized thought
   - useful complement to more performance-heavy channels
+  Best exact approaches:
+  - `Approach 5`, `Approach 6`, `Approach 14`, `Approach 19`
 
 ### 4. Charisma on Command
 
@@ -39,6 +68,8 @@ Captured on August 9, 2026.
   - useful for charisma, confidence, likability, humor, and social presence
   - good source for examples drawn from public figures
   - especially useful for conversational speaking rather than formal presentation alone
+  Best exact approaches:
+  - `Approach 8`, `Approach 9`, `Approach 12`, `Approach 16`
 
 ### 5. Toastmasters International
 
@@ -96,6 +127,26 @@ The best build is probably a three-layer source stack:
 1. `Ultraspeaking`, `Vinh Giang`, and `Think Fast Talk Smart` for drills and frameworks.
 2. `Toastmasters`, `TED`, and `TEDx Talks` for examples of actual speeches.
 3. `Charisma on Command` and `Alexander Lyon` for conversational presence, persuasion, and workplace communication.
+
+When choosing what to ingest next from this list, ask:
+
+- which source is most likely to add new moves, not just repeat existing ones?
+- which source gives the clearest live wording or demonstrable examples?
+- which source best fills a concrete gap:
+  humor, storytelling, social ease, skeptical-room handling, workplace clarity?
+
+Fast move-first routing:
+
+- anti-script and live fluency:
+  `Approach 1`
+- pressure answers and composure:
+  `Approach 3` or `Approach 15`
+- work clarity and recommendation shape:
+  `Approach 5` or `Approach 19`
+- warmer social connection:
+  `Approach 8` or `Approach 16`
+- humor that feels collaborative:
+  `Approach 11` or `Approach 17`
 
 ## Early concept buckets likely to emerge
 

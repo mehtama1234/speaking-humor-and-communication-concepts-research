@@ -12,3 +12,6 @@ The immediate substructure is:
 
 - `youtube/channels/` for raw `yt-dlp` captures
 - `youtube/manifests/` for normalized repo-facing manifests
+- `youtube/starter-manifests/` for curated first-wave transcript corpora
+- `youtube/playlists/` for refreshed playlist or channel captures tied to transcript runs
+- `youtube/transcripts/<slug>/` for corpus-specific transcript outputs

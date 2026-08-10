@@ -1,17 +1,34 @@
 {
-  "captured_on": "2026-08-09",
+  "captured_on": "2026-08-10",
   "project": "speaking-humor-and-communication-concepts-research",
+  "summary": {
+    "transcript_backed_corpora": 10,
+    "channel_manifests_captured": 11,
+    "starter_manifests_built": 10,
+    "active_wave_1_corpora": [
+      "ultraspeaking-wave-1",
+      "vinh-giang-wave-1",
+      "think-fast-talk-smart-wave-1",
+      "charisma-on-command-wave-1",
+      "matthew-dicks-wave-1",
+      "jefferson-fisher-wave-1",
+      "chad-littlefield-wave-1",
+      "alexander-lyon-wave-1",
+      "toastmasters-wave-1",
+      "andrew-tarvin-wave-1"
+    ]
+  },
   "sources": [
     {
       "slug": "ultraspeaking-videos",
       "title": "Ultraspeaking Videos",
       "category": "framework",
       "videos_captured": 108,
-      "status": "ready-for-first-transcript-wave",
-      "recommended_strategy": "Treat this as the first full channel corpus because the channel is large but still manageable.",
+      "status": "ingested-as-ultraspeaking-wave-1",
+      "recommended_strategy": "Use as the anti-script, confidence, and drills anchor corpus.",
       "notes": [
         "Strong fit for anti-script speaking, flow, confidence, and drills.",
-        "Top manifest items already align tightly with the repo objective."
+        "Already transcript-backed and part of the active corpus."
       ]
     },
     {
@@ -19,11 +36,11 @@
       "title": "Vinh Giang Videos",
       "category": "framework",
       "videos_captured": 388,
-      "status": "captured-but-should-be-sliced",
-      "recommended_strategy": "Do not ingest the whole channel first. Select a narrower first slice focused on delivery, articulation, conversation, and presence.",
+      "status": "ingested-as-vinh-giang-wave-1",
+      "recommended_strategy": "Use as the delivery, vocal variety, articulation, and presence corpus.",
       "notes": [
-        "Very high-value source, but too large for an undifferentiated first transcript pull.",
-        "Top manifest items suggest strong relevance for articulation, influence, clarity, and quick-witted conversation."
+        "Large channel, but a narrow starter slice has already been ingested successfully.",
+        "Already transcript-backed and part of the active corpus."
       ]
     },
     {
@@ -31,18 +48,103 @@
       "title": "Think Fast Talk Smart Videos",
       "category": "framework",
       "videos_captured": 346,
-      "status": "captured-but-should-be-sliced",
-      "recommended_strategy": "Do not ingest the whole channel first. Select a narrower first slice focused on communication under pressure, clarity, humor, and workplace speaking.",
+      "status": "ingested-as-think-fast-talk-smart-wave-1",
+      "recommended_strategy": "Use as the structured communication, pressure-speaking, and workplace framing corpus.",
       "notes": [
-        "Very strong complement to the performance-heavy channels.",
-        "Top manifest items show strong relevance for voice, idea stickiness, clarity, trust, and humor."
+        "Acts as the main structured-communication counterweight to performance-heavy channels.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "charisma-on-command-videos",
+      "title": "Charisma on Command Videos",
+      "category": "social",
+      "videos_captured": 477,
+      "status": "ingested-as-charisma-on-command-wave-1",
+      "recommended_strategy": "Use as the social charisma, likability, and awkwardness-recovery corpus.",
+      "notes": [
+        "Adds first-impression mechanics and social-presence framing.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "matthew-dicks-videos",
+      "title": "Matthew Dicks Videos",
+      "category": "storytelling",
+      "videos_captured": 232,
+      "status": "ingested-as-matthew-dicks-wave-1",
+      "recommended_strategy": "Use as the story-selection, openings, and narrative-attention corpus.",
+      "notes": [
+        "Primary story-construction and spoken-storytelling teaching source.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "jefferson-fisher-videos",
+      "title": "Jefferson Fisher Videos",
+      "category": "difficult-conversations",
+      "videos_captured": 560,
+      "status": "ingested-as-jefferson-fisher-wave-1",
+      "recommended_strategy": "Use as the calm-authority and phrase-level disagreement corpus.",
+      "notes": [
+        "Fills conflict, interruption, and objection-handling gaps.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "chad-littlefield-videos",
+      "title": "Chad Littlefield Videos",
+      "category": "conversation",
+      "videos_captured": 453,
+      "status": "ingested-as-chad-littlefield-wave-1",
+      "recommended_strategy": "Use as the conversation-design, question quality, and reflective listening corpus.",
+      "notes": [
+        "Strongest current source for social connection mechanics and awkwardness recovery.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "alexander-lyon-videos",
+      "title": "Communication Coach Alexander Lyon Videos",
+      "category": "workplace",
+      "videos_captured": 462,
+      "status": "ingested-as-alexander-lyon-wave-1",
+      "recommended_strategy": "Use as the executive presence, concise workplace communication, and meeting corpus.",
+      "notes": [
+        "Strongest current professional-communication and leader-like framing source.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "toastmasters-videos",
+      "title": "Toastmasters International Videos",
+      "category": "examples",
+      "videos_captured": 476,
+      "status": "ingested-as-toastmasters-wave-1",
+      "recommended_strategy": "Use as the exemplar-speech, openings, humor timing, and story-architecture corpus.",
+      "notes": [
+        "Provides the first major exemplar-heavy public-speaking corpus in the repo.",
+        "Already transcript-backed and part of the active corpus."
+      ]
+    },
+    {
+      "slug": "andrew-tarvin-videos",
+      "title": "Andrew Tarvin Videos",
+      "category": "humor",
+      "videos_captured": 49,
+      "status": "ingested-as-andrew-tarvin-wave-1",
+      "recommended_strategy": "Use as the humor-at-work, comic-structure, and improv-style drill corpus.",
+      "notes": [
+        "Strongest current transcript-backed source for business-safe humor transfer into real speaking situations.",
+        "Already transcript-backed and part of the active corpus."
       ]
     }
   ],
   "next_recommended_actions": [
-    "Create the first transcript manifest for a 15-25 video Ultraspeaking starter corpus.",
-    "Define a narrow Vinh Giang starter slice centered on articulation, likeability, influence, and quick-witted speech.",
-    "Define a narrow Think Fast Talk Smart starter slice centered on pressure speaking, clarity, and humor.",
-    "Begin transcript capture for the first Ultraspeaking wave."
+    "Deepen high-yield Andrew Tarvin sessions, especially presentation prep, memorable presentation design, virtual emceeing, and humor-at-work risk filtering.",
+    "Ingest `Ali Siddiq` as the next storytelling-exemplar source.",
+    "Treat `Stand-Up Studios` as a lower-priority exemplar-side corpus rather than the next direct humor-mechanics ingestion.",
+    "Deepen high-yield Toastmasters sessions, especially the humor workshops, storytelling panel, and championship showcase.",
+    "Expand learner-facing concept and evidence pages using the now ten-corpus base."
   ]
 }

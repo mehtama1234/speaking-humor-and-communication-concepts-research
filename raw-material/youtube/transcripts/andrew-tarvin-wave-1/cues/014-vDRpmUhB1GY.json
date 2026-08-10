@@ -1,0 +1,2340 @@
+[
+  {
+    "start": "00:00:00.000",
+    "end": "00:00:02.230",
+    "start_seconds": 0.0,
+    "end_seconds": 2.23,
+    "text": "Hello, my name is Andrew Tarvin and I am"
+  },
+  {
+    "start": "00:00:02.230",
+    "end": "00:00:02.240",
+    "start_seconds": 2.23,
+    "end_seconds": 2.24,
+    "text": "Hello, my name is Andrew Tarvin and I am"
+  },
+  {
+    "start": "00:00:02.240",
+    "end": "00:00:04.350",
+    "start_seconds": 2.24,
+    "end_seconds": 4.35,
+    "text": "Hello, my name is Andrew Tarvin and I am the CEO of Humor That Works, an"
+  },
+  {
+    "start": "00:00:04.350",
+    "end": "00:00:04.360",
+    "start_seconds": 4.35,
+    "end_seconds": 4.36,
+    "text": "the CEO of Humor That Works, an"
+  },
+  {
+    "start": "00:00:04.360",
+    "end": "00:00:07.270",
+    "start_seconds": 4.36,
+    "end_seconds": 7.27,
+    "text": "the CEO of Humor That Works, an award-winning keynote speaker, and a"
+  },
+  {
+    "start": "00:00:07.270",
+    "end": "00:00:07.280",
+    "start_seconds": 7.27,
+    "end_seconds": 7.28,
+    "text": "award-winning keynote speaker, and a"
+  },
+  {
+    "start": "00:00:07.280",
+    "end": "00:00:10.350",
+    "start_seconds": 7.28,
+    "end_seconds": 10.35,
+    "text": "award-winning keynote speaker, and a giant nerd. And if you're wondering what"
+  },
+  {
+    "start": "00:00:10.350",
+    "end": "00:00:10.360",
+    "start_seconds": 10.35,
+    "end_seconds": 10.36,
+    "text": "giant nerd. And if you're wondering what"
+  },
+  {
+    "start": "00:00:10.360",
+    "end": "00:00:12.550",
+    "start_seconds": 10.36,
+    "end_seconds": 12.55,
+    "text": "giant nerd. And if you're wondering what type of nerd, the answer is yes."
+  },
+  {
+    "start": "00:00:12.550",
+    "end": "00:00:12.560",
+    "start_seconds": 12.55,
+    "end_seconds": 12.56,
+    "text": "type of nerd, the answer is yes."
+  },
+  {
+    "start": "00:00:12.560",
+    "end": "00:00:14.550",
+    "start_seconds": 12.56,
+    "end_seconds": 14.55,
+    "text": "type of nerd, the answer is yes. Computer, math, sci-fi, Dungeons and"
+  },
+  {
+    "start": "00:00:14.550",
+    "end": "00:00:14.560",
+    "start_seconds": 14.55,
+    "end_seconds": 14.56,
+    "text": "Computer, math, sci-fi, Dungeons and"
+  },
+  {
+    "start": "00:00:14.560",
+    "end": "00:00:16.270",
+    "start_seconds": 14.56,
+    "end_seconds": 16.27,
+    "text": "Computer, math, sci-fi, Dungeons and Dragons, Star Wars, Star Trek,"
+  },
+  {
+    "start": "00:00:16.270",
+    "end": "00:00:16.280",
+    "start_seconds": 16.27,
+    "end_seconds": 16.28,
+    "text": "Dragons, Star Wars, Star Trek,"
+  },
+  {
+    "start": "00:00:16.280",
+    "end": "00:00:18.630",
+    "start_seconds": 16.28,
+    "end_seconds": 18.63,
+    "text": "Dragons, Star Wars, Star Trek, Starbucks, all of them. But my mission"
+  },
+  {
+    "start": "00:00:18.630",
+    "end": "00:00:18.640",
+    "start_seconds": 18.63,
+    "end_seconds": 18.64,
+    "text": "Starbucks, all of them. But my mission"
+  },
+  {
+    "start": "00:00:18.640",
+    "end": "00:00:21.950",
+    "start_seconds": 18.64,
+    "end_seconds": 21.95,
+    "text": "Starbucks, all of them. But my mission is to help professionals like you find"
+  },
+  {
+    "start": "00:00:21.950",
+    "end": "00:00:21.960",
+    "start_seconds": 21.95,
+    "end_seconds": 21.96,
+    "text": "is to help professionals like you find"
+  },
+  {
+    "start": "00:00:21.960",
+    "end": "00:00:24.510",
+    "start_seconds": 21.96,
+    "end_seconds": 24.51,
+    "text": "is to help professionals like you find their funny and unlock their sense of"
+  },
+  {
+    "start": "00:00:24.510",
+    "end": "00:00:24.520",
+    "start_seconds": 24.51,
+    "end_seconds": 24.52,
+    "text": "their funny and unlock their sense of"
+  },
+  {
+    "start": "00:00:24.520",
+    "end": "00:00:27.430",
+    "start_seconds": 24.52,
+    "end_seconds": 27.43,
+    "text": "their funny and unlock their sense of humor at work. And why humor? Why have I"
+  },
+  {
+    "start": "00:00:27.430",
+    "end": "00:00:27.440",
+    "start_seconds": 27.43,
+    "end_seconds": 27.44,
+    "text": "humor at work. And why humor? Why have I"
+  },
+  {
+    "start": "00:00:27.440",
+    "end": "00:00:30.230",
+    "start_seconds": 27.44,
+    "end_seconds": 30.23,
+    "text": "humor at work. And why humor? Why have I dedicated the last 15 years of my career"
+  },
+  {
+    "start": "00:00:30.230",
+    "end": "00:00:30.240",
+    "start_seconds": 30.23,
+    "end_seconds": 30.24,
+    "text": "dedicated the last 15 years of my career"
+  },
+  {
+    "start": "00:00:30.240",
+    "end": "00:00:32.070",
+    "start_seconds": 30.24,
+    "end_seconds": 32.07,
+    "text": "dedicated the last 15 years of my career to teaching people this surprising"
+  },
+  {
+    "start": "00:00:32.070",
+    "end": "00:00:32.080",
+    "start_seconds": 32.07,
+    "end_seconds": 32.08,
+    "text": "to teaching people this surprising"
+  },
+  {
+    "start": "00:00:32.080",
+    "end": "00:00:34.110",
+    "start_seconds": 32.08,
+    "end_seconds": 34.11,
+    "text": "to teaching people this surprising skill? Why have organizations like"
+  },
+  {
+    "start": "00:00:34.110",
+    "end": "00:00:34.120",
+    "start_seconds": 34.11,
+    "end_seconds": 34.12,
+    "text": "skill? Why have organizations like"
+  },
+  {
+    "start": "00:00:34.120",
+    "end": "00:00:36.710",
+    "start_seconds": 34.12,
+    "end_seconds": 36.71,
+    "text": "skill? Why have organizations like Microsoft, NASA, and the FBI taken time"
+  },
+  {
+    "start": "00:00:36.710",
+    "end": "00:00:36.720",
+    "start_seconds": 36.71,
+    "end_seconds": 36.72,
+    "text": "Microsoft, NASA, and the FBI taken time"
+  },
+  {
+    "start": "00:00:36.720",
+    "end": "00:00:39.390",
+    "start_seconds": 36.72,
+    "end_seconds": 39.39,
+    "text": "Microsoft, NASA, and the FBI taken time to learn it? Why are you watching this"
+  },
+  {
+    "start": "00:00:39.390",
+    "end": "00:00:39.400",
+    "start_seconds": 39.39,
+    "end_seconds": 39.4,
+    "text": "to learn it? Why are you watching this"
+  },
+  {
+    "start": "00:00:39.400",
+    "end": "00:00:42.110",
+    "start_seconds": 39.4,
+    "end_seconds": 42.11,
+    "text": "to learn it? Why are you watching this video? Well, the answer lies in a very"
+  },
+  {
+    "start": "00:00:42.110",
+    "end": "00:00:42.120",
+    "start_seconds": 42.11,
+    "end_seconds": 42.12,
+    "text": "video? Well, the answer lies in a very"
+  },
+  {
+    "start": "00:00:42.120",
+    "end": "00:00:45.670",
+    "start_seconds": 42.12,
+    "end_seconds": 45.67,
+    "text": "video? Well, the answer lies in a very simple, very important, very dumb"
+  },
+  {
+    "start": "00:00:45.670",
+    "end": "00:00:45.680",
+    "start_seconds": 45.67,
+    "end_seconds": 45.68,
+    "text": "simple, very important, very dumb"
+  },
+  {
+    "start": "00:00:45.680",
+    "end": "00:00:47.630",
+    "start_seconds": 45.68,
+    "end_seconds": 47.63,
+    "text": "simple, very important, very dumb question. And I want you to answer this"
+  },
+  {
+    "start": "00:00:47.630",
+    "end": "00:00:47.640",
+    "start_seconds": 47.63,
+    "end_seconds": 47.64,
+    "text": "question. And I want you to answer this"
+  },
+  {
+    "start": "00:00:47.640",
+    "end": "00:00:49.870",
+    "start_seconds": 47.64,
+    "end_seconds": 49.87,
+    "text": "question. And I want you to answer this question in your own own head right now."
+  },
+  {
+    "start": "00:00:49.870",
+    "end": "00:00:49.880",
+    "start_seconds": 49.87,
+    "end_seconds": 49.88,
+    "text": "question in your own own head right now."
+  },
+  {
+    "start": "00:00:49.880",
+    "end": "00:00:51.470",
+    "start_seconds": 49.88,
+    "end_seconds": 51.47,
+    "text": "question in your own own head right now. The very simple, very important, very"
+  },
+  {
+    "start": "00:00:51.470",
+    "end": "00:00:51.480",
+    "start_seconds": 51.47,
+    "end_seconds": 51.48,
+    "text": "The very simple, very important, very"
+  },
+  {
+    "start": "00:00:51.480",
+    "end": "00:00:53.150",
+    "start_seconds": 51.48,
+    "end_seconds": 53.15,
+    "text": "The very simple, very important, very dumb question is would you rather do"
+  },
+  {
+    "start": "00:00:53.150",
+    "end": "00:00:53.160",
+    "start_seconds": 53.15,
+    "end_seconds": 53.16,
+    "text": "dumb question is would you rather do"
+  },
+  {
+    "start": "00:00:53.160",
+    "end": "00:00:57.830",
+    "start_seconds": 53.16,
+    "end_seconds": 57.83,
+    "text": "dumb question is would you rather do something that is fun or not fun?"
+  },
+  {
+    "start": "00:00:57.830",
+    "end": "00:00:57.840",
+    "start_seconds": 57.83,
+    "end_seconds": 57.84,
+    "text": "something that is fun or not fun?"
+  },
+  {
+    "start": "00:00:57.840",
+    "end": "00:00:59.990",
+    "start_seconds": 57.84,
+    "end_seconds": 59.99,
+    "text": "something that is fun or not fun? Like I said, it is a dumb question, but"
+  },
+  {
+    "start": "00:00:59.990",
+    "end": "00:01:00.000",
+    "start_seconds": 59.99,
+    "end_seconds": 60.0,
+    "text": "Like I said, it is a dumb question, but"
+  },
+  {
+    "start": "00:01:00.000",
+    "end": "00:01:01.310",
+    "start_seconds": 60.0,
+    "end_seconds": 61.31,
+    "text": "Like I said, it is a dumb question, but it's an important one because if you're"
+  },
+  {
+    "start": "00:01:01.310",
+    "end": "00:01:01.320",
+    "start_seconds": 61.31,
+    "end_seconds": 61.32,
+    "text": "it's an important one because if you're"
+  },
+  {
+    "start": "00:01:01.320",
+    "end": "00:01:03.030",
+    "start_seconds": 61.32,
+    "end_seconds": 63.03,
+    "text": "it's an important one because if you're like 99.9%"
+  },
+  {
+    "start": "00:01:03.030",
+    "end": "00:01:03.040",
+    "start_seconds": 63.03,
+    "end_seconds": 63.04,
+    "text": "like 99.9%"
+  },
+  {
+    "start": "00:01:03.040",
+    "end": "00:01:04.549",
+    "start_seconds": 63.04,
+    "end_seconds": 64.549,
+    "text": "like 99.9% of the people that we work with, you"
+  },
+  {
+    "start": "00:01:04.549",
+    "end": "00:01:04.559",
+    "start_seconds": 64.549,
+    "end_seconds": 64.559,
+    "text": "of the people that we work with, you"
+  },
+  {
+    "start": "00:01:04.559",
+    "end": "00:01:06.750",
+    "start_seconds": 64.559,
+    "end_seconds": 66.75,
+    "text": "of the people that we work with, you would say fun. So it stands to reason"
+  },
+  {
+    "start": "00:01:06.750",
+    "end": "00:01:06.760",
+    "start_seconds": 66.75,
+    "end_seconds": 66.76,
+    "text": "would say fun. So it stands to reason"
+  },
+  {
+    "start": "00:01:06.760",
+    "end": "00:01:09.390",
+    "start_seconds": 66.76,
+    "end_seconds": 69.39,
+    "text": "would say fun. So it stands to reason then if you were to make say your emails"
+  },
+  {
+    "start": "00:01:09.390",
+    "end": "00:01:09.400",
+    "start_seconds": 69.39,
+    "end_seconds": 69.4,
+    "text": "then if you were to make say your emails"
+  },
+  {
+    "start": "00:01:09.400",
+    "end": "00:01:11.510",
+    "start_seconds": 69.4,
+    "end_seconds": 71.51,
+    "text": "then if you were to make say your emails just a little more fun, would people be"
+  },
+  {
+    "start": "00:01:11.510",
+    "end": "00:01:11.520",
+    "start_seconds": 71.51,
+    "end_seconds": 71.52,
+    "text": "just a little more fun, would people be"
+  },
+  {
+    "start": "00:01:11.520",
+    "end": "00:01:13.670",
+    "start_seconds": 71.52,
+    "end_seconds": 73.67,
+    "text": "just a little more fun, would people be more likely to read them? If you were to"
+  },
+  {
+    "start": "00:01:13.670",
+    "end": "00:01:13.680",
+    "start_seconds": 73.67,
+    "end_seconds": 73.68,
+    "text": "more likely to read them? If you were to"
+  },
+  {
+    "start": "00:01:13.680",
+    "end": "00:01:15.750",
+    "start_seconds": 73.68,
+    "end_seconds": 75.75,
+    "text": "more likely to read them? If you were to make your own meetings just a little bit"
+  },
+  {
+    "start": "00:01:15.750",
+    "end": "00:01:15.760",
+    "start_seconds": 75.75,
+    "end_seconds": 75.76,
+    "text": "make your own meetings just a little bit"
+  },
+  {
+    "start": "00:01:15.760",
+    "end": "00:01:17.910",
+    "start_seconds": 75.76,
+    "end_seconds": 77.91,
+    "text": "make your own meetings just a little bit more fun, would people be more likely to"
+  },
+  {
+    "start": "00:01:17.910",
+    "end": "00:01:17.920",
+    "start_seconds": 77.91,
+    "end_seconds": 77.92,
+    "text": "more fun, would people be more likely to"
+  },
+  {
+    "start": "00:01:17.920",
+    "end": "00:01:19.910",
+    "start_seconds": 77.92,
+    "end_seconds": 79.91,
+    "text": "more fun, would people be more likely to pay attention? If you were to make your"
+  },
+  {
+    "start": "00:01:19.910",
+    "end": "00:01:19.920",
+    "start_seconds": 79.91,
+    "end_seconds": 79.92,
+    "text": "pay attention? If you were to make your"
+  },
+  {
+    "start": "00:01:19.920",
+    "end": "00:01:22.430",
+    "start_seconds": 79.92,
+    "end_seconds": 82.43,
+    "text": "pay attention? If you were to make your own work just a little bit more fun,"
+  },
+  {
+    "start": "00:01:22.430",
+    "end": "00:01:22.440",
+    "start_seconds": 82.43,
+    "end_seconds": 82.44,
+    "text": "own work just a little bit more fun,"
+  },
+  {
+    "start": "00:01:22.440",
+    "end": "00:01:24.950",
+    "start_seconds": 82.44,
+    "end_seconds": 84.95,
+    "text": "own work just a little bit more fun, would you be more engaged in it? And the"
+  },
+  {
+    "start": "00:01:24.950",
+    "end": "00:01:24.960",
+    "start_seconds": 84.95,
+    "end_seconds": 84.96000000000001,
+    "text": "would you be more engaged in it? And the"
+  },
+  {
+    "start": "00:01:24.960",
+    "end": "00:01:27.790",
+    "start_seconds": 84.96000000000001,
+    "end_seconds": 87.78999999999999,
+    "text": "would you be more engaged in it? And the answer is yes. The research shows us"
+  },
+  {
+    "start": "00:01:27.790",
+    "end": "00:01:27.800",
+    "start_seconds": 87.78999999999999,
+    "end_seconds": 87.8,
+    "text": "answer is yes. The research shows us"
+  },
+  {
+    "start": "00:01:27.800",
+    "end": "00:01:29.990",
+    "start_seconds": 87.8,
+    "end_seconds": 89.99,
+    "text": "answer is yes. The research shows us that there are over 30 benefits to using"
+  },
+  {
+    "start": "00:01:29.990",
+    "end": "00:01:30.000",
+    "start_seconds": 89.99,
+    "end_seconds": 90.0,
+    "text": "that there are over 30 benefits to using"
+  },
+  {
+    "start": "00:01:30.000",
+    "end": "00:01:31.470",
+    "start_seconds": 90.0,
+    "end_seconds": 91.47,
+    "text": "that there are over 30 benefits to using humor in the workplace. These are"
+  },
+  {
+    "start": "00:01:31.470",
+    "end": "00:01:31.480",
+    "start_seconds": 91.47,
+    "end_seconds": 91.48,
+    "text": "humor in the workplace. These are"
+  },
+  {
+    "start": "00:01:31.480",
+    "end": "00:01:32.790",
+    "start_seconds": 91.48,
+    "end_seconds": 92.78999999999999,
+    "text": "humor in the workplace. These are impressive benefits in proving"
+  },
+  {
+    "start": "00:01:32.790",
+    "end": "00:01:32.800",
+    "start_seconds": 92.78999999999999,
+    "end_seconds": 92.8,
+    "text": "impressive benefits in proving"
+  },
+  {
+    "start": "00:01:32.800",
+    "end": "00:01:34.590",
+    "start_seconds": 92.8,
+    "end_seconds": 94.59,
+    "text": "impressive benefits in proving productivity, boosting overall"
+  },
+  {
+    "start": "00:01:34.590",
+    "end": "00:01:34.600",
+    "start_seconds": 94.59,
+    "end_seconds": 94.6,
+    "text": "productivity, boosting overall"
+  },
+  {
+    "start": "00:01:34.600",
+    "end": "00:01:37.230",
+    "start_seconds": 94.6,
+    "end_seconds": 97.22999999999999,
+    "text": "productivity, boosting overall brainpower, and burning calories. That's"
+  },
+  {
+    "start": "00:01:37.230",
+    "end": "00:01:37.240",
+    "start_seconds": 97.22999999999999,
+    "end_seconds": 97.24000000000001,
+    "text": "brainpower, and burning calories. That's"
+  },
+  {
+    "start": "00:01:37.240",
+    "end": "00:01:39.190",
+    "start_seconds": 97.24000000000001,
+    "end_seconds": 99.19,
+    "text": "brainpower, and burning calories. That's right. 10 to 15 minutes of laughter"
+  },
+  {
+    "start": "00:01:39.190",
+    "end": "00:01:39.200",
+    "start_seconds": 99.19,
+    "end_seconds": 99.2,
+    "text": "right. 10 to 15 minutes of laughter"
+  },
+  {
+    "start": "00:01:39.200",
+    "end": "00:01:41.350",
+    "start_seconds": 99.2,
+    "end_seconds": 101.35,
+    "text": "right. 10 to 15 minutes of laughter burns as many calories as 5 minutes of"
+  },
+  {
+    "start": "00:01:41.350",
+    "end": "00:01:41.360",
+    "start_seconds": 101.35,
+    "end_seconds": 101.36,
+    "text": "burns as many calories as 5 minutes of"
+  },
+  {
+    "start": "00:01:41.360",
+    "end": "00:01:44.190",
+    "start_seconds": 101.36,
+    "end_seconds": 104.19,
+    "text": "burns as many calories as 5 minutes of aerobic exercise, 10 minutes of dancing,"
+  },
+  {
+    "start": "00:01:44.190",
+    "end": "00:01:44.200",
+    "start_seconds": 104.19,
+    "end_seconds": 104.2,
+    "text": "aerobic exercise, 10 minutes of dancing,"
+  },
+  {
+    "start": "00:01:44.200",
+    "end": "00:01:46.870",
+    "start_seconds": 104.2,
+    "end_seconds": 106.87,
+    "text": "aerobic exercise, 10 minutes of dancing, or 15 minutes of milking a cow, which"
+  },
+  {
+    "start": "00:01:46.870",
+    "end": "00:01:46.880",
+    "start_seconds": 106.87,
+    "end_seconds": 106.88,
+    "text": "or 15 minutes of milking a cow, which"
+  },
+  {
+    "start": "00:01:46.880",
+    "end": "00:01:49.070",
+    "start_seconds": 106.88,
+    "end_seconds": 109.07,
+    "text": "or 15 minutes of milking a cow, which means that if you have been milking cows"
+  },
+  {
+    "start": "00:01:49.070",
+    "end": "00:01:49.080",
+    "start_seconds": 109.07,
+    "end_seconds": 109.08,
+    "text": "means that if you have been milking cows"
+  },
+  {
+    "start": "00:01:49.080",
+    "end": "00:01:51.390",
+    "start_seconds": 109.08,
+    "end_seconds": 111.39,
+    "text": "means that if you have been milking cows for exercise, then you can stop. Or I"
+  },
+  {
+    "start": "00:01:51.390",
+    "end": "00:01:51.400",
+    "start_seconds": 111.39,
+    "end_seconds": 111.4,
+    "text": "for exercise, then you can stop. Or I"
+  },
+  {
+    "start": "00:01:51.400",
+    "end": "00:01:53.550",
+    "start_seconds": 111.4,
+    "end_seconds": 113.55,
+    "text": "for exercise, then you can stop. Or I guess you could milk a cow and exercise"
+  },
+  {
+    "start": "00:01:53.550",
+    "end": "00:01:53.560",
+    "start_seconds": 113.55,
+    "end_seconds": 113.56,
+    "text": "guess you could milk a cow and exercise"
+  },
+  {
+    "start": "00:01:53.560",
+    "end": "00:01:55.190",
+    "start_seconds": 113.56,
+    "end_seconds": 115.19,
+    "text": "guess you could milk a cow and exercise at the exact same time, burn double the"
+  },
+  {
+    "start": "00:01:55.190",
+    "end": "00:01:55.200",
+    "start_seconds": 115.19,
+    "end_seconds": 115.2,
+    "text": "at the exact same time, burn double the"
+  },
+  {
+    "start": "00:01:55.200",
+    "end": "00:01:58.710",
+    "start_seconds": 115.2,
+    "end_seconds": 118.71000000000001,
+    "text": "at the exact same time, burn double the calories, right? Like"
+  },
+  {
+    "start": "00:01:58.720",
+    "end": "00:02:00.310",
+    "start_seconds": 118.72,
+    "end_seconds": 120.31,
+    "text": "And then probably get locked up. That's"
+  },
+  {
+    "start": "00:02:00.310",
+    "end": "00:02:00.320",
+    "start_seconds": 120.31,
+    "end_seconds": 120.32,
+    "text": "And then probably get locked up. That's"
+  },
+  {
+    "start": "00:02:00.320",
+    "end": "00:02:02.030",
+    "start_seconds": 120.32,
+    "end_seconds": 122.03,
+    "text": "And then probably get locked up. That's a a little bit strange."
+  },
+  {
+    "start": "00:02:02.030",
+    "end": "00:02:02.040",
+    "start_seconds": 122.03,
+    "end_seconds": 122.04,
+    "text": "a a little bit strange."
+  },
+  {
+    "start": "00:02:02.040",
+    "end": "00:02:04.350",
+    "start_seconds": 122.04,
+    "end_seconds": 124.35,
+    "text": "a a little bit strange. But the crazy thing is that in today's"
+  },
+  {
+    "start": "00:02:04.350",
+    "end": "00:02:04.360",
+    "start_seconds": 124.35,
+    "end_seconds": 124.36,
+    "text": "But the crazy thing is that in today's"
+  },
+  {
+    "start": "00:02:04.360",
+    "end": "00:02:06.590",
+    "start_seconds": 124.36,
+    "end_seconds": 126.59,
+    "text": "But the crazy thing is that in today's overworked, under-appreciated,"
+  },
+  {
+    "start": "00:02:06.590",
+    "end": "00:02:06.600",
+    "start_seconds": 126.59,
+    "end_seconds": 126.6,
+    "text": "overworked, under-appreciated,"
+  },
+  {
+    "start": "00:02:06.600",
+    "end": "00:02:09.910",
+    "start_seconds": 126.6,
+    "end_seconds": 129.91,
+    "text": "overworked, under-appreciated, stress-filled, sleep-deprived world, if"
+  },
+  {
+    "start": "00:02:09.910",
+    "end": "00:02:09.920",
+    "start_seconds": 129.91,
+    "end_seconds": 129.92,
+    "text": "stress-filled, sleep-deprived world, if"
+  },
+  {
+    "start": "00:02:09.920",
+    "end": "00:02:12.910",
+    "start_seconds": 129.92,
+    "end_seconds": 132.91,
+    "text": "stress-filled, sleep-deprived world, if you aren't proactively choosing to make"
+  },
+  {
+    "start": "00:02:12.910",
+    "end": "00:02:12.920",
+    "start_seconds": 132.91,
+    "end_seconds": 132.92,
+    "text": "you aren't proactively choosing to make"
+  },
+  {
+    "start": "00:02:12.920",
+    "end": "00:02:16.150",
+    "start_seconds": 132.92,
+    "end_seconds": 136.15,
+    "text": "you aren't proactively choosing to make your work fun to get those 30 benefits,"
+  },
+  {
+    "start": "00:02:16.150",
+    "end": "00:02:16.160",
+    "start_seconds": 136.15,
+    "end_seconds": 136.16,
+    "text": "your work fun to get those 30 benefits,"
+  },
+  {
+    "start": "00:02:16.160",
+    "end": "00:02:19.190",
+    "start_seconds": 136.16,
+    "end_seconds": 139.19,
+    "text": "your work fun to get those 30 benefits, you are probably passively choosing for"
+  },
+  {
+    "start": "00:02:19.190",
+    "end": "00:02:19.200",
+    "start_seconds": 139.19,
+    "end_seconds": 139.2,
+    "text": "you are probably passively choosing for"
+  },
+  {
+    "start": "00:02:19.200",
+    "end": "00:02:21.630",
+    "start_seconds": 139.2,
+    "end_seconds": 141.63,
+    "text": "you are probably passively choosing for it to be not fun."
+  },
+  {
+    "start": "00:02:21.630",
+    "end": "00:02:21.640",
+    "start_seconds": 141.63,
+    "end_seconds": 141.64,
+    "text": "it to be not fun."
+  },
+  {
+    "start": "00:02:21.640",
+    "end": "00:02:24.510",
+    "start_seconds": 141.64,
+    "end_seconds": 144.51,
+    "text": "it to be not fun. But we're in for a treat. We are very"
+  },
+  {
+    "start": "00:02:24.510",
+    "end": "00:02:24.520",
+    "start_seconds": 144.51,
+    "end_seconds": 144.52,
+    "text": "But we're in for a treat. We are very"
+  },
+  {
+    "start": "00:02:24.520",
+    "end": "00:02:27.550",
+    "start_seconds": 144.52,
+    "end_seconds": 147.55,
+    "text": "But we're in for a treat. We are very fortunate because luckily using humor in"
+  },
+  {
+    "start": "00:02:27.550",
+    "end": "00:02:27.560",
+    "start_seconds": 147.55,
+    "end_seconds": 147.56,
+    "text": "fortunate because luckily using humor in"
+  },
+  {
+    "start": "00:02:27.560",
+    "end": "00:02:29.790",
+    "start_seconds": 147.56,
+    "end_seconds": 149.79,
+    "text": "fortunate because luckily using humor in our work isn't that difficult and it is"
+  },
+  {
+    "start": "00:02:29.790",
+    "end": "00:02:29.800",
+    "start_seconds": 149.79,
+    "end_seconds": 149.8,
+    "text": "our work isn't that difficult and it is"
+  },
+  {
+    "start": "00:02:29.800",
+    "end": "00:02:33.110",
+    "start_seconds": 149.8,
+    "end_seconds": 153.11,
+    "text": "our work isn't that difficult and it is something that anyone can do. Anyone can"
+  },
+  {
+    "start": "00:02:33.110",
+    "end": "00:02:33.120",
+    "start_seconds": 153.11,
+    "end_seconds": 153.12,
+    "text": "something that anyone can do. Anyone can"
+  },
+  {
+    "start": "00:02:33.120",
+    "end": "00:02:34.910",
+    "start_seconds": 153.12,
+    "end_seconds": 154.91,
+    "text": "something that anyone can do. Anyone can learn this skill. And I know that is"
+  },
+  {
+    "start": "00:02:34.910",
+    "end": "00:02:34.920",
+    "start_seconds": 154.91,
+    "end_seconds": 154.92000000000002,
+    "text": "learn this skill. And I know that is"
+  },
+  {
+    "start": "00:02:34.920",
+    "end": "00:02:36.310",
+    "start_seconds": 154.92000000000002,
+    "end_seconds": 156.31,
+    "text": "learn this skill. And I know that is true because I am someone who has had to"
+  },
+  {
+    "start": "00:02:36.310",
+    "end": "00:02:36.320",
+    "start_seconds": 156.31,
+    "end_seconds": 156.32,
+    "text": "true because I am someone who has had to"
+  },
+  {
+    "start": "00:02:36.320",
+    "end": "00:02:38.630",
+    "start_seconds": 156.32,
+    "end_seconds": 158.63,
+    "text": "true because I am someone who has had to learn the skill of humor. Cuz I have"
+  },
+  {
+    "start": "00:02:38.630",
+    "end": "00:02:38.640",
+    "start_seconds": 158.63,
+    "end_seconds": 158.64,
+    "text": "learn the skill of humor. Cuz I have"
+  },
+  {
+    "start": "00:02:38.640",
+    "end": "00:02:40.510",
+    "start_seconds": 158.64,
+    "end_seconds": 160.51,
+    "text": "learn the skill of humor. Cuz I have done over a thousand shows as a stand-up"
+  },
+  {
+    "start": "00:02:40.510",
+    "end": "00:02:40.520",
+    "start_seconds": 160.51,
+    "end_seconds": 160.52,
+    "text": "done over a thousand shows as a stand-up"
+  },
+  {
+    "start": "00:02:40.520",
+    "end": "00:02:42.590",
+    "start_seconds": 160.52,
+    "end_seconds": 162.59,
+    "text": "done over a thousand shows as a stand-up comedian, improviser, and storyteller."
+  },
+  {
+    "start": "00:02:42.590",
+    "end": "00:02:42.600",
+    "start_seconds": 162.59,
+    "end_seconds": 162.6,
+    "text": "comedian, improviser, and storyteller."
+  },
+  {
+    "start": "00:02:42.600",
+    "end": "00:02:45.190",
+    "start_seconds": 162.6,
+    "end_seconds": 165.19,
+    "text": "comedian, improviser, and storyteller. I've performed in all 50 US states, in"
+  },
+  {
+    "start": "00:02:45.190",
+    "end": "00:02:45.200",
+    "start_seconds": 165.19,
+    "end_seconds": 165.2,
+    "text": "I've performed in all 50 US states, in"
+  },
+  {
+    "start": "00:02:45.200",
+    "end": "00:02:48.430",
+    "start_seconds": 165.2,
+    "end_seconds": 168.43,
+    "text": "I've performed in all 50 US states, in 30-plus countries, and on one planet, uh"
+  },
+  {
+    "start": "00:02:48.430",
+    "end": "00:02:48.440",
+    "start_seconds": 168.43,
+    "end_seconds": 168.44,
+    "text": "30-plus countries, and on one planet, uh"
+  },
+  {
+    "start": "00:02:48.440",
+    "end": "00:02:49.550",
+    "start_seconds": 168.44,
+    "end_seconds": 169.55,
+    "text": "30-plus countries, and on one planet, uh this one."
+  },
+  {
+    "start": "00:02:49.550",
+    "end": "00:02:49.560",
+    "start_seconds": 169.55,
+    "end_seconds": 169.56,
+    "text": "this one."
+  },
+  {
+    "start": "00:02:49.560",
+    "end": "00:02:52.110",
+    "start_seconds": 169.56,
+    "end_seconds": 172.11,
+    "text": "this one. But my TEDx Talk on the skill of humor"
+  },
+  {
+    "start": "00:02:52.110",
+    "end": "00:02:52.120",
+    "start_seconds": 172.11,
+    "end_seconds": 172.12,
+    "text": "But my TEDx Talk on the skill of humor"
+  },
+  {
+    "start": "00:02:52.120",
+    "end": "00:02:53.910",
+    "start_seconds": 172.12,
+    "end_seconds": 173.91,
+    "text": "But my TEDx Talk on the skill of humor has more than 12 million views and I've"
+  },
+  {
+    "start": "00:02:53.910",
+    "end": "00:02:53.920",
+    "start_seconds": 173.91,
+    "end_seconds": 173.92000000000002,
+    "text": "has more than 12 million views and I've"
+  },
+  {
+    "start": "00:02:53.920",
+    "end": "00:02:55.870",
+    "start_seconds": 173.92000000000002,
+    "end_seconds": 175.87,
+    "text": "has more than 12 million views and I've taught organizations like Microsoft how"
+  },
+  {
+    "start": "00:02:55.870",
+    "end": "00:02:55.880",
+    "start_seconds": 175.87,
+    "end_seconds": 175.88,
+    "text": "taught organizations like Microsoft how"
+  },
+  {
+    "start": "00:02:55.880",
+    "end": "00:02:57.470",
+    "start_seconds": 175.88,
+    "end_seconds": 177.47,
+    "text": "taught organizations like Microsoft how to use humor to improve communication,"
+  },
+  {
+    "start": "00:02:57.470",
+    "end": "00:02:57.480",
+    "start_seconds": 177.47,
+    "end_seconds": 177.48,
+    "text": "to use humor to improve communication,"
+  },
+  {
+    "start": "00:02:57.480",
+    "end": "00:02:58.990",
+    "start_seconds": 177.48,
+    "end_seconds": 178.99,
+    "text": "to use humor to improve communication, people at the United Nations how to"
+  },
+  {
+    "start": "00:02:58.990",
+    "end": "00:02:59.000",
+    "start_seconds": 178.99,
+    "end_seconds": 179.0,
+    "text": "people at the United Nations how to"
+  },
+  {
+    "start": "00:02:59.000",
+    "end": "00:03:01.310",
+    "start_seconds": 179.0,
+    "end_seconds": 181.31,
+    "text": "people at the United Nations how to reduce stress, and agents at the FBI how"
+  },
+  {
+    "start": "00:03:01.310",
+    "end": "00:03:01.320",
+    "start_seconds": 181.31,
+    "end_seconds": 181.32,
+    "text": "reduce stress, and agents at the FBI how"
+  },
+  {
+    "start": "00:03:01.320",
+    "end": "00:03:03.229",
+    "start_seconds": 181.32,
+    "end_seconds": 183.229,
+    "text": "reduce stress, and agents at the FBI how to be more relatable and frankly less"
+  },
+  {
+    "start": "00:03:03.229",
+    "end": "00:03:03.239",
+    "start_seconds": 183.229,
+    "end_seconds": 183.239,
+    "text": "to be more relatable and frankly less"
+  },
+  {
+    "start": "00:03:03.239",
+    "end": "00:03:05.590",
+    "start_seconds": 183.239,
+    "end_seconds": 185.59,
+    "text": "to be more relatable and frankly less intimidating, all using this skill of"
+  },
+  {
+    "start": "00:03:05.590",
+    "end": "00:03:05.600",
+    "start_seconds": 185.59,
+    "end_seconds": 185.6,
+    "text": "intimidating, all using this skill of"
+  },
+  {
+    "start": "00:03:05.600",
+    "end": "00:03:07.870",
+    "start_seconds": 185.6,
+    "end_seconds": 187.87,
+    "text": "intimidating, all using this skill of humor. And I only tell you this"
+  },
+  {
+    "start": "00:03:07.870",
+    "end": "00:03:07.880",
+    "start_seconds": 187.87,
+    "end_seconds": 187.88,
+    "text": "humor. And I only tell you this"
+  },
+  {
+    "start": "00:03:07.880",
+    "end": "00:03:09.949",
+    "start_seconds": 187.88,
+    "end_seconds": 189.949,
+    "text": "humor. And I only tell you this background because when I recently went"
+  },
+  {
+    "start": "00:03:09.949",
+    "end": "00:03:09.959",
+    "start_seconds": 189.949,
+    "end_seconds": 189.959,
+    "text": "background because when I recently went"
+  },
+  {
+    "start": "00:03:09.959",
+    "end": "00:03:11.509",
+    "start_seconds": 189.959,
+    "end_seconds": 191.50900000000001,
+    "text": "background because when I recently went to my high school reunion and people"
+  },
+  {
+    "start": "00:03:11.509",
+    "end": "00:03:11.519",
+    "start_seconds": 191.50900000000001,
+    "end_seconds": 191.519,
+    "text": "to my high school reunion and people"
+  },
+  {
+    "start": "00:03:11.519",
+    "end": "00:03:13.229",
+    "start_seconds": 191.519,
+    "end_seconds": 193.22899999999998,
+    "text": "to my high school reunion and people found out that I did comedy, they said,"
+  },
+  {
+    "start": "00:03:13.229",
+    "end": "00:03:13.239",
+    "start_seconds": 193.22899999999998,
+    "end_seconds": 193.239,
+    "text": "found out that I did comedy, they said,"
+  },
+  {
+    "start": "00:03:13.239",
+    "end": "00:03:14.350",
+    "start_seconds": 193.239,
+    "end_seconds": 194.35,
+    "text": "found out that I did comedy, they said, \"But"
+  },
+  {
+    "start": "00:03:14.350",
+    "end": "00:03:14.360",
+    "start_seconds": 194.35,
+    "end_seconds": 194.36,
+    "text": "\"But"
+  },
+  {
+    "start": "00:03:14.360",
+    "end": "00:03:16.270",
+    "start_seconds": 194.36,
+    "end_seconds": 196.27,
+    "text": "\"But you're not funny.\""
+  },
+  {
+    "start": "00:03:16.270",
+    "end": "00:03:16.280",
+    "start_seconds": 196.27,
+    "end_seconds": 196.28,
+    "text": "you're not funny.\""
+  },
+  {
+    "start": "00:03:16.280",
+    "end": "00:03:17.350",
+    "start_seconds": 196.28,
+    "end_seconds": 197.35,
+    "text": "you're not funny.\" And in some ways they were right."
+  },
+  {
+    "start": "00:03:17.350",
+    "end": "00:03:17.360",
+    "start_seconds": 197.35,
+    "end_seconds": 197.36,
+    "text": "And in some ways they were right."
+  },
+  {
+    "start": "00:03:17.360",
+    "end": "00:03:18.949",
+    "start_seconds": 197.36,
+    "end_seconds": 198.949,
+    "text": "And in some ways they were right. Growing up I was never the life of the"
+  },
+  {
+    "start": "00:03:18.949",
+    "end": "00:03:18.959",
+    "start_seconds": 198.949,
+    "end_seconds": 198.959,
+    "text": "Growing up I was never the life of the"
+  },
+  {
+    "start": "00:03:18.959",
+    "end": "00:03:20.670",
+    "start_seconds": 198.959,
+    "end_seconds": 200.67000000000002,
+    "text": "Growing up I was never the life of the party or the class clown. In fact, my"
+  },
+  {
+    "start": "00:03:20.670",
+    "end": "00:03:20.680",
+    "start_seconds": 200.67000000000002,
+    "end_seconds": 200.68,
+    "text": "party or the class clown. In fact, my"
+  },
+  {
+    "start": "00:03:20.680",
+    "end": "00:03:23.229",
+    "start_seconds": 200.68,
+    "end_seconds": 203.22899999999998,
+    "text": "party or the class clown. In fact, my teacher I was voted teacher's pet my"
+  },
+  {
+    "start": "00:03:23.229",
+    "end": "00:03:23.239",
+    "start_seconds": 203.22899999999998,
+    "end_seconds": 203.239,
+    "text": "teacher I was voted teacher's pet my"
+  },
+  {
+    "start": "00:03:23.239",
+    "end": "00:03:25.710",
+    "start_seconds": 203.239,
+    "end_seconds": 205.71,
+    "text": "teacher I was voted teacher's pet my senior year. And if you need any more"
+  },
+  {
+    "start": "00:03:25.710",
+    "end": "00:03:25.720",
+    "start_seconds": 205.71,
+    "end_seconds": 205.72,
+    "text": "senior year. And if you need any more"
+  },
+  {
+    "start": "00:03:25.720",
+    "end": "00:03:27.150",
+    "start_seconds": 205.72,
+    "end_seconds": 207.15,
+    "text": "senior year. And if you need any more proof that I was not a funny person,"
+  },
+  {
+    "start": "00:03:27.150",
+    "end": "00:03:27.160",
+    "start_seconds": 207.15,
+    "end_seconds": 207.16,
+    "text": "proof that I was not a funny person,"
+  },
+  {
+    "start": "00:03:27.160",
+    "end": "00:03:29.550",
+    "start_seconds": 207.16,
+    "end_seconds": 209.55,
+    "text": "proof that I was not a funny person, these were my senior photos and and I"
+  },
+  {
+    "start": "00:03:29.550",
+    "end": "00:03:29.560",
+    "start_seconds": 209.55,
+    "end_seconds": 209.56,
+    "text": "these were my senior photos and and I"
+  },
+  {
+    "start": "00:03:29.560",
+    "end": "00:03:31.070",
+    "start_seconds": 209.56,
+    "end_seconds": 211.07,
+    "text": "these were my senior photos and and I only recently realized that this is"
+  },
+  {
+    "start": "00:03:31.070",
+    "end": "00:03:31.080",
+    "start_seconds": 211.07,
+    "end_seconds": 211.07999999999998,
+    "text": "only recently realized that this is"
+  },
+  {
+    "start": "00:03:31.080",
+    "end": "00:03:32.750",
+    "start_seconds": 211.07999999999998,
+    "end_seconds": 212.75,
+    "text": "only recently realized that this is primarily a thing that we do in the US"
+  },
+  {
+    "start": "00:03:32.750",
+    "end": "00:03:32.760",
+    "start_seconds": 212.75,
+    "end_seconds": 212.76,
+    "text": "primarily a thing that we do in the US"
+  },
+  {
+    "start": "00:03:32.760",
+    "end": "00:03:34.710",
+    "start_seconds": 212.76,
+    "end_seconds": 214.71,
+    "text": "primarily a thing that we do in the US and Canada where we get all gussied up"
+  },
+  {
+    "start": "00:03:34.710",
+    "end": "00:03:34.720",
+    "start_seconds": 214.71,
+    "end_seconds": 214.72,
+    "text": "and Canada where we get all gussied up"
+  },
+  {
+    "start": "00:03:34.720",
+    "end": "00:03:36.630",
+    "start_seconds": 214.72,
+    "end_seconds": 216.63,
+    "text": "and Canada where we get all gussied up and go and take pictures with our arms"
+  },
+  {
+    "start": "00:03:36.630",
+    "end": "00:03:36.640",
+    "start_seconds": 216.63,
+    "end_seconds": 216.64,
+    "text": "and go and take pictures with our arms"
+  },
+  {
+    "start": "00:03:36.640",
+    "end": "00:03:39.070",
+    "start_seconds": 216.64,
+    "end_seconds": 219.07,
+    "text": "and go and take pictures with our arms crossed for whatever reason. And if you"
+  },
+  {
+    "start": "00:03:39.070",
+    "end": "00:03:39.080",
+    "start_seconds": 219.07,
+    "end_seconds": 219.07999999999998,
+    "text": "crossed for whatever reason. And if you"
+  },
+  {
+    "start": "00:03:39.080",
+    "end": "00:03:40.990",
+    "start_seconds": 219.07999999999998,
+    "end_seconds": 220.99,
+    "text": "crossed for whatever reason. And if you look very closely, you can see that yes,"
+  },
+  {
+    "start": "00:03:40.990",
+    "end": "00:03:41.000",
+    "start_seconds": 220.99,
+    "end_seconds": 221.0,
+    "text": "look very closely, you can see that yes,"
+  },
+  {
+    "start": "00:03:41.000",
+    "end": "00:03:43.550",
+    "start_seconds": 221.0,
+    "end_seconds": 223.55,
+    "text": "look very closely, you can see that yes, I had the spiky hair with the frosted"
+  },
+  {
+    "start": "00:03:43.550",
+    "end": "00:03:43.560",
+    "start_seconds": 223.55,
+    "end_seconds": 223.56,
+    "text": "I had the spiky hair with the frosted"
+  },
+  {
+    "start": "00:03:43.560",
+    "end": "00:03:45.750",
+    "start_seconds": 223.56,
+    "end_seconds": 225.75,
+    "text": "I had the spiky hair with the frosted tips like I wanted to be in a boy band."
+  },
+  {
+    "start": "00:03:45.750",
+    "end": "00:03:45.760",
+    "start_seconds": 225.75,
+    "end_seconds": 225.76,
+    "text": "tips like I wanted to be in a boy band."
+  },
+  {
+    "start": "00:03:45.760",
+    "end": "00:03:46.990",
+    "start_seconds": 225.76,
+    "end_seconds": 226.99,
+    "text": "tips like I wanted to be in a boy band. Although at this point I wish these"
+  },
+  {
+    "start": "00:03:46.990",
+    "end": "00:03:47.000",
+    "start_seconds": 226.99,
+    "end_seconds": 227.0,
+    "text": "Although at this point I wish these"
+  },
+  {
+    "start": "00:03:47.000",
+    "end": "00:03:49.310",
+    "start_seconds": 227.0,
+    "end_seconds": 229.31,
+    "text": "Although at this point I wish these pictures would go bye-bye-bye. The point"
+  },
+  {
+    "start": "00:03:49.310",
+    "end": "00:03:49.320",
+    "start_seconds": 229.31,
+    "end_seconds": 229.32,
+    "text": "pictures would go bye-bye-bye. The point"
+  },
+  {
+    "start": "00:03:49.320",
+    "end": "00:03:51.150",
+    "start_seconds": 229.32,
+    "end_seconds": 231.15,
+    "text": "pictures would go bye-bye-bye. The point is that I was not naturally funny."
+  },
+  {
+    "start": "00:03:51.150",
+    "end": "00:03:51.160",
+    "start_seconds": 231.15,
+    "end_seconds": 231.16,
+    "text": "is that I was not naturally funny."
+  },
+  {
+    "start": "00:03:51.160",
+    "end": "00:03:52.510",
+    "start_seconds": 231.16,
+    "end_seconds": 232.51,
+    "text": "is that I was not naturally funny. That's why I went to The Ohio State"
+  },
+  {
+    "start": "00:03:52.510",
+    "end": "00:03:52.520",
+    "start_seconds": 232.51,
+    "end_seconds": 232.52,
+    "text": "That's why I went to The Ohio State"
+  },
+  {
+    "start": "00:03:52.520",
+    "end": "00:03:54.470",
+    "start_seconds": 232.52,
+    "end_seconds": 234.47,
+    "text": "That's why I went to The Ohio State University, got a degree in computer"
+  },
+  {
+    "start": "00:03:54.470",
+    "end": "00:03:54.480",
+    "start_seconds": 234.47,
+    "end_seconds": 234.48,
+    "text": "University, got a degree in computer"
+  },
+  {
+    "start": "00:03:54.480",
+    "end": "00:03:56.430",
+    "start_seconds": 234.48,
+    "end_seconds": 236.43,
+    "text": "University, got a degree in computer science and engineering. But while"
+  },
+  {
+    "start": "00:03:56.430",
+    "end": "00:03:56.440",
+    "start_seconds": 236.43,
+    "end_seconds": 236.44,
+    "text": "science and engineering. But while"
+  },
+  {
+    "start": "00:03:56.440",
+    "end": "00:03:58.230",
+    "start_seconds": 236.44,
+    "end_seconds": 238.23,
+    "text": "science and engineering. But while there, in addition to playing way too"
+  },
+  {
+    "start": "00:03:58.230",
+    "end": "00:03:58.240",
+    "start_seconds": 238.23,
+    "end_seconds": 238.24,
+    "text": "there, in addition to playing way too"
+  },
+  {
+    "start": "00:03:58.240",
+    "end": "00:04:00.150",
+    "start_seconds": 238.24,
+    "end_seconds": 240.15,
+    "text": "there, in addition to playing way too many video games, I also started doing"
+  },
+  {
+    "start": "00:04:00.150",
+    "end": "00:04:00.160",
+    "start_seconds": 240.15,
+    "end_seconds": 240.16,
+    "text": "many video games, I also started doing"
+  },
+  {
+    "start": "00:04:00.160",
+    "end": "00:04:02.270",
+    "start_seconds": 240.16,
+    "end_seconds": 242.27,
+    "text": "many video games, I also started doing improv and stand-up comedy. Not because"
+  },
+  {
+    "start": "00:04:02.270",
+    "end": "00:04:02.280",
+    "start_seconds": 242.27,
+    "end_seconds": 242.28,
+    "text": "improv and stand-up comedy. Not because"
+  },
+  {
+    "start": "00:04:02.280",
+    "end": "00:04:05.430",
+    "start_seconds": 242.28,
+    "end_seconds": 245.43,
+    "text": "improv and stand-up comedy. Not because I thought, \"You know who's funny? Me."
+  },
+  {
+    "start": "00:04:05.430",
+    "end": "00:04:05.440",
+    "start_seconds": 245.43,
+    "end_seconds": 245.44,
+    "text": "I thought, \"You know who's funny? Me."
+  },
+  {
+    "start": "00:04:05.440",
+    "end": "00:04:07.070",
+    "start_seconds": 245.44,
+    "end_seconds": 247.07,
+    "text": "I thought, \"You know who's funny? Me. You know who should listen to me?"
+  },
+  {
+    "start": "00:04:07.070",
+    "end": "00:04:07.080",
+    "start_seconds": 247.07,
+    "end_seconds": 247.08,
+    "text": "You know who should listen to me?"
+  },
+  {
+    "start": "00:04:07.080",
+    "end": "00:04:09.870",
+    "start_seconds": 247.08,
+    "end_seconds": 249.87,
+    "text": "You know who should listen to me? Strangers.\" No, I only did it because my"
+  },
+  {
+    "start": "00:04:09.870",
+    "end": "00:04:09.880",
+    "start_seconds": 249.87,
+    "end_seconds": 249.88,
+    "text": "Strangers.\" No, I only did it because my"
+  },
+  {
+    "start": "00:04:09.880",
+    "end": "00:04:11.270",
+    "start_seconds": 249.88,
+    "end_seconds": 251.27,
+    "text": "Strangers.\" No, I only did it because my best friend wanted to start a comedy"
+  },
+  {
+    "start": "00:04:11.270",
+    "end": "00:04:11.280",
+    "start_seconds": 251.27,
+    "end_seconds": 251.28,
+    "text": "best friend wanted to start a comedy"
+  },
+  {
+    "start": "00:04:11.280",
+    "end": "00:04:12.830",
+    "start_seconds": 251.28,
+    "end_seconds": 252.83,
+    "text": "best friend wanted to start a comedy group, meet new people, and forced me to"
+  },
+  {
+    "start": "00:04:12.830",
+    "end": "00:04:12.840",
+    "start_seconds": 252.83,
+    "end_seconds": 252.84,
+    "text": "group, meet new people, and forced me to"
+  },
+  {
+    "start": "00:04:12.840",
+    "end": "00:04:15.030",
+    "start_seconds": 252.84,
+    "end_seconds": 255.03,
+    "text": "group, meet new people, and forced me to join. And I didn't realize until years"
+  },
+  {
+    "start": "00:04:15.030",
+    "end": "00:04:15.040",
+    "start_seconds": 255.03,
+    "end_seconds": 255.04,
+    "text": "join. And I didn't realize until years"
+  },
+  {
+    "start": "00:04:15.040",
+    "end": "00:04:16.390",
+    "start_seconds": 255.04,
+    "end_seconds": 256.39,
+    "text": "join. And I didn't realize until years later that he didn't want me to join"
+  },
+  {
+    "start": "00:04:16.390",
+    "end": "00:04:16.400",
+    "start_seconds": 256.39,
+    "end_seconds": 256.4,
+    "text": "later that he didn't want me to join"
+  },
+  {
+    "start": "00:04:16.400",
+    "end": "00:04:18.229",
+    "start_seconds": 256.4,
+    "end_seconds": 258.229,
+    "text": "later that he didn't want me to join because he thought maybe I was secretly"
+  },
+  {
+    "start": "00:04:18.229",
+    "end": "00:04:18.239",
+    "start_seconds": 258.229,
+    "end_seconds": 258.239,
+    "text": "because he thought maybe I was secretly"
+  },
+  {
+    "start": "00:04:18.239",
+    "end": "00:04:19.830",
+    "start_seconds": 258.239,
+    "end_seconds": 259.83,
+    "text": "because he thought maybe I was secretly funny. He wanted me to join because he"
+  },
+  {
+    "start": "00:04:19.830",
+    "end": "00:04:19.840",
+    "start_seconds": 259.83,
+    "end_seconds": 259.84,
+    "text": "funny. He wanted me to join because he"
+  },
+  {
+    "start": "00:04:19.840",
+    "end": "00:04:21.430",
+    "start_seconds": 259.84,
+    "end_seconds": 261.43,
+    "text": "funny. He wanted me to join because he knew I was organized."
+  },
+  {
+    "start": "00:04:21.430",
+    "end": "00:04:21.440",
+    "start_seconds": 261.43,
+    "end_seconds": 261.44,
+    "text": "knew I was organized."
+  },
+  {
+    "start": "00:04:21.440",
+    "end": "00:04:23.190",
+    "start_seconds": 261.44,
+    "end_seconds": 263.19,
+    "text": "knew I was organized. And he was right. What I didn't have in"
+  },
+  {
+    "start": "00:04:23.190",
+    "end": "00:04:23.200",
+    "start_seconds": 263.19,
+    "end_seconds": 263.2,
+    "text": "And he was right. What I didn't have in"
+  },
+  {
+    "start": "00:04:23.200",
+    "end": "00:04:24.950",
+    "start_seconds": 263.2,
+    "end_seconds": 264.95,
+    "text": "And he was right. What I didn't have in comedy skill, I made up for in comedy"
+  },
+  {
+    "start": "00:04:24.950",
+    "end": "00:04:24.960",
+    "start_seconds": 264.95,
+    "end_seconds": 264.96,
+    "text": "comedy skill, I made up for in comedy"
+  },
+  {
+    "start": "00:04:24.960",
+    "end": "00:04:26.909",
+    "start_seconds": 264.96,
+    "end_seconds": 266.909,
+    "text": "comedy skill, I made up for in comedy project management. We practiced three"
+  },
+  {
+    "start": "00:04:26.909",
+    "end": "00:04:26.919",
+    "start_seconds": 266.909,
+    "end_seconds": 266.919,
+    "text": "project management. We practiced three"
+  },
+  {
+    "start": "00:04:26.919",
+    "end": "00:04:28.870",
+    "start_seconds": 266.919,
+    "end_seconds": 268.87,
+    "text": "project management. We practiced three times a week. We had business meetings."
+  },
+  {
+    "start": "00:04:28.870",
+    "end": "00:04:28.880",
+    "start_seconds": 268.87,
+    "end_seconds": 268.88,
+    "text": "times a week. We had business meetings."
+  },
+  {
+    "start": "00:04:28.880",
+    "end": "00:04:30.550",
+    "start_seconds": 268.88,
+    "end_seconds": 270.55,
+    "text": "times a week. We had business meetings. We filmed all of our shows and went to"
+  },
+  {
+    "start": "00:04:30.550",
+    "end": "00:04:30.560",
+    "start_seconds": 270.55,
+    "end_seconds": 270.56,
+    "text": "We filmed all of our shows and went to"
+  },
+  {
+    "start": "00:04:30.560",
+    "end": "00:04:32.670",
+    "start_seconds": 270.56,
+    "end_seconds": 272.67,
+    "text": "We filmed all of our shows and went to watch back as if it was game tape. I"
+  },
+  {
+    "start": "00:04:32.670",
+    "end": "00:04:32.680",
+    "start_seconds": 272.67,
+    "end_seconds": 272.68,
+    "text": "watch back as if it was game tape. I"
+  },
+  {
+    "start": "00:04:32.680",
+    "end": "00:04:34.670",
+    "start_seconds": 272.68,
+    "end_seconds": 274.67,
+    "text": "watch back as if it was game tape. I read books about the subject and watched"
+  },
+  {
+    "start": "00:04:34.670",
+    "end": "00:04:34.680",
+    "start_seconds": 274.67,
+    "end_seconds": 274.68,
+    "text": "read books about the subject and watched"
+  },
+  {
+    "start": "00:04:34.680",
+    "end": "00:04:36.430",
+    "start_seconds": 274.68,
+    "end_seconds": 276.43,
+    "text": "read books about the subject and watched videos and did everything I could to try"
+  },
+  {
+    "start": "00:04:36.430",
+    "end": "00:04:36.440",
+    "start_seconds": 276.43,
+    "end_seconds": 276.44,
+    "text": "videos and did everything I could to try"
+  },
+  {
+    "start": "00:04:36.440",
+    "end": "00:04:38.909",
+    "start_seconds": 276.44,
+    "end_seconds": 278.909,
+    "text": "videos and did everything I could to try to learn how to be funnier. That's when"
+  },
+  {
+    "start": "00:04:38.909",
+    "end": "00:04:38.919",
+    "start_seconds": 278.909,
+    "end_seconds": 278.919,
+    "text": "to learn how to be funnier. That's when"
+  },
+  {
+    "start": "00:04:38.919",
+    "end": "00:04:41.070",
+    "start_seconds": 278.919,
+    "end_seconds": 281.07,
+    "text": "to learn how to be funnier. That's when I discovered that humor is a skill,"
+  },
+  {
+    "start": "00:04:41.070",
+    "end": "00:04:41.080",
+    "start_seconds": 281.07,
+    "end_seconds": 281.08,
+    "text": "I discovered that humor is a skill,"
+  },
+  {
+    "start": "00:04:41.080",
+    "end": "00:04:42.909",
+    "start_seconds": 281.08,
+    "end_seconds": 282.909,
+    "text": "I discovered that humor is a skill, which means that it can be learned,"
+  },
+  {
+    "start": "00:04:42.909",
+    "end": "00:04:42.919",
+    "start_seconds": 282.909,
+    "end_seconds": 282.919,
+    "text": "which means that it can be learned,"
+  },
+  {
+    "start": "00:04:42.919",
+    "end": "00:04:45.110",
+    "start_seconds": 282.919,
+    "end_seconds": 285.11,
+    "text": "which means that it can be learned, which also means that the question then"
+  },
+  {
+    "start": "00:04:45.110",
+    "end": "00:04:45.120",
+    "start_seconds": 285.11,
+    "end_seconds": 285.12,
+    "text": "which also means that the question then"
+  },
+  {
+    "start": "00:04:45.120",
+    "end": "00:04:49.070",
+    "start_seconds": 285.12,
+    "end_seconds": 289.07,
+    "text": "which also means that the question then isn't, \"Are you funny?\" The question is,"
+  },
+  {
+    "start": "00:04:49.070",
+    "end": "00:04:49.080",
+    "start_seconds": 289.07,
+    "end_seconds": 289.08,
+    "text": "isn't, \"Are you funny?\" The question is,"
+  },
+  {
+    "start": "00:04:49.080",
+    "end": "00:04:51.510",
+    "start_seconds": 289.08,
+    "end_seconds": 291.51,
+    "text": "isn't, \"Are you funny?\" The question is, \"What kind of funny are you?\" Or what"
+  },
+  {
+    "start": "00:04:51.510",
+    "end": "00:04:51.520",
+    "start_seconds": 291.51,
+    "end_seconds": 291.52,
+    "text": "\"What kind of funny are you?\" Or what"
+  },
+  {
+    "start": "00:04:51.520",
+    "end": "00:04:53.510",
+    "start_seconds": 291.52,
+    "end_seconds": 293.51,
+    "text": "\"What kind of funny are you?\" Or what kind of funny do you want to be? Because"
+  },
+  {
+    "start": "00:04:53.510",
+    "end": "00:04:53.520",
+    "start_seconds": 293.51,
+    "end_seconds": 293.52,
+    "text": "kind of funny do you want to be? Because"
+  },
+  {
+    "start": "00:04:53.520",
+    "end": "00:04:54.350",
+    "start_seconds": 293.52,
+    "end_seconds": 294.35,
+    "text": "kind of funny do you want to be? Because just like we have different"
+  },
+  {
+    "start": "00:04:54.350",
+    "end": "00:04:54.360",
+    "start_seconds": 294.35,
+    "end_seconds": 294.36,
+    "text": "just like we have different"
+  },
+  {
+    "start": "00:04:54.360",
+    "end": "00:04:56.110",
+    "start_seconds": 294.36,
+    "end_seconds": 296.11,
+    "text": "just like we have different personalities, different styles, and"
+  },
+  {
+    "start": "00:04:56.110",
+    "end": "00:04:56.120",
+    "start_seconds": 296.11,
+    "end_seconds": 296.12,
+    "text": "personalities, different styles, and"
+  },
+  {
+    "start": "00:04:56.120",
+    "end": "00:04:58.470",
+    "start_seconds": 296.12,
+    "end_seconds": 298.47,
+    "text": "personalities, different styles, and different taste buds, we have different"
+  },
+  {
+    "start": "00:04:58.470",
+    "end": "00:04:58.480",
+    "start_seconds": 298.47,
+    "end_seconds": 298.48,
+    "text": "different taste buds, we have different"
+  },
+  {
+    "start": "00:04:58.480",
+    "end": "00:05:00.550",
+    "start_seconds": 298.48,
+    "end_seconds": 300.55,
+    "text": "different taste buds, we have different ways we express our humor. In fact,"
+  },
+  {
+    "start": "00:05:00.550",
+    "end": "00:05:00.560",
+    "start_seconds": 300.55,
+    "end_seconds": 300.56,
+    "text": "ways we express our humor. In fact,"
+  },
+  {
+    "start": "00:05:00.560",
+    "end": "00:05:02.390",
+    "start_seconds": 300.56,
+    "end_seconds": 302.39,
+    "text": "ways we express our humor. In fact, there are seven primary ways that people"
+  },
+  {
+    "start": "00:05:02.390",
+    "end": "00:05:02.400",
+    "start_seconds": 302.39,
+    "end_seconds": 302.4,
+    "text": "there are seven primary ways that people"
+  },
+  {
+    "start": "00:05:02.400",
+    "end": "00:05:04.270",
+    "start_seconds": 302.4,
+    "end_seconds": 304.27,
+    "text": "there are seven primary ways that people tend to use their humor, particularly in"
+  },
+  {
+    "start": "00:05:04.270",
+    "end": "00:05:04.280",
+    "start_seconds": 304.27,
+    "end_seconds": 304.28,
+    "text": "tend to use their humor, particularly in"
+  },
+  {
+    "start": "00:05:04.280",
+    "end": "00:05:06.190",
+    "start_seconds": 304.28,
+    "end_seconds": 306.19,
+    "text": "tend to use their humor, particularly in the workplace. Either as an enthusiast,"
+  },
+  {
+    "start": "00:05:06.190",
+    "end": "00:05:06.200",
+    "start_seconds": 306.19,
+    "end_seconds": 306.2,
+    "text": "the workplace. Either as an enthusiast,"
+  },
+  {
+    "start": "00:05:06.200",
+    "end": "00:05:08.030",
+    "start_seconds": 306.2,
+    "end_seconds": 308.03,
+    "text": "the workplace. Either as an enthusiast, curator, inventor, entertainer,"
+  },
+  {
+    "start": "00:05:08.030",
+    "end": "00:05:08.040",
+    "start_seconds": 308.03,
+    "end_seconds": 308.04,
+    "text": "curator, inventor, entertainer,"
+  },
+  {
+    "start": "00:05:08.040",
+    "end": "00:05:10.190",
+    "start_seconds": 308.04,
+    "end_seconds": 310.19,
+    "text": "curator, inventor, entertainer, engineer, or advocate. Or there's a"
+  },
+  {
+    "start": "00:05:10.190",
+    "end": "00:05:10.200",
+    "start_seconds": 310.19,
+    "end_seconds": 310.2,
+    "text": "engineer, or advocate. Or there's a"
+  },
+  {
+    "start": "00:05:10.200",
+    "end": "00:05:11.790",
+    "start_seconds": 310.2,
+    "end_seconds": 311.79,
+    "text": "engineer, or advocate. Or there's a chance that you're unsure about all of"
+  },
+  {
+    "start": "00:05:11.790",
+    "end": "00:05:11.800",
+    "start_seconds": 311.79,
+    "end_seconds": 311.8,
+    "text": "chance that you're unsure about all of"
+  },
+  {
+    "start": "00:05:11.800",
+    "end": "00:05:14.630",
+    "start_seconds": 311.8,
+    "end_seconds": 314.63,
+    "text": "chance that you're unsure about all of this and might be the skeptic. But if"
+  },
+  {
+    "start": "00:05:14.630",
+    "end": "00:05:14.640",
+    "start_seconds": 314.63,
+    "end_seconds": 314.64,
+    "text": "this and might be the skeptic. But if"
+  },
+  {
+    "start": "00:05:14.640",
+    "end": "00:05:16.630",
+    "start_seconds": 314.64,
+    "end_seconds": 316.63,
+    "text": "this and might be the skeptic. But if you want to start to enjoy your work"
+  },
+  {
+    "start": "00:05:16.630",
+    "end": "00:05:16.640",
+    "start_seconds": 316.63,
+    "end_seconds": 316.64,
+    "text": "you want to start to enjoy your work"
+  },
+  {
+    "start": "00:05:16.640",
+    "end": "00:05:18.990",
+    "start_seconds": 316.64,
+    "end_seconds": 318.99,
+    "text": "you want to start to enjoy your work more, if you want to start to make your"
+  },
+  {
+    "start": "00:05:18.990",
+    "end": "00:05:19.000",
+    "start_seconds": 318.99,
+    "end_seconds": 319.0,
+    "text": "more, if you want to start to make your"
+  },
+  {
+    "start": "00:05:19.000",
+    "end": "00:05:21.110",
+    "start_seconds": 319.0,
+    "end_seconds": 321.11,
+    "text": "more, if you want to start to make your work suck a little bit less, if you want"
+  },
+  {
+    "start": "00:05:21.110",
+    "end": "00:05:21.120",
+    "start_seconds": 321.11,
+    "end_seconds": 321.12,
+    "text": "work suck a little bit less, if you want"
+  },
+  {
+    "start": "00:05:21.120",
+    "end": "00:05:24.470",
+    "start_seconds": 321.12,
+    "end_seconds": 324.47,
+    "text": "work suck a little bit less, if you want to choose fun over not fun, start by"
+  },
+  {
+    "start": "00:05:24.470",
+    "end": "00:05:24.480",
+    "start_seconds": 324.47,
+    "end_seconds": 324.48,
+    "text": "to choose fun over not fun, start by"
+  },
+  {
+    "start": "00:05:24.480",
+    "end": "00:05:26.510",
+    "start_seconds": 324.48,
+    "end_seconds": 326.51,
+    "text": "to choose fun over not fun, start by discovering your humor persona. Unlock"
+  },
+  {
+    "start": "00:05:26.510",
+    "end": "00:05:26.520",
+    "start_seconds": 326.51,
+    "end_seconds": 326.52,
+    "text": "discovering your humor persona. Unlock"
+  },
+  {
+    "start": "00:05:26.520",
+    "end": "00:05:29.590",
+    "start_seconds": 326.52,
+    "end_seconds": 329.59,
+    "text": "discovering your humor persona. Unlock your sense of humor at work. One easy"
+  },
+  {
+    "start": "00:05:29.590",
+    "end": "00:05:29.600",
+    "start_seconds": 329.59,
+    "end_seconds": 329.6,
+    "text": "your sense of humor at work. One easy"
+  },
+  {
+    "start": "00:05:29.600",
+    "end": "00:05:30.870",
+    "start_seconds": 329.6,
+    "end_seconds": 330.87,
+    "text": "your sense of humor at work. One easy way to get started is to take our"
+  },
+  {
+    "start": "00:05:30.870",
+    "end": "00:05:30.880",
+    "start_seconds": 330.87,
+    "end_seconds": 330.88,
+    "text": "way to get started is to take our"
+  },
+  {
+    "start": "00:05:30.880",
+    "end": "00:05:32.270",
+    "start_seconds": 330.88,
+    "end_seconds": 332.27,
+    "text": "way to get started is to take our completely free assessment at"
+  },
+  {
+    "start": "00:05:32.270",
+    "end": "00:05:32.280",
+    "start_seconds": 332.27,
+    "end_seconds": 332.28,
+    "text": "completely free assessment at"
+  },
+  {
+    "start": "00:05:32.280",
+    "end": "00:05:34.830",
+    "start_seconds": 332.28,
+    "end_seconds": 334.83,
+    "text": "completely free assessment at humor.me/quiz."
+  },
+  {
+    "start": "00:05:34.830",
+    "end": "00:05:34.840",
+    "start_seconds": 334.83,
+    "end_seconds": 334.84000000000003,
+    "text": "humor.me/quiz."
+  },
+  {
+    "start": "00:05:34.840",
+    "end": "00:05:36.150",
+    "start_seconds": 334.84000000000003,
+    "end_seconds": 336.15,
+    "text": "humor.me/quiz. Takes 2 minutes. You'll find out what"
+  },
+  {
+    "start": "00:05:36.150",
+    "end": "00:05:36.160",
+    "start_seconds": 336.15,
+    "end_seconds": 336.15999999999997,
+    "text": "Takes 2 minutes. You'll find out what"
+  },
+  {
+    "start": "00:05:36.160",
+    "end": "00:05:37.870",
+    "start_seconds": 336.15999999999997,
+    "end_seconds": 337.87,
+    "text": "Takes 2 minutes. You'll find out what your primary persona is and start to"
+  },
+  {
+    "start": "00:05:37.870",
+    "end": "00:05:37.880",
+    "start_seconds": 337.87,
+    "end_seconds": 337.88,
+    "text": "your primary persona is and start to"
+  },
+  {
+    "start": "00:05:37.880",
+    "end": "00:05:39.110",
+    "start_seconds": 337.88,
+    "end_seconds": 339.11,
+    "text": "your primary persona is and start to already learn some ways that you're"
+  },
+  {
+    "start": "00:05:39.110",
+    "end": "00:05:39.120",
+    "start_seconds": 339.11,
+    "end_seconds": 339.12,
+    "text": "already learn some ways that you're"
+  },
+  {
+    "start": "00:05:39.120",
+    "end": "00:05:40.630",
+    "start_seconds": 339.12,
+    "end_seconds": 340.63,
+    "text": "already learn some ways that you're going to adopt it in the work that you"
+  },
+  {
+    "start": "00:05:40.630",
+    "end": "00:05:40.640",
+    "start_seconds": 340.63,
+    "end_seconds": 340.64,
+    "text": "going to adopt it in the work that you"
+  },
+  {
+    "start": "00:05:40.640",
+    "end": "00:05:42.590",
+    "start_seconds": 340.64,
+    "end_seconds": 342.59000000000003,
+    "text": "going to adopt it in the work that you do. You can also follow us here for more"
+  },
+  {
+    "start": "00:05:42.590",
+    "end": "00:05:42.600",
+    "start_seconds": 342.59000000000003,
+    "end_seconds": 342.6,
+    "text": "do. You can also follow us here for more"
+  },
+  {
+    "start": "00:05:42.600",
+    "end": "00:05:44.430",
+    "start_seconds": 342.6,
+    "end_seconds": 344.43,
+    "text": "do. You can also follow us here for more great humor content by clicking on"
+  },
+  {
+    "start": "00:05:44.430",
+    "end": "00:05:44.440",
+    "start_seconds": 344.43,
+    "end_seconds": 344.44,
+    "text": "great humor content by clicking on"
+  },
+  {
+    "start": "00:05:44.440",
+    "end": "00:05:46.710",
+    "start_seconds": 344.44,
+    "end_seconds": 346.71,
+    "text": "great humor content by clicking on subscribe. But the reality is is you"
+  },
+  {
+    "start": "00:05:46.710",
+    "end": "00:05:46.720",
+    "start_seconds": 346.71,
+    "end_seconds": 346.72,
+    "text": "subscribe. But the reality is is you"
+  },
+  {
+    "start": "00:05:46.720",
+    "end": "00:05:48.670",
+    "start_seconds": 346.72,
+    "end_seconds": 348.67,
+    "text": "subscribe. But the reality is is you choose every single day how going to do"
+  },
+  {
+    "start": "00:05:48.670",
+    "end": "00:05:48.680",
+    "start_seconds": 348.67,
+    "end_seconds": 348.68,
+    "text": "choose every single day how going to do"
+  },
+  {
+    "start": "00:05:48.680",
+    "end": "00:05:50.070",
+    "start_seconds": 348.68,
+    "end_seconds": 350.07,
+    "text": "choose every single day how going to do your work. So, why not choose to be more"
+  },
+  {
+    "start": "00:05:50.070",
+    "end": "00:05:50.080",
+    "start_seconds": 350.07,
+    "end_seconds": 350.08,
+    "text": "your work. So, why not choose to be more"
+  },
+  {
+    "start": "00:05:50.080",
+    "end": "00:05:51.710",
+    "start_seconds": 350.08,
+    "end_seconds": 351.71,
+    "text": "your work. So, why not choose to be more productive, less stressed, and happier?"
+  },
+  {
+    "start": "00:05:51.710",
+    "end": "00:05:51.720",
+    "start_seconds": 351.71,
+    "end_seconds": 351.72,
+    "text": "productive, less stressed, and happier?"
+  },
+  {
+    "start": "00:05:51.720",
+    "end": "00:05:53.630",
+    "start_seconds": 351.72,
+    "end_seconds": 353.63,
+    "text": "productive, less stressed, and happier? Why not choose to get better results and"
+  },
+  {
+    "start": "00:05:53.630",
+    "end": "00:05:53.640",
+    "start_seconds": 353.63,
+    "end_seconds": 353.64,
+    "text": "Why not choose to get better results and"
+  },
+  {
+    "start": "00:05:53.640",
+    "end": "00:05:55.750",
+    "start_seconds": 353.64,
+    "end_seconds": 355.75,
+    "text": "Why not choose to get better results and have more fun? Why not choose to find"
+  },
+  {
+    "start": "00:05:55.750",
+    "end": "00:05:55.760",
+    "start_seconds": 355.75,
+    "end_seconds": 355.76,
+    "text": "have more fun? Why not choose to find"
+  },
+  {
+    "start": "00:05:55.760",
+    "end": "00:06:00.000",
+    "start_seconds": 355.76,
+    "end_seconds": 360.0,
+    "text": "have more fun? Why not choose to find your funny with Humor That Works."
+  }
+]

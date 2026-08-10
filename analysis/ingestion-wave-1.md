@@ -5,6 +5,10 @@ workspace.
 
 Captured on August 9, 2026.
 
+If the ingestion plan is meant to serve learner-facing extraction rather than
+just collection, pair it with `analysis/transcript-backed-concrete-speaking-approaches.md`
+so wave priorities stay tied to exact moves.
+
 ## Primary goal
 
 Start with sources that are most likely to generate:
@@ -13,6 +17,7 @@ Start with sources that are most likely to generate:
 - repeatable speaking concepts
 - strong examples of better delivery
 - practical frameworks for confidence, flow, and presence
+- exact transcript-backed approaches that can be routed into practice
 
 ## Wave 1 sources
 
@@ -24,6 +29,8 @@ Start with sources that are most likely to generate:
 - why it is first:
   - strongest direct fit for anti-script speaking, flow, confidence, and practice drills
   - likely to produce a strong first concept layer around spontaneity and audience connection
+  Primary exact approaches:
+  - `Approach 1`, `Approach 3`, `Approach 10`, `Approach 15`
 
 #### Early video pattern visible from the manifest
 
@@ -45,6 +52,8 @@ corpus.
 - status: capture in progress / pending completion
 - why it belongs in wave 1:
   - likely strongest early source for delivery, vocal variety, performance energy, and stage presence
+  Primary exact approaches:
+  - `Approach 2`, `Approach 7`, `Approach 10`, `Approach 21`
 
 ### 3. Think Fast Talk Smart
 
@@ -53,6 +62,8 @@ corpus.
 - why it belongs in wave 1:
   - strong complement to performance-heavy sources
   - likely strongest early source for structured speaking under pressure, anxiety management, and workplace communication
+  Primary exact approaches:
+  - `Approach 5`, `Approach 14`, `Approach 19`, `Approach 23`
 
 ## What we want from wave 1
 
@@ -70,6 +81,11 @@ Expected first-pass extraction targets:
 - speaking under pressure
 - audience attention and energy
 
+Expected exact-approach priorities:
+
+- `Approach 1`, `Approach 3`, `Approach 5`, `Approach 10`, `Approach 14`,
+  `Approach 15`, `Approach 19`, `Approach 21`
+
 ## Recommended next step after manifests are complete
 
 Once the first three manifests are stable:
@@ -79,3 +95,5 @@ Once the first three manifests are stable:
 3. identify a narrower first slice from Think Fast Talk Smart
 4. build the first transcript-backed session inventory
 5. write the first wave of themes, subthemes, and drills
+6. feed the strongest resulting moves into
+   `analysis/transcript-backed-concrete-speaking-approaches.md`

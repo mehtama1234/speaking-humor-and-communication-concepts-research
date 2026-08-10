@@ -1,0 +1,4664 @@
+[
+  {
+    "start": "00:00:00.000",
+    "end": "00:00:01.190",
+    "start_seconds": 0.0,
+    "end_seconds": 1.19,
+    "text": "I'm going to show you how to connect"
+  },
+  {
+    "start": "00:00:01.190",
+    "end": "00:00:01.200",
+    "start_seconds": 1.19,
+    "end_seconds": 1.2,
+    "text": "I'm going to show you how to connect"
+  },
+  {
+    "start": "00:00:01.200",
+    "end": "00:00:03.110",
+    "start_seconds": 1.2,
+    "end_seconds": 3.11,
+    "text": "I'm going to show you how to connect with anyone, even if it feels like you"
+  },
+  {
+    "start": "00:00:03.110",
+    "end": "00:00:03.120",
+    "start_seconds": 3.11,
+    "end_seconds": 3.12,
+    "text": "with anyone, even if it feels like you"
+  },
+  {
+    "start": "00:00:03.120",
+    "end": "00:00:04.830",
+    "start_seconds": 3.12,
+    "end_seconds": 4.83,
+    "text": "with anyone, even if it feels like you have nothing in common. I'm talking"
+  },
+  {
+    "start": "00:00:04.830",
+    "end": "00:00:04.840",
+    "start_seconds": 4.83,
+    "end_seconds": 4.84,
+    "text": "have nothing in common. I'm talking"
+  },
+  {
+    "start": "00:00:04.840",
+    "end": "00:00:06.230",
+    "start_seconds": 4.84,
+    "end_seconds": 6.23,
+    "text": "have nothing in common. I'm talking about when you're having a conversation"
+  },
+  {
+    "start": "00:00:06.230",
+    "end": "00:00:06.240",
+    "start_seconds": 6.23,
+    "end_seconds": 6.24,
+    "text": "about when you're having a conversation"
+  },
+  {
+    "start": "00:00:06.240",
+    "end": "00:00:08.030",
+    "start_seconds": 6.24,
+    "end_seconds": 8.03,
+    "text": "about when you're having a conversation with a coworker and you're both stuck"
+  },
+  {
+    "start": "00:00:08.030",
+    "end": "00:00:08.040",
+    "start_seconds": 8.03,
+    "end_seconds": 8.04,
+    "text": "with a coworker and you're both stuck"
+  },
+  {
+    "start": "00:00:08.040",
+    "end": "00:00:09.710",
+    "start_seconds": 8.04,
+    "end_seconds": 9.71,
+    "text": "with a coworker and you're both stuck talking about the weather, when you're"
+  },
+  {
+    "start": "00:00:09.710",
+    "end": "00:00:09.720",
+    "start_seconds": 9.71,
+    "end_seconds": 9.72,
+    "text": "talking about the weather, when you're"
+  },
+  {
+    "start": "00:00:09.720",
+    "end": "00:00:11.310",
+    "start_seconds": 9.72,
+    "end_seconds": 11.31,
+    "text": "talking about the weather, when you're meeting somebody new and thinking,"
+  },
+  {
+    "start": "00:00:11.310",
+    "end": "00:00:11.320",
+    "start_seconds": 11.31,
+    "end_seconds": 11.32,
+    "text": "meeting somebody new and thinking,"
+  },
+  {
+    "start": "00:00:11.320",
+    "end": "00:00:13.270",
+    "start_seconds": 11.32,
+    "end_seconds": 13.27,
+    "text": "meeting somebody new and thinking, \"We're just too different.\" Or when"
+  },
+  {
+    "start": "00:00:13.270",
+    "end": "00:00:13.280",
+    "start_seconds": 13.27,
+    "end_seconds": 13.28,
+    "text": "\"We're just too different.\" Or when"
+  },
+  {
+    "start": "00:00:13.280",
+    "end": "00:00:15.150",
+    "start_seconds": 13.28,
+    "end_seconds": 15.15,
+    "text": "\"We're just too different.\" Or when you're at an event that's full of people"
+  },
+  {
+    "start": "00:00:15.150",
+    "end": "00:00:15.160",
+    "start_seconds": 15.15,
+    "end_seconds": 15.16,
+    "text": "you're at an event that's full of people"
+  },
+  {
+    "start": "00:00:15.160",
+    "end": "00:00:17.020",
+    "start_seconds": 15.16,
+    "end_seconds": 17.02,
+    "text": "you're at an event that's full of people and you feel like you don't belong in"
+  },
+  {
+    "start": "00:00:17.020",
+    "end": "00:00:17.030",
+    "start_seconds": 17.02,
+    "end_seconds": 17.03,
+    "text": "and you feel like you don't belong in"
+  },
+  {
+    "start": "00:00:17.030",
+    "end": "00:00:18.390",
+    "start_seconds": 17.03,
+    "end_seconds": 18.39,
+    "text": "and you feel like you don't belong in [music] any of the conversations. As"
+  },
+  {
+    "start": "00:00:18.390",
+    "end": "00:00:18.400",
+    "start_seconds": 18.39,
+    "end_seconds": 18.4,
+    "text": "[music] any of the conversations. As"
+  },
+  {
+    "start": "00:00:18.400",
+    "end": "00:00:20.470",
+    "start_seconds": 18.4,
+    "end_seconds": 20.47,
+    "text": "[music] any of the conversations. As long as you follow this exact framework"
+  },
+  {
+    "start": "00:00:20.470",
+    "end": "00:00:20.480",
+    "start_seconds": 20.47,
+    "end_seconds": 20.48,
+    "text": "long as you follow this exact framework"
+  },
+  {
+    "start": "00:00:20.480",
+    "end": "00:00:21.470",
+    "start_seconds": 20.48,
+    "end_seconds": 21.47,
+    "text": "long as you follow this exact framework that I'm about to share with you in this"
+  },
+  {
+    "start": "00:00:21.470",
+    "end": "00:00:21.480",
+    "start_seconds": 21.47,
+    "end_seconds": 21.48,
+    "text": "that I'm about to share with you in this"
+  },
+  {
+    "start": "00:00:21.480",
+    "end": "00:00:23.470",
+    "start_seconds": 21.48,
+    "end_seconds": 23.47,
+    "text": "that I'm about to share with you in this video, you'll never sit across from"
+  },
+  {
+    "start": "00:00:23.470",
+    "end": "00:00:23.480",
+    "start_seconds": 23.47,
+    "end_seconds": 23.48,
+    "text": "video, you'll never sit across from"
+  },
+  {
+    "start": "00:00:23.480",
+    "end": "00:00:25.070",
+    "start_seconds": 23.48,
+    "end_seconds": 25.07,
+    "text": "video, you'll never sit across from someone and think, \"We've got nothing in"
+  },
+  {
+    "start": "00:00:25.070",
+    "end": "00:00:25.080",
+    "start_seconds": 25.07,
+    "end_seconds": 25.08,
+    "text": "someone and think, \"We've got nothing in"
+  },
+  {
+    "start": "00:00:25.080",
+    "end": "00:00:28.030",
+    "start_seconds": 25.08,
+    "end_seconds": 28.03,
+    "text": "someone and think, \"We've got nothing in common.\" ever again. This one framework"
+  },
+  {
+    "start": "00:00:28.030",
+    "end": "00:00:28.040",
+    "start_seconds": 28.03,
+    "end_seconds": 28.04,
+    "text": "common.\" ever again. This one framework"
+  },
+  {
+    "start": "00:00:28.040",
+    "end": "00:00:30.070",
+    "start_seconds": 28.04,
+    "end_seconds": 30.07,
+    "text": "common.\" ever again. This one framework is a big part of how I've been able to"
+  },
+  {
+    "start": "00:00:30.070",
+    "end": "00:00:30.080",
+    "start_seconds": 30.07,
+    "end_seconds": 30.08,
+    "text": "is a big part of how I've been able to"
+  },
+  {
+    "start": "00:00:30.080",
+    "end": "00:00:32.749",
+    "start_seconds": 30.08,
+    "end_seconds": 32.749,
+    "text": "is a big part of how I've been able to connect with 95% of people that I've met"
+  },
+  {
+    "start": "00:00:32.749",
+    "end": "00:00:32.759",
+    "start_seconds": 32.749,
+    "end_seconds": 32.759,
+    "text": "connect with 95% of people that I've met"
+  },
+  {
+    "start": "00:00:32.759",
+    "end": "00:00:34.870",
+    "start_seconds": 32.759,
+    "end_seconds": 34.87,
+    "text": "connect with 95% of people that I've met as a communication coach and a global"
+  },
+  {
+    "start": "00:00:34.870",
+    "end": "00:00:34.880",
+    "start_seconds": 34.87,
+    "end_seconds": 34.88,
+    "text": "as a communication coach and a global"
+  },
+  {
+    "start": "00:00:34.880",
+    "end": "00:00:36.670",
+    "start_seconds": 34.88,
+    "end_seconds": 36.67,
+    "text": "as a communication coach and a global keynote speaker. But before I teach it"
+  },
+  {
+    "start": "00:00:36.670",
+    "end": "00:00:36.680",
+    "start_seconds": 36.67,
+    "end_seconds": 36.68,
+    "text": "keynote speaker. But before I teach it"
+  },
+  {
+    "start": "00:00:36.680",
+    "end": "00:00:38.470",
+    "start_seconds": 36.68,
+    "end_seconds": 38.47,
+    "text": "keynote speaker. But before I teach it to you, I need to address the biggest"
+  },
+  {
+    "start": "00:00:38.470",
+    "end": "00:00:38.480",
+    "start_seconds": 38.47,
+    "end_seconds": 38.48,
+    "text": "to you, I need to address the biggest"
+  },
+  {
+    "start": "00:00:38.480",
+    "end": "00:00:40.030",
+    "start_seconds": 38.48,
+    "end_seconds": 40.03,
+    "text": "to you, I need to address the biggest mistake I see people make when they're"
+  },
+  {
+    "start": "00:00:40.030",
+    "end": "00:00:40.040",
+    "start_seconds": 40.03,
+    "end_seconds": 40.04,
+    "text": "mistake I see people make when they're"
+  },
+  {
+    "start": "00:00:40.040",
+    "end": "00:00:41.950",
+    "start_seconds": 40.04,
+    "end_seconds": 41.95,
+    "text": "mistake I see people make when they're trying to find common ground. I'll draw"
+  },
+  {
+    "start": "00:00:41.950",
+    "end": "00:00:41.960",
+    "start_seconds": 41.95,
+    "end_seconds": 41.96,
+    "text": "trying to find common ground. I'll draw"
+  },
+  {
+    "start": "00:00:41.960",
+    "end": "00:00:44.750",
+    "start_seconds": 41.96,
+    "end_seconds": 44.75,
+    "text": "trying to find common ground. I'll draw it out for you. Imagine this is you,"
+  },
+  {
+    "start": "00:00:44.750",
+    "end": "00:00:44.760",
+    "start_seconds": 44.75,
+    "end_seconds": 44.76,
+    "text": "it out for you. Imagine this is you,"
+  },
+  {
+    "start": "00:00:44.760",
+    "end": "00:00:46.190",
+    "start_seconds": 44.76,
+    "end_seconds": 46.19,
+    "text": "it out for you. Imagine this is you, slightly taller and slightly better"
+  },
+  {
+    "start": "00:00:46.190",
+    "end": "00:00:46.200",
+    "start_seconds": 46.19,
+    "end_seconds": 46.2,
+    "text": "slightly taller and slightly better"
+  },
+  {
+    "start": "00:00:46.200",
+    "end": "00:00:48.430",
+    "start_seconds": 46.2,
+    "end_seconds": 48.43,
+    "text": "slightly taller and slightly better looking. And this is the person that you"
+  },
+  {
+    "start": "00:00:48.430",
+    "end": "00:00:48.440",
+    "start_seconds": 48.43,
+    "end_seconds": 48.44,
+    "text": "looking. And this is the person that you"
+  },
+  {
+    "start": "00:00:48.440",
+    "end": "00:00:51.230",
+    "start_seconds": 48.44,
+    "end_seconds": 51.23,
+    "text": "looking. And this is the person that you are talking to, them, the other person."
+  },
+  {
+    "start": "00:00:51.230",
+    "end": "00:00:51.240",
+    "start_seconds": 51.23,
+    "end_seconds": 51.24,
+    "text": "are talking to, them, the other person."
+  },
+  {
+    "start": "00:00:51.240",
+    "end": "00:00:53.110",
+    "start_seconds": 51.24,
+    "end_seconds": 53.11,
+    "text": "are talking to, them, the other person. You're both in the small talk phase and"
+  },
+  {
+    "start": "00:00:53.110",
+    "end": "00:00:53.120",
+    "start_seconds": 53.11,
+    "end_seconds": 53.12,
+    "text": "You're both in the small talk phase and"
+  },
+  {
+    "start": "00:00:53.120",
+    "end": "00:00:55.310",
+    "start_seconds": 53.12,
+    "end_seconds": 55.31,
+    "text": "You're both in the small talk phase and you secretly both are doing the exact"
+  },
+  {
+    "start": "00:00:55.310",
+    "end": "00:00:55.320",
+    "start_seconds": 55.31,
+    "end_seconds": 55.32,
+    "text": "you secretly both are doing the exact"
+  },
+  {
+    "start": "00:00:55.320",
+    "end": "00:00:56.990",
+    "start_seconds": 55.32,
+    "end_seconds": 56.99,
+    "text": "you secretly both are doing the exact same thing. You're both hunting for"
+  },
+  {
+    "start": "00:00:56.990",
+    "end": "00:00:57.000",
+    "start_seconds": 56.99,
+    "end_seconds": 57.0,
+    "text": "same thing. You're both hunting for"
+  },
+  {
+    "start": "00:00:57.000",
+    "end": "00:00:58.790",
+    "start_seconds": 57.0,
+    "end_seconds": 58.79,
+    "text": "same thing. You're both hunting for something that you have in common. The"
+  },
+  {
+    "start": "00:00:58.790",
+    "end": "00:00:58.800",
+    "start_seconds": 58.79,
+    "end_seconds": 58.8,
+    "text": "something that you have in common. The"
+  },
+  {
+    "start": "00:00:58.800",
+    "end": "00:01:01.470",
+    "start_seconds": 58.8,
+    "end_seconds": 61.47,
+    "text": "something that you have in common. The other person mentions"
+  },
+  {
+    "start": "00:01:01.470",
+    "end": "00:01:01.480",
+    "start_seconds": 61.47,
+    "end_seconds": 61.48,
+    "text": "other person mentions"
+  },
+  {
+    "start": "00:01:01.480",
+    "end": "00:01:03.350",
+    "start_seconds": 61.48,
+    "end_seconds": 63.35,
+    "text": "other person mentions fishing. And the moment they mention"
+  },
+  {
+    "start": "00:01:03.350",
+    "end": "00:01:03.360",
+    "start_seconds": 63.35,
+    "end_seconds": 63.36,
+    "text": "fishing. And the moment they mention"
+  },
+  {
+    "start": "00:01:03.360",
+    "end": "00:01:04.950",
+    "start_seconds": 63.36,
+    "end_seconds": 64.95,
+    "text": "fishing. And the moment they mention fishing, you immediately think to"
+  },
+  {
+    "start": "00:01:04.950",
+    "end": "00:01:04.960",
+    "start_seconds": 64.95,
+    "end_seconds": 64.96,
+    "text": "fishing, you immediately think to"
+  },
+  {
+    "start": "00:01:04.960",
+    "end": "00:01:06.870",
+    "start_seconds": 64.96,
+    "end_seconds": 66.87,
+    "text": "fishing, you immediately think to yourself, \"I've got zero interest in"
+  },
+  {
+    "start": "00:01:06.870",
+    "end": "00:01:06.880",
+    "start_seconds": 66.87,
+    "end_seconds": 66.88,
+    "text": "yourself, \"I've got zero interest in"
+  },
+  {
+    "start": "00:01:06.880",
+    "end": "00:01:08.430",
+    "start_seconds": 66.88,
+    "end_seconds": 68.43,
+    "text": "yourself, \"I've got zero interest in that. I hate fishing.\" So instead of"
+  },
+  {
+    "start": "00:01:08.430",
+    "end": "00:01:08.440",
+    "start_seconds": 68.43,
+    "end_seconds": 68.44,
+    "text": "that. I hate fishing.\" So instead of"
+  },
+  {
+    "start": "00:01:08.440",
+    "end": "00:01:09.790",
+    "start_seconds": 68.44,
+    "end_seconds": 69.78999999999999,
+    "text": "that. I hate fishing.\" So instead of digging into it, you change the"
+  },
+  {
+    "start": "00:01:09.790",
+    "end": "00:01:09.800",
+    "start_seconds": 69.78999999999999,
+    "end_seconds": 69.8,
+    "text": "digging into it, you change the"
+  },
+  {
+    "start": "00:01:09.800",
+    "end": "00:01:11.790",
+    "start_seconds": 69.8,
+    "end_seconds": 71.78999999999999,
+    "text": "digging into it, you change the conversation to something that you care"
+  },
+  {
+    "start": "00:01:11.790",
+    "end": "00:01:11.800",
+    "start_seconds": 71.78999999999999,
+    "end_seconds": 71.8,
+    "text": "conversation to something that you care"
+  },
+  {
+    "start": "00:01:11.800",
+    "end": "00:01:14.470",
+    "start_seconds": 71.8,
+    "end_seconds": 74.47,
+    "text": "conversation to something that you care about. And here, you go, \"Nice. I'm"
+  },
+  {
+    "start": "00:01:14.470",
+    "end": "00:01:14.480",
+    "start_seconds": 74.47,
+    "end_seconds": 74.48,
+    "text": "about. And here, you go, \"Nice. I'm"
+  },
+  {
+    "start": "00:01:14.480",
+    "end": "00:01:18.110",
+    "start_seconds": 74.48,
+    "end_seconds": 78.11,
+    "text": "about. And here, you go, \"Nice. I'm really into rock climbing.\""
+  },
+  {
+    "start": "00:01:18.110",
+    "end": "00:01:18.120",
+    "start_seconds": 78.11,
+    "end_seconds": 78.12,
+    "text": "really into rock climbing.\""
+  },
+  {
+    "start": "00:01:18.120",
+    "end": "00:01:19.350",
+    "start_seconds": 78.12,
+    "end_seconds": 79.35,
+    "text": "really into rock climbing.\" And now the other person's thinking to"
+  },
+  {
+    "start": "00:01:19.350",
+    "end": "00:01:19.360",
+    "start_seconds": 79.35,
+    "end_seconds": 79.36,
+    "text": "And now the other person's thinking to"
+  },
+  {
+    "start": "00:01:19.360",
+    "end": "00:01:21.430",
+    "start_seconds": 79.36,
+    "end_seconds": 81.43,
+    "text": "And now the other person's thinking to themselves, \"Rock climbing? What am I, a"
+  },
+  {
+    "start": "00:01:21.430",
+    "end": "00:01:21.440",
+    "start_seconds": 81.43,
+    "end_seconds": 81.44,
+    "text": "themselves, \"Rock climbing? What am I, a"
+  },
+  {
+    "start": "00:01:21.440",
+    "end": "00:01:23.710",
+    "start_seconds": 81.44,
+    "end_seconds": 83.71000000000001,
+    "text": "themselves, \"Rock climbing? What am I, a monkey? No, it's not for me.\" And now"
+  },
+  {
+    "start": "00:01:23.710",
+    "end": "00:01:23.720",
+    "start_seconds": 83.71000000000001,
+    "end_seconds": 83.72,
+    "text": "monkey? No, it's not for me.\" And now"
+  },
+  {
+    "start": "00:01:23.720",
+    "end": "00:01:25.550",
+    "start_seconds": 83.72,
+    "end_seconds": 85.55,
+    "text": "monkey? No, it's not for me.\" And now you both have arrived at the exact same"
+  },
+  {
+    "start": "00:01:25.550",
+    "end": "00:01:25.560",
+    "start_seconds": 85.55,
+    "end_seconds": 85.56,
+    "text": "you both have arrived at the exact same"
+  },
+  {
+    "start": "00:01:25.560",
+    "end": "00:01:27.910",
+    "start_seconds": 85.56,
+    "end_seconds": 87.91,
+    "text": "you both have arrived at the exact same conclusion. We both have nothing in"
+  },
+  {
+    "start": "00:01:27.910",
+    "end": "00:01:27.920",
+    "start_seconds": 87.91,
+    "end_seconds": 87.92,
+    "text": "conclusion. We both have nothing in"
+  },
+  {
+    "start": "00:01:27.920",
+    "end": "00:01:30.110",
+    "start_seconds": 87.92,
+    "end_seconds": 90.11,
+    "text": "conclusion. We both have nothing in common. That's how 90% of conversations"
+  },
+  {
+    "start": "00:01:30.110",
+    "end": "00:01:30.120",
+    "start_seconds": 90.11,
+    "end_seconds": 90.12,
+    "text": "common. That's how 90% of conversations"
+  },
+  {
+    "start": "00:01:30.120",
+    "end": "00:01:31.710",
+    "start_seconds": 90.12,
+    "end_seconds": 91.71000000000001,
+    "text": "common. That's how 90% of conversations go. They're surface level, there's no"
+  },
+  {
+    "start": "00:01:31.710",
+    "end": "00:01:31.720",
+    "start_seconds": 91.71000000000001,
+    "end_seconds": 91.72,
+    "text": "go. They're surface level, there's no"
+  },
+  {
+    "start": "00:01:31.720",
+    "end": "00:01:33.470",
+    "start_seconds": 91.72,
+    "end_seconds": 93.47,
+    "text": "go. They're surface level, there's no depth, and it happens because you're"
+  },
+  {
+    "start": "00:01:33.470",
+    "end": "00:01:33.480",
+    "start_seconds": 93.47,
+    "end_seconds": 93.47999999999999,
+    "text": "depth, and it happens because you're"
+  },
+  {
+    "start": "00:01:33.480",
+    "end": "00:01:35.750",
+    "start_seconds": 93.47999999999999,
+    "end_seconds": 95.75,
+    "text": "depth, and it happens because you're trying to find common ground in a"
+  },
+  {
+    "start": "00:01:35.750",
+    "end": "00:01:35.760",
+    "start_seconds": 95.75,
+    "end_seconds": 95.75999999999999,
+    "text": "trying to find common ground in a"
+  },
+  {
+    "start": "00:01:35.760",
+    "end": "00:01:38.230",
+    "start_seconds": 95.75999999999999,
+    "end_seconds": 98.22999999999999,
+    "text": "trying to find common ground in a straight line, in a linear way. I like"
+  },
+  {
+    "start": "00:01:38.230",
+    "end": "00:01:38.240",
+    "start_seconds": 98.22999999999999,
+    "end_seconds": 98.24000000000001,
+    "text": "straight line, in a linear way. I like"
+  },
+  {
+    "start": "00:01:38.240",
+    "end": "00:01:40.070",
+    "start_seconds": 98.24000000000001,
+    "end_seconds": 100.07,
+    "text": "straight line, in a linear way. I like this, you don't like this, yes, we've"
+  },
+  {
+    "start": "00:01:40.070",
+    "end": "00:01:40.080",
+    "start_seconds": 100.07,
+    "end_seconds": 100.08,
+    "text": "this, you don't like this, yes, we've"
+  },
+  {
+    "start": "00:01:40.080",
+    "end": "00:01:41.630",
+    "start_seconds": 100.08,
+    "end_seconds": 101.63,
+    "text": "this, you don't like this, yes, we've got nothing in common. And when someone"
+  },
+  {
+    "start": "00:01:41.630",
+    "end": "00:01:41.640",
+    "start_seconds": 101.63,
+    "end_seconds": 101.64,
+    "text": "got nothing in common. And when someone"
+  },
+  {
+    "start": "00:01:41.640",
+    "end": "00:01:43.670",
+    "start_seconds": 101.64,
+    "end_seconds": 103.67,
+    "text": "got nothing in common. And when someone says they like fishing, there's more to"
+  },
+  {
+    "start": "00:01:43.670",
+    "end": "00:01:43.680",
+    "start_seconds": 103.67,
+    "end_seconds": 103.68,
+    "text": "says they like fishing, there's more to"
+  },
+  {
+    "start": "00:01:43.680",
+    "end": "00:01:45.150",
+    "start_seconds": 103.68,
+    "end_seconds": 105.15,
+    "text": "says they like fishing, there's more to it than just the fishing component."
+  },
+  {
+    "start": "00:01:45.150",
+    "end": "00:01:45.160",
+    "start_seconds": 105.15,
+    "end_seconds": 105.16,
+    "text": "it than just the fishing component."
+  },
+  {
+    "start": "00:01:45.160",
+    "end": "00:01:47.030",
+    "start_seconds": 105.16,
+    "end_seconds": 107.03,
+    "text": "it than just the fishing component. Maybe they like being out in the ocean."
+  },
+  {
+    "start": "00:01:47.030",
+    "end": "00:01:47.040",
+    "start_seconds": 107.03,
+    "end_seconds": 107.03999999999999,
+    "text": "Maybe they like being out in the ocean."
+  },
+  {
+    "start": "00:01:47.040",
+    "end": "00:01:48.710",
+    "start_seconds": 107.03999999999999,
+    "end_seconds": 108.71000000000001,
+    "text": "Maybe they like being out in the ocean. Maybe they find it peaceful. Maybe they"
+  },
+  {
+    "start": "00:01:48.710",
+    "end": "00:01:48.720",
+    "start_seconds": 108.71000000000001,
+    "end_seconds": 108.72,
+    "text": "Maybe they find it peaceful. Maybe they"
+  },
+  {
+    "start": "00:01:48.720",
+    "end": "00:01:50.390",
+    "start_seconds": 108.72,
+    "end_seconds": 110.39,
+    "text": "Maybe they find it peaceful. Maybe they enjoy nature. Maybe it's because they"
+  },
+  {
+    "start": "00:01:50.390",
+    "end": "00:01:50.400",
+    "start_seconds": 110.39,
+    "end_seconds": 110.4,
+    "text": "enjoy nature. Maybe it's because they"
+  },
+  {
+    "start": "00:01:50.400",
+    "end": "00:01:52.670",
+    "start_seconds": 110.4,
+    "end_seconds": 112.67,
+    "text": "enjoy nature. Maybe it's because they love being self-sufficient and catching"
+  },
+  {
+    "start": "00:01:52.670",
+    "end": "00:01:52.680",
+    "start_seconds": 112.67,
+    "end_seconds": 112.68,
+    "text": "love being self-sufficient and catching"
+  },
+  {
+    "start": "00:01:52.680",
+    "end": "00:01:54.630",
+    "start_seconds": 112.68,
+    "end_seconds": 114.63,
+    "text": "love being self-sufficient and catching their own food. There are so many other"
+  },
+  {
+    "start": "00:01:54.630",
+    "end": "00:01:54.640",
+    "start_seconds": 114.63,
+    "end_seconds": 114.64,
+    "text": "their own food. There are so many other"
+  },
+  {
+    "start": "00:01:54.640",
+    "end": "00:01:56.550",
+    "start_seconds": 114.64,
+    "end_seconds": 116.55,
+    "text": "their own food. There are so many other things is fishing can represent for the"
+  },
+  {
+    "start": "00:01:56.550",
+    "end": "00:01:56.560",
+    "start_seconds": 116.55,
+    "end_seconds": 116.56,
+    "text": "things is fishing can represent for the"
+  },
+  {
+    "start": "00:01:56.560",
+    "end": "00:01:58.870",
+    "start_seconds": 116.56,
+    "end_seconds": 118.87,
+    "text": "things is fishing can represent for the other person. And that right there lies"
+  },
+  {
+    "start": "00:01:58.870",
+    "end": "00:01:58.880",
+    "start_seconds": 118.87,
+    "end_seconds": 118.88,
+    "text": "other person. And that right there lies"
+  },
+  {
+    "start": "00:01:58.880",
+    "end": "00:02:00.830",
+    "start_seconds": 118.88,
+    "end_seconds": 120.83,
+    "text": "other person. And that right there lies the secret in being able to find"
+  },
+  {
+    "start": "00:02:00.830",
+    "end": "00:02:00.840",
+    "start_seconds": 120.83,
+    "end_seconds": 120.84,
+    "text": "the secret in being able to find"
+  },
+  {
+    "start": "00:02:00.840",
+    "end": "00:02:02.750",
+    "start_seconds": 120.84,
+    "end_seconds": 122.75,
+    "text": "the secret in being able to find something in common with every single"
+  },
+  {
+    "start": "00:02:02.750",
+    "end": "00:02:02.760",
+    "start_seconds": 122.75,
+    "end_seconds": 122.76,
+    "text": "something in common with every single"
+  },
+  {
+    "start": "00:02:02.760",
+    "end": "00:02:05.030",
+    "start_seconds": 122.76,
+    "end_seconds": 125.03,
+    "text": "something in common with every single person you connect with. The framework,"
+  },
+  {
+    "start": "00:02:05.030",
+    "end": "00:02:05.040",
+    "start_seconds": 125.03,
+    "end_seconds": 125.04,
+    "text": "person you connect with. The framework,"
+  },
+  {
+    "start": "00:02:05.040",
+    "end": "00:02:08.029",
+    "start_seconds": 125.04,
+    "end_seconds": 128.029,
+    "text": "person you connect with. The framework, it's called match."
+  },
+  {
+    "start": "00:02:08.029",
+    "end": "00:02:08.039",
+    "start_seconds": 128.029,
+    "end_seconds": 128.039,
+    "text": "it's called match."
+  },
+  {
+    "start": "00:02:08.039",
+    "end": "00:02:10.109",
+    "start_seconds": 128.039,
+    "end_seconds": 130.109,
+    "text": "it's called match. That's exactly what you're doing. You're"
+  },
+  {
+    "start": "00:02:10.109",
+    "end": "00:02:10.119",
+    "start_seconds": 130.109,
+    "end_seconds": 130.119,
+    "text": "That's exactly what you're doing. You're"
+  },
+  {
+    "start": "00:02:10.119",
+    "end": "00:02:11.830",
+    "start_seconds": 130.119,
+    "end_seconds": 131.83,
+    "text": "That's exactly what you're doing. You're trying to find a match between their"
+  },
+  {
+    "start": "00:02:11.830",
+    "end": "00:02:11.840",
+    "start_seconds": 131.83,
+    "end_seconds": 131.84,
+    "text": "trying to find a match between their"
+  },
+  {
+    "start": "00:02:11.840",
+    "end": "00:02:14.390",
+    "start_seconds": 131.84,
+    "end_seconds": 134.39,
+    "text": "trying to find a match between their world and your world. Let's set a scene"
+  },
+  {
+    "start": "00:02:14.390",
+    "end": "00:02:14.400",
+    "start_seconds": 134.39,
+    "end_seconds": 134.4,
+    "text": "world and your world. Let's set a scene"
+  },
+  {
+    "start": "00:02:14.400",
+    "end": "00:02:15.576",
+    "start_seconds": 134.4,
+    "end_seconds": 135.576,
+    "text": "world and your world. Let's set a scene first of all to work with"
+  },
+  {
+    "start": "00:02:15.576",
+    "end": "00:02:15.586",
+    "start_seconds": 135.576,
+    "end_seconds": 135.586,
+    "text": "first of all to work with"
+  },
+  {
+    "start": "00:02:15.586",
+    "end": "00:02:15.710",
+    "start_seconds": 135.586,
+    "end_seconds": 135.71,
+    "text": "first of all to work with >> [music]"
+  },
+  {
+    "start": "00:02:15.710",
+    "end": "00:02:15.720",
+    "start_seconds": 135.71,
+    "end_seconds": 135.72,
+    "text": ">> [music]"
+  },
+  {
+    "start": "00:02:15.720",
+    "end": "00:02:18.070",
+    "start_seconds": 135.72,
+    "end_seconds": 138.07,
+    "text": ">> [music] >> because this happens to everybody. So,"
+  },
+  {
+    "start": "00:02:18.070",
+    "end": "00:02:18.080",
+    "start_seconds": 138.07,
+    "end_seconds": 138.07999999999998,
+    "text": ">> because this happens to everybody. So,"
+  },
+  {
+    "start": "00:02:18.080",
+    "end": "00:02:19.590",
+    "start_seconds": 138.07999999999998,
+    "end_seconds": 139.59,
+    "text": ">> because this happens to everybody. So, you're at work and there's this"
+  },
+  {
+    "start": "00:02:19.590",
+    "end": "00:02:19.600",
+    "start_seconds": 139.59,
+    "end_seconds": 139.6,
+    "text": "you're at work and there's this"
+  },
+  {
+    "start": "00:02:19.600",
+    "end": "00:02:21.070",
+    "start_seconds": 139.6,
+    "end_seconds": 141.07,
+    "text": "you're at work and there's this colleague of yours that you've worked"
+  },
+  {
+    "start": "00:02:21.070",
+    "end": "00:02:21.080",
+    "start_seconds": 141.07,
+    "end_seconds": 141.07999999999998,
+    "text": "colleague of yours that you've worked"
+  },
+  {
+    "start": "00:02:21.080",
+    "end": "00:02:22.790",
+    "start_seconds": 141.07999999999998,
+    "end_seconds": 142.79,
+    "text": "colleague of yours that you've worked with together for the last 3 years, but"
+  },
+  {
+    "start": "00:02:22.790",
+    "end": "00:02:22.800",
+    "start_seconds": 142.79,
+    "end_seconds": 142.8,
+    "text": "with together for the last 3 years, but"
+  },
+  {
+    "start": "00:02:22.800",
+    "end": "00:02:24.790",
+    "start_seconds": 142.8,
+    "end_seconds": 144.79,
+    "text": "with together for the last 3 years, but you know literally nothing about them"
+  },
+  {
+    "start": "00:02:24.790",
+    "end": "00:02:24.800",
+    "start_seconds": 144.79,
+    "end_seconds": 144.8,
+    "text": "you know literally nothing about them"
+  },
+  {
+    "start": "00:02:24.800",
+    "end": "00:02:26.270",
+    "start_seconds": 144.8,
+    "end_seconds": 146.27,
+    "text": "you know literally nothing about them because you're afraid that you have"
+  },
+  {
+    "start": "00:02:26.270",
+    "end": "00:02:26.280",
+    "start_seconds": 146.27,
+    "end_seconds": 146.28,
+    "text": "because you're afraid that you have"
+  },
+  {
+    "start": "00:02:26.280",
+    "end": "00:02:27.870",
+    "start_seconds": 146.28,
+    "end_seconds": 147.87,
+    "text": "because you're afraid that you have nothing in common with them. I want you"
+  },
+  {
+    "start": "00:02:27.870",
+    "end": "00:02:27.880",
+    "start_seconds": 147.87,
+    "end_seconds": 147.88,
+    "text": "nothing in common with them. I want you"
+  },
+  {
+    "start": "00:02:27.880",
+    "end": "00:02:29.590",
+    "start_seconds": 147.88,
+    "end_seconds": 149.59,
+    "text": "nothing in common with them. I want you to imagine for a second that you invited"
+  },
+  {
+    "start": "00:02:29.590",
+    "end": "00:02:29.600",
+    "start_seconds": 149.59,
+    "end_seconds": 149.6,
+    "text": "to imagine for a second that you invited"
+  },
+  {
+    "start": "00:02:29.600",
+    "end": "00:02:31.430",
+    "start_seconds": 149.6,
+    "end_seconds": 151.43,
+    "text": "to imagine for a second that you invited them out for lunch and you said, \"Hey,"
+  },
+  {
+    "start": "00:02:31.430",
+    "end": "00:02:31.440",
+    "start_seconds": 151.43,
+    "end_seconds": 151.44,
+    "text": "them out for lunch and you said, \"Hey,"
+  },
+  {
+    "start": "00:02:31.440",
+    "end": "00:02:32.670",
+    "start_seconds": 151.44,
+    "end_seconds": 152.67000000000002,
+    "text": "them out for lunch and you said, \"Hey, we've been working together for the last"
+  },
+  {
+    "start": "00:02:32.670",
+    "end": "00:02:32.680",
+    "start_seconds": 152.67000000000002,
+    "end_seconds": 152.68,
+    "text": "we've been working together for the last"
+  },
+  {
+    "start": "00:02:32.680",
+    "end": "00:02:34.470",
+    "start_seconds": 152.68,
+    "end_seconds": 154.47,
+    "text": "we've been working together for the last 3 years. Let's have lunch together. I'm"
+  },
+  {
+    "start": "00:02:34.470",
+    "end": "00:02:34.480",
+    "start_seconds": 154.47,
+    "end_seconds": 154.48,
+    "text": "3 years. Let's have lunch together. I'm"
+  },
+  {
+    "start": "00:02:34.480",
+    "end": "00:02:35.990",
+    "start_seconds": 154.48,
+    "end_seconds": 155.99,
+    "text": "3 years. Let's have lunch together. I'm buying.\" And now you're both at lunch"
+  },
+  {
+    "start": "00:02:35.990",
+    "end": "00:02:36.000",
+    "start_seconds": 155.99,
+    "end_seconds": 156.0,
+    "text": "buying.\" And now you're both at lunch"
+  },
+  {
+    "start": "00:02:36.000",
+    "end": "00:02:37.430",
+    "start_seconds": 156.0,
+    "end_seconds": 157.43,
+    "text": "buying.\" And now you're both at lunch and you've got your sandwich and they've"
+  },
+  {
+    "start": "00:02:37.430",
+    "end": "00:02:37.440",
+    "start_seconds": 157.43,
+    "end_seconds": 157.44,
+    "text": "and you've got your sandwich and they've"
+  },
+  {
+    "start": "00:02:37.440",
+    "end": "00:02:39.190",
+    "start_seconds": 157.44,
+    "end_seconds": 159.19,
+    "text": "and you've got your sandwich and they've got their pasta. And normally at this"
+  },
+  {
+    "start": "00:02:39.190",
+    "end": "00:02:39.200",
+    "start_seconds": 159.19,
+    "end_seconds": 159.2,
+    "text": "got their pasta. And normally at this"
+  },
+  {
+    "start": "00:02:39.200",
+    "end": "00:02:40.870",
+    "start_seconds": 159.2,
+    "end_seconds": 160.87,
+    "text": "got their pasta. And normally at this point you'd be freaking out, but freak"
+  },
+  {
+    "start": "00:02:40.870",
+    "end": "00:02:40.880",
+    "start_seconds": 160.87,
+    "end_seconds": 160.88,
+    "text": "point you'd be freaking out, but freak"
+  },
+  {
+    "start": "00:02:40.880",
+    "end": "00:02:42.590",
+    "start_seconds": 160.88,
+    "end_seconds": 162.59,
+    "text": "point you'd be freaking out, but freak out no more because you're about to"
+  },
+  {
+    "start": "00:02:42.590",
+    "end": "00:02:42.600",
+    "start_seconds": 162.59,
+    "end_seconds": 162.6,
+    "text": "out no more because you're about to"
+  },
+  {
+    "start": "00:02:42.600",
+    "end": "00:02:45.110",
+    "start_seconds": 162.6,
+    "end_seconds": 165.11,
+    "text": "out no more because you're about to learn the match framework because it's"
+  },
+  {
+    "start": "00:02:45.110",
+    "end": "00:02:45.120",
+    "start_seconds": 165.11,
+    "end_seconds": 165.12,
+    "text": "learn the match framework because it's"
+  },
+  {
+    "start": "00:02:45.120",
+    "end": "00:02:46.710",
+    "start_seconds": 165.12,
+    "end_seconds": 166.71,
+    "text": "learn the match framework because it's going to help you find the things you"
+  },
+  {
+    "start": "00:02:46.710",
+    "end": "00:02:46.720",
+    "start_seconds": 166.71,
+    "end_seconds": 166.72,
+    "text": "going to help you find the things you"
+  },
+  {
+    "start": "00:02:46.720",
+    "end": "00:02:48.790",
+    "start_seconds": 166.72,
+    "end_seconds": 168.79,
+    "text": "going to help you find the things you have in common with people so you can"
+  },
+  {
+    "start": "00:02:48.790",
+    "end": "00:02:48.800",
+    "start_seconds": 168.79,
+    "end_seconds": 168.8,
+    "text": "have in common with people so you can"
+  },
+  {
+    "start": "00:02:48.800",
+    "end": "00:02:52.590",
+    "start_seconds": 168.8,
+    "end_seconds": 172.59,
+    "text": "have in common with people so you can ignite connection. So, what's M?"
+  },
+  {
+    "start": "00:02:52.590",
+    "end": "00:02:52.600",
+    "start_seconds": 172.59,
+    "end_seconds": 172.6,
+    "text": "ignite connection. So, what's M?"
+  },
+  {
+    "start": "00:02:52.600",
+    "end": "00:02:56.030",
+    "start_seconds": 172.6,
+    "end_seconds": 176.03,
+    "text": "ignite connection. So, what's M? Let's get into it. M stands for make"
+  },
+  {
+    "start": "00:02:56.030",
+    "end": "00:02:56.040",
+    "start_seconds": 176.03,
+    "end_seconds": 176.04,
+    "text": "Let's get into it. M stands for make"
+  },
+  {
+    "start": "00:02:56.040",
+    "end": "00:02:58.150",
+    "start_seconds": 176.04,
+    "end_seconds": 178.15,
+    "text": "Let's get into it. M stands for make an offer."
+  },
+  {
+    "start": "00:02:58.150",
+    "end": "00:02:58.160",
+    "start_seconds": 178.15,
+    "end_seconds": 178.16,
+    "text": "an offer."
+  },
+  {
+    "start": "00:02:58.160",
+    "end": "00:03:00.390",
+    "start_seconds": 178.16,
+    "end_seconds": 180.39,
+    "text": "an offer. Before you ask a single question, you"
+  },
+  {
+    "start": "00:03:00.390",
+    "end": "00:03:00.400",
+    "start_seconds": 180.39,
+    "end_seconds": 180.4,
+    "text": "Before you ask a single question, you"
+  },
+  {
+    "start": "00:03:00.400",
+    "end": "00:03:02.390",
+    "start_seconds": 180.4,
+    "end_seconds": 182.39,
+    "text": "Before you ask a single question, you share something about you first. Like"
+  },
+  {
+    "start": "00:03:02.390",
+    "end": "00:03:02.400",
+    "start_seconds": 182.39,
+    "end_seconds": 182.4,
+    "text": "share something about you first. Like"
+  },
+  {
+    "start": "00:03:02.400",
+    "end": "00:03:04.910",
+    "start_seconds": 182.4,
+    "end_seconds": 184.91,
+    "text": "share something about you first. Like this. Hey, I'm so glad we're finally"
+  },
+  {
+    "start": "00:03:04.910",
+    "end": "00:03:04.920",
+    "start_seconds": 184.91,
+    "end_seconds": 184.92,
+    "text": "this. Hey, I'm so glad we're finally"
+  },
+  {
+    "start": "00:03:04.920",
+    "end": "00:03:06.590",
+    "start_seconds": 184.92,
+    "end_seconds": 186.59,
+    "text": "this. Hey, I'm so glad we're finally having lunch together. You know, one of"
+  },
+  {
+    "start": "00:03:06.590",
+    "end": "00:03:06.600",
+    "start_seconds": 186.59,
+    "end_seconds": 186.6,
+    "text": "having lunch together. You know, one of"
+  },
+  {
+    "start": "00:03:06.600",
+    "end": "00:03:08.350",
+    "start_seconds": 186.6,
+    "end_seconds": 188.35,
+    "text": "having lunch together. You know, one of the reasons why I left my previous job"
+  },
+  {
+    "start": "00:03:08.350",
+    "end": "00:03:08.360",
+    "start_seconds": 188.35,
+    "end_seconds": 188.36,
+    "text": "the reasons why I left my previous job"
+  },
+  {
+    "start": "00:03:08.360",
+    "end": "00:03:10.190",
+    "start_seconds": 188.36,
+    "end_seconds": 190.19,
+    "text": "the reasons why I left my previous job is because I really believe in what we"
+  },
+  {
+    "start": "00:03:10.190",
+    "end": "00:03:10.200",
+    "start_seconds": 190.19,
+    "end_seconds": 190.2,
+    "text": "is because I really believe in what we"
+  },
+  {
+    "start": "00:03:10.200",
+    "end": "00:03:11.830",
+    "start_seconds": 190.2,
+    "end_seconds": 191.83,
+    "text": "is because I really believe in what we do here. You know, helping people find"
+  },
+  {
+    "start": "00:03:11.830",
+    "end": "00:03:11.840",
+    "start_seconds": 191.83,
+    "end_seconds": 191.84,
+    "text": "do here. You know, helping people find"
+  },
+  {
+    "start": "00:03:11.840",
+    "end": "00:03:13.350",
+    "start_seconds": 191.84,
+    "end_seconds": 193.35,
+    "text": "do here. You know, helping people find their voice and share their gifts and"
+  },
+  {
+    "start": "00:03:13.350",
+    "end": "00:03:13.360",
+    "start_seconds": 193.35,
+    "end_seconds": 193.36,
+    "text": "their voice and share their gifts and"
+  },
+  {
+    "start": "00:03:13.360",
+    "end": "00:03:15.310",
+    "start_seconds": 193.36,
+    "end_seconds": 195.31,
+    "text": "their voice and share their gifts and shine their light into the world. It"
+  },
+  {
+    "start": "00:03:15.310",
+    "end": "00:03:15.320",
+    "start_seconds": 195.31,
+    "end_seconds": 195.32,
+    "text": "shine their light into the world. It"
+  },
+  {
+    "start": "00:03:15.320",
+    "end": "00:03:16.710",
+    "start_seconds": 195.32,
+    "end_seconds": 196.71,
+    "text": "shine their light into the world. It really gives me a lot of fulfillment."
+  },
+  {
+    "start": "00:03:16.710",
+    "end": "00:03:16.720",
+    "start_seconds": 196.71,
+    "end_seconds": 196.72,
+    "text": "really gives me a lot of fulfillment."
+  },
+  {
+    "start": "00:03:16.720",
+    "end": "00:03:18.670",
+    "start_seconds": 196.72,
+    "end_seconds": 198.67000000000002,
+    "text": "really gives me a lot of fulfillment. You see, now that's an offer. It's"
+  },
+  {
+    "start": "00:03:18.670",
+    "end": "00:03:18.680",
+    "start_seconds": 198.67000000000002,
+    "end_seconds": 198.68,
+    "text": "You see, now that's an offer. It's"
+  },
+  {
+    "start": "00:03:18.680",
+    "end": "00:03:21.509",
+    "start_seconds": 198.68,
+    "end_seconds": 201.50900000000001,
+    "text": "You see, now that's an offer. It's small, but it does two things. It lowers"
+  },
+  {
+    "start": "00:03:21.509",
+    "end": "00:03:21.519",
+    "start_seconds": 201.50900000000001,
+    "end_seconds": 201.519,
+    "text": "small, but it does two things. It lowers"
+  },
+  {
+    "start": "00:03:21.519",
+    "end": "00:03:23.550",
+    "start_seconds": 201.519,
+    "end_seconds": 203.55,
+    "text": "small, but it does two things. It lowers their guard because you went first and"
+  },
+  {
+    "start": "00:03:23.550",
+    "end": "00:03:23.560",
+    "start_seconds": 203.55,
+    "end_seconds": 203.56,
+    "text": "their guard because you went first and"
+  },
+  {
+    "start": "00:03:23.560",
+    "end": "00:03:25.110",
+    "start_seconds": 203.56,
+    "end_seconds": 205.11,
+    "text": "their guard because you went first and it shows them the depth that you're"
+  },
+  {
+    "start": "00:03:25.110",
+    "end": "00:03:25.120",
+    "start_seconds": 205.11,
+    "end_seconds": 205.12,
+    "text": "it shows them the depth that you're"
+  },
+  {
+    "start": "00:03:25.120",
+    "end": "00:03:27.390",
+    "start_seconds": 205.12,
+    "end_seconds": 207.39,
+    "text": "it shows them the depth that you're inviting. You go shallow, they're going"
+  },
+  {
+    "start": "00:03:27.390",
+    "end": "00:03:27.400",
+    "start_seconds": 207.39,
+    "end_seconds": 207.4,
+    "text": "inviting. You go shallow, they're going"
+  },
+  {
+    "start": "00:03:27.400",
+    "end": "00:03:29.670",
+    "start_seconds": 207.4,
+    "end_seconds": 209.67000000000002,
+    "text": "inviting. You go shallow, they're going to go shallow. You go deeper and trust"
+  },
+  {
+    "start": "00:03:29.670",
+    "end": "00:03:29.680",
+    "start_seconds": 209.67000000000002,
+    "end_seconds": 209.68,
+    "text": "to go shallow. You go deeper and trust"
+  },
+  {
+    "start": "00:03:29.680",
+    "end": "00:03:31.670",
+    "start_seconds": 209.68,
+    "end_seconds": 211.67000000000002,
+    "text": "to go shallow. You go deeper and trust me, they'll go deeper. Think of it like"
+  },
+  {
+    "start": "00:03:31.670",
+    "end": "00:03:31.680",
+    "start_seconds": 211.67000000000002,
+    "end_seconds": 211.68,
+    "text": "me, they'll go deeper. Think of it like"
+  },
+  {
+    "start": "00:03:31.680",
+    "end": "00:03:33.750",
+    "start_seconds": 211.68,
+    "end_seconds": 213.75,
+    "text": "me, they'll go deeper. Think of it like tennis. You can't have a rally until"
+  },
+  {
+    "start": "00:03:33.750",
+    "end": "00:03:33.760",
+    "start_seconds": 213.75,
+    "end_seconds": 213.76,
+    "text": "tennis. You can't have a rally until"
+  },
+  {
+    "start": "00:03:33.760",
+    "end": "00:03:35.630",
+    "start_seconds": 213.76,
+    "end_seconds": 215.63,
+    "text": "tennis. You can't have a rally until someone actually serves the damn ball."
+  },
+  {
+    "start": "00:03:35.630",
+    "end": "00:03:35.640",
+    "start_seconds": 215.63,
+    "end_seconds": 215.64,
+    "text": "someone actually serves the damn ball."
+  },
+  {
+    "start": "00:03:35.640",
+    "end": "00:03:38.229",
+    "start_seconds": 215.64,
+    "end_seconds": 218.22899999999998,
+    "text": "someone actually serves the damn ball. Making an offer is you serving first. It"
+  },
+  {
+    "start": "00:03:38.229",
+    "end": "00:03:38.239",
+    "start_seconds": 218.22899999999998,
+    "end_seconds": 218.239,
+    "text": "Making an offer is you serving first. It"
+  },
+  {
+    "start": "00:03:38.239",
+    "end": "00:03:40.270",
+    "start_seconds": 218.239,
+    "end_seconds": 220.27,
+    "text": "Making an offer is you serving first. It gives them something to swing at. So,"
+  },
+  {
+    "start": "00:03:40.270",
+    "end": "00:03:40.280",
+    "start_seconds": 220.27,
+    "end_seconds": 220.28,
+    "text": "gives them something to swing at. So,"
+  },
+  {
+    "start": "00:03:40.280",
+    "end": "00:03:43.670",
+    "start_seconds": 220.28,
+    "end_seconds": 223.67000000000002,
+    "text": "gives them something to swing at. So, that's M. You go first. Now, what comes"
+  },
+  {
+    "start": "00:03:43.670",
+    "end": "00:03:43.680",
+    "start_seconds": 223.67000000000002,
+    "end_seconds": 223.68,
+    "text": "that's M. You go first. Now, what comes"
+  },
+  {
+    "start": "00:03:43.680",
+    "end": "00:03:45.670",
+    "start_seconds": 223.68,
+    "end_seconds": 225.67000000000002,
+    "text": "that's M. You go first. Now, what comes next, Vin? It's okay, don't rush me. I'm"
+  },
+  {
+    "start": "00:03:45.670",
+    "end": "00:03:45.680",
+    "start_seconds": 225.67000000000002,
+    "end_seconds": 225.68,
+    "text": "next, Vin? It's okay, don't rush me. I'm"
+  },
+  {
+    "start": "00:03:45.680",
+    "end": "00:03:47.509",
+    "start_seconds": 225.68,
+    "end_seconds": 227.50900000000001,
+    "text": "next, Vin? It's okay, don't rush me. I'm getting to it. The next one is A which"
+  },
+  {
+    "start": "00:03:47.509",
+    "end": "00:03:47.519",
+    "start_seconds": 227.50900000000001,
+    "end_seconds": 227.519,
+    "text": "getting to it. The next one is A which"
+  },
+  {
+    "start": "00:03:47.519",
+    "end": "00:03:50.870",
+    "start_seconds": 227.519,
+    "end_seconds": 230.87,
+    "text": "getting to it. The next one is A which stands for ask across"
+  },
+  {
+    "start": "00:03:50.870",
+    "end": "00:03:50.880",
+    "start_seconds": 230.87,
+    "end_seconds": 230.88,
+    "text": "stands for ask across"
+  },
+  {
+    "start": "00:03:50.880",
+    "end": "00:03:52.030",
+    "start_seconds": 230.88,
+    "end_seconds": 232.03,
+    "text": "stands for ask across high"
+  },
+  {
+    "start": "00:03:52.030",
+    "end": "00:03:52.040",
+    "start_seconds": 232.03,
+    "end_seconds": 232.04,
+    "text": "high"
+  },
+  {
+    "start": "00:03:52.040",
+    "end": "00:03:54.150",
+    "start_seconds": 232.04,
+    "end_seconds": 234.15,
+    "text": "high yielding areas."
+  },
+  {
+    "start": "00:03:54.150",
+    "end": "00:03:54.160",
+    "start_seconds": 234.15,
+    "end_seconds": 234.16,
+    "text": "yielding areas."
+  },
+  {
+    "start": "00:03:54.160",
+    "end": "00:03:55.790",
+    "start_seconds": 234.16,
+    "end_seconds": 235.79,
+    "text": "yielding areas. Here's where most people run dry. They"
+  },
+  {
+    "start": "00:03:55.790",
+    "end": "00:03:55.800",
+    "start_seconds": 235.79,
+    "end_seconds": 235.8,
+    "text": "Here's where most people run dry. They"
+  },
+  {
+    "start": "00:03:55.800",
+    "end": "00:03:57.350",
+    "start_seconds": 235.8,
+    "end_seconds": 237.35,
+    "text": "Here's where most people run dry. They ask, \"So, what do you do? And how was"
+  },
+  {
+    "start": "00:03:57.350",
+    "end": "00:03:57.360",
+    "start_seconds": 237.35,
+    "end_seconds": 237.36,
+    "text": "ask, \"So, what do you do? And how was"
+  },
+  {
+    "start": "00:03:57.360",
+    "end": "00:03:59.230",
+    "start_seconds": 237.36,
+    "end_seconds": 239.23,
+    "text": "ask, \"So, what do you do? And how was your weekend?\" And then they run out of"
+  },
+  {
+    "start": "00:03:59.230",
+    "end": "00:03:59.240",
+    "start_seconds": 239.23,
+    "end_seconds": 239.24,
+    "text": "your weekend?\" And then they run out of"
+  },
+  {
+    "start": "00:03:59.240",
+    "end": "00:04:01.430",
+    "start_seconds": 239.24,
+    "end_seconds": 241.43,
+    "text": "your weekend?\" And then they run out of ammo. So, I keep these five areas in"
+  },
+  {
+    "start": "00:04:01.430",
+    "end": "00:04:01.440",
+    "start_seconds": 241.43,
+    "end_seconds": 241.44,
+    "text": "ammo. So, I keep these five areas in"
+  },
+  {
+    "start": "00:04:01.440",
+    "end": "00:04:04.230",
+    "start_seconds": 241.44,
+    "end_seconds": 244.23,
+    "text": "ammo. So, I keep these five areas in life in my back pocket. Five places that"
+  },
+  {
+    "start": "00:04:04.230",
+    "end": "00:04:04.240",
+    "start_seconds": 244.23,
+    "end_seconds": 244.24,
+    "text": "life in my back pocket. Five places that"
+  },
+  {
+    "start": "00:04:04.240",
+    "end": "00:04:05.910",
+    "start_seconds": 244.24,
+    "end_seconds": 245.91,
+    "text": "life in my back pocket. Five places that almost always reveals who somebody"
+  },
+  {
+    "start": "00:04:05.910",
+    "end": "00:04:05.920",
+    "start_seconds": 245.91,
+    "end_seconds": 245.92,
+    "text": "almost always reveals who somebody"
+  },
+  {
+    "start": "00:04:05.920",
+    "end": "00:04:09.550",
+    "start_seconds": 245.92,
+    "end_seconds": 249.55,
+    "text": "almost always reveals who somebody actually is. And they all start with"
+  },
+  {
+    "start": "00:04:09.550",
+    "end": "00:04:09.560",
+    "start_seconds": 249.55,
+    "end_seconds": 249.56,
+    "text": "actually is. And they all start with"
+  },
+  {
+    "start": "00:04:09.560",
+    "end": "00:04:10.830",
+    "start_seconds": 249.56,
+    "end_seconds": 250.83,
+    "text": "actually is. And they all start with P."
+  },
+  {
+    "start": "00:04:10.830",
+    "end": "00:04:10.840",
+    "start_seconds": 250.83,
+    "end_seconds": 250.84,
+    "text": "P."
+  },
+  {
+    "start": "00:04:10.840",
+    "end": "00:04:14.110",
+    "start_seconds": 250.84,
+    "end_seconds": 254.11,
+    "text": "P. Let's talk about P number one."
+  },
+  {
+    "start": "00:04:14.110",
+    "end": "00:04:14.120",
+    "start_seconds": 254.11,
+    "end_seconds": 254.12,
+    "text": "Let's talk about P number one."
+  },
+  {
+    "start": "00:04:14.120",
+    "end": "00:04:16.630",
+    "start_seconds": 254.12,
+    "end_seconds": 256.63,
+    "text": "Let's talk about P number one. With P number one, talk about the past,"
+  },
+  {
+    "start": "00:04:16.630",
+    "end": "00:04:16.640",
+    "start_seconds": 256.63,
+    "end_seconds": 256.64,
+    "text": "With P number one, talk about the past,"
+  },
+  {
+    "start": "00:04:16.640",
+    "end": "00:04:18.229",
+    "start_seconds": 256.64,
+    "end_seconds": 258.229,
+    "text": "With P number one, talk about the past, their childhood memories, the school"
+  },
+  {
+    "start": "00:04:18.229",
+    "end": "00:04:18.239",
+    "start_seconds": 258.229,
+    "end_seconds": 258.239,
+    "text": "their childhood memories, the school"
+  },
+  {
+    "start": "00:04:18.239",
+    "end": "00:04:19.990",
+    "start_seconds": 258.239,
+    "end_seconds": 259.99,
+    "text": "their childhood memories, the school they went to, what they wanted to be"
+  },
+  {
+    "start": "00:04:19.990",
+    "end": "00:04:20.000",
+    "start_seconds": 259.99,
+    "end_seconds": 260.0,
+    "text": "they went to, what they wanted to be"
+  },
+  {
+    "start": "00:04:20.000",
+    "end": "00:04:21.590",
+    "start_seconds": 260.0,
+    "end_seconds": 261.59,
+    "text": "they went to, what they wanted to be when they were little."
+  },
+  {
+    "start": "00:04:21.590",
+    "end": "00:04:21.600",
+    "start_seconds": 261.59,
+    "end_seconds": 261.6,
+    "text": "when they were little."
+  },
+  {
+    "start": "00:04:21.600",
+    "end": "00:04:24.390",
+    "start_seconds": 261.6,
+    "end_seconds": 264.39,
+    "text": "when they were little. P number two."
+  },
+  {
+    "start": "00:04:24.390",
+    "end": "00:04:24.400",
+    "start_seconds": 264.39,
+    "end_seconds": 264.4,
+    "text": "P number two."
+  },
+  {
+    "start": "00:04:24.400",
+    "end": "00:04:25.990",
+    "start_seconds": 264.4,
+    "end_seconds": 265.99,
+    "text": "P number two. This is the patterns that exist in their"
+  },
+  {
+    "start": "00:04:25.990",
+    "end": "00:04:26.000",
+    "start_seconds": 265.99,
+    "end_seconds": 266.0,
+    "text": "This is the patterns that exist in their"
+  },
+  {
+    "start": "00:04:26.000",
+    "end": "00:04:28.350",
+    "start_seconds": 266.0,
+    "end_seconds": 268.35,
+    "text": "This is the patterns that exist in their life, the habits, the good ones and the"
+  },
+  {
+    "start": "00:04:28.350",
+    "end": "00:04:28.360",
+    "start_seconds": 268.35,
+    "end_seconds": 268.36,
+    "text": "life, the habits, the good ones and the"
+  },
+  {
+    "start": "00:04:28.360",
+    "end": "00:04:29.950",
+    "start_seconds": 268.36,
+    "end_seconds": 269.95,
+    "text": "life, the habits, the good ones and the not so good ones, and maybe even their"
+  },
+  {
+    "start": "00:04:29.950",
+    "end": "00:04:29.960",
+    "start_seconds": 269.95,
+    "end_seconds": 269.96,
+    "text": "not so good ones, and maybe even their"
+  },
+  {
+    "start": "00:04:29.960",
+    "end": "00:04:33.510",
+    "start_seconds": 269.96,
+    "end_seconds": 273.51,
+    "text": "not so good ones, and maybe even their daily routine. P number three. Their"
+  },
+  {
+    "start": "00:04:33.510",
+    "end": "00:04:33.520",
+    "start_seconds": 273.51,
+    "end_seconds": 273.52,
+    "text": "daily routine. P number three. Their"
+  },
+  {
+    "start": "00:04:33.520",
+    "end": "00:04:35.830",
+    "start_seconds": 273.52,
+    "end_seconds": 275.83,
+    "text": "daily routine. P number three. Their preferences. What do they love? What"
+  },
+  {
+    "start": "00:04:35.830",
+    "end": "00:04:35.840",
+    "start_seconds": 275.83,
+    "end_seconds": 275.84000000000003,
+    "text": "preferences. What do they love? What"
+  },
+  {
+    "start": "00:04:35.840",
+    "end": "00:04:38.070",
+    "start_seconds": 275.84000000000003,
+    "end_seconds": 278.07,
+    "text": "preferences. What do they love? What can't they stand? What's the unpopular"
+  },
+  {
+    "start": "00:04:38.070",
+    "end": "00:04:38.080",
+    "start_seconds": 278.07,
+    "end_seconds": 278.08,
+    "text": "can't they stand? What's the unpopular"
+  },
+  {
+    "start": "00:04:38.080",
+    "end": "00:04:40.110",
+    "start_seconds": 278.08,
+    "end_seconds": 280.11,
+    "text": "can't they stand? What's the unpopular opinions that they have?"
+  },
+  {
+    "start": "00:04:40.110",
+    "end": "00:04:40.120",
+    "start_seconds": 280.11,
+    "end_seconds": 280.12,
+    "text": "opinions that they have?"
+  },
+  {
+    "start": "00:04:40.120",
+    "end": "00:04:43.310",
+    "start_seconds": 280.12,
+    "end_seconds": 283.31,
+    "text": "opinions that they have? P number four. This is their pet peeves,"
+  },
+  {
+    "start": "00:04:43.310",
+    "end": "00:04:43.320",
+    "start_seconds": 283.31,
+    "end_seconds": 283.32,
+    "text": "P number four. This is their pet peeves,"
+  },
+  {
+    "start": "00:04:43.320",
+    "end": "00:04:44.750",
+    "start_seconds": 283.32,
+    "end_seconds": 284.75,
+    "text": "P number four. This is their pet peeves, the tiny little things that piss them"
+  },
+  {
+    "start": "00:04:44.750",
+    "end": "00:04:44.760",
+    "start_seconds": 284.75,
+    "end_seconds": 284.76,
+    "text": "the tiny little things that piss them"
+  },
+  {
+    "start": "00:04:44.760",
+    "end": "00:04:46.830",
+    "start_seconds": 284.76,
+    "end_seconds": 286.83,
+    "text": "the tiny little things that piss them off and irritate them way more than they"
+  },
+  {
+    "start": "00:04:46.830",
+    "end": "00:04:46.840",
+    "start_seconds": 286.83,
+    "end_seconds": 286.84000000000003,
+    "text": "off and irritate them way more than they"
+  },
+  {
+    "start": "00:04:46.840",
+    "end": "00:04:50.158",
+    "start_seconds": 286.84000000000003,
+    "end_seconds": 290.158,
+    "text": "off and irritate them way more than they actually should. P number"
+  },
+  {
+    "start": "00:04:50.158",
+    "end": "00:04:50.168",
+    "start_seconds": 290.158,
+    "end_seconds": 290.168,
+    "text": "actually should. P number"
+  },
+  {
+    "start": "00:04:50.168",
+    "end": "00:04:50.470",
+    "start_seconds": 290.168,
+    "end_seconds": 290.47,
+    "text": "actually should. P number >> [snorts]"
+  },
+  {
+    "start": "00:04:50.470",
+    "end": "00:04:50.480",
+    "start_seconds": 290.47,
+    "end_seconds": 290.48,
+    "text": ">> [snorts]"
+  },
+  {
+    "start": "00:04:50.480",
+    "end": "00:04:53.030",
+    "start_seconds": 290.48,
+    "end_seconds": 293.03,
+    "text": ">> [snorts] >> And P number five."
+  },
+  {
+    "start": "00:04:53.030",
+    "end": "00:04:53.040",
+    "start_seconds": 293.03,
+    "end_seconds": 293.04,
+    "text": ">> And P number five."
+  },
+  {
+    "start": "00:04:53.040",
+    "end": "00:04:55.230",
+    "start_seconds": 293.04,
+    "end_seconds": 295.23,
+    "text": ">> And P number five. Possibilities. What do they want to try,"
+  },
+  {
+    "start": "00:04:55.230",
+    "end": "00:04:55.240",
+    "start_seconds": 295.23,
+    "end_seconds": 295.24,
+    "text": "Possibilities. What do they want to try,"
+  },
+  {
+    "start": "00:04:55.240",
+    "end": "00:04:57.550",
+    "start_seconds": 295.24,
+    "end_seconds": 297.55,
+    "text": "Possibilities. What do they want to try, learn, or experience one day? And adding"
+  },
+  {
+    "start": "00:04:57.550",
+    "end": "00:04:57.560",
+    "start_seconds": 297.55,
+    "end_seconds": 297.56,
+    "text": "learn, or experience one day? And adding"
+  },
+  {
+    "start": "00:04:57.560",
+    "end": "00:05:00.430",
+    "start_seconds": 297.56,
+    "end_seconds": 300.43,
+    "text": "learn, or experience one day? And adding a sixth because I can, ask them about"
+  },
+  {
+    "start": "00:05:00.430",
+    "end": "00:05:00.440",
+    "start_seconds": 300.43,
+    "end_seconds": 300.44,
+    "text": "a sixth because I can, ask them about"
+  },
+  {
+    "start": "00:05:00.440",
+    "end": "00:05:04.430",
+    "start_seconds": 300.44,
+    "end_seconds": 304.43,
+    "text": "a sixth because I can, ask them about their preams. Yes, their preams. Some"
+  },
+  {
+    "start": "00:05:04.430",
+    "end": "00:05:04.440",
+    "start_seconds": 304.43,
+    "end_seconds": 304.44,
+    "text": "their preams. Yes, their preams. Some"
+  },
+  {
+    "start": "00:05:04.440",
+    "end": "00:05:06.630",
+    "start_seconds": 304.44,
+    "end_seconds": 306.63,
+    "text": "their preams. Yes, their preams. Some people do call them dreams, but that's"
+  },
+  {
+    "start": "00:05:06.630",
+    "end": "00:05:06.640",
+    "start_seconds": 306.63,
+    "end_seconds": 306.64,
+    "text": "people do call them dreams, but that's"
+  },
+  {
+    "start": "00:05:06.640",
+    "end": "00:05:09.310",
+    "start_seconds": 306.64,
+    "end_seconds": 309.31,
+    "text": "people do call them dreams, but that's for pleusers. So, I mean it. What do"
+  },
+  {
+    "start": "00:05:09.310",
+    "end": "00:05:09.320",
+    "start_seconds": 309.31,
+    "end_seconds": 309.32,
+    "text": "for pleusers. So, I mean it. What do"
+  },
+  {
+    "start": "00:05:09.320",
+    "end": "00:05:11.470",
+    "start_seconds": 309.32,
+    "end_seconds": 311.47,
+    "text": "for pleusers. So, I mean it. What do they pream about? Ask them. And if you"
+  },
+  {
+    "start": "00:05:11.470",
+    "end": "00:05:11.480",
+    "start_seconds": 311.47,
+    "end_seconds": 311.48,
+    "text": "they pream about? Ask them. And if you"
+  },
+  {
+    "start": "00:05:11.480",
+    "end": "00:05:12.510",
+    "start_seconds": 311.48,
+    "end_seconds": 312.51,
+    "text": "they pream about? Ask them. And if you want to share, maybe you could even"
+  },
+  {
+    "start": "00:05:12.510",
+    "end": "00:05:12.520",
+    "start_seconds": 312.51,
+    "end_seconds": 312.52,
+    "text": "want to share, maybe you could even"
+  },
+  {
+    "start": "00:05:12.520",
+    "end": "00:05:15.070",
+    "start_seconds": 312.52,
+    "end_seconds": 315.07,
+    "text": "want to share, maybe you could even share one of your preams. Don't march"
+  },
+  {
+    "start": "00:05:15.070",
+    "end": "00:05:15.080",
+    "start_seconds": 315.07,
+    "end_seconds": 315.08,
+    "text": "share one of your preams. Don't march"
+  },
+  {
+    "start": "00:05:15.080",
+    "end": "00:05:16.670",
+    "start_seconds": 315.08,
+    "end_seconds": 316.67,
+    "text": "share one of your preams. Don't march through all six of these questions in"
+  },
+  {
+    "start": "00:05:16.670",
+    "end": "00:05:16.680",
+    "start_seconds": 316.67,
+    "end_seconds": 316.68,
+    "text": "through all six of these questions in"
+  },
+  {
+    "start": "00:05:16.680",
+    "end": "00:05:18.950",
+    "start_seconds": 316.68,
+    "end_seconds": 318.95,
+    "text": "through all six of these questions in six of these areas like a checklist. You"
+  },
+  {
+    "start": "00:05:18.950",
+    "end": "00:05:18.960",
+    "start_seconds": 318.95,
+    "end_seconds": 318.96,
+    "text": "six of these areas like a checklist. You"
+  },
+  {
+    "start": "00:05:18.960",
+    "end": "00:05:20.790",
+    "start_seconds": 318.96,
+    "end_seconds": 320.79,
+    "text": "six of these areas like a checklist. You reach for whichever one fits into the"
+  },
+  {
+    "start": "00:05:20.790",
+    "end": "00:05:20.800",
+    "start_seconds": 320.79,
+    "end_seconds": 320.8,
+    "text": "reach for whichever one fits into the"
+  },
+  {
+    "start": "00:05:20.800",
+    "end": "00:05:22.070",
+    "start_seconds": 320.8,
+    "end_seconds": 322.07,
+    "text": "reach for whichever one fits into the conversation you're having. Now, these"
+  },
+  {
+    "start": "00:05:22.070",
+    "end": "00:05:22.080",
+    "start_seconds": 322.07,
+    "end_seconds": 322.08,
+    "text": "conversation you're having. Now, these"
+  },
+  {
+    "start": "00:05:22.080",
+    "end": "00:05:24.230",
+    "start_seconds": 322.08,
+    "end_seconds": 324.23,
+    "text": "conversation you're having. Now, these six areas, they do one job. They move"
+  },
+  {
+    "start": "00:05:24.230",
+    "end": "00:05:24.240",
+    "start_seconds": 324.23,
+    "end_seconds": 324.24,
+    "text": "six areas, they do one job. They move"
+  },
+  {
+    "start": "00:05:24.240",
+    "end": "00:05:26.270",
+    "start_seconds": 324.24,
+    "end_seconds": 326.27,
+    "text": "six areas, they do one job. They move the conversation from small talk into a"
+  },
+  {
+    "start": "00:05:26.270",
+    "end": "00:05:26.280",
+    "start_seconds": 326.27,
+    "end_seconds": 326.28,
+    "text": "the conversation from small talk into a"
+  },
+  {
+    "start": "00:05:26.280",
+    "end": "00:05:27.950",
+    "start_seconds": 326.28,
+    "end_seconds": 327.95,
+    "text": "the conversation from small talk into a conversation that has way more"
+  },
+  {
+    "start": "00:05:27.950",
+    "end": "00:05:27.960",
+    "start_seconds": 327.95,
+    "end_seconds": 327.96,
+    "text": "conversation that has way more"
+  },
+  {
+    "start": "00:05:27.960",
+    "end": "00:05:30.310",
+    "start_seconds": 327.96,
+    "end_seconds": 330.31,
+    "text": "conversation that has way more substance. Let's resume the example."
+  },
+  {
+    "start": "00:05:30.310",
+    "end": "00:05:30.320",
+    "start_seconds": 330.31,
+    "end_seconds": 330.32,
+    "text": "substance. Let's resume the example."
+  },
+  {
+    "start": "00:05:30.320",
+    "end": "00:05:31.750",
+    "start_seconds": 330.32,
+    "end_seconds": 331.75,
+    "text": "substance. Let's resume the example. Watch what happens. It really gives me a"
+  },
+  {
+    "start": "00:05:31.750",
+    "end": "00:05:31.760",
+    "start_seconds": 331.75,
+    "end_seconds": 331.76,
+    "text": "Watch what happens. It really gives me a"
+  },
+  {
+    "start": "00:05:31.760",
+    "end": "00:05:32.590",
+    "start_seconds": 331.76,
+    "end_seconds": 332.59000000000003,
+    "text": "Watch what happens. It really gives me a lot of fulfillment."
+  },
+  {
+    "start": "00:05:32.590",
+    "end": "00:05:32.600",
+    "start_seconds": 332.59000000000003,
+    "end_seconds": 332.6,
+    "text": "lot of fulfillment."
+  },
+  {
+    "start": "00:05:32.600",
+    "end": "00:05:34.390",
+    "start_seconds": 332.6,
+    "end_seconds": 334.39,
+    "text": "lot of fulfillment. >> Yeah, that's great, man. I also believe"
+  },
+  {
+    "start": "00:05:34.390",
+    "end": "00:05:34.400",
+    "start_seconds": 334.39,
+    "end_seconds": 334.4,
+    "text": ">> Yeah, that's great, man. I also believe"
+  },
+  {
+    "start": "00:05:34.400",
+    "end": "00:05:36.270",
+    "start_seconds": 334.4,
+    "end_seconds": 336.27,
+    "text": ">> Yeah, that's great, man. I also believe in what Vince is doing here, and ever"
+  },
+  {
+    "start": "00:05:36.270",
+    "end": "00:05:36.280",
+    "start_seconds": 336.27,
+    "end_seconds": 336.28,
+    "text": "in what Vince is doing here, and ever"
+  },
+  {
+    "start": "00:05:36.280",
+    "end": "00:05:38.510",
+    "start_seconds": 336.28,
+    "end_seconds": 338.51,
+    "text": "in what Vince is doing here, and ever since I was young, I also really"
+  },
+  {
+    "start": "00:05:38.510",
+    "end": "00:05:38.520",
+    "start_seconds": 338.51,
+    "end_seconds": 338.52,
+    "text": "since I was young, I also really"
+  },
+  {
+    "start": "00:05:38.520",
+    "end": "00:05:40.150",
+    "start_seconds": 338.52,
+    "end_seconds": 340.15,
+    "text": "since I was young, I also really struggled with my communication. And I"
+  },
+  {
+    "start": "00:05:40.150",
+    "end": "00:05:40.160",
+    "start_seconds": 340.15,
+    "end_seconds": 340.15999999999997,
+    "text": "struggled with my communication. And I"
+  },
+  {
+    "start": "00:05:40.160",
+    "end": "00:05:41.510",
+    "start_seconds": 340.15999999999997,
+    "end_seconds": 341.51,
+    "text": "struggled with my communication. And I think that's one of the reasons why I"
+  },
+  {
+    "start": "00:05:41.510",
+    "end": "00:05:41.520",
+    "start_seconds": 341.51,
+    "end_seconds": 341.52,
+    "text": "think that's one of the reasons why I"
+  },
+  {
+    "start": "00:05:41.520",
+    "end": "00:05:43.310",
+    "start_seconds": 341.52,
+    "end_seconds": 343.31,
+    "text": "think that's one of the reasons why I love being here and helping others"
+  },
+  {
+    "start": "00:05:43.310",
+    "end": "00:05:43.320",
+    "start_seconds": 343.31,
+    "end_seconds": 343.32,
+    "text": "love being here and helping others"
+  },
+  {
+    "start": "00:05:43.320",
+    "end": "00:05:45.990",
+    "start_seconds": 343.32,
+    "end_seconds": 345.99,
+    "text": "love being here and helping others improve this skill."
+  },
+  {
+    "start": "00:05:45.990",
+    "end": "00:05:46.000",
+    "start_seconds": 345.99,
+    "end_seconds": 346.0,
+    "text": "improve this skill."
+  },
+  {
+    "start": "00:05:46.000",
+    "end": "00:05:47.430",
+    "start_seconds": 346.0,
+    "end_seconds": 347.43,
+    "text": "improve this skill. >> Man, that's awesome."
+  },
+  {
+    "start": "00:05:47.430",
+    "end": "00:05:47.440",
+    "start_seconds": 347.43,
+    "end_seconds": 347.44,
+    "text": ">> Man, that's awesome."
+  },
+  {
+    "start": "00:05:47.440",
+    "end": "00:05:49.070",
+    "start_seconds": 347.44,
+    "end_seconds": 349.07,
+    "text": ">> Man, that's awesome. Tell me, what was it like growing up not"
+  },
+  {
+    "start": "00:05:49.070",
+    "end": "00:05:49.080",
+    "start_seconds": 349.07,
+    "end_seconds": 349.08,
+    "text": "Tell me, what was it like growing up not"
+  },
+  {
+    "start": "00:05:49.080",
+    "end": "00:05:50.550",
+    "start_seconds": 349.08,
+    "end_seconds": 350.55,
+    "text": "Tell me, what was it like growing up not being able to communicate properly with"
+  },
+  {
+    "start": "00:05:50.550",
+    "end": "00:05:50.560",
+    "start_seconds": 350.55,
+    "end_seconds": 350.56,
+    "text": "being able to communicate properly with"
+  },
+  {
+    "start": "00:05:50.560",
+    "end": "00:05:52.830",
+    "start_seconds": 350.56,
+    "end_seconds": 352.83,
+    "text": "being able to communicate properly with people? Now, the next part of the"
+  },
+  {
+    "start": "00:05:52.830",
+    "end": "00:05:52.840",
+    "start_seconds": 352.83,
+    "end_seconds": 352.84000000000003,
+    "text": "people? Now, the next part of the"
+  },
+  {
+    "start": "00:05:52.840",
+    "end": "00:05:56.990",
+    "start_seconds": 352.84000000000003,
+    "end_seconds": 356.99,
+    "text": "people? Now, the next part of the framework, T. T stands for track"
+  },
+  {
+    "start": "00:05:56.990",
+    "end": "00:05:57.000",
+    "start_seconds": 356.99,
+    "end_seconds": 357.0,
+    "text": "framework, T. T stands for track"
+  },
+  {
+    "start": "00:05:57.000",
+    "end": "00:05:58.790",
+    "start_seconds": 357.0,
+    "end_seconds": 358.79,
+    "text": "framework, T. T stands for track the echo."
+  },
+  {
+    "start": "00:05:58.790",
+    "end": "00:05:58.800",
+    "start_seconds": 358.79,
+    "end_seconds": 358.8,
+    "text": "the echo."
+  },
+  {
+    "start": "00:05:58.800",
+    "end": "00:06:01.110",
+    "start_seconds": 358.8,
+    "end_seconds": 361.11,
+    "text": "the echo. As they answer, you're doing one thing."
+  },
+  {
+    "start": "00:06:01.110",
+    "end": "00:06:01.120",
+    "start_seconds": 361.11,
+    "end_seconds": 361.12,
+    "text": "As they answer, you're doing one thing."
+  },
+  {
+    "start": "00:06:01.120",
+    "end": "00:06:03.350",
+    "start_seconds": 361.12,
+    "end_seconds": 363.35,
+    "text": "As they answer, you're doing one thing. You're listening for the echo, which is"
+  },
+  {
+    "start": "00:06:03.350",
+    "end": "00:06:03.360",
+    "start_seconds": 363.35,
+    "end_seconds": 363.36,
+    "text": "You're listening for the echo, which is"
+  },
+  {
+    "start": "00:06:03.360",
+    "end": "00:06:05.870",
+    "start_seconds": 363.36,
+    "end_seconds": 365.87,
+    "text": "You're listening for the echo, which is what, Vin? An echo is all the other"
+  },
+  {
+    "start": "00:06:05.870",
+    "end": "00:06:05.880",
+    "start_seconds": 365.87,
+    "end_seconds": 365.88,
+    "text": "what, Vin? An echo is all the other"
+  },
+  {
+    "start": "00:06:05.880",
+    "end": "00:06:07.550",
+    "start_seconds": 365.88,
+    "end_seconds": 367.55,
+    "text": "what, Vin? An echo is all the other things that the experience that they"
+  },
+  {
+    "start": "00:06:07.550",
+    "end": "00:06:07.560",
+    "start_seconds": 367.55,
+    "end_seconds": 367.56,
+    "text": "things that the experience that they"
+  },
+  {
+    "start": "00:06:07.560",
+    "end": "00:06:09.830",
+    "start_seconds": 367.56,
+    "end_seconds": 369.83,
+    "text": "things that the experience that they shared could symbolize. Remember the"
+  },
+  {
+    "start": "00:06:09.830",
+    "end": "00:06:09.840",
+    "start_seconds": 369.83,
+    "end_seconds": 369.84,
+    "text": "shared could symbolize. Remember the"
+  },
+  {
+    "start": "00:06:09.840",
+    "end": "00:06:11.350",
+    "start_seconds": 369.84,
+    "end_seconds": 371.35,
+    "text": "shared could symbolize. Remember the fishing example right at the beginning"
+  },
+  {
+    "start": "00:06:11.350",
+    "end": "00:06:11.360",
+    "start_seconds": 371.35,
+    "end_seconds": 371.36,
+    "text": "fishing example right at the beginning"
+  },
+  {
+    "start": "00:06:11.360",
+    "end": "00:06:13.150",
+    "start_seconds": 371.36,
+    "end_seconds": 373.15,
+    "text": "fishing example right at the beginning of the video? Fishing isn't just"
+  },
+  {
+    "start": "00:06:13.150",
+    "end": "00:06:13.160",
+    "start_seconds": 373.15,
+    "end_seconds": 373.16,
+    "text": "of the video? Fishing isn't just"
+  },
+  {
+    "start": "00:06:13.160",
+    "end": "00:06:14.670",
+    "start_seconds": 373.16,
+    "end_seconds": 374.67,
+    "text": "of the video? Fishing isn't just fishing. It could mean connecting with"
+  },
+  {
+    "start": "00:06:14.670",
+    "end": "00:06:14.680",
+    "start_seconds": 374.67,
+    "end_seconds": 374.68,
+    "text": "fishing. It could mean connecting with"
+  },
+  {
+    "start": "00:06:14.680",
+    "end": "00:06:17.270",
+    "start_seconds": 374.68,
+    "end_seconds": 377.27,
+    "text": "fishing. It could mean connecting with nature, solitude, self-sufficiency, so"
+  },
+  {
+    "start": "00:06:17.270",
+    "end": "00:06:17.280",
+    "start_seconds": 377.27,
+    "end_seconds": 377.28,
+    "text": "nature, solitude, self-sufficiency, so"
+  },
+  {
+    "start": "00:06:17.280",
+    "end": "00:06:18.710",
+    "start_seconds": 377.28,
+    "end_seconds": 378.71,
+    "text": "nature, solitude, self-sufficiency, so many things. That's what you're"
+  },
+  {
+    "start": "00:06:18.710",
+    "end": "00:06:18.720",
+    "start_seconds": 378.71,
+    "end_seconds": 378.72,
+    "text": "many things. That's what you're"
+  },
+  {
+    "start": "00:06:18.720",
+    "end": "00:06:21.110",
+    "start_seconds": 378.72,
+    "end_seconds": 381.11,
+    "text": "many things. That's what you're listening out for here. Can you see how"
+  },
+  {
+    "start": "00:06:21.110",
+    "end": "00:06:21.120",
+    "start_seconds": 381.11,
+    "end_seconds": 381.12,
+    "text": "listening out for here. Can you see how"
+  },
+  {
+    "start": "00:06:21.120",
+    "end": "00:06:22.710",
+    "start_seconds": 381.12,
+    "end_seconds": 382.71,
+    "text": "listening out for here. Can you see how this makes it easier for you to find"
+  },
+  {
+    "start": "00:06:22.710",
+    "end": "00:06:22.720",
+    "start_seconds": 382.71,
+    "end_seconds": 382.72,
+    "text": "this makes it easier for you to find"
+  },
+  {
+    "start": "00:06:22.720",
+    "end": "00:06:24.030",
+    "start_seconds": 382.72,
+    "end_seconds": 384.03,
+    "text": "this makes it easier for you to find something that you both might have in"
+  },
+  {
+    "start": "00:06:24.030",
+    "end": "00:06:24.040",
+    "start_seconds": 384.03,
+    "end_seconds": 384.04,
+    "text": "something that you both might have in"
+  },
+  {
+    "start": "00:06:24.040",
+    "end": "00:06:25.110",
+    "start_seconds": 384.04,
+    "end_seconds": 385.11,
+    "text": "something that you both might have in common?"
+  },
+  {
+    "start": "00:06:25.110",
+    "end": "00:06:25.120",
+    "start_seconds": 385.11,
+    "end_seconds": 385.12,
+    "text": "common?"
+  },
+  {
+    "start": "00:06:25.120",
+    "end": "00:06:26.150",
+    "start_seconds": 385.12,
+    "end_seconds": 386.15,
+    "text": "common? So, when you're listening to someone"
+  },
+  {
+    "start": "00:06:26.150",
+    "end": "00:06:26.160",
+    "start_seconds": 386.15,
+    "end_seconds": 386.16,
+    "text": "So, when you're listening to someone"
+  },
+  {
+    "start": "00:06:26.160",
+    "end": "00:06:28.470",
+    "start_seconds": 386.16,
+    "end_seconds": 388.47,
+    "text": "So, when you're listening to someone share about an experience, expand the"
+  },
+  {
+    "start": "00:06:28.470",
+    "end": "00:06:28.480",
+    "start_seconds": 388.47,
+    "end_seconds": 388.48,
+    "text": "share about an experience, expand the"
+  },
+  {
+    "start": "00:06:28.480",
+    "end": "00:06:30.670",
+    "start_seconds": 388.48,
+    "end_seconds": 390.67,
+    "text": "share about an experience, expand the way you think about what they're saying."
+  },
+  {
+    "start": "00:06:30.670",
+    "end": "00:06:30.680",
+    "start_seconds": 390.67,
+    "end_seconds": 390.68,
+    "text": "way you think about what they're saying."
+  },
+  {
+    "start": "00:06:30.680",
+    "end": "00:06:32.470",
+    "start_seconds": 390.68,
+    "end_seconds": 392.47,
+    "text": "way you think about what they're saying. Think about the emotion behind the"
+  },
+  {
+    "start": "00:06:32.470",
+    "end": "00:06:32.480",
+    "start_seconds": 392.47,
+    "end_seconds": 392.48,
+    "text": "Think about the emotion behind the"
+  },
+  {
+    "start": "00:06:32.480",
+    "end": "00:06:34.150",
+    "start_seconds": 392.48,
+    "end_seconds": 394.15,
+    "text": "Think about the emotion behind the action that they're taking. Think about"
+  },
+  {
+    "start": "00:06:34.150",
+    "end": "00:06:34.160",
+    "start_seconds": 394.15,
+    "end_seconds": 394.15999999999997,
+    "text": "action that they're taking. Think about"
+  },
+  {
+    "start": "00:06:34.160",
+    "end": "00:06:36.150",
+    "start_seconds": 394.15999999999997,
+    "end_seconds": 396.15,
+    "text": "action that they're taking. Think about the value that they're trying to live"
+  },
+  {
+    "start": "00:06:36.150",
+    "end": "00:06:36.160",
+    "start_seconds": 396.15,
+    "end_seconds": 396.15999999999997,
+    "text": "the value that they're trying to live"
+  },
+  {
+    "start": "00:06:36.160",
+    "end": "00:06:38.110",
+    "start_seconds": 396.15999999999997,
+    "end_seconds": 398.11,
+    "text": "the value that they're trying to live out. Think about the motivation behind"
+  },
+  {
+    "start": "00:06:38.110",
+    "end": "00:06:38.120",
+    "start_seconds": 398.11,
+    "end_seconds": 398.12,
+    "text": "out. Think about the motivation behind"
+  },
+  {
+    "start": "00:06:38.120",
+    "end": "00:06:40.510",
+    "start_seconds": 398.12,
+    "end_seconds": 400.51,
+    "text": "out. Think about the motivation behind the action. It's not just the experience"
+  },
+  {
+    "start": "00:06:40.510",
+    "end": "00:06:40.520",
+    "start_seconds": 400.51,
+    "end_seconds": 400.52,
+    "text": "the action. It's not just the experience"
+  },
+  {
+    "start": "00:06:40.520",
+    "end": "00:06:43.030",
+    "start_seconds": 400.52,
+    "end_seconds": 403.03,
+    "text": "the action. It's not just the experience itself, because while you don't fish,"
+  },
+  {
+    "start": "00:06:43.030",
+    "end": "00:06:43.040",
+    "start_seconds": 403.03,
+    "end_seconds": 403.04,
+    "text": "itself, because while you don't fish,"
+  },
+  {
+    "start": "00:06:43.040",
+    "end": "00:06:45.190",
+    "start_seconds": 403.04,
+    "end_seconds": 405.19,
+    "text": "itself, because while you don't fish, you might love nature."
+  },
+  {
+    "start": "00:06:45.190",
+    "end": "00:06:45.200",
+    "start_seconds": 405.19,
+    "end_seconds": 405.2,
+    "text": "you might love nature."
+  },
+  {
+    "start": "00:06:45.200",
+    "end": "00:06:46.830",
+    "start_seconds": 405.2,
+    "end_seconds": 406.83,
+    "text": "you might love nature. Boom, you've got something in common."
+  },
+  {
+    "start": "00:06:46.830",
+    "end": "00:06:46.840",
+    "start_seconds": 406.83,
+    "end_seconds": 406.84000000000003,
+    "text": "Boom, you've got something in common."
+  },
+  {
+    "start": "00:06:46.840",
+    "end": "00:06:48.030",
+    "start_seconds": 406.84000000000003,
+    "end_seconds": 408.03,
+    "text": "Boom, you've got something in common. Now, instead of just using the fishing"
+  },
+  {
+    "start": "00:06:48.030",
+    "end": "00:06:48.040",
+    "start_seconds": 408.03,
+    "end_seconds": 408.04,
+    "text": "Now, instead of just using the fishing"
+  },
+  {
+    "start": "00:06:48.040",
+    "end": "00:06:50.990",
+    "start_seconds": 408.04,
+    "end_seconds": 410.99,
+    "text": "Now, instead of just using the fishing example, let's go back to the situation"
+  },
+  {
+    "start": "00:06:50.990",
+    "end": "00:06:51.000",
+    "start_seconds": 410.99,
+    "end_seconds": 411.0,
+    "text": "example, let's go back to the situation"
+  },
+  {
+    "start": "00:06:51.000",
+    "end": "00:06:52.110",
+    "start_seconds": 411.0,
+    "end_seconds": 412.11,
+    "text": "example, let's go back to the situation we've been playing out throughout this"
+  },
+  {
+    "start": "00:06:52.110",
+    "end": "00:06:52.120",
+    "start_seconds": 412.11,
+    "end_seconds": 412.12,
+    "text": "we've been playing out throughout this"
+  },
+  {
+    "start": "00:06:52.120",
+    "end": "00:06:53.870",
+    "start_seconds": 412.12,
+    "end_seconds": 413.87,
+    "text": "we've been playing out throughout this entire video between person A and person"
+  },
+  {
+    "start": "00:06:53.870",
+    "end": "00:06:53.880",
+    "start_seconds": 413.87,
+    "end_seconds": 413.88,
+    "text": "entire video between person A and person"
+  },
+  {
+    "start": "00:06:53.880",
+    "end": "00:06:56.350",
+    "start_seconds": 413.88,
+    "end_seconds": 416.35,
+    "text": "entire video between person A and person B. And if you remember, person B said"
+  },
+  {
+    "start": "00:06:56.350",
+    "end": "00:06:56.360",
+    "start_seconds": 416.35,
+    "end_seconds": 416.36,
+    "text": "B. And if you remember, person B said"
+  },
+  {
+    "start": "00:06:56.360",
+    "end": "00:06:57.870",
+    "start_seconds": 416.36,
+    "end_seconds": 417.87,
+    "text": "B. And if you remember, person B said that they weren't able to really"
+  },
+  {
+    "start": "00:06:57.870",
+    "end": "00:06:57.880",
+    "start_seconds": 417.87,
+    "end_seconds": 417.88,
+    "text": "that they weren't able to really"
+  },
+  {
+    "start": "00:06:57.880",
+    "end": "00:06:59.350",
+    "start_seconds": 417.88,
+    "end_seconds": 419.35,
+    "text": "that they weren't able to really communicate well when they were young."
+  },
+  {
+    "start": "00:06:59.350",
+    "end": "00:06:59.360",
+    "start_seconds": 419.35,
+    "end_seconds": 419.36,
+    "text": "communicate well when they were young."
+  },
+  {
+    "start": "00:06:59.360",
+    "end": "00:07:01.590",
+    "start_seconds": 419.36,
+    "end_seconds": 421.59,
+    "text": "communicate well when they were young. And maybe as person A, they didn't have"
+  },
+  {
+    "start": "00:07:01.590",
+    "end": "00:07:01.600",
+    "start_seconds": 421.59,
+    "end_seconds": 421.6,
+    "text": "And maybe as person A, they didn't have"
+  },
+  {
+    "start": "00:07:01.600",
+    "end": "00:07:03.990",
+    "start_seconds": 421.6,
+    "end_seconds": 423.99,
+    "text": "And maybe as person A, they didn't have trouble communicating. But, what else"
+  },
+  {
+    "start": "00:07:03.990",
+    "end": "00:07:04.000",
+    "start_seconds": 423.99,
+    "end_seconds": 424.0,
+    "text": "trouble communicating. But, what else"
+  },
+  {
+    "start": "00:07:04.000",
+    "end": "00:07:05.310",
+    "start_seconds": 424.0,
+    "end_seconds": 425.31,
+    "text": "trouble communicating. But, what else would the person who couldn't"
+  },
+  {
+    "start": "00:07:05.310",
+    "end": "00:07:05.320",
+    "start_seconds": 425.31,
+    "end_seconds": 425.32,
+    "text": "would the person who couldn't"
+  },
+  {
+    "start": "00:07:05.320",
+    "end": "00:07:06.990",
+    "start_seconds": 425.32,
+    "end_seconds": 426.99,
+    "text": "would the person who couldn't communicate when they were younger be"
+  },
+  {
+    "start": "00:07:06.990",
+    "end": "00:07:07.000",
+    "start_seconds": 426.99,
+    "end_seconds": 427.0,
+    "text": "communicate when they were younger be"
+  },
+  {
+    "start": "00:07:07.000",
+    "end": "00:07:09.550",
+    "start_seconds": 427.0,
+    "end_seconds": 429.55,
+    "text": "communicate when they were younger be feeling in that experience? They might"
+  },
+  {
+    "start": "00:07:09.550",
+    "end": "00:07:09.560",
+    "start_seconds": 429.55,
+    "end_seconds": 429.56,
+    "text": "feeling in that experience? They might"
+  },
+  {
+    "start": "00:07:09.560",
+    "end": "00:07:12.630",
+    "start_seconds": 429.56,
+    "end_seconds": 432.63,
+    "text": "feeling in that experience? They might have felt lonely, isolated, frustrated,"
+  },
+  {
+    "start": "00:07:12.630",
+    "end": "00:07:12.640",
+    "start_seconds": 432.63,
+    "end_seconds": 432.64,
+    "text": "have felt lonely, isolated, frustrated,"
+  },
+  {
+    "start": "00:07:12.640",
+    "end": "00:07:14.270",
+    "start_seconds": 432.64,
+    "end_seconds": 434.27,
+    "text": "have felt lonely, isolated, frustrated, misunderstood, heck, maybe even"
+  },
+  {
+    "start": "00:07:14.270",
+    "end": "00:07:14.280",
+    "start_seconds": 434.27,
+    "end_seconds": 434.28,
+    "text": "misunderstood, heck, maybe even"
+  },
+  {
+    "start": "00:07:14.280",
+    "end": "00:07:16.470",
+    "start_seconds": 434.28,
+    "end_seconds": 436.47,
+    "text": "misunderstood, heck, maybe even invisible. So, now instead of thinking"
+  },
+  {
+    "start": "00:07:16.470",
+    "end": "00:07:16.480",
+    "start_seconds": 436.47,
+    "end_seconds": 436.48,
+    "text": "invisible. So, now instead of thinking"
+  },
+  {
+    "start": "00:07:16.480",
+    "end": "00:07:18.150",
+    "start_seconds": 436.48,
+    "end_seconds": 438.15,
+    "text": "invisible. So, now instead of thinking to yourself, \"Did I struggle to"
+  },
+  {
+    "start": "00:07:18.150",
+    "end": "00:07:18.160",
+    "start_seconds": 438.15,
+    "end_seconds": 438.16,
+    "text": "to yourself, \"Did I struggle to"
+  },
+  {
+    "start": "00:07:18.160",
+    "end": "00:07:20.030",
+    "start_seconds": 438.16,
+    "end_seconds": 440.03,
+    "text": "to yourself, \"Did I struggle to communicate when I was young?\" as being"
+  },
+  {
+    "start": "00:07:20.030",
+    "end": "00:07:20.040",
+    "start_seconds": 440.03,
+    "end_seconds": 440.04,
+    "text": "communicate when I was young?\" as being"
+  },
+  {
+    "start": "00:07:20.040",
+    "end": "00:07:22.150",
+    "start_seconds": 440.04,
+    "end_seconds": 442.15,
+    "text": "communicate when I was young?\" as being the only thing that connects you both,"
+  },
+  {
+    "start": "00:07:22.150",
+    "end": "00:07:22.160",
+    "start_seconds": 442.15,
+    "end_seconds": 442.16,
+    "text": "the only thing that connects you both,"
+  },
+  {
+    "start": "00:07:22.160",
+    "end": "00:07:24.190",
+    "start_seconds": 442.16,
+    "end_seconds": 444.19,
+    "text": "the only thing that connects you both, now you're thinking, \"Have I felt lonely"
+  },
+  {
+    "start": "00:07:24.190",
+    "end": "00:07:24.200",
+    "start_seconds": 444.19,
+    "end_seconds": 444.2,
+    "text": "now you're thinking, \"Have I felt lonely"
+  },
+  {
+    "start": "00:07:24.200",
+    "end": "00:07:26.950",
+    "start_seconds": 444.2,
+    "end_seconds": 446.95,
+    "text": "now you're thinking, \"Have I felt lonely before? Have I ever felt isolated? Have"
+  },
+  {
+    "start": "00:07:26.950",
+    "end": "00:07:26.960",
+    "start_seconds": 446.95,
+    "end_seconds": 446.96,
+    "text": "before? Have I ever felt isolated? Have"
+  },
+  {
+    "start": "00:07:26.960",
+    "end": "00:07:29.550",
+    "start_seconds": 446.96,
+    "end_seconds": 449.55,
+    "text": "before? Have I ever felt isolated? Have I ever felt frustrated or misunderstood"
+  },
+  {
+    "start": "00:07:29.550",
+    "end": "00:07:29.560",
+    "start_seconds": 449.55,
+    "end_seconds": 449.56,
+    "text": "I ever felt frustrated or misunderstood"
+  },
+  {
+    "start": "00:07:29.560",
+    "end": "00:07:31.390",
+    "start_seconds": 449.56,
+    "end_seconds": 451.39,
+    "text": "I ever felt frustrated or misunderstood or maybe even invisible?\""
+  },
+  {
+    "start": "00:07:31.390",
+    "end": "00:07:31.400",
+    "start_seconds": 451.39,
+    "end_seconds": 451.4,
+    "text": "or maybe even invisible?\""
+  },
+  {
+    "start": "00:07:31.400",
+    "end": "00:07:33.350",
+    "start_seconds": 451.4,
+    "end_seconds": 453.35,
+    "text": "or maybe even invisible?\" Chances are you have, because in"
+  },
+  {
+    "start": "00:07:33.350",
+    "end": "00:07:33.360",
+    "start_seconds": 453.35,
+    "end_seconds": 453.36,
+    "text": "Chances are you have, because in"
+  },
+  {
+    "start": "00:07:33.360",
+    "end": "00:07:35.230",
+    "start_seconds": 453.36,
+    "end_seconds": 455.23,
+    "text": "Chances are you have, because in everything that people say, there's"
+  },
+  {
+    "start": "00:07:35.230",
+    "end": "00:07:35.240",
+    "start_seconds": 455.23,
+    "end_seconds": 455.24,
+    "text": "everything that people say, there's"
+  },
+  {
+    "start": "00:07:35.240",
+    "end": "00:07:37.550",
+    "start_seconds": 455.24,
+    "end_seconds": 457.55,
+    "text": "everything that people say, there's always layers to what they're saying."
+  },
+  {
+    "start": "00:07:37.550",
+    "end": "00:07:37.560",
+    "start_seconds": 457.55,
+    "end_seconds": 457.56,
+    "text": "always layers to what they're saying."
+  },
+  {
+    "start": "00:07:37.560",
+    "end": "00:07:39.670",
+    "start_seconds": 457.56,
+    "end_seconds": 459.67,
+    "text": "always layers to what they're saying. And that's [music] the unlock. Common"
+  },
+  {
+    "start": "00:07:39.670",
+    "end": "00:07:39.680",
+    "start_seconds": 459.67,
+    "end_seconds": 459.68,
+    "text": "And that's [music] the unlock. Common"
+  },
+  {
+    "start": "00:07:39.680",
+    "end": "00:07:42.190",
+    "start_seconds": 459.68,
+    "end_seconds": 462.19,
+    "text": "And that's [music] the unlock. Common ground isn't only, \"Oh, that's happened"
+  },
+  {
+    "start": "00:07:42.190",
+    "end": "00:07:42.200",
+    "start_seconds": 462.19,
+    "end_seconds": 462.2,
+    "text": "ground isn't only, \"Oh, that's happened"
+  },
+  {
+    "start": "00:07:42.200",
+    "end": "00:07:44.750",
+    "start_seconds": 462.2,
+    "end_seconds": 464.75,
+    "text": "ground isn't only, \"Oh, that's happened to me, too.\" Half the time it's, \"Hey, I"
+  },
+  {
+    "start": "00:07:44.750",
+    "end": "00:07:44.760",
+    "start_seconds": 464.75,
+    "end_seconds": 464.76,
+    "text": "to me, too.\" Half the time it's, \"Hey, I"
+  },
+  {
+    "start": "00:07:44.760",
+    "end": "00:07:46.950",
+    "start_seconds": 464.76,
+    "end_seconds": 466.95,
+    "text": "to me, too.\" Half the time it's, \"Hey, I felt something exactly the same for a"
+  },
+  {
+    "start": "00:07:46.950",
+    "end": "00:07:46.960",
+    "start_seconds": 466.95,
+    "end_seconds": 466.96,
+    "text": "felt something exactly the same for a"
+  },
+  {
+    "start": "00:07:46.960",
+    "end": "00:07:49.030",
+    "start_seconds": 466.96,
+    "end_seconds": 469.03,
+    "text": "felt something exactly the same for a totally different reason.\""
+  },
+  {
+    "start": "00:07:49.030",
+    "end": "00:07:49.040",
+    "start_seconds": 469.03,
+    "end_seconds": 469.04,
+    "text": "totally different reason.\""
+  },
+  {
+    "start": "00:07:49.040",
+    "end": "00:07:50.950",
+    "start_seconds": 469.04,
+    "end_seconds": 470.95,
+    "text": "totally different reason.\" The moment you realize that, the number"
+  },
+  {
+    "start": "00:07:50.950",
+    "end": "00:07:50.960",
+    "start_seconds": 470.95,
+    "end_seconds": 470.96,
+    "text": "The moment you realize that, the number"
+  },
+  {
+    "start": "00:07:50.960",
+    "end": "00:07:53.190",
+    "start_seconds": 470.96,
+    "end_seconds": 473.19,
+    "text": "The moment you realize that, the number of people you can connect to now goes"
+  },
+  {
+    "start": "00:07:53.190",
+    "end": "00:07:53.200",
+    "start_seconds": 473.19,
+    "end_seconds": 473.2,
+    "text": "of people you can connect to now goes"
+  },
+  {
+    "start": "00:07:53.200",
+    "end": "00:07:55.310",
+    "start_seconds": 473.2,
+    "end_seconds": 475.31,
+    "text": "of people you can connect to now goes through the roof. Let's resume with the"
+  },
+  {
+    "start": "00:07:55.310",
+    "end": "00:07:55.320",
+    "start_seconds": 475.31,
+    "end_seconds": 475.32,
+    "text": "through the roof. Let's resume with the"
+  },
+  {
+    "start": "00:07:55.320",
+    "end": "00:07:56.990",
+    "start_seconds": 475.32,
+    "end_seconds": 476.99,
+    "text": "through the roof. Let's resume with the example. Tell me, what was it like"
+  },
+  {
+    "start": "00:07:56.990",
+    "end": "00:07:57.000",
+    "start_seconds": 476.99,
+    "end_seconds": 477.0,
+    "text": "example. Tell me, what was it like"
+  },
+  {
+    "start": "00:07:57.000",
+    "end": "00:07:58.710",
+    "start_seconds": 477.0,
+    "end_seconds": 478.71,
+    "text": "example. Tell me, what was it like growing up not being able to communicate"
+  },
+  {
+    "start": "00:07:58.710",
+    "end": "00:07:58.720",
+    "start_seconds": 478.71,
+    "end_seconds": 478.72,
+    "text": "growing up not being able to communicate"
+  },
+  {
+    "start": "00:07:58.720",
+    "end": "00:07:59.750",
+    "start_seconds": 478.72,
+    "end_seconds": 479.75,
+    "text": "growing up not being able to communicate properly with people?"
+  },
+  {
+    "start": "00:07:59.750",
+    "end": "00:07:59.760",
+    "start_seconds": 479.75,
+    "end_seconds": 479.76,
+    "text": "properly with people?"
+  },
+  {
+    "start": "00:07:59.760",
+    "end": "00:08:01.870",
+    "start_seconds": 479.76,
+    "end_seconds": 481.87,
+    "text": "properly with people? >> Yeah, I felt really confused and"
+  },
+  {
+    "start": "00:08:01.870",
+    "end": "00:08:01.880",
+    "start_seconds": 481.87,
+    "end_seconds": 481.88,
+    "text": ">> Yeah, I felt really confused and"
+  },
+  {
+    "start": "00:08:01.880",
+    "end": "00:08:04.630",
+    "start_seconds": 481.88,
+    "end_seconds": 484.63,
+    "text": ">> Yeah, I felt really confused and annoyed, and it felt like sometimes I"
+  },
+  {
+    "start": "00:08:04.630",
+    "end": "00:08:04.640",
+    "start_seconds": 484.63,
+    "end_seconds": 484.64,
+    "text": "annoyed, and it felt like sometimes I"
+  },
+  {
+    "start": "00:08:04.640",
+    "end": "00:08:06.950",
+    "start_seconds": 484.64,
+    "end_seconds": 486.95,
+    "text": "annoyed, and it felt like sometimes I didn't exist because no one noticed me"
+  },
+  {
+    "start": "00:08:06.950",
+    "end": "00:08:06.960",
+    "start_seconds": 486.95,
+    "end_seconds": 486.96,
+    "text": "didn't exist because no one noticed me"
+  },
+  {
+    "start": "00:08:06.960",
+    "end": "00:08:08.030",
+    "start_seconds": 486.96,
+    "end_seconds": 488.03,
+    "text": "didn't exist because no one noticed me and they"
+  },
+  {
+    "start": "00:08:08.030",
+    "end": "00:08:08.040",
+    "start_seconds": 488.03,
+    "end_seconds": 488.04,
+    "text": "and they"
+  },
+  {
+    "start": "00:08:08.040",
+    "end": "00:08:10.030",
+    "start_seconds": 488.04,
+    "end_seconds": 490.03,
+    "text": "and they couldn't understand me."
+  },
+  {
+    "start": "00:08:10.030",
+    "end": "00:08:10.040",
+    "start_seconds": 490.03,
+    "end_seconds": 490.04,
+    "text": "couldn't understand me."
+  },
+  {
+    "start": "00:08:10.040",
+    "end": "00:08:13.270",
+    "start_seconds": 490.04,
+    "end_seconds": 493.27,
+    "text": "couldn't understand me. I actually really hated primary school."
+  },
+  {
+    "start": "00:08:13.270",
+    "end": "00:08:13.280",
+    "start_seconds": 493.27,
+    "end_seconds": 493.28,
+    "text": "I actually really hated primary school."
+  },
+  {
+    "start": "00:08:13.280",
+    "end": "00:08:15.310",
+    "start_seconds": 493.28,
+    "end_seconds": 495.31,
+    "text": "I actually really hated primary school. >> Do you see that? The moment you start to"
+  },
+  {
+    "start": "00:08:15.310",
+    "end": "00:08:15.320",
+    "start_seconds": 495.31,
+    "end_seconds": 495.32,
+    "text": ">> Do you see that? The moment you start to"
+  },
+  {
+    "start": "00:08:15.320",
+    "end": "00:08:17.030",
+    "start_seconds": 495.32,
+    "end_seconds": 497.03,
+    "text": ">> Do you see that? The moment you start to listen out for the echoes, you'll be"
+  },
+  {
+    "start": "00:08:17.030",
+    "end": "00:08:17.040",
+    "start_seconds": 497.03,
+    "end_seconds": 497.04,
+    "text": "listen out for the echoes, you'll be"
+  },
+  {
+    "start": "00:08:17.040",
+    "end": "00:08:19.070",
+    "start_seconds": 497.04,
+    "end_seconds": 499.07,
+    "text": "listen out for the echoes, you'll be able to find connections with people so"
+  },
+  {
+    "start": "00:08:19.070",
+    "end": "00:08:19.080",
+    "start_seconds": 499.07,
+    "end_seconds": 499.08,
+    "text": "able to find connections with people so"
+  },
+  {
+    "start": "00:08:19.080",
+    "end": "00:08:20.470",
+    "start_seconds": 499.08,
+    "end_seconds": 500.47,
+    "text": "able to find connections with people so much easier. But, if you're thinking to"
+  },
+  {
+    "start": "00:08:20.470",
+    "end": "00:08:20.480",
+    "start_seconds": 500.47,
+    "end_seconds": 500.48,
+    "text": "much easier. But, if you're thinking to"
+  },
+  {
+    "start": "00:08:20.480",
+    "end": "00:08:22.470",
+    "start_seconds": 500.48,
+    "end_seconds": 502.47,
+    "text": "much easier. But, if you're thinking to yourself, \"This sounds great, Vin, but I"
+  },
+  {
+    "start": "00:08:22.470",
+    "end": "00:08:22.480",
+    "start_seconds": 502.47,
+    "end_seconds": 502.48,
+    "text": "yourself, \"This sounds great, Vin, but I"
+  },
+  {
+    "start": "00:08:22.480",
+    "end": "00:08:23.909",
+    "start_seconds": 502.48,
+    "end_seconds": 503.909,
+    "text": "yourself, \"This sounds great, Vin, but I still freeze in the moment and I don't"
+  },
+  {
+    "start": "00:08:23.909",
+    "end": "00:08:23.919",
+    "start_seconds": 503.909,
+    "end_seconds": 503.919,
+    "text": "still freeze in the moment and I don't"
+  },
+  {
+    "start": "00:08:23.919",
+    "end": "00:08:25.710",
+    "start_seconds": 503.919,
+    "end_seconds": 505.71,
+    "text": "still freeze in the moment and I don't know what to say when I'm with people.\""
+  },
+  {
+    "start": "00:08:25.710",
+    "end": "00:08:25.720",
+    "start_seconds": 505.71,
+    "end_seconds": 505.72,
+    "text": "know what to say when I'm with people.\""
+  },
+  {
+    "start": "00:08:25.720",
+    "end": "00:08:27.630",
+    "start_seconds": 505.72,
+    "end_seconds": 507.63,
+    "text": "know what to say when I'm with people.\" I get it. That's why communication"
+  },
+  {
+    "start": "00:08:27.630",
+    "end": "00:08:27.640",
+    "start_seconds": 507.63,
+    "end_seconds": 507.64,
+    "text": "I get it. That's why communication"
+  },
+  {
+    "start": "00:08:27.640",
+    "end": "00:08:29.270",
+    "start_seconds": 507.64,
+    "end_seconds": 509.27,
+    "text": "I get it. That's why communication frameworks like this exist and it's why"
+  },
+  {
+    "start": "00:08:29.270",
+    "end": "00:08:29.280",
+    "start_seconds": 509.27,
+    "end_seconds": 509.28,
+    "text": "frameworks like this exist and it's why"
+  },
+  {
+    "start": "00:08:29.280",
+    "end": "00:08:31.110",
+    "start_seconds": 509.28,
+    "end_seconds": 511.11,
+    "text": "frameworks like this exist and it's why they help you structure your thinking"
+  },
+  {
+    "start": "00:08:31.110",
+    "end": "00:08:31.120",
+    "start_seconds": 511.11,
+    "end_seconds": 511.12,
+    "text": "they help you structure your thinking"
+  },
+  {
+    "start": "00:08:31.120",
+    "end": "00:08:33.310",
+    "start_seconds": 511.12,
+    "end_seconds": 513.31,
+    "text": "they help you structure your thinking before you speak. So, that when you do"
+  },
+  {
+    "start": "00:08:33.310",
+    "end": "00:08:33.320",
+    "start_seconds": 513.31,
+    "end_seconds": 513.32,
+    "text": "before you speak. So, that when you do"
+  },
+  {
+    "start": "00:08:33.320",
+    "end": "00:08:35.630",
+    "start_seconds": 513.32,
+    "end_seconds": 515.63,
+    "text": "before you speak. So, that when you do speak, your words aren't jumbled up and"
+  },
+  {
+    "start": "00:08:35.630",
+    "end": "00:08:35.640",
+    "start_seconds": 515.63,
+    "end_seconds": 515.64,
+    "text": "speak, your words aren't jumbled up and"
+  },
+  {
+    "start": "00:08:35.640",
+    "end": "00:08:37.709",
+    "start_seconds": 515.64,
+    "end_seconds": 517.7090000000001,
+    "text": "speak, your words aren't jumbled up and you don't end up rambling. And if you"
+  },
+  {
+    "start": "00:08:37.709",
+    "end": "00:08:37.719",
+    "start_seconds": 517.7090000000001,
+    "end_seconds": 517.719,
+    "text": "you don't end up rambling. And if you"
+  },
+  {
+    "start": "00:08:37.719",
+    "end": "00:08:38.709",
+    "start_seconds": 517.719,
+    "end_seconds": 518.7090000000001,
+    "text": "you don't end up rambling. And if you want to be able to learn the best"
+  },
+  {
+    "start": "00:08:38.709",
+    "end": "00:08:38.719",
+    "start_seconds": 518.7090000000001,
+    "end_seconds": 518.719,
+    "text": "want to be able to learn the best"
+  },
+  {
+    "start": "00:08:38.719",
+    "end": "00:08:40.589",
+    "start_seconds": 518.719,
+    "end_seconds": 520.5889999999999,
+    "text": "want to be able to learn the best frameworks to use when the spotlight is"
+  },
+  {
+    "start": "00:08:40.589",
+    "end": "00:08:40.599",
+    "start_seconds": 520.5889999999999,
+    "end_seconds": 520.599,
+    "text": "frameworks to use when the spotlight is"
+  },
+  {
+    "start": "00:08:40.599",
+    "end": "00:08:42.630",
+    "start_seconds": 520.599,
+    "end_seconds": 522.63,
+    "text": "frameworks to use when the spotlight is on you, especially at work, then make"
+  },
+  {
+    "start": "00:08:42.630",
+    "end": "00:08:42.640",
+    "start_seconds": 522.63,
+    "end_seconds": 522.64,
+    "text": "on you, especially at work, then make"
+  },
+  {
+    "start": "00:08:42.640",
+    "end": "00:08:44.310",
+    "start_seconds": 522.64,
+    "end_seconds": 524.31,
+    "text": "on you, especially at work, then make sure you check out my free 2-hour"
+  },
+  {
+    "start": "00:08:44.310",
+    "end": "00:08:44.320",
+    "start_seconds": 524.31,
+    "end_seconds": 524.32,
+    "text": "sure you check out my free 2-hour"
+  },
+  {
+    "start": "00:08:44.320",
+    "end": "00:08:46.110",
+    "start_seconds": 524.32,
+    "end_seconds": 526.11,
+    "text": "sure you check out my free 2-hour training. It'll give you more structure"
+  },
+  {
+    "start": "00:08:46.110",
+    "end": "00:08:46.120",
+    "start_seconds": 526.11,
+    "end_seconds": 526.12,
+    "text": "training. It'll give you more structure"
+  },
+  {
+    "start": "00:08:46.120",
+    "end": "00:08:48.829",
+    "start_seconds": 526.12,
+    "end_seconds": 528.829,
+    "text": "training. It'll give you more structure for what to say and how to say it and"
+  },
+  {
+    "start": "00:08:48.829",
+    "end": "00:08:48.839",
+    "start_seconds": 528.829,
+    "end_seconds": 528.8389999999999,
+    "text": "for what to say and how to say it and"
+  },
+  {
+    "start": "00:08:48.839",
+    "end": "00:08:50.430",
+    "start_seconds": 528.8389999999999,
+    "end_seconds": 530.43,
+    "text": "for what to say and how to say it and how to feel more confident while doing"
+  },
+  {
+    "start": "00:08:50.430",
+    "end": "00:08:50.440",
+    "start_seconds": 530.43,
+    "end_seconds": 530.44,
+    "text": "how to feel more confident while doing"
+  },
+  {
+    "start": "00:08:50.440",
+    "end": "00:08:52.590",
+    "start_seconds": 530.44,
+    "end_seconds": 532.59,
+    "text": "how to feel more confident while doing it. The link is below in the description"
+  },
+  {
+    "start": "00:08:52.590",
+    "end": "00:08:52.600",
+    "start_seconds": 532.59,
+    "end_seconds": 532.6,
+    "text": "it. The link is below in the description"
+  },
+  {
+    "start": "00:08:52.600",
+    "end": "00:08:55.390",
+    "start_seconds": 532.6,
+    "end_seconds": 535.39,
+    "text": "it. The link is below in the description or you can scan the QR code. Okay, now"
+  },
+  {
+    "start": "00:08:55.390",
+    "end": "00:08:55.400",
+    "start_seconds": 535.39,
+    "end_seconds": 535.4,
+    "text": "or you can scan the QR code. Okay, now"
+  },
+  {
+    "start": "00:08:55.400",
+    "end": "00:08:57.590",
+    "start_seconds": 535.4,
+    "end_seconds": 537.59,
+    "text": "or you can scan the QR code. Okay, now that you've heard the echo, here's what"
+  },
+  {
+    "start": "00:08:57.590",
+    "end": "00:08:57.600",
+    "start_seconds": 537.59,
+    "end_seconds": 537.6,
+    "text": "that you've heard the echo, here's what"
+  },
+  {
+    "start": "00:08:57.600",
+    "end": "00:09:01.990",
+    "start_seconds": 537.6,
+    "end_seconds": 541.99,
+    "text": "that you've heard the echo, here's what you do next. You see, which is clarify"
+  },
+  {
+    "start": "00:09:01.990",
+    "end": "00:09:02.000",
+    "start_seconds": 541.99,
+    "end_seconds": 542.0,
+    "text": "you do next. You see, which is clarify"
+  },
+  {
+    "start": "00:09:02.000",
+    "end": "00:09:03.590",
+    "start_seconds": 542.0,
+    "end_seconds": 543.59,
+    "text": "you do next. You see, which is clarify the echo."
+  },
+  {
+    "start": "00:09:03.590",
+    "end": "00:09:03.600",
+    "start_seconds": 543.59,
+    "end_seconds": 543.6,
+    "text": "the echo."
+  },
+  {
+    "start": "00:09:03.600",
+    "end": "00:09:05.470",
+    "start_seconds": 543.6,
+    "end_seconds": 545.47,
+    "text": "the echo. Here's where you dig another layer"
+  },
+  {
+    "start": "00:09:05.470",
+    "end": "00:09:05.480",
+    "start_seconds": 545.47,
+    "end_seconds": 545.48,
+    "text": "Here's where you dig another layer"
+  },
+  {
+    "start": "00:09:05.480",
+    "end": "00:09:07.710",
+    "start_seconds": 545.48,
+    "end_seconds": 547.71,
+    "text": "Here's where you dig another layer deeper. Once you recognize and hear an"
+  },
+  {
+    "start": "00:09:07.710",
+    "end": "00:09:07.720",
+    "start_seconds": 547.71,
+    "end_seconds": 547.72,
+    "text": "deeper. Once you recognize and hear an"
+  },
+  {
+    "start": "00:09:07.720",
+    "end": "00:09:10.350",
+    "start_seconds": 547.72,
+    "end_seconds": 550.35,
+    "text": "deeper. Once you recognize and hear an echo, you zoom into it. Most people stop"
+  },
+  {
+    "start": "00:09:10.350",
+    "end": "00:09:10.360",
+    "start_seconds": 550.35,
+    "end_seconds": 550.36,
+    "text": "echo, you zoom into it. Most people stop"
+  },
+  {
+    "start": "00:09:10.360",
+    "end": "00:09:11.990",
+    "start_seconds": 550.36,
+    "end_seconds": 551.99,
+    "text": "echo, you zoom into it. Most people stop at the surface level connection. \"Oh,"
+  },
+  {
+    "start": "00:09:11.990",
+    "end": "00:09:12.000",
+    "start_seconds": 551.99,
+    "end_seconds": 552.0,
+    "text": "at the surface level connection. \"Oh,"
+  },
+  {
+    "start": "00:09:12.000",
+    "end": "00:09:13.870",
+    "start_seconds": 552.0,
+    "end_seconds": 553.87,
+    "text": "at the surface level connection. \"Oh, I've been invisible in my life, too.\""
+  },
+  {
+    "start": "00:09:13.870",
+    "end": "00:09:13.880",
+    "start_seconds": 553.87,
+    "end_seconds": 553.88,
+    "text": "I've been invisible in my life, too.\""
+  },
+  {
+    "start": "00:09:13.880",
+    "end": "00:09:15.910",
+    "start_seconds": 553.88,
+    "end_seconds": 555.91,
+    "text": "I've been invisible in my life, too.\" And then that's it. The magic is in the"
+  },
+  {
+    "start": "00:09:15.910",
+    "end": "00:09:15.920",
+    "start_seconds": 555.91,
+    "end_seconds": 555.92,
+    "text": "And then that's it. The magic is in the"
+  },
+  {
+    "start": "00:09:15.920",
+    "end": "00:09:18.390",
+    "start_seconds": 555.92,
+    "end_seconds": 558.39,
+    "text": "And then that's it. The magic is in the detail. So, you ask some clarifying"
+  },
+  {
+    "start": "00:09:18.390",
+    "end": "00:09:18.400",
+    "start_seconds": 558.39,
+    "end_seconds": 558.4,
+    "text": "detail. So, you ask some clarifying"
+  },
+  {
+    "start": "00:09:18.400",
+    "end": "00:09:20.390",
+    "start_seconds": 558.4,
+    "end_seconds": 560.39,
+    "text": "detail. So, you ask some clarifying questions like this. \"I actually really"
+  },
+  {
+    "start": "00:09:20.390",
+    "end": "00:09:20.400",
+    "start_seconds": 560.39,
+    "end_seconds": 560.4,
+    "text": "questions like this. \"I actually really"
+  },
+  {
+    "start": "00:09:20.400",
+    "end": "00:09:24.670",
+    "start_seconds": 560.4,
+    "end_seconds": 564.67,
+    "text": "questions like this. \"I actually really hated primary school.\""
+  },
+  {
+    "start": "00:09:24.680",
+    "end": "00:09:26.190",
+    "start_seconds": 564.68,
+    "end_seconds": 566.19,
+    "text": "How did being invisible impact you"
+  },
+  {
+    "start": "00:09:26.190",
+    "end": "00:09:26.200",
+    "start_seconds": 566.19,
+    "end_seconds": 566.2,
+    "text": "How did being invisible impact you"
+  },
+  {
+    "start": "00:09:26.200",
+    "end": "00:09:27.990",
+    "start_seconds": 566.2,
+    "end_seconds": 567.99,
+    "text": "How did being invisible impact you through your school years? I mean, what"
+  },
+  {
+    "start": "00:09:27.990",
+    "end": "00:09:28.000",
+    "start_seconds": 567.99,
+    "end_seconds": 568.0,
+    "text": "through your school years? I mean, what"
+  },
+  {
+    "start": "00:09:28.000",
+    "end": "00:09:29.710",
+    "start_seconds": 568.0,
+    "end_seconds": 569.71,
+    "text": "through your school years? I mean, what did you learn from it? How did you break"
+  },
+  {
+    "start": "00:09:29.710",
+    "end": "00:09:29.720",
+    "start_seconds": 569.71,
+    "end_seconds": 569.72,
+    "text": "did you learn from it? How did you break"
+  },
+  {
+    "start": "00:09:29.720",
+    "end": "00:09:30.829",
+    "start_seconds": 569.72,
+    "end_seconds": 570.829,
+    "text": "did you learn from it? How did you break out of it?"
+  },
+  {
+    "start": "00:09:30.829",
+    "end": "00:09:30.839",
+    "start_seconds": 570.829,
+    "end_seconds": 570.8389999999999,
+    "text": "out of it?"
+  },
+  {
+    "start": "00:09:30.839",
+    "end": "00:09:32.670",
+    "start_seconds": 570.8389999999999,
+    "end_seconds": 572.67,
+    "text": "out of it? >> You know, I actually moved schools five"
+  },
+  {
+    "start": "00:09:32.670",
+    "end": "00:09:32.680",
+    "start_seconds": 572.67,
+    "end_seconds": 572.68,
+    "text": ">> You know, I actually moved schools five"
+  },
+  {
+    "start": "00:09:32.680",
+    "end": "00:09:35.230",
+    "start_seconds": 572.68,
+    "end_seconds": 575.23,
+    "text": ">> You know, I actually moved schools five times, and at the time it felt like the"
+  },
+  {
+    "start": "00:09:35.230",
+    "end": "00:09:35.240",
+    "start_seconds": 575.23,
+    "end_seconds": 575.24,
+    "text": "times, and at the time it felt like the"
+  },
+  {
+    "start": "00:09:35.240",
+    "end": "00:09:36.630",
+    "start_seconds": 575.24,
+    "end_seconds": 576.63,
+    "text": "times, and at the time it felt like the worst thing that could have happened to"
+  },
+  {
+    "start": "00:09:36.630",
+    "end": "00:09:36.640",
+    "start_seconds": 576.63,
+    "end_seconds": 576.64,
+    "text": "worst thing that could have happened to"
+  },
+  {
+    "start": "00:09:36.640",
+    "end": "00:09:37.950",
+    "start_seconds": 576.64,
+    "end_seconds": 577.95,
+    "text": "worst thing that could have happened to me."
+  },
+  {
+    "start": "00:09:37.950",
+    "end": "00:09:37.960",
+    "start_seconds": 577.95,
+    "end_seconds": 577.96,
+    "text": "me."
+  },
+  {
+    "start": "00:09:37.960",
+    "end": "00:09:39.750",
+    "start_seconds": 577.96,
+    "end_seconds": 579.75,
+    "text": "me. But, the silver lining was that every"
+  },
+  {
+    "start": "00:09:39.750",
+    "end": "00:09:39.760",
+    "start_seconds": 579.75,
+    "end_seconds": 579.76,
+    "text": "But, the silver lining was that every"
+  },
+  {
+    "start": "00:09:39.760",
+    "end": "00:09:41.590",
+    "start_seconds": 579.76,
+    "end_seconds": 581.59,
+    "text": "But, the silver lining was that every time I went to a new school, I had the"
+  },
+  {
+    "start": "00:09:41.590",
+    "end": "00:09:41.600",
+    "start_seconds": 581.59,
+    "end_seconds": 581.6,
+    "text": "time I went to a new school, I had the"
+  },
+  {
+    "start": "00:09:41.600",
+    "end": "00:09:43.910",
+    "start_seconds": 581.6,
+    "end_seconds": 583.91,
+    "text": "time I went to a new school, I had the opportunity to reinvent myself. And the"
+  },
+  {
+    "start": "00:09:43.910",
+    "end": "00:09:43.920",
+    "start_seconds": 583.91,
+    "end_seconds": 583.92,
+    "text": "opportunity to reinvent myself. And the"
+  },
+  {
+    "start": "00:09:43.920",
+    "end": "00:09:46.030",
+    "start_seconds": 583.92,
+    "end_seconds": 586.03,
+    "text": "opportunity to reinvent myself. And the version of me that you see now, I've had"
+  },
+  {
+    "start": "00:09:46.030",
+    "end": "00:09:46.040",
+    "start_seconds": 586.03,
+    "end_seconds": 586.04,
+    "text": "version of me that you see now, I've had"
+  },
+  {
+    "start": "00:09:46.040",
+    "end": "00:09:47.830",
+    "start_seconds": 586.04,
+    "end_seconds": 587.83,
+    "text": "version of me that you see now, I've had to reinvent nearly five times."
+  },
+  {
+    "start": "00:09:47.830",
+    "end": "00:09:47.840",
+    "start_seconds": 587.83,
+    "end_seconds": 587.84,
+    "text": "to reinvent nearly five times."
+  },
+  {
+    "start": "00:09:47.840",
+    "end": "00:09:50.030",
+    "start_seconds": 587.84,
+    "end_seconds": 590.03,
+    "text": "to reinvent nearly five times. >> Wow. You see what's happening here? You"
+  },
+  {
+    "start": "00:09:50.030",
+    "end": "00:09:50.040",
+    "start_seconds": 590.03,
+    "end_seconds": 590.04,
+    "text": ">> Wow. You see what's happening here? You"
+  },
+  {
+    "start": "00:09:50.040",
+    "end": "00:09:52.110",
+    "start_seconds": 590.04,
+    "end_seconds": 592.11,
+    "text": ">> Wow. You see what's happening here? You are well and truly out of Small"
+  },
+  {
+    "start": "00:09:52.110",
+    "end": "00:09:52.120",
+    "start_seconds": 592.11,
+    "end_seconds": 592.12,
+    "text": "are well and truly out of Small"
+  },
+  {
+    "start": "00:09:52.120",
+    "end": "00:09:54.430",
+    "start_seconds": 592.12,
+    "end_seconds": 594.43,
+    "text": "are well and truly out of Small Talkville. You're starting to connect on"
+  },
+  {
+    "start": "00:09:54.430",
+    "end": "00:09:54.440",
+    "start_seconds": 594.43,
+    "end_seconds": 594.44,
+    "text": "Talkville. You're starting to connect on"
+  },
+  {
+    "start": "00:09:54.440",
+    "end": "00:09:56.390",
+    "start_seconds": 594.44,
+    "end_seconds": 596.39,
+    "text": "Talkville. You're starting to connect on a deeper level now. And to the final"
+  },
+  {
+    "start": "00:09:56.390",
+    "end": "00:09:56.400",
+    "start_seconds": 596.39,
+    "end_seconds": 596.4,
+    "text": "a deeper level now. And to the final"
+  },
+  {
+    "start": "00:09:56.400",
+    "end": "00:09:57.990",
+    "start_seconds": 596.4,
+    "end_seconds": 597.99,
+    "text": "a deeper level now. And to the final part of the framework, the H, which"
+  },
+  {
+    "start": "00:09:57.990",
+    "end": "00:09:58.000",
+    "start_seconds": 597.99,
+    "end_seconds": 598.0,
+    "text": "part of the framework, the H, which"
+  },
+  {
+    "start": "00:09:58.000",
+    "end": "00:10:01.350",
+    "start_seconds": 598.0,
+    "end_seconds": 601.35,
+    "text": "part of the framework, the H, which stands for highlight the match out loud"
+  },
+  {
+    "start": "00:10:01.350",
+    "end": "00:10:01.360",
+    "start_seconds": 601.35,
+    "end_seconds": 601.36,
+    "text": "stands for highlight the match out loud"
+  },
+  {
+    "start": "00:10:01.360",
+    "end": "00:10:04.190",
+    "start_seconds": 601.36,
+    "end_seconds": 604.19,
+    "text": "stands for highlight the match out loud and share your experience like this."
+  },
+  {
+    "start": "00:10:04.190",
+    "end": "00:10:04.200",
+    "start_seconds": 604.19,
+    "end_seconds": 604.2,
+    "text": "and share your experience like this."
+  },
+  {
+    "start": "00:10:04.200",
+    "end": "00:10:06.030",
+    "start_seconds": 604.2,
+    "end_seconds": 606.03,
+    "text": "and share your experience like this. Wow, that's wild. You know, I never"
+  },
+  {
+    "start": "00:10:06.030",
+    "end": "00:10:06.040",
+    "start_seconds": 606.03,
+    "end_seconds": 606.04,
+    "text": "Wow, that's wild. You know, I never"
+  },
+  {
+    "start": "00:10:06.040",
+    "end": "00:10:07.430",
+    "start_seconds": 606.04,
+    "end_seconds": 607.43,
+    "text": "Wow, that's wild. You know, I never moved schools five times like you did,"
+  },
+  {
+    "start": "00:10:07.430",
+    "end": "00:10:07.440",
+    "start_seconds": 607.43,
+    "end_seconds": 607.44,
+    "text": "moved schools five times like you did,"
+  },
+  {
+    "start": "00:10:07.440",
+    "end": "00:10:09.270",
+    "start_seconds": 607.44,
+    "end_seconds": 609.27,
+    "text": "moved schools five times like you did, but I've actually changed my job three"
+  },
+  {
+    "start": "00:10:09.270",
+    "end": "00:10:09.280",
+    "start_seconds": 609.27,
+    "end_seconds": 609.28,
+    "text": "but I've actually changed my job three"
+  },
+  {
+    "start": "00:10:09.280",
+    "end": "00:10:11.070",
+    "start_seconds": 609.28,
+    "end_seconds": 611.07,
+    "text": "but I've actually changed my job three times in the last five years. And you're"
+  },
+  {
+    "start": "00:10:11.070",
+    "end": "00:10:11.080",
+    "start_seconds": 611.07,
+    "end_seconds": 611.08,
+    "text": "times in the last five years. And you're"
+  },
+  {
+    "start": "00:10:11.080",
+    "end": "00:10:13.110",
+    "start_seconds": 611.08,
+    "end_seconds": 613.11,
+    "text": "times in the last five years. And you're right, sometimes people think a certain"
+  },
+  {
+    "start": "00:10:13.110",
+    "end": "00:10:13.120",
+    "start_seconds": 613.11,
+    "end_seconds": 613.12,
+    "text": "right, sometimes people think a certain"
+  },
+  {
+    "start": "00:10:13.120",
+    "end": "00:10:15.470",
+    "start_seconds": 613.12,
+    "end_seconds": 615.47,
+    "text": "right, sometimes people think a certain way about you. They have this mold of"
+  },
+  {
+    "start": "00:10:15.470",
+    "end": "00:10:15.480",
+    "start_seconds": 615.47,
+    "end_seconds": 615.48,
+    "text": "way about you. They have this mold of"
+  },
+  {
+    "start": "00:10:15.480",
+    "end": "00:10:16.950",
+    "start_seconds": 615.48,
+    "end_seconds": 616.95,
+    "text": "way about you. They have this mold of who you should be and who they think you"
+  },
+  {
+    "start": "00:10:16.950",
+    "end": "00:10:16.960",
+    "start_seconds": 616.95,
+    "end_seconds": 616.96,
+    "text": "who you should be and who they think you"
+  },
+  {
+    "start": "00:10:16.960",
+    "end": "00:10:18.830",
+    "start_seconds": 616.96,
+    "end_seconds": 618.83,
+    "text": "who you should be and who they think you are. And then it's really hard to break"
+  },
+  {
+    "start": "00:10:18.830",
+    "end": "00:10:18.840",
+    "start_seconds": 618.83,
+    "end_seconds": 618.84,
+    "text": "are. And then it's really hard to break"
+  },
+  {
+    "start": "00:10:18.840",
+    "end": "00:10:20.390",
+    "start_seconds": 618.84,
+    "end_seconds": 620.39,
+    "text": "are. And then it's really hard to break out of it. But, changing jobs and"
+  },
+  {
+    "start": "00:10:20.390",
+    "end": "00:10:20.400",
+    "start_seconds": 620.39,
+    "end_seconds": 620.4,
+    "text": "out of it. But, changing jobs and"
+  },
+  {
+    "start": "00:10:20.400",
+    "end": "00:10:21.750",
+    "start_seconds": 620.4,
+    "end_seconds": 621.75,
+    "text": "out of it. But, changing jobs and changing environments for me, like"
+  },
+  {
+    "start": "00:10:21.750",
+    "end": "00:10:21.760",
+    "start_seconds": 621.75,
+    "end_seconds": 621.76,
+    "text": "changing environments for me, like"
+  },
+  {
+    "start": "00:10:21.760",
+    "end": "00:10:23.830",
+    "start_seconds": 621.76,
+    "end_seconds": 623.83,
+    "text": "changing environments for me, like you've changed schools, it's helped me"
+  },
+  {
+    "start": "00:10:23.830",
+    "end": "00:10:23.840",
+    "start_seconds": 623.83,
+    "end_seconds": 623.84,
+    "text": "you've changed schools, it's helped me"
+  },
+  {
+    "start": "00:10:23.840",
+    "end": "00:10:25.550",
+    "start_seconds": 623.84,
+    "end_seconds": 625.55,
+    "text": "you've changed schools, it's helped me have a fresh start each time where"
+  },
+  {
+    "start": "00:10:25.550",
+    "end": "00:10:25.560",
+    "start_seconds": 625.55,
+    "end_seconds": 625.56,
+    "text": "have a fresh start each time where"
+  },
+  {
+    "start": "00:10:25.560",
+    "end": "00:10:27.310",
+    "start_seconds": 625.56,
+    "end_seconds": 627.31,
+    "text": "have a fresh start each time where people have no preconceived ideas of who"
+  },
+  {
+    "start": "00:10:27.310",
+    "end": "00:10:27.320",
+    "start_seconds": 627.31,
+    "end_seconds": 627.32,
+    "text": "people have no preconceived ideas of who"
+  },
+  {
+    "start": "00:10:27.320",
+    "end": "00:10:29.070",
+    "start_seconds": 627.32,
+    "end_seconds": 629.07,
+    "text": "people have no preconceived ideas of who I was, which allowed me then to step"
+  },
+  {
+    "start": "00:10:29.070",
+    "end": "00:10:29.080",
+    "start_seconds": 629.07,
+    "end_seconds": 629.08,
+    "text": "I was, which allowed me then to step"
+  },
+  {
+    "start": "00:10:29.080",
+    "end": "00:10:30.430",
+    "start_seconds": 629.08,
+    "end_seconds": 630.43,
+    "text": "I was, which allowed me then to step into a version of me that's sitting"
+  },
+  {
+    "start": "00:10:30.430",
+    "end": "00:10:30.440",
+    "start_seconds": 630.43,
+    "end_seconds": 630.44,
+    "text": "into a version of me that's sitting"
+  },
+  {
+    "start": "00:10:30.440",
+    "end": "00:10:31.710",
+    "start_seconds": 630.44,
+    "end_seconds": 631.71,
+    "text": "into a version of me that's sitting across from you right now. Man, it's"
+  },
+  {
+    "start": "00:10:31.710",
+    "end": "00:10:31.720",
+    "start_seconds": 631.71,
+    "end_seconds": 631.72,
+    "text": "across from you right now. Man, it's"
+  },
+  {
+    "start": "00:10:31.720",
+    "end": "00:10:33.550",
+    "start_seconds": 631.72,
+    "end_seconds": 633.55,
+    "text": "across from you right now. Man, it's crazy. Been through different things,"
+  },
+  {
+    "start": "00:10:33.550",
+    "end": "00:10:33.560",
+    "start_seconds": 633.55,
+    "end_seconds": 633.56,
+    "text": "crazy. Been through different things,"
+  },
+  {
+    "start": "00:10:33.560",
+    "end": "00:10:35.550",
+    "start_seconds": 633.56,
+    "end_seconds": 635.55,
+    "text": "crazy. Been through different things, but it's similar at the same time. Man,"
+  },
+  {
+    "start": "00:10:35.550",
+    "end": "00:10:35.560",
+    "start_seconds": 635.55,
+    "end_seconds": 635.56,
+    "text": "but it's similar at the same time. Man,"
+  },
+  {
+    "start": "00:10:35.560",
+    "end": "00:10:37.230",
+    "start_seconds": 635.56,
+    "end_seconds": 637.23,
+    "text": "but it's similar at the same time. Man, I never thought about it that way. We"
+  },
+  {
+    "start": "00:10:37.230",
+    "end": "00:10:37.240",
+    "start_seconds": 637.23,
+    "end_seconds": 637.24,
+    "text": "I never thought about it that way. We"
+  },
+  {
+    "start": "00:10:37.240",
+    "end": "00:10:39.790",
+    "start_seconds": 637.24,
+    "end_seconds": 639.79,
+    "text": "I never thought about it that way. We actually have quite a bit in common."
+  },
+  {
+    "start": "00:10:39.790",
+    "end": "00:10:39.800",
+    "start_seconds": 639.79,
+    "end_seconds": 639.8,
+    "text": "actually have quite a bit in common."
+  },
+  {
+    "start": "00:10:39.800",
+    "end": "00:10:40.710",
+    "start_seconds": 639.8,
+    "end_seconds": 640.71,
+    "text": "actually have quite a bit in common. You want some?"
+  },
+  {
+    "start": "00:10:40.710",
+    "end": "00:10:40.720",
+    "start_seconds": 640.71,
+    "end_seconds": 640.72,
+    "text": "You want some?"
+  },
+  {
+    "start": "00:10:40.720",
+    "end": "00:10:43.190",
+    "start_seconds": 640.72,
+    "end_seconds": 643.19,
+    "text": "You want some? >> Yeah, dude. I'd love some. Oh."
+  },
+  {
+    "start": "00:10:43.190",
+    "end": "00:10:43.200",
+    "start_seconds": 643.19,
+    "end_seconds": 643.2,
+    "text": ">> Yeah, dude. I'd love some. Oh."
+  },
+  {
+    "start": "00:10:43.200",
+    "end": "00:10:46.110",
+    "start_seconds": 643.2,
+    "end_seconds": 646.11,
+    "text": ">> Yeah, dude. I'd love some. Oh. Oh, so good. I love pasta."
+  },
+  {
+    "start": "00:10:46.110",
+    "end": "00:10:46.120",
+    "start_seconds": 646.11,
+    "end_seconds": 646.12,
+    "text": "Oh, so good. I love pasta."
+  },
+  {
+    "start": "00:10:46.120",
+    "end": "00:10:48.470",
+    "start_seconds": 646.12,
+    "end_seconds": 648.47,
+    "text": "Oh, so good. I love pasta. >> How powerful was that? Match is the"
+  },
+  {
+    "start": "00:10:48.470",
+    "end": "00:10:48.480",
+    "start_seconds": 648.47,
+    "end_seconds": 648.48,
+    "text": ">> How powerful was that? Match is the"
+  },
+  {
+    "start": "00:10:48.480",
+    "end": "00:10:50.750",
+    "start_seconds": 648.48,
+    "end_seconds": 650.75,
+    "text": ">> How powerful was that? Match is the difference between a nice chat and an"
+  },
+  {
+    "start": "00:10:50.750",
+    "end": "00:10:50.760",
+    "start_seconds": 650.75,
+    "end_seconds": 650.76,
+    "text": "difference between a nice chat and an"
+  },
+  {
+    "start": "00:10:50.760",
+    "end": "00:10:52.950",
+    "start_seconds": 650.76,
+    "end_seconds": 652.95,
+    "text": "difference between a nice chat and an actual deep connection. And if you want"
+  },
+  {
+    "start": "00:10:52.950",
+    "end": "00:10:52.960",
+    "start_seconds": 652.95,
+    "end_seconds": 652.96,
+    "text": "actual deep connection. And if you want"
+  },
+  {
+    "start": "00:10:52.960",
+    "end": "00:10:54.190",
+    "start_seconds": 652.96,
+    "end_seconds": 654.19,
+    "text": "actual deep connection. And if you want to learn more about communication"
+  },
+  {
+    "start": "00:10:54.190",
+    "end": "00:10:54.200",
+    "start_seconds": 654.19,
+    "end_seconds": 654.2,
+    "text": "to learn more about communication"
+  },
+  {
+    "start": "00:10:54.200",
+    "end": "00:10:55.829",
+    "start_seconds": 654.2,
+    "end_seconds": 655.829,
+    "text": "to learn more about communication frameworks like this, make sure you"
+  },
+  {
+    "start": "00:10:55.829",
+    "end": "00:10:55.839",
+    "start_seconds": 655.829,
+    "end_seconds": 655.8389999999999,
+    "text": "frameworks like this, make sure you"
+  },
+  {
+    "start": "00:10:55.839",
+    "end": "00:10:57.910",
+    "start_seconds": 655.8389999999999,
+    "end_seconds": 657.91,
+    "text": "frameworks like this, make sure you check out my free 2-hour training that I"
+  },
+  {
+    "start": "00:10:57.910",
+    "end": "00:10:57.920",
+    "start_seconds": 657.91,
+    "end_seconds": 657.92,
+    "text": "check out my free 2-hour training that I"
+  },
+  {
+    "start": "00:10:57.920",
+    "end": "00:10:59.390",
+    "start_seconds": 657.92,
+    "end_seconds": 659.39,
+    "text": "check out my free 2-hour training that I mentioned before where I teach you the"
+  },
+  {
+    "start": "00:10:59.390",
+    "end": "00:10:59.400",
+    "start_seconds": 659.39,
+    "end_seconds": 659.4,
+    "text": "mentioned before where I teach you the"
+  },
+  {
+    "start": "00:10:59.400",
+    "end": "00:11:01.310",
+    "start_seconds": 659.4,
+    "end_seconds": 661.31,
+    "text": "mentioned before where I teach you the frameworks to speak with more clarity,"
+  },
+  {
+    "start": "00:11:01.310",
+    "end": "00:11:01.320",
+    "start_seconds": 661.31,
+    "end_seconds": 661.32,
+    "text": "frameworks to speak with more clarity,"
+  },
+  {
+    "start": "00:11:01.320",
+    "end": "00:11:03.190",
+    "start_seconds": 661.32,
+    "end_seconds": 663.19,
+    "text": "frameworks to speak with more clarity, structure, and confidence in"
+  },
+  {
+    "start": "00:11:03.190",
+    "end": "00:11:03.200",
+    "start_seconds": 663.19,
+    "end_seconds": 663.2,
+    "text": "structure, and confidence in"
+  },
+  {
+    "start": "00:11:03.200",
+    "end": "00:11:05.510",
+    "start_seconds": 663.2,
+    "end_seconds": 665.51,
+    "text": "structure, and confidence in high-pressure situations. The link is in"
+  },
+  {
+    "start": "00:11:05.510",
+    "end": "00:11:05.520",
+    "start_seconds": 665.51,
+    "end_seconds": 665.52,
+    "text": "high-pressure situations. The link is in"
+  },
+  {
+    "start": "00:11:05.520",
+    "end": "00:11:06.870",
+    "start_seconds": 665.52,
+    "end_seconds": 666.87,
+    "text": "high-pressure situations. The link is in the description. I'll see you in the"
+  },
+  {
+    "start": "00:11:06.870",
+    "end": "00:11:06.880",
+    "start_seconds": 666.87,
+    "end_seconds": 666.88,
+    "text": "the description. I'll see you in the"
+  },
+  {
+    "start": "00:11:06.880",
+    "end": "00:11:09.280",
+    "start_seconds": 666.88,
+    "end_seconds": 669.28,
+    "text": "the description. I'll see you in the next one."
+  }
+]
