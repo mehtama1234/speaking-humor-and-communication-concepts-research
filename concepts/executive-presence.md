@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are about to speak in a high-stakes setting: the board meeting, the client call, the all-hands update. Your brain floods with adrenaline. You can feel the urge to talk faster, explain more, fill every silence. People are watching. This is where executive presence matters: whether you stay grounded enough to be heard as credible, or whether your pressure leaks out as rushing, over-explaining, and shrinking.
+
 ## Definition
 
 Executive presence is the cluster of visible speaking behaviors that make a
@@ -38,6 +42,14 @@ This concept matters because it affects:
 - trust under scrutiny
 - meeting and presentation effectiveness
 - whether people relax into your guidance or doubt your command
+
+## What it sounds like
+
+Weak version: rushed ideas with no pauses, filled silence ("um," "like," throat-clearing), clipped sentence endings, and visible hurry in the voice. The room senses anxiety even if the content is solid.
+
+Stronger version: "There are three priorities for this quarter." [pause]. "The first is customer retention. The second is infrastructure stability. The third is feature velocity." [pause]. "We cannot do all three equally well, so here is the trade-off."
+
+What changed: the stronger version uses pauses as signals of control and unhurried thought. It speaks at a pace that suggests the person is allowed to occupy the room. The pacing itself conveys credibility.
 
 ## Cross-corpus pattern
 
@@ -118,6 +130,12 @@ their frame without trying to force respect.
 - over-explaining to compensate for insecurity
 - mistaking coldness or distance for authority
 - trying to force respect instead of becoming steadier
+
+## Real moment from the corpora
+
+From `Ultraspeaking #16 How to speak more clearly (without saying a word)`:
+
+Unhurriedness and groundedness create executive presence, and taking time signals worthiness to occupy space. This proves that presence is built through pace and pause, not through louder volume or more aggressive language.
 
 ## Practice implications
 

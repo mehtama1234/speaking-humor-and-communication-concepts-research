@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You're asked an unexpected question in a meeting. Your mind has five good points but no order. Do you dump them out hoping the listener will sort them, or do you take two seconds to pick the most important one first and then build?
+
 ## Definition
 
 Structure as leverage means using simple mental or verbal frameworks to reduce
@@ -20,6 +24,16 @@ really structure problems:
 - over-detailed updates
 
 Strong structure does not remove spontaneity. It gives spontaneity a backbone.
+
+## What it sounds like
+
+Unstructured version:
+- "There are a lot of considerations—timeline risk, the customer confusion angle, budget questions, and also team morale, which we shouldn't forget about..."
+
+Structured version:
+- "There are two issues here. The first is timing. The second is ownership."
+
+The difference: the unstructured version asks the listener to hold everything in mind at once. The structured version gives them a path to follow and makes each point land harder because it has a number and a place.
 
 ## Source ownership
 
@@ -54,6 +68,10 @@ Best anchors:
 
 - `#10 How to Speak like a CEO`
 - `#4 How to Speak Brilliantly Well – Without a Script (Ali Abdaal)`
+
+## Real moment from Think Fast Talk Smart #14
+
+The session "Know Before You Tell" opens with a clear three-part framework: know your goal (what does the listener need to think, feel, decide, or do?), know your audience (what do they know, fear, care about?), and know your data (what evidence or listening have you done?). The host notes: "A lot of people just see the goal of communication is getting information out. But it's really how does it land?" This reframes structure from a delivery trick into a planning tool. Without structure, you're hoping the listener assembles the pieces. With structure, you're controlling how they land.
 
 ## What good structure tends to do
 

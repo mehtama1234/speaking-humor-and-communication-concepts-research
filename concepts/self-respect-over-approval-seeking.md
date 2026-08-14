@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You're in a room where someone has more status or experience than you, and you can feel yourself shrinking—softening your opinions, hedging everything you say, turning statements into questions. Or you have a real disagreement but you flatten it to avoid conflict. Or you notice you're talking to seem impressive rather than to actually say what you think.
+
 ## Definition
 
 Self-respect over approval-seeking means behaving from internal alignment,
@@ -11,6 +15,16 @@ permission, likability, or status from the room.
 This does not mean becoming cold or indifferent. It means that stronger
 communication often comes from a speaker who is not begging the audience to
 confirm their worth in real time.
+
+## What it sounds like
+
+Weak version:
+- "I mean, this is probably not a huge deal, but I was kind of thinking maybe we could possibly consider—if you want to—looking at it differently?"
+
+Stronger version:
+- "I see this differently. Here's why I think we should try the other approach."
+
+What changed: The stronger speaker removed the apologies, hedges, and permission-seeking language. The idea stays the same, but it arrives cleanly instead of already defending its right to exist.
 
 ## Why it matters
 
@@ -84,6 +98,10 @@ Best anchors:
 
 The contribution here is that confidence improves when speakers stop managing
 impressions so aggressively and focus on useful communication instead.
+
+### Real moment from Charisma on Command #11
+
+The transcript shows a job interview where a candidate pretends to be a hardened criminal to impress. But the facade fails: "You ever been arrested? Yeah. Yeah? No. Good. You're the first bloke we've got on here today with no criminal record." The interviewer only takes him seriously when he drops the act and admits the truth. This proves that consistency and authenticity earn respect far more than performing what you think people want—and trying to seem like something you're not has visible cracks that eventually get exposed.
 
 ## What self-respect tends to look like in speech
 

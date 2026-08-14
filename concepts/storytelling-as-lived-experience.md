@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You're explaining why a project failure taught you something. You could say: "We learned a lot about resilience during that project." Or you could put the listener inside the moment: "At 11:40 p.m. we were still in the office, staring at the failed deploy." One sits in your head. The other puts them in the room.
+
 ## Definition
 
 Storytelling as lived experience means turning abstract points into specific,
@@ -29,6 +33,16 @@ Stories improve:
 - memorability
 - relatability
 - persuasive force
+
+## What it sounds like
+
+Flat version (abstract):
+- "You know how sometimes we go into these ruts in life and it just feels terrible and we don't know what to do?"
+
+Stronger version (embodied):
+- "I was on the list of layoffs and I found out the other day that I'm not going to keep my job. It sucks."
+
+The difference: the flat version asks listeners to imagine a situation. The embodied version puts them directly in a moment they can see, hear, and feel. Abstraction creates distance; specificity closes it.
 
 ## Cross-corpus pattern
 
@@ -75,6 +89,10 @@ Best anchors:
 The contribution here is that story is a learnable tool. The corpus emphasizes
 that humans are wired for story, that detail and emotion matter, and that
 speakers can study how effective storytellers start, sequence, and connect.
+
+## Real moment from Ultraspeaking #24
+
+The session "Transform your storytelling by understanding these three layers" identifies layers of abstraction as the core problem. Beginners stay at the highest layer—"how sometimes we get fired from a job and don't know what to do"—which keeps listeners at arm's length. The strongest storytelling removes the distance entirely: "I was on the list of layoffs and I found out the other day that I'm not gonna keep my job." The moment is embodied, present-tense, and specific. The audience can see, hear, and feel it because the storyteller isn't explaining it—they're living it again in front of them.
 
 ## What stronger storytelling tends to do
 

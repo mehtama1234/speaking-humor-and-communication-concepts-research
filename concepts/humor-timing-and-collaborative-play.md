@@ -2,6 +2,14 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+Someone makes an observation, and you sense an opening to build on it. You could
+rush in with a full joke that kills the moment. Or you could add one small turn
+that invites them to see the absurdity together. They smile. Now it is not your
+joke landing—it is both of you noticing something funny at the same time. That
+collaborative feel is what makes a moment stick.
+
 ## Definition
 
 Humor timing and collaborative play means making humor work through sequence,
@@ -33,6 +41,22 @@ It matters because it improves:
 - listener engagement
 - conversational play
 - the ability to lighten tension without sounding forced
+
+## What it sounds like
+
+Weak version: Person says, "That meeting took forever." You immediately jump in
+with "Yeah, it was like watching paint dry on a Tuesday in February when nobody
+likes you." (Overwritten. Too much. Stops the conversation dead because you have
+seized all the funny.)
+
+Stronger version: Person says, "That meeting took forever." You say, "I checked
+my watch three times. It went backward once." (You built on what they said. You
+left space for them to add their own observation. It becomes a shared moment,
+not a solo performance.) Then you pause to let the moment exist.
+
+What changed: Instead of maximizing how funny you could sound, you set up the
+scene and left room for the other person to feel the absurdity too. That is
+collaborative play.
 
 ## Cross-corpus pattern
 
@@ -139,3 +163,31 @@ If someone wanted to improve this skill directly, the best current actions are:
 - `analysis/charisma-on-command-wave-1-theme-map.md`
 - `analysis/example-library.md`
 - `analysis/evidence-moments.md`
+
+## Real moments from the transcript base
+
+**Think Fast Talk Smart #8 - The Science of Funny: How Humor Builds Connection**
+
+The distinction between performance and collaboration is explicit:
+
+"Jamming is like when you are playing instruments together. One person plays the
+guitar and then there is space for the bass to come in and now there is space for
+the drums and we are all making something incredible together. Joking is when you
+are making it all about you and you are so invested in the joke that they cannot
+participate as well."
+
+This proves that stronger humor timing requires slowing down enough to build
+together, not rushing to deliver.
+
+**Andrew Tarvin #17 - Rule of 3 vs Comic Triple**
+
+The mechanic of comic timing is concrete:
+
+"The rule of three is simply that things in threes are easier to remember because
+a list of three is the minimum number you need to confirm a pattern. If you do it
+a third time that completes the pattern. In comedy, the comic triple takes
+advantage of the rule of three by giving you a list where the third thing is
+unexpected."
+
+This proves that timing works best when the audience sees the pattern established
+before the turn breaks it.

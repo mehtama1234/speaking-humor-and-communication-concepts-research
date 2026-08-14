@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You're pitching an idea to someone who isn't immediately sold. Or you need to move a room toward a decision when half of them are skeptical. Or you want to convince someone to try something new but your explanation keeps bouncing off. You know the idea is good—but saying it harder and more emphatically is clearly not working.
+
 ## Definition
 
 Persuasion and influence mean helping another person move toward a decision,
@@ -17,6 +21,16 @@ In this repo, the recurring version of the idea is:
 
 This makes persuasion less about overpowering people and more about aligning
 message, motivation, timing, and frame.
+
+## What it sounds like
+
+Weak version:
+- "I really think you should try this. Look at all these benefits. I've done research. Here's why I'm so excited about it. Trust me."
+
+Stronger version:
+- "What matters most to you about this decision?" [listens] "I get that. Given that, here's why I'd choose this path. Are you open to testing it first before the full commitment?"
+
+What changed: The stronger speaker discovered the other person's actual concern before pitching, and offered a small next step instead of demanding total conversion.
 
 ## Why it matters
 
@@ -85,6 +99,10 @@ Best anchors:
 The contribution here is that influence becomes stronger when the speaker is
 less performative, more trustworthy, and willing to take the small social risk
 of saying what everyone else is silently noticing.
+
+### Real moment from Vinh Giang #4
+
+Vinh describes the classic persuasion mistake: "I love camping. I love everything to do with camping. And when I first tried to convince my wife to go, I sold it to her using the things that excite me about camping... I would get more excited with every sentence. Meanwhile, poor [she's] looking at me like I'm describing a hostage situation." He was selling his version of camping (adventure, self-sufficiency) when what mattered to her was quality time and disconnecting. This proves that starting from the listener's motivation, not the speaker's excitement, is essential to persuasion working at all.
 
 ## What stronger persuasion tends to look like
 

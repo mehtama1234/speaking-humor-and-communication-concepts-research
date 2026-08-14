@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You're two minutes into a project update when someone asks you a question. Your exact wording for the next part is gone. Your heart jumps. Do you pause and find your way back, or do you freeze and start over from the top?
+
 ## Definition
 
 Speaking without a script means communicating from internalized meaning,
@@ -23,6 +27,16 @@ The first-wave corpora suggest that script dependence creates several problems:
 
 Speaking without a script matters because it supports both fluency and real
 human presence.
+
+## What it sounds like
+
+Weak version (script dependent):
+- "I had this exact way I wanted to say it, and now I lost it. Um, let me start over."
+
+Stronger version (talking-points based):
+- "The main point is X. The second part is Y. The reason it matters is Z."
+
+The difference: the stronger speaker returns to a stable point instead of trying to recover the missing sentence. The talking points stay constant even when the exact words change.
 
 ## Source ownership
 
@@ -64,6 +78,10 @@ Best anchors:
 
 The contribution here is that even unscripted speaking can still rely on strong
 mental structure.
+
+## Real moment from Ultraspeaking #4
+
+Ali Abdaal uses a recovery technique called the "summary prompt." When he realizes he's rambling, he doesn't panic or restart. Instead, he says something like: "So the reason I'm saying all of this stuff is because." This phrase acts as a reset button for his brain—he doesn't know what comes next, but saying the prompt helps him find the summary automatically. The audience hears only the summary, not the tangent. The technique works because it assumes tangents are normal and gives the speaker a reliable way back to the main idea.
 
 ## What strong non-scripted speaking tends to require
 

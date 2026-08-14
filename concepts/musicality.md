@@ -2,6 +2,15 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are explaining something you know well. The information is correct. But as you
+talk, you watch the room's eyes glaze. You are speaking in one note, one speed,
+one temperature. The same words would land completely different if your voice
+moved where the meaning changes—if you slowed on important phrases, raised your
+pitch on a surprise, dropped it on a conclusion. Your ideas are not boring. Your
+delivery is.
+
 ## Definition
 
 Musicality is the vocal and rhythmic dimension of speech: pitch variation,
@@ -21,6 +30,23 @@ Musicality matters because it helps:
 - sound more alive
 - reduce monotonous delivery
 - create perceived confidence and intelligence
+
+## What it sounds like
+
+Weak version: "We improved the API response time. We added new features to the
+dashboard. We fixed three critical bugs. The next release is coming next month."
+(Flat. Each sentence lands at the same pitch and speed. No emphasis hierarchy.
+Listener tunes out because there is no signal for what matters most.)
+
+Stronger version: "We improved the API response time—from six hundred milliseconds
+down to eighty. That's... ten times faster. We also added features to the
+dashboard, fixed critical bugs, and the next release is next month." (The voice
+moves when the numbers matter. Emphasis lands on the surprise. Pace slows on the
+big win. Listener can hear which facts carry weight.)
+
+What changed: Instead of delivering all information equally, the speaker used
+pitch, speed, and pause to show what matters. The listener does not have to guess
+what to care about.
 
 ## Source ownership
 
@@ -83,3 +109,18 @@ Best current drills:
 - `analysis/ultraspeaking-wave-1-theme-map.md`
 - `analysis/ultraspeaking-wave-1-drill-candidates.md`
 - `analysis/cross-corpus-concept-backlog.md`
+
+## Real moment from the transcript base
+
+**Ultraspeaking #18 - How to get people to listen to you (musicality lecture)**
+
+The core principle is stated clearly:
+
+"Under pressure, our musicality tends to shrink. At home we could be really
+dynamic and show so many sides of our personality. At work we might feel like our
+range is constricting. When we try to control our range, we can strain it, and by
+constraining it we're much less likely to be dynamic and to express the full
+range of our personality."
+
+This proves that flattening under pressure is not a character trait—it is a
+training gap. Musicality can be expanded intentionally.

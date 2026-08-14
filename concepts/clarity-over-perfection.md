@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are giving a talk. You have the whole thing scripted word-for-word because you are terrified of forgetting something. Two minutes in, you lose your place in the script. You cannot find the exact sentence. So you start reading even more carefully, word by word. Your voice flattens. The room feels the shift from alive to robotic. You became less clear the moment you tried harder to be perfect.
+
 ## Definition
 
 Clarity over perfection means optimizing for being understood rather than
@@ -21,6 +25,14 @@ Many speakers lose energy and connection by chasing polished correctness:
 - they become self-conscious about accent or surface polish
 
 That often makes them harder to follow, not easier.
+
+## What it sounds like
+
+**Weak version:** A speaker with a full script, reading word-for-word, hits a bump and loses the exact sentence. Suddenly the pace tightens, the voice flattens, and everything becomes robotic.
+
+**Stronger version:** Same speaker with three talking points instead. Loses a sentence, pauses naturally, thinks for a moment, then continues: "The main idea is still X. And the second part is Y."
+
+The change: Scripting creates the illusion of safety. It actually makes the speaker more fragile because any deviation breaks the spell. Talking points give the speaker permission to riff, to pause, to think out loud. Ultraspeaking founder Ali Abdaal does this with YouTube videos: "90% of the scripting goes out the window. We script the hook and then we have talking points. It's a rough idea and a lot of riffing."
 
 ## Cross-corpus pattern
 
@@ -62,6 +74,10 @@ Best anchors:
 - `#2 Don't Lose the Room: How to Make Ideas Stick`
 
 This corpus broadens the concept into multilingual and technical communication.
+
+### Real moment from the sources
+
+**Ultraspeaking #4**: "There is no way to make reading from a script sound not like reading from a script." The speaker showed how Ali Abdaal moved from full scripts to talking points: "We script the first 30 seconds through the hook and then we just have talking points...It's a rough idea and it's a lot of riffing." The result is aliveness. The backup plan is not "memorize better"; it is "know your points well enough that you can say them in your own words."
 
 ## What clarity tends to require
 

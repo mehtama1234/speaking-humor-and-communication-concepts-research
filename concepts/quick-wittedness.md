@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+Someone makes a comment and you have exactly three seconds to respond with something lighter, sharper, or more interesting than silence. Or you're in a meeting and something awkward just happened and the room is waiting for someone to ease the tension. Or someone says something obvious and everyone's thinking the same thing but nobody's saying it—and you could say it, but your brain moves too slow.
+
 ## Definition
 
 Quick-wittedness is the ability to notice what is happening in a live
@@ -19,6 +23,16 @@ or comeback talent. The recurring pattern is:
 Quick-wittedness is therefore less about having a better brain in the moment
 and more about having less internal friction, more live awareness, and more
 permission to build with what is already present.
+
+## What it sounds like
+
+Weak version:
+- [Someone makes a joke that falls flat. You're thinking three seconds later: "They should have said..." But you're quiet. Later that night you think of the perfect comeback.]
+
+Stronger version:
+- [Someone says something absurd. You immediately say: "Wait, did we really just agree to that?" or "So... we're doing this the hard way." The room laughs because you named what everyone was already thinking.]
+
+What changed: You weren't overthinking the "right" response. You noticed what was actually happening and spoke from that notice instead of waiting for a perfect line.
 
 ## Why it matters
 
@@ -100,6 +114,10 @@ The contribution here is that people become quicker when they are less
 constricted. If the gap between how you are with close friends and how you are
 with everyone else gets smaller, jokes, associations, and contributions emerge
 more naturally.
+
+### Real moment from Vinh Giang #8
+
+Vinh explains the foundation of quickness: "In order for you to be quick, in order for you to be humorous... the most important thing is mastery over the foundations. [Voice, pause, posture, eye contact.] Because if you're busy in the moment thinking about how to use your hand gestures, how to use your voice, what to do with your facial expressions... then you're not going to be able to be quick in the moment." When you're comfortable with delivery, your attention frees up to notice what's actually happening around you—that's when wit appears naturally.
 
 ## What stronger quick-wittedness tends to look like
 

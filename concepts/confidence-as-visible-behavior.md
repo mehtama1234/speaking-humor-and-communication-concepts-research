@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You blank on stage. Your mind goes completely empty. For a moment, panic floods you. But instead of letting that leak into your body and voice, you pause. You breathe. You stand still. You wait. Three seconds later, the next line comes. You keep going. The audience has no idea you panicked. Some will later tell you that pause was the most powerful moment of your speech. You just learned that confidence is not about feeling fearless—it is about not showing your fear.
+
 ## Definition
 
 Confidence in speaking is often less about feeling fearless and more about
@@ -25,6 +29,14 @@ trying to speak more boldly. The sources here repeatedly argue for the reverse:
 
 That behavioral layer changes how audiences read you, and it also gives you
 real reps at not collapsing when speaking gets messy.
+
+## What it sounds like
+
+**Weak version:** Blank happens. You immediately say, "Um, sorry, I'm totally blanking right now" or "I don't know what I'm talking about." You look at the floor. Your voice trembles. The audience feels the chaos.
+
+**Stronger version:** Blank happens. You pause. You breathe. You stay still and look at the audience. When the line comes, you continue cleanly. The audience experiences the pause as thought, not panic.
+
+The change: The words you say matter less than the frame you keep. As Ultraspeaking says, "You don't have to feel confident in order to appear confident." Internal chaos does not have to become visible chaos. The speaker who can tolerate a three-second silence reads as more grounded than one who fills it with apology.
 
 ## What this concept is not
 
@@ -77,6 +89,10 @@ Best anchors:
 
 This corpus strengthens the idea that confidence is easier to project when your
 opening structure is ready and your pace remains deliberate.
+
+### Real moment from the sources
+
+**Ultraspeaking #19**: "Tristan de Montebello blanked in the middle of his semi-final speech at the World Championship of Public Speaking. He maintained composure. He took a deep breath. He waited. The line came. He won. After the speech, people told him that pause was the most powerful moment. What you feel on the inside is not what people see on the outside. Chaos can come across as a thoughtful, meaningful pause as long as you maintain composure and do not leak insecurity." This proves the core claim: confidence is trainable as a visible behavior before it becomes a feeling.
 
 ## Recurring visible behaviors
 

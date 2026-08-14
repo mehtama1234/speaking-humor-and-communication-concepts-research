@@ -2,6 +2,14 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are presenting a status update to your team. The technical details are solid,
+but the room feels flat and tired. You notice someone's shoulders drop a little.
+A small lightness—a observation about the process, a relatable misstep—could
+shift the whole energy from "we are enduring this" to "we are in this together."
+That is the moment this skill matters.
+
 ## Definition
 
 Humor as connection means using lightness, surprise, relatability, or levity
@@ -21,6 +29,20 @@ This matters because it affects:
 - memorability
 - audience ease
 - social fluidity
+
+## What it sounds like
+
+Weak version: "So, anyway, there's this thing about the API..." (straight
+explanation, no shared moment, listeners are just absorbing facts).
+
+Stronger version: "The good news is the API latency improved. The bad news is
+we added four new approval gates to get there. So basically we solved one problem
+and invented three new ones." (The observation is shared; listeners can feel the
+irony together. The speaker is not performing, just making space for recognition.)
+
+What changed: Instead of reporting facts alone, the speaker pointed out the
+contradiction in the situation. This lets the room recognize the irony together
+rather than waiting for the speaker to declare a punchline.
 
 ## Source ownership
 
@@ -84,3 +106,18 @@ Best current drills:
 - `analysis/think-fast-talk-smart-wave-1-theme-map.md`
 - `analysis/think-fast-talk-smart-wave-1-drill-candidates.md`
 - `analysis/cross-corpus-concept-backlog.md`
+
+## Real moment from the transcript base
+
+**Think Fast Talk Smart #8 - The Science of Funny: How Humor Builds Connection**
+
+From the transcript, the distinction between "jamming" and "joking" is precise:
+
+"Jamming is when we are playing with each other in a way that builds and lets
+the other person have space and feel like they're in it with us... Joking is when
+you are making it all about you and you are so invested in the joke that they
+actually cannot participate as well."
+
+This proves the core claim: connection-oriented humor only works when it creates
+room for the other person to join in, not when it centers the speaker's
+cleverness.

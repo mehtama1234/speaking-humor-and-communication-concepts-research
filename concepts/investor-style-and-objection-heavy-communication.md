@@ -2,6 +2,14 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You walk into a room where the other side has already decided to scrutinize. Your
+first instinct is to defend every possible angle and overwhelm them with proof.
+Instead, you could stay calm, understand what they actually care about, and
+answer one thing clearly. The conversation shifts from battle to problem-solving.
+That is the moment this skill saves you.
+
 ## Definition
 
 Investor-style and objection-heavy communication is the ability to make a case
@@ -30,6 +38,25 @@ In those settings, many speakers:
 - add more slides and context instead of sharpening the core case
 
 That often makes a skeptical room even less convinced.
+
+## What it sounds like
+
+Weak version: Objection lands: "But the timeline looks aggressive." Response:
+"Well, actually, we have contingency plans, and we have also built in buffer
+time, and the team is really experienced, and we have done similar projects
+before..." (Defensive. Pleading. Trying to answer every doubt at once. The room
+hears panic and multiplication of problems.)
+
+Stronger version: Objection lands: "But the timeline looks aggressive." Response:
+"The timeline risk is real. That is the main reason we have staggered the rollout
+in phases instead of a big bang. So if we hit a wall in phase one, we can adjust
+phase two. That is the tradeoff we are making." (Direct acknowledgment of the
+real concern. One clear answer. Invitation to see the reasoning. Room can now
+decide whether to trust the approach.)
+
+What changed: Instead of treating objection as attack, the speaker treated it as
+information. Acknowledged it. Answered it with one reason. Stayed in the game
+rather than retreating or overcompensating.
 
 ## Cross-corpus pattern
 
@@ -130,3 +157,18 @@ Best current drills for this concept:
 - `analysis/vinh-giang-wave-1-theme-map.md`
 - `analysis/evidence-moments.md`
 - `analysis/business-communication-curriculum.md`
+
+## Real moment from the transcript base
+
+**Vinh Giang #7 - How to Think 10 Steps Ahead In Any High Stakes Conversation**
+
+The prep principle is concrete and field-tested:
+
+"Before a high-stakes conversation, get really clear on three things: what is the
+outcome I want, what is the outcome they want, and what are the sensitive and
+difficult parts where the conversation could go sideways. By naming the likely
+friction points in advance, you can prepare cleaner explanations and alternative
+paths for each one, which makes you much much harder to rattle in the moment."
+
+This proves that flexibility under objection comes not from improvising more, but
+from understanding the terrain before you walk in.

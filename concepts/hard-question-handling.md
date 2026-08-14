@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are in a meeting or interview when someone asks you something you do not fully know the answer to. All eyes shift to you. Your nervous system wants to fill the silence instantly, to prove you are smart by talking fast. But speed here usually makes things worse. This is where the skill lives: buying time without looking evasive, giving a grounded answer even when certainty is incomplete.
+
 ## Definition
 
 Hard-question handling is the ability to stay composed, buy thinking time
@@ -22,6 +26,14 @@ Many strong speakers break down when the interaction becomes interactive:
 
 In those moments, people often confuse speed with intelligence and certainty
 with credibility. That usually makes the answer worse.
+
+## What it sounds like
+
+Weak version: "Um, I think... well, maybe... I'm not totally sure but possibly we could... I mean, there are a lot of factors..."
+
+Stronger version: "That's a fair question. Let me think about what we know. The timeline is fixed. The cost estimate is unclear. So the real trade-off is between rushing the team or pushing the deadline."
+
+What changed: the weaker version speaks out the thinking process; the stronger version pauses first, then delivers a shaped answer with clear divisions between known facts and open questions. No hedging, no um-ing, no pretending certainty.
 
 ## Cross-corpus pattern
 
@@ -84,6 +96,12 @@ speaking out raw mental chaos.
 - speaking out the whole thought process instead of giving a shaped answer
 - pretending certainty instead of being clear about what is known and unknown
 - defending too early without first showing that you understood the concern
+
+## Real moment from the corpora
+
+From `Vinh Giang #16 How to Answer ANY Question`:
+
+A deliberate pause looks more confident than instant blurting, and it is acceptable to ask for more time for a more valuable answer. This proves that the best hard-question answers often arrive after the speaker stops trying to respond instantly.
 
 ## Practice implications
 

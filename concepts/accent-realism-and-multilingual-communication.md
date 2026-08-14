@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are in a meeting with senior people. You have something important to say. You start speaking, and you feel the weight of every syllable. Your accent becomes louder in your own head. You slow down to over-pronounce words. You lose the thread of your actual point because your attention is entirely on sounding "right." The moment passes. You did not speak up.
+
 ## Definition
 
 Accent realism and multilingual communication means treating accent as a normal
@@ -23,6 +27,14 @@ Many multilingual speakers spend too much energy trying to hide difference:
 
 This creates extra pressure precisely when they most need calm, structure, and
 useful delivery.
+
+## What it sounds like
+
+**Weak version:** "I, um, think maybe we should prioritize the research phase because, you know, it's really the best way to go forward, I guess."
+
+**Stronger version:** "We should prioritize research. It solves the timing problem before we move to pilot."
+
+The change: The first version buries the point under fillers and softeners that get louder when confidence is low. The second version speaks clearly and directly. The accent remains; what changes is that the message is not fighting for attention against self-monitoring. As Think Fast Talk Smart notes, "intelligibility can improve without noticeable accent shift" when the speaker prioritizes clear structure over pronunciation perfection.
 
 ## Cross-corpus pattern
 
@@ -67,6 +79,10 @@ Best anchors:
 The contribution here is that ease, musicality, and composure often matter more
 than surface perfection when a speaker wants to stay understandable and
 confident under attention.
+
+### Real moment from the sources
+
+**Think Fast Talk Smart #29**: "Communication is a partnership. If I'm only hearing with my own accent and language bias, and you're only working to fix your pronunciation, the burden is impossible. But if I as a listener expect something unfamiliar and meet you halfway, that knowledge alone decreases the processing burden." This proves that multilingual communication is not a solo speaker problem—listeners also shape how well the message lands.
 
 ## Core claims
 

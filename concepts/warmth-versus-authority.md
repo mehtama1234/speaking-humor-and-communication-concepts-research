@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You're presenting your expertise to a room that doesn't know you yet. You can come in all confidence and credentials. Or you can come in genuinely glad they're there, ask them what matters, and then deploy your competence. One makes people listen. The other makes them listen and trust first.
+
 ## Definition
 
 Warmth versus authority is the communication tension between signaling
@@ -31,6 +35,16 @@ This matters because it affects:
 - perceived credibility
 - first impressions
 - leadership presence
+
+## What it sounds like
+
+Cold/authority only:
+- Jumping straight into information with zero relational signal, or using language that asks permission for every point.
+
+Warm/authority balanced:
+- "Good to see everyone. I know this issue has been frustrating, so let me make the path forward very clear."
+
+The difference: warmth signals that you are with the audience, not performing at them. Competence can land harder and faster when warmth arrives first, because listeners trust that you actually care about whether they understand.
 
 ## Cross-corpus pattern
 
@@ -76,6 +90,10 @@ Best anchors:
 The contribution here is that authority weakens when it becomes domination,
 status theater, or inauthentic praise, and warmth weakens when it turns into
 neediness or low-status approval behavior.
+
+## Real moment from Vinh Giang #6
+
+Vinh Giang frames the problem through a magician's journey: he was incredibly competent at sleight of hand, obsessed with technique, and could do moves most people wouldn't even notice. But when he performed, he'd say only "Watch. Watch. Watch." He was competent but gave no warmth signals. People felt dominated, not engaged. When Vinh learned to pair competence with warmth—telling stories, being playful with his voice and body, performing with people instead of at them—the entire experience shifted. He didn't lose competence. He added the signals that let competence land. Warmth and competence are not opposites; they are two sides of the same credibility coin.
 
 ## What stronger balance tends to look like
 

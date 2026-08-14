@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are at a networking event or in a one-on-one chat. The conversation feels flat. You are tempted to tell a story about yourself to make things interesting, but that usually backfires. What actually makes conversation come alive is noticing something real about the other person and asking a question that is genuinely curious rather than interrogative. This is the moment where real connection either starts or stays frozen.
+
 ## Definition
 
 Curiosity and conversational depth mean using genuine interest, better follow-up
@@ -29,6 +33,14 @@ Curiosity matters because it improves:
 - depth
 - likability
 - audience connection
+
+## What it sounds like
+
+Weak version: "So what do you do?" (then waiting passively for a response, and if it's short, asking "Anything else?" or jumping back to yourself)
+
+Stronger version: "What part of that work do you actually enjoy the most?" (then listening to the answer and asking about something specific they mentioned: "You said the team part mattered—what made that group different?")
+
+What changed: the weaker version asks surface facts; the stronger version asks for feeling and follows the thread the person gave you. It signals real interest rather than going through interview motions.
 
 ## Cross-corpus pattern
 
@@ -100,6 +112,12 @@ perform and start engaging the other person more directly.
 - forcing depth too early
 - rescuing awkwardness by talking more instead of listening better
 - treating conversation like self-presentation instead of shared discovery
+
+## Real moment from the corpora
+
+From `Charisma on Command #26 How To Have Deeper Conversations With Anyone`:
+
+Visible appreciation makes the other person invest more of themselves in the conversation, and moving from small talk toward feelings and motivations works better than staying on biographical surface. This proves that depth is built by the listener's genuine interest, not by the talker's performance.
 
 ## Practice implications
 

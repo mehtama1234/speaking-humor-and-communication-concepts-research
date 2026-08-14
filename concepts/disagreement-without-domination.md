@@ -2,6 +2,10 @@
 
 Date: August 9, 2026.
 
+## The moment this matters
+
+You are in a meeting or conversation where you have a different view from the group or the person in front of you. You feel the pressure to either soften your opinion so much that it vanishes, or to push hard and win. Both traps are open. The actual skill is holding a clear position without treating the other person as an opponent, staying curious about their reasoning, and keeping the conversation workable enough that you might actually influence them.
+
 ## Definition
 
 Disagreement without domination means handling persuasion, conflict,
@@ -37,6 +41,16 @@ This concept matters because it improves:
 - conflict handling
 - credibility under tension
 - long-term relationship quality
+
+## What it sounds like
+
+Weak version 1 (too soft): "I mean, I guess either way could work. Maybe we could possibly think about delaying, but I'm not totally sure it matters."
+
+Weak version 2 (too combative): "You're wrong. Delaying is obviously the right call. I can't believe we're even debating this."
+
+Stronger version: "I'd lean toward delaying because the bug in onboarding is a bigger risk than timeline pressure. I could be missing something though—what am I not seeing?"
+
+What changed: the stronger version takes a clear position with a reason, then reopens the conversation instead of either disappearing or trying to dominate. It signals readiness to be influenced.
 
 ## Cross-corpus pattern
 
@@ -99,6 +113,12 @@ stops forcing dominance and instead holds steadier, less reactive frames.
 - staying so agreeable that no position is ever taken
 - using accusatory “why” questions that harden defensiveness
 - pushing through emotion instead of pausing and resetting
+
+## Real moment from the corpora
+
+From `Vinh Giang #24 You're Making These Communication Mistakes`:
+
+Taking a position paired with a reason and then reopening to questions does not sound combative if the frame stays relationship-focused. This proves that neutrality fails where clarity succeeds, and that clear positions strengthen rather than weaken real communication.
 
 ## Practice implications
 
