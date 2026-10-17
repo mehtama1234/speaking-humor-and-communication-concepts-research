@@ -53,7 +53,7 @@ The intended selection logic is:
 These are the strongest next additions if the goal is to make the repo feel
 more like a full course-and-research atlas.
 
-### 1. Ali Siddiq
+### 1. Ali Siddiq — captured and indexed; promotion pending
 
 - url: `https://www.youtube.com/@AliSiddiqComedy`
 - role:
@@ -69,6 +69,12 @@ more like a full course-and-research atlas.
   - storytelling layers
   - tension-and-payoff examples
   - cadence and room-control observations
+- current evidence state:
+  - `203` videos attempted
+  - `202` transcripts available
+  - `148,482` indexed words
+  - source brief, theme map, drill candidates, and session inventory written
+  - candidate promotion is tracked in `analysis/wave-2-integration-candidates.json`
   Likely exact approaches:
   - `Approach 18`
 
@@ -221,3 +227,25 @@ If three are added, choose:
 That preserves the best balance between spoken-storytelling expansion, broader
 comedy-exemplar material, and polished-talk comparison now that the direct
 humor-transfer gap is already better covered by Andrew Tarvin.
+
+## Current presentation-pattern coverage gap
+
+The source-to-pattern retrieval pass currently finds keyword leads for **46 of
+55** presentation-pattern candidates. The nine patterns with no current lead in
+the ten source-note corpora are retained explicitly in
+`analysis/source-to-presentation-pattern-leads.json`:
+
+- `scale_shift`
+- `qualification_and_boundary`
+- `choice_and_responsibility`
+- `repair_and_self_correction`
+- `grief_loss_and_continuation`
+- `recognition_to_specific_credit`
+- `unity_across_scale`
+- `invitation_to_low_barrier_entry`
+- `access_obstacle_to_support`
+
+This is a retrieval gap, not evidence that these patterns are absent from the
+videos or invalid as communication patterns. New sources should be added only
+when they produce transcript-backed examples for one or more of these gaps or
+meaningfully improve contextual review of the 46 existing leads.

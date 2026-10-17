@@ -8,7 +8,7 @@ blindly, pair this file with:
 
 Current build-state and expansion roadmap for the speaking research atlas.
 
-Date: August 10, 2026.
+Date: September 21, 2026.
 
 If the roadmap is meant to expand learner value rather than only content
 volume, pair it with `analysis/transcript-backed-concrete-speaking-approaches.md`
@@ -50,6 +50,8 @@ The newest transcript-backed additions are:
   story architecture, humor timing, and impromptu structure
 - `Andrew Tarvin`, which deepens humor transfer, comic structure,
   presentation memorability, and improv-style spontaneity drills
+- bounded wave-2 starter slices for `Ali Siddiq`, `Dry Bar Comedy`, and `TED`,
+  now joined by a provisional 19-row candidate crosswalk and retrieval layer
 
 ## What the next wave should prioritize
 
@@ -126,23 +128,29 @@ Why this is high priority:
 - these sessions feed multiple concept pages and pathways at once
 - they are among the densest, highest-leverage nodes in the current corpus
 
-## What the second source wave should likely include
+## What the second source wave now contains
 
-If the repo expands beyond the current ten transcript-backed corpora, the
-best next source wave is probably:
+The planned source wave has now been captured as bounded, separately labelled
+material:
 
-1. `Ali Siddiq`
+1. `Ali Siddiq` — captured and indexed; now in contextual-review stage
 2. `Dry Bar Comedy`
 3. `TED`
-4. `TED`
+4. `Stand-Up Studios` — inventory captured, but deferred because only 1 of 22
+   performance-focused starter videos yielded a transcript
 
-Why this order:
+Why this order was used:
 
 - `Andrew Tarvin` already started the direct humor-for-communication layer
 - `Ali Siddiq` should now be the next storytelling-exemplar expansion
 - `Dry Bar Comedy` broadens the humor exemplar base for comparison
 - `TED` would extend the polished-talk comparison layer once humor and
   storytelling expansion are less thin
+
+The three usable starter slices currently contain 277 transcript-backed videos
+and 19 candidate rows. They remain outside the fixed ten-corpus release until
+the shared contextual, independent-review, learner, and listener gates are
+completed. Stand-Up Studios remains a recovery target, not a pattern source.
 
 Move-level expansion this order should deliver:
 
@@ -172,11 +180,14 @@ These matter, but are not the highest-value next moves right now:
 
 ## Practical recommendation
 
-If only three next steps were taken from here, they should be:
+The next three end-to-end steps are now:
 
-1. build 4 to 6 more concept pages from the current backlog
-2. expand the evidence layer across humor, openings, and storytelling
-3. ingest one storytelling-exemplar source such as `Ali Siddiq`
+1. run the first independent, label-blinded review session using the 162-item
+   priority packet;
+2. use the 19-row wave-2 crosswalk to route full-context review without
+   promoting the starter sources;
+3. run the five-job learner and listener preparation gates only after the
+   independent review records are preserved.
 
 And each of those should explicitly feed updates to:
 

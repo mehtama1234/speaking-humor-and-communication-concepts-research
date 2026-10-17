@@ -29,6 +29,68 @@ speaking improvement system where a learner can move from source selection to
 transcript synthesis to themes, concepts, examples, drills, pathways, and a
 browsable HTML interface without having to reconstruct the structure manually.
 
+The integration boundary with the stricter fixed-corpus and validation project
+is defined in:
+
+- `analysis/unified-integration-plan.md`
+- `analysis/unified-integration-manifest.json`
+- `analysis/source-to-job-crosswalk.json`
+- `analysis/source-to-approach-crosswalk.json`
+- `analysis/source-to-presentation-pattern-leads.json`
+- `analysis/source-pattern-context-review-queue.json`
+- `analysis/ali-siddiq-wave-2-context-review-queue.json`
+- `analysis/ali-siddiq-wave-2-context-packets.json`
+- `analysis/wave-2-source-to-approach-crosswalk.json`
+- `site/pattern-review.html`
+- `site/pattern-review-wave-2.html` (focused 19-item view; 88 other queue items remain unreviewed)
+- `deliverables/wave-2-full-context-reviewer-pack.zip` (portable full-context review materials)
+- `analysis/source-pattern-review-record.schema.json`
+- `analysis/vertical-slice-01-awkwardness-repair.md`
+- `analysis/vertical-slices-02-to-04.md`
+- `analysis/unified-validation-handoff.json`
+- `../best-speech-analysis/research/external-review-launch-manifest.json`
+- `analysis/unified-release-receipt.json`
+- `scripts/validate_unified_integration.py`
+
+Regenerate the joined repository checkpoint with
+`python3 scripts/build_unified_release_receipt.py`.
+
+The external-review launch manifest is the shared operational handoff. It
+routes the eight review and participant operations, preserves dependencies and
+validators, and remains explicitly empty of human records until those
+operations are run.
+
+Regenerate the corpus-to-named-approach evidence map with
+`python3 scripts/build_source_approach_crosswalk.py`.
+
+Regenerate the conservative source-to-55-pattern retrieval leads with
+`python3 scripts/build_source_pattern_leads.py`.
+
+Build the bounded contextual review queue with
+`python3 scripts/build_source_pattern_context_review_queue.py`.
+
+Build the Ali Siddiq wave-2 context packets with
+`python3 scripts/build_ali_context_packets.py`.
+
+Build its local searchable browser with
+`python3 scripts/build_source_pattern_review_browser.py`.
+
+Validate a completed local export with
+`python3 scripts/validate_source_pattern_review_export.py <export.json>`.
+
+Smoke-test the browser interaction path with
+`python3 scripts/check_source_pattern_review_browser.py`.
+
+The reader-facing bridge is available at `site/integration.html`.
+
+Run `python3 scripts/validate_unified_integration.py` to verify that the
+manifest still matches the ten source-status entries and starter manifests.
+
+Those files connect this repo's channel corpora and curriculum to
+`../best-speech-analysis` while preserving the difference between transcript
+candidates, cross-corpus findings, independent review, and learner/listener
+outcome evidence.
+
 ## Governing rule
 
 This repo should optimize for `approach extraction`, not `video summary`.

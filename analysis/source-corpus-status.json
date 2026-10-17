@@ -1,10 +1,16 @@
 {
-  "captured_on": "2026-08-10",
+  "captured_on": "2026-09-21",
   "project": "speaking-humor-and-communication-concepts-research",
   "summary": {
     "transcript_backed_corpora": 10,
-    "channel_manifests_captured": 11,
+    "channel_manifests_captured": 14,
     "starter_manifests_built": 10,
+    "wave_2_corpora_captured": 3,
+    "wave_2_transcript_backed_corpora": 3,
+    "wave_2_starter_manifests_built": 2,
+    "wave_3_corpora_captured": 1,
+    "wave_3_transcript_backed_corpora": 0,
+    "wave_3_starter_manifests_built": 1,
     "active_wave_1_corpora": [
       "ultraspeaking-wave-1",
       "vinh-giang-wave-1",
@@ -138,11 +144,74 @@
         "Strongest current transcript-backed source for business-safe humor transfer into real speaking situations.",
         "Already transcript-backed and part of the active corpus."
       ]
+    },
+    {
+      "slug": "ali-siddiq-wave-2",
+      "title": "Ali Siddiq",
+      "category": "humor-storytelling",
+      "videos_captured": 203,
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "status": "captured-and-indexed-wave-2-not-yet-promoted-to-unified-wave-1",
+      "recommended_strategy": "Use as the long-form storytelling, escalation, callback, and performance-exemplar corpus.",
+      "notes": [
+        "Transcript-backed source brief, theme map, drill candidates, and session inventory are now present.",
+        "One video is missing a transcript and remains explicitly recorded as unavailable.",
+        "Promotion into the shared pattern crosswalk requires contextual review and transfer validation."
+      ]
+    },
+    {
+      "slug": "dry-bar-comedy-wave-2-starter",
+      "title": "Dry Bar Comedy Wave 2 Starter",
+      "category": "humor-exemplars",
+      "videos_captured": 40,
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "status": "captured-and-indexed-wave-2-not-yet-promoted-to-unified-wave-1",
+      "recommended_strategy": "Use as a multi-performer humor-exemplar and contrast corpus for premise, payoff, room awareness, and safety review.",
+      "notes": [
+        "Selected as a bounded 40-video distinct-performer starter slice from a 2,829-video channel manifest.",
+        "Three starter transcripts remain unavailable and are explicitly preserved as missing.",
+        "Candidate patterns remain provisional until contextual review and transfer validation."
+      ]
+    },
+    {
+      "slug": "ted-wave-2-starter",
+      "title": "TED Wave 2 Starter",
+      "category": "polished-talks",
+      "videos_captured": 40,
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "status": "captured-and-indexed-wave-2-not-yet-promoted-to-unified-wave-1",
+      "recommended_strategy": "Use as a bounded polished-talk comparison corpus for openings, explanation, story-to-principle transitions, and audience-oriented closes.",
+      "notes": [
+        "Selected as a bounded 40-talk distinct-speaker starter slice from a 4,842-video channel manifest.",
+        "Two starter transcripts remain unavailable and are explicitly preserved as missing.",
+        "Candidate patterns remain provisional until contextual review and transfer validation."
+      ]
+    },
+    {
+      "slug": "stand-up-studios-wave-3-starter",
+      "title": "Stand-Up Studios Wave 3 Starter",
+      "category": "humor-exemplars",
+      "videos_captured": 22,
+      "transcripts_available": 1,
+      "total_words": 334,
+      "status": "captured-but-insufficient-transcript-coverage-not-in-unified-crosswalk",
+      "recommended_strategy": "Defer pattern extraction until transcript/media coverage is repaired; preserve as a source-recovery target.",
+      "notes": [
+        "Selected 22 performance-focused videos from a 26-video channel manifest.",
+        "Twenty-one selected videos were unavailable during transcript retrieval.",
+        "No source pattern is promoted from this sparse result."
+      ]
     }
   ],
   "next_recommended_actions": [
     "Deepen high-yield Andrew Tarvin sessions, especially presentation prep, memorable presentation design, virtual emceeing, and humor-at-work risk filtering.",
-    "Ingest `Ali Siddiq` as the next storytelling-exemplar source.",
+    "Review and promote the Ali Siddiq wave-2 storytelling candidates through the shared contextual-review queue.",
+    "Review the Dry Bar Comedy starter slice as a multi-performer contrast corpus before any larger channel expansion.",
+    "Review the TED starter slice as a polished-talk comparison corpus before any larger channel expansion.",
+    "Recover or replace Stand-Up Studios transcripts before adding this source to the unified candidate crosswalk.",
     "Treat `Stand-Up Studios` as a lower-priority exemplar-side corpus rather than the next direct humor-mechanics ingestion.",
     "Deepen high-yield Toastmasters sessions, especially the humor workshops, storytelling panel, and championship showcase.",
     "Expand learner-facing concept and evidence pages using the now ten-corpus base."
