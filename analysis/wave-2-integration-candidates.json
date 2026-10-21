@@ -1,0 +1,43 @@
+{
+  "generated_on": "2026-09-21",
+  "status": "wave_2_candidate_evidence_not_promoted",
+  "promotion_rule": "Do not merge into the validated ten-corpus release until contextual review, independent transfer checks, and learner/listener validation are recorded.",
+  "sources": [
+    {
+      "slug": "ali-siddiq-wave-2",
+      "title": "Ali Siddiq",
+      "transcript_status": {
+        "videos_attempted": 203,
+        "available_transcripts": 202,
+        "total_words": 148482,
+        "missing_video_ids": ["cFXpzrovXeg"]
+      },
+      "artifacts": [
+        "analysis/ali-siddiq-wave-2-corpus-brief.md",
+        "analysis/ali-siddiq-wave-2-theme-map.md",
+        "analysis/ali-siddiq-wave-2-drill-candidates.md",
+        "analysis/ali-siddiq-wave-2-session-inventory.md",
+        "analysis/ali-siddiq-wave-2-context-packets.json",
+        "analysis/ali-siddiq-wave-2-context-review-queue.json",
+        "analysis/wave-2-source-to-approach-crosswalk.json"
+      ],
+      "candidate_patterns": [
+        "consequence_first_orientation",
+        "scene_detail_as_compression",
+        "escalation_by_changed_conditions",
+        "character_contrast_and_point_of_view",
+        "public_repair_as_relationship_maintenance",
+        "repetition_callback_and_transformed_meaning",
+        "difficulty_made_discussable_through_humor"
+      ],
+      "keyword_retrieval_leads": {
+        "story_narrative": {"occurrences": 368, "transcripts_with_hits": 93},
+        "escalation_change": {"occurrences": 693, "transcripts_with_hits": 150},
+        "callback_repetition": {"occurrences": 70, "transcripts_with_hits": 42},
+        "audience_repair": {"occurrences": 563, "transcripts_with_hits": 115},
+        "concrete_scene": {"occurrences": 1155, "transcripts_with_hits": 139}
+      },
+      "status_boundary": "These counts locate review candidates; they do not prove that a technique caused audience response or transfers unchanged to presentations."
+    }
+  ]
+}

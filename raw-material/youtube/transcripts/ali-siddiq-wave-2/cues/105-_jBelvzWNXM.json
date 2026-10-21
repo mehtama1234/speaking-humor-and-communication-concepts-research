@@ -1,0 +1,506 @@
+[
+  {
+    "start": "00:00:00.000",
+    "end": "00:00:03.070",
+    "start_seconds": 0.0,
+    "end_seconds": 3.07,
+    "text": "And I'm And I'm"
+  },
+  {
+    "start": "00:00:03.070",
+    "end": "00:00:03.080",
+    "start_seconds": 3.07,
+    "end_seconds": 3.08,
+    "text": "And I'm And I'm"
+  },
+  {
+    "start": "00:00:03.080",
+    "end": "00:00:06.590",
+    "start_seconds": 3.08,
+    "end_seconds": 6.59,
+    "text": "And I'm And I'm 25 years."
+  },
+  {
+    "start": "00:00:06.590",
+    "end": "00:00:06.600",
+    "start_seconds": 6.59,
+    "end_seconds": 6.6,
+    "text": "25 years."
+  },
+  {
+    "start": "00:00:06.600",
+    "end": "00:00:09.350",
+    "start_seconds": 6.6,
+    "end_seconds": 9.35,
+    "text": "25 years. Ooh, that's crazy."
+  },
+  {
+    "start": "00:00:09.350",
+    "end": "00:00:09.360",
+    "start_seconds": 9.35,
+    "end_seconds": 9.36,
+    "text": "Ooh, that's crazy."
+  },
+  {
+    "start": "00:00:09.360",
+    "end": "00:00:11.350",
+    "start_seconds": 9.36,
+    "end_seconds": 11.35,
+    "text": "Ooh, that's crazy. I call Rio. I got right on the phone. I"
+  },
+  {
+    "start": "00:00:11.350",
+    "end": "00:00:11.360",
+    "start_seconds": 11.35,
+    "end_seconds": 11.36,
+    "text": "I call Rio. I got right on the phone. I"
+  },
+  {
+    "start": "00:00:11.360",
+    "end": "00:00:13.910",
+    "start_seconds": 11.36,
+    "end_seconds": 13.91,
+    "text": "I call Rio. I got right on the phone. I call Rio. I say, \"Rio,"
+  },
+  {
+    "start": "00:00:13.910",
+    "end": "00:00:13.920",
+    "start_seconds": 13.91,
+    "end_seconds": 13.92,
+    "text": "call Rio. I say, \"Rio,"
+  },
+  {
+    "start": "00:00:13.920",
+    "end": "00:00:15.790",
+    "start_seconds": 13.92,
+    "end_seconds": 15.79,
+    "text": "call Rio. I say, \"Rio, hey man, come down here. I need to talk"
+  },
+  {
+    "start": "00:00:15.790",
+    "end": "00:00:15.800",
+    "start_seconds": 15.79,
+    "end_seconds": 15.8,
+    "text": "hey man, come down here. I need to talk"
+  },
+  {
+    "start": "00:00:15.800",
+    "end": "00:00:18.110",
+    "start_seconds": 15.8,
+    "end_seconds": 18.11,
+    "text": "hey man, come down here. I need to talk to you, man. Come down here.\""
+  },
+  {
+    "start": "00:00:18.110",
+    "end": "00:00:18.120",
+    "start_seconds": 18.11,
+    "end_seconds": 18.12,
+    "text": "to you, man. Come down here.\""
+  },
+  {
+    "start": "00:00:18.120",
+    "end": "00:00:19.430",
+    "start_seconds": 18.12,
+    "end_seconds": 19.43,
+    "text": "to you, man. Come down here.\" Rio"
+  },
+  {
+    "start": "00:00:19.430",
+    "end": "00:00:19.440",
+    "start_seconds": 19.43,
+    "end_seconds": 19.44,
+    "text": "Rio"
+  },
+  {
+    "start": "00:00:19.440",
+    "end": "00:00:24.030",
+    "start_seconds": 19.44,
+    "end_seconds": 24.03,
+    "text": "Rio come visit me."
+  },
+  {
+    "start": "00:00:24.040",
+    "end": "00:00:26.790",
+    "start_seconds": 24.04,
+    "end_seconds": 26.79,
+    "text": "Rio"
+  },
+  {
+    "start": "00:00:26.800",
+    "end": "00:00:29.150",
+    "start_seconds": 26.8,
+    "end_seconds": 29.15,
+    "text": "I've been in the law library researching"
+  },
+  {
+    "start": "00:00:29.150",
+    "end": "00:00:29.160",
+    "start_seconds": 29.15,
+    "end_seconds": 29.16,
+    "text": "I've been in the law library researching"
+  },
+  {
+    "start": "00:00:29.160",
+    "end": "00:00:30.510",
+    "start_seconds": 29.16,
+    "end_seconds": 30.51,
+    "text": "I've been in the law library researching my case."
+  },
+  {
+    "start": "00:00:30.510",
+    "end": "00:00:30.520",
+    "start_seconds": 30.51,
+    "end_seconds": 30.52,
+    "text": "my case."
+  },
+  {
+    "start": "00:00:30.520",
+    "end": "00:00:31.550",
+    "start_seconds": 30.52,
+    "end_seconds": 31.55,
+    "text": "my case. Right?"
+  },
+  {
+    "start": "00:00:31.550",
+    "end": "00:00:31.560",
+    "start_seconds": 31.55,
+    "end_seconds": 31.56,
+    "text": "Right?"
+  },
+  {
+    "start": "00:00:31.560",
+    "end": "00:00:33.270",
+    "start_seconds": 31.56,
+    "end_seconds": 33.27,
+    "text": "Right? Um"
+  },
+  {
+    "start": "00:00:33.270",
+    "end": "00:00:33.280",
+    "start_seconds": 33.27,
+    "end_seconds": 33.28,
+    "text": "Um"
+  },
+  {
+    "start": "00:00:33.280",
+    "end": "00:00:34.990",
+    "start_seconds": 33.28,
+    "end_seconds": 34.99,
+    "text": "Um I went down there and there's three"
+  },
+  {
+    "start": "00:00:34.990",
+    "end": "00:00:35.000",
+    "start_seconds": 34.99,
+    "end_seconds": 35.0,
+    "text": "I went down there and there's three"
+  },
+  {
+    "start": "00:00:35.000",
+    "end": "00:00:36.750",
+    "start_seconds": 35.0,
+    "end_seconds": 36.75,
+    "text": "I went down there and there's three three different things you can get."
+  },
+  {
+    "start": "00:00:36.750",
+    "end": "00:00:36.760",
+    "start_seconds": 36.75,
+    "end_seconds": 36.76,
+    "text": "three different things you can get."
+  },
+  {
+    "start": "00:00:36.760",
+    "end": "00:00:39.150",
+    "start_seconds": 36.76,
+    "end_seconds": 39.15,
+    "text": "three different things you can get. Relief for conspiracy, possession,"
+  },
+  {
+    "start": "00:00:39.150",
+    "end": "00:00:39.160",
+    "start_seconds": 39.15,
+    "end_seconds": 39.16,
+    "text": "Relief for conspiracy, possession,"
+  },
+  {
+    "start": "00:00:39.160",
+    "end": "00:00:40.230",
+    "start_seconds": 39.16,
+    "end_seconds": 40.23,
+    "text": "Relief for conspiracy, possession, right?"
+  },
+  {
+    "start": "00:00:40.230",
+    "end": "00:00:40.240",
+    "start_seconds": 40.23,
+    "end_seconds": 40.24,
+    "text": "right?"
+  },
+  {
+    "start": "00:00:40.240",
+    "end": "00:00:41.710",
+    "start_seconds": 40.24,
+    "end_seconds": 41.71,
+    "text": "right? I need you to get me down to a"
+  },
+  {
+    "start": "00:00:41.710",
+    "end": "00:00:41.720",
+    "start_seconds": 41.71,
+    "end_seconds": 41.72,
+    "text": "I need you to get me down to a"
+  },
+  {
+    "start": "00:00:41.720",
+    "end": "00:00:50.110",
+    "start_seconds": 41.72,
+    "end_seconds": 50.11,
+    "text": "I need you to get me down to a possession."
+  },
+  {
+    "start": "00:00:50.120",
+    "end": "00:00:52.590",
+    "start_seconds": 50.12,
+    "end_seconds": 52.59,
+    "text": "So, that was this this Just let me run"
+  },
+  {
+    "start": "00:00:52.590",
+    "end": "00:00:52.600",
+    "start_seconds": 52.59,
+    "end_seconds": 52.6,
+    "text": "So, that was this this Just let me run"
+  },
+  {
+    "start": "00:00:52.600",
+    "end": "00:00:58.230",
+    "start_seconds": 52.6,
+    "end_seconds": 58.23,
+    "text": "So, that was this this Just let me run through it for you. Okay."
+  },
+  {
+    "start": "00:00:58.240",
+    "end": "00:01:02.190",
+    "start_seconds": 58.24,
+    "end_seconds": 62.19,
+    "text": "So, you want me to go in the court"
+  },
+  {
+    "start": "00:01:02.190",
+    "end": "00:01:02.200",
+    "start_seconds": 62.19,
+    "end_seconds": 62.2,
+    "text": "So, you want me to go in the court"
+  },
+  {
+    "start": "00:01:02.200",
+    "end": "00:01:04.790",
+    "start_seconds": 62.2,
+    "end_seconds": 64.79,
+    "text": "So, you want me to go in the court and say that you was smoking 5 kilos of"
+  },
+  {
+    "start": "00:01:04.790",
+    "end": "00:01:04.800",
+    "start_seconds": 64.79,
+    "end_seconds": 64.8,
+    "text": "and say that you was smoking 5 kilos of"
+  },
+  {
+    "start": "00:01:04.800",
+    "end": "00:01:21.350",
+    "start_seconds": 64.8,
+    "end_seconds": 81.35,
+    "text": "and say that you was smoking 5 kilos of dope."
+  },
+  {
+    "start": "00:01:21.360",
+    "end": "00:01:23.190",
+    "start_seconds": 81.36,
+    "end_seconds": 83.19,
+    "text": "I'm looking at Rio. I'm like, I'm trying"
+  },
+  {
+    "start": "00:01:23.190",
+    "end": "00:01:23.200",
+    "start_seconds": 83.19,
+    "end_seconds": 83.2,
+    "text": "I'm looking at Rio. I'm like, I'm trying"
+  },
+  {
+    "start": "00:01:23.200",
+    "end": "00:01:26.190",
+    "start_seconds": 83.2,
+    "end_seconds": 86.19,
+    "text": "I'm looking at Rio. I'm like, I'm trying to understand the problem here."
+  },
+  {
+    "start": "00:01:26.190",
+    "end": "00:01:26.200",
+    "start_seconds": 86.19,
+    "end_seconds": 86.2,
+    "text": "to understand the problem here."
+  },
+  {
+    "start": "00:01:26.200",
+    "end": "00:01:27.310",
+    "start_seconds": 86.2,
+    "end_seconds": 87.31,
+    "text": "to understand the problem here. You going to have to go in there telling"
+  },
+  {
+    "start": "00:01:27.310",
+    "end": "00:01:27.320",
+    "start_seconds": 87.31,
+    "end_seconds": 87.32,
+    "text": "You going to have to go in there telling"
+  },
+  {
+    "start": "00:01:27.320",
+    "end": "00:01:28.470",
+    "start_seconds": 87.32,
+    "end_seconds": 88.47,
+    "text": "You going to have to go in there telling people I got a habit. You going to have"
+  },
+  {
+    "start": "00:01:28.470",
+    "end": "00:01:28.480",
+    "start_seconds": 88.47,
+    "end_seconds": 88.48,
+    "text": "people I got a habit. You going to have"
+  },
+  {
+    "start": "00:01:28.480",
+    "end": "00:01:30.950",
+    "start_seconds": 88.48,
+    "end_seconds": 90.95,
+    "text": "people I got a habit. You going to have to go to"
+  },
+  {
+    "start": "00:01:30.960",
+    "end": "00:01:32.150",
+    "start_seconds": 90.96000000000001,
+    "end_seconds": 92.15,
+    "text": "So, you want me to tell the people you"
+  },
+  {
+    "start": "00:01:32.150",
+    "end": "00:01:32.160",
+    "start_seconds": 92.15,
+    "end_seconds": 92.16,
+    "text": "So, you want me to tell the people you"
+  },
+  {
+    "start": "00:01:32.160",
+    "end": "00:01:34.710",
+    "start_seconds": 92.16,
+    "end_seconds": 94.71000000000001,
+    "text": "So, you want me to tell the people you smoking 5 kilos of dope."
+  },
+  {
+    "start": "00:01:34.710",
+    "end": "00:01:34.720",
+    "start_seconds": 94.71000000000001,
+    "end_seconds": 94.72,
+    "text": "smoking 5 kilos of dope."
+  },
+  {
+    "start": "00:01:34.720",
+    "end": "00:01:37.190",
+    "start_seconds": 94.72,
+    "end_seconds": 97.19,
+    "text": "smoking 5 kilos of dope. I say, \"Yes, Rio.\""
+  },
+  {
+    "start": "00:01:37.190",
+    "end": "00:01:37.200",
+    "start_seconds": 97.19,
+    "end_seconds": 97.2,
+    "text": "I say, \"Yes, Rio.\""
+  },
+  {
+    "start": "00:01:37.200",
+    "end": "00:01:38.830",
+    "start_seconds": 97.2,
+    "end_seconds": 98.83,
+    "text": "I say, \"Yes, Rio.\" Rio look me in my face say, \"Hey man,"
+  },
+  {
+    "start": "00:01:38.830",
+    "end": "00:01:38.840",
+    "start_seconds": 98.83,
+    "end_seconds": 98.84,
+    "text": "Rio look me in my face say, \"Hey man,"
+  },
+  {
+    "start": "00:01:38.840",
+    "end": "00:01:41.150",
+    "start_seconds": 98.84,
+    "end_seconds": 101.15,
+    "text": "Rio look me in my face say, \"Hey man, I'mma just say that."
+  },
+  {
+    "start": "00:01:41.150",
+    "end": "00:01:41.160",
+    "start_seconds": 101.15,
+    "end_seconds": 101.16,
+    "text": "I'mma just say that."
+  },
+  {
+    "start": "00:01:41.160",
+    "end": "00:01:45.070",
+    "start_seconds": 101.16,
+    "end_seconds": 105.07,
+    "text": "I'mma just say that. Stay out that law library."
+  },
+  {
+    "start": "00:01:45.080",
+    "end": "00:01:47.350",
+    "start_seconds": 105.08,
+    "end_seconds": 107.35,
+    "text": "Like just stay out the law library. Let"
+  },
+  {
+    "start": "00:01:47.350",
+    "end": "00:01:47.360",
+    "start_seconds": 107.35,
+    "end_seconds": 107.36,
+    "text": "Like just stay out the law library. Let"
+  },
+  {
+    "start": "00:01:47.360",
+    "end": "00:01:49.470",
+    "start_seconds": 107.36,
+    "end_seconds": 109.47,
+    "text": "Like just stay out the law library. Let me do my job."
+  },
+  {
+    "start": "00:01:49.470",
+    "end": "00:01:49.480",
+    "start_seconds": 109.47,
+    "end_seconds": 109.47999999999999,
+    "text": "me do my job."
+  },
+  {
+    "start": "00:01:49.480",
+    "end": "00:01:51.590",
+    "start_seconds": 109.47999999999999,
+    "end_seconds": 111.59,
+    "text": "me do my job. I got you.\""
+  },
+  {
+    "start": "00:01:51.590",
+    "end": "00:01:51.600",
+    "start_seconds": 111.59,
+    "end_seconds": 111.6,
+    "text": "I got you.\""
+  },
+  {
+    "start": "00:01:51.600",
+    "end": "00:01:54.440",
+    "start_seconds": 111.6,
+    "end_seconds": 114.44,
+    "text": "I got you.\" Rio leave."
+  }
+]

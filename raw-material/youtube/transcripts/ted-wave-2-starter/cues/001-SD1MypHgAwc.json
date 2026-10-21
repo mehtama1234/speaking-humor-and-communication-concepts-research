@@ -1,0 +1,6792 @@
+[
+  {
+    "start": "00:00:03.767",
+    "end": "00:00:05.467",
+    "start_seconds": 3.767,
+    "end_seconds": 5.467,
+    "text": "Simone Stolzoff: There was a study"
+  },
+  {
+    "start": "00:00:05.467",
+    "end": "00:00:07.934",
+    "start_seconds": 5.467,
+    "end_seconds": 7.934,
+    "text": "that was done in the University College London,"
+  },
+  {
+    "start": "00:00:07.934",
+    "end": "00:00:11.934",
+    "start_seconds": 7.934,
+    "end_seconds": 11.934,
+    "text": "where researchers split participants into two groups,"
+  },
+  {
+    "start": "00:00:11.967",
+    "end": "00:00:15.401",
+    "start_seconds": 11.967,
+    "end_seconds": 15.401,
+    "text": "and in one group they were given an100-percent chance"
+  },
+  {
+    "start": "00:00:15.434",
+    "end": "00:00:18.801",
+    "start_seconds": 15.434,
+    "end_seconds": 18.801,
+    "text": "of receiving a really painful electric shock."
+  },
+  {
+    "start": "00:00:19.234",
+    "end": "00:00:20.634",
+    "start_seconds": 19.234,
+    "end_seconds": 20.634,
+    "text": "And then the other group,"
+  },
+  {
+    "start": "00:00:20.634",
+    "end": "00:00:24.967",
+    "start_seconds": 20.634,
+    "end_seconds": 24.967,
+    "text": "they were given a 50-percent chance of receiving a painful electric shock."
+  },
+  {
+    "start": "00:00:25.401",
+    "end": "00:00:28.967",
+    "start_seconds": 25.401,
+    "end_seconds": 28.967,
+    "text": "And fascinatingly, they found that people in the second group,"
+  },
+  {
+    "start": "00:00:29.001",
+    "end": "00:00:31.001",
+    "start_seconds": 29.001,
+    "end_seconds": 31.001,
+    "text": "people who had a 50-percent chance,"
+  },
+  {
+    "start": "00:00:31.001",
+    "end": "00:00:33.867",
+    "start_seconds": 31.001,
+    "end_seconds": 33.867,
+    "text": "were far more anxious and stressed"
+  },
+  {
+    "start": "00:00:33.867",
+    "end": "00:00:36.501",
+    "start_seconds": 33.867,
+    "end_seconds": 36.501,
+    "text": "than people in the 100-percent chance group."
+  },
+  {
+    "start": "00:00:36.501",
+    "end": "00:00:40.834",
+    "start_seconds": 36.501,
+    "end_seconds": 40.834,
+    "text": "So somehow, we would rather a certain bad thing happen to us"
+  },
+  {
+    "start": "00:00:40.867",
+    "end": "00:00:44.867",
+    "start_seconds": 40.867,
+    "end_seconds": 44.867,
+    "text": "than have to deal with the ambiguity of not being sure."
+  },
+  {
+    "start": "00:00:44.901",
+    "end": "00:00:46.601",
+    "start_seconds": 44.901,
+    "end_seconds": 46.601,
+    "text": "I'm curious, from your perspective,"
+  },
+  {
+    "start": "00:00:46.601",
+    "end": "00:00:48.801",
+    "start_seconds": 46.601,
+    "end_seconds": 48.801,
+    "text": "what are the implications of a study like this?"
+  },
+  {
+    "start": "00:00:48.834",
+    "end": "00:00:50.567",
+    "start_seconds": 48.834,
+    "end_seconds": 50.567,
+    "text": "What does it say about our societal"
+  },
+  {
+    "start": "00:00:50.601",
+    "end": "00:00:53.801",
+    "start_seconds": 50.601,
+    "end_seconds": 53.801,
+    "text": "or our individual ability to navigate what we don't know?"
+  },
+  {
+    "start": "00:00:54.467",
+    "end": "00:00:56.467",
+    "start_seconds": 54.467,
+    "end_seconds": 56.467,
+    "text": "Maya Shankar: Yeah, I mean, I think"
+  },
+  {
+    "start": "00:00:56.501",
+    "end": "00:00:59.867",
+    "start_seconds": 56.501,
+    "end_seconds": 59.867,
+    "text": "it makes so much sense that we as humans, you know,"
+  },
+  {
+    "start": "00:00:59.867",
+    "end": "00:01:01.401",
+    "start_seconds": 59.867,
+    "end_seconds": 61.401,
+    "text": "evolved to be this way."
+  },
+  {
+    "start": "00:01:01.867",
+    "end": "00:01:05.201",
+    "start_seconds": 61.867,
+    "end_seconds": 65.201,
+    "text": "It's very helpful for us to be prediction machines"
+  },
+  {
+    "start": "00:01:05.234",
+    "end": "00:01:07.734",
+    "start_seconds": 65.234,
+    "end_seconds": 67.734,
+    "text": "that are constantly trying to anticipate future risks"
+  },
+  {
+    "start": "00:01:07.767",
+    "end": "00:01:10.467",
+    "start_seconds": 67.767,
+    "end_seconds": 70.467,
+    "text": "and trying to get ahead of them and solve for the future."
+  },
+  {
+    "start": "00:01:10.467",
+    "end": "00:01:13.034",
+    "start_seconds": 70.467,
+    "end_seconds": 73.034,
+    "text": "The downside to that is that there are lots of changes"
+  },
+  {
+    "start": "00:01:13.067",
+    "end": "00:01:15.167",
+    "start_seconds": 73.06700000000001,
+    "end_seconds": 75.167,
+    "text": "that are truly outside of our control,"
+  },
+  {
+    "start": "00:01:15.201",
+    "end": "00:01:19.801",
+    "start_seconds": 75.201,
+    "end_seconds": 79.801,
+    "text": "and no amount of planning will rescue us from those situations."
+  },
+  {
+    "start": "00:01:19.834",
+    "end": "00:01:22.601",
+    "start_seconds": 79.834,
+    "end_seconds": 82.601,
+    "text": "And in those moments, our brains can kind of short-circuit."
+  },
+  {
+    "start": "00:01:22.634",
+    "end": "00:01:27.601",
+    "start_seconds": 82.634,
+    "end_seconds": 87.601,
+    "text": "I definitely feel like that study describes me to a tee."
+  },
+  {
+    "start": "00:01:27.601",
+    "end": "00:01:30.101",
+    "start_seconds": 87.601,
+    "end_seconds": 90.101,
+    "text": "I would rather know how the story ends."
+  },
+  {
+    "start": "00:01:30.134",
+    "end": "00:01:32.501",
+    "start_seconds": 90.134,
+    "end_seconds": 92.501,
+    "text": "I would rather have clarity on the outcome."
+  },
+  {
+    "start": "00:01:33.034",
+    "end": "00:01:36.434",
+    "start_seconds": 93.03399999999999,
+    "end_seconds": 96.434,
+    "text": "I was just actually reading a book for an upcoming podcast interview"
+  },
+  {
+    "start": "00:01:36.467",
+    "end": "00:01:37.934",
+    "start_seconds": 96.467,
+    "end_seconds": 97.934,
+    "text": "on \"A Slight Change of Plans.\""
+  },
+  {
+    "start": "00:01:37.967",
+    "end": "00:01:39.634",
+    "start_seconds": 97.967,
+    "end_seconds": 99.634,
+    "text": "And this woman cited a study."
+  },
+  {
+    "start": "00:01:39.667",
+    "end": "00:01:41.634",
+    "start_seconds": 99.667,
+    "end_seconds": 101.634,
+    "text": "She's a physician."
+  },
+  {
+    "start": "00:01:42.001",
+    "end": "00:01:46.934",
+    "start_seconds": 102.001,
+    "end_seconds": 106.934,
+    "text": "And she was talking about how people"
+  },
+  {
+    "start": "00:01:46.967",
+    "end": "00:01:49.734",
+    "start_seconds": 106.967,
+    "end_seconds": 109.73400000000001,
+    "text": "are way more stressed during that intervening period"
+  },
+  {
+    "start": "00:01:49.767",
+    "end": "00:01:52.567",
+    "start_seconds": 109.767,
+    "end_seconds": 112.56700000000001,
+    "text": "when they're not sure what the medical result is"
+  },
+  {
+    "start": "00:01:52.567",
+    "end": "00:01:54.367",
+    "start_seconds": 112.56700000000001,
+    "end_seconds": 114.36699999999999,
+    "text": "when they're waiting on a test result"
+  },
+  {
+    "start": "00:01:54.367",
+    "end": "00:01:57.401",
+    "start_seconds": 114.36699999999999,
+    "end_seconds": 117.40100000000001,
+    "text": "than they are when they actually find out what the disease is."
+  },
+  {
+    "start": "00:01:57.401",
+    "end": "00:01:59.201",
+    "start_seconds": 117.40100000000001,
+    "end_seconds": 119.201,
+    "text": "And that was really interesting to me"
+  },
+  {
+    "start": "00:01:59.234",
+    "end": "00:02:01.067",
+    "start_seconds": 119.23400000000001,
+    "end_seconds": 121.067,
+    "text": "because when I reflect back on my life"
+  },
+  {
+    "start": "00:02:01.067",
+    "end": "00:02:04.134",
+    "start_seconds": 121.067,
+    "end_seconds": 124.134,
+    "text": "at the moments when I felt the most deeply anxious,"
+  },
+  {
+    "start": "00:02:04.167",
+    "end": "00:02:07.334",
+    "start_seconds": 124.167,
+    "end_seconds": 127.334,
+    "text": "the most unsure, my life and my --"
+  },
+  {
+    "start": "00:02:07.367",
+    "end": "00:02:10.834",
+    "start_seconds": 127.367,
+    "end_seconds": 130.834,
+    "text": "and when my well-being has been most compromised,"
+  },
+  {
+    "start": "00:02:10.867",
+    "end": "00:02:14.434",
+    "start_seconds": 130.867,
+    "end_seconds": 134.434,
+    "text": "it is in those periods where there is some uncertainty."
+  },
+  {
+    "start": "00:02:14.467",
+    "end": "00:02:16.967",
+    "start_seconds": 134.467,
+    "end_seconds": 136.96699999999998,
+    "text": "And I wonder if it's because we --"
+  },
+  {
+    "start": "00:02:18.001",
+    "end": "00:02:20.634",
+    "start_seconds": 138.001,
+    "end_seconds": 140.63400000000001,
+    "text": "because we lack that agency in those moments,"
+  },
+  {
+    "start": "00:02:20.667",
+    "end": "00:02:23.134",
+    "start_seconds": 140.667,
+    "end_seconds": 143.13400000000001,
+    "text": "we're just grasping to try to figure out"
+  },
+  {
+    "start": "00:02:23.134",
+    "end": "00:02:25.301",
+    "start_seconds": 143.13400000000001,
+    "end_seconds": 145.301,
+    "text": "how we might be able to change the situation."
+  },
+  {
+    "start": "00:02:25.334",
+    "end": "00:02:27.901",
+    "start_seconds": 145.334,
+    "end_seconds": 147.901,
+    "text": "And in moments of uncertainty,"
+  },
+  {
+    "start": "00:02:27.934",
+    "end": "00:02:31.601",
+    "start_seconds": 147.934,
+    "end_seconds": 151.601,
+    "text": "we have the illusion that our involvement could actually move the needle."
+  },
+  {
+    "start": "00:02:31.634",
+    "end": "00:02:34.034",
+    "start_seconds": 151.63400000000001,
+    "end_seconds": 154.034,
+    "text": "But after we've received the actual information,"
+  },
+  {
+    "start": "00:02:34.067",
+    "end": "00:02:35.834",
+    "start_seconds": 154.067,
+    "end_seconds": 155.834,
+    "text": "it feels more set in stone."
+  },
+  {
+    "start": "00:02:36.434",
+    "end": "00:02:38.401",
+    "start_seconds": 156.434,
+    "end_seconds": 158.401,
+    "text": "SS: I think this is very relatable"
+  },
+  {
+    "start": "00:02:38.401",
+    "end": "00:02:42.867",
+    "start_seconds": 158.401,
+    "end_seconds": 162.867,
+    "text": "for anyone who is dealing with maybe professional uncertainty"
+  },
+  {
+    "start": "00:02:42.901",
+    "end": "00:02:46.034",
+    "start_seconds": 162.901,
+    "end_seconds": 166.034,
+    "text": "or uncertainty about what decisions they want to make"
+  },
+  {
+    "start": "00:02:46.034",
+    "end": "00:02:47.267",
+    "start_seconds": 166.034,
+    "end_seconds": 167.267,
+    "text": "about their future lives."
+  },
+  {
+    "start": "00:02:47.301",
+    "end": "00:02:50.501",
+    "start_seconds": 167.301,
+    "end_seconds": 170.501,
+    "text": "I think we can think about this from an evolutionary perspective."
+  },
+  {
+    "start": "00:02:50.534",
+    "end": "00:02:54.234",
+    "start_seconds": 170.534,
+    "end_seconds": 174.234,
+    "text": "So if you imagine an ancestor of ours in the jungle,"
+  },
+  {
+    "start": "00:02:54.267",
+    "end": "00:02:56.201",
+    "start_seconds": 174.267,
+    "end_seconds": 176.201,
+    "text": "if they hear a rustle in the bushes"
+  },
+  {
+    "start": "00:02:56.234",
+    "end": "00:02:58.834",
+    "start_seconds": 176.234,
+    "end_seconds": 178.834,
+    "text": "and they're not sure the source of that noise,"
+  },
+  {
+    "start": "00:02:58.867",
+    "end": "00:03:01.567",
+    "start_seconds": 178.867,
+    "end_seconds": 181.567,
+    "text": "that uncertainty could potentially be fatal."
+  },
+  {
+    "start": "00:03:01.901",
+    "end": "00:03:06.767",
+    "start_seconds": 181.901,
+    "end_seconds": 186.767,
+    "text": "And so our brains are wired to feel safe and secure"
+  },
+  {
+    "start": "00:03:06.767",
+    "end": "00:03:08.434",
+    "start_seconds": 186.767,
+    "end_seconds": 188.434,
+    "text": "when we are certain,"
+  },
+  {
+    "start": "00:03:08.467",
+    "end": "00:03:12.601",
+    "start_seconds": 188.467,
+    "end_seconds": 192.601,
+    "text": "and to feel incredibly uncomfortable when we are uncertain."
+  },
+  {
+    "start": "00:03:12.967",
+    "end": "00:03:15.101",
+    "start_seconds": 192.967,
+    "end_seconds": 195.101,
+    "text": "And in general, this is a survival instinct."
+  },
+  {
+    "start": "00:03:15.134",
+    "end": "00:03:16.434",
+    "start_seconds": 195.13400000000001,
+    "end_seconds": 196.434,
+    "text": "It can steer us well."
+  },
+  {
+    "start": "00:03:16.467",
+    "end": "00:03:18.634",
+    "start_seconds": 196.46699999999998,
+    "end_seconds": 198.63400000000001,
+    "text": "It can incentivize us to, say,"
+  },
+  {
+    "start": "00:03:18.667",
+    "end": "00:03:21.101",
+    "start_seconds": 198.667,
+    "end_seconds": 201.101,
+    "text": "put on a seat belt before we enter a car ride."
+  },
+  {
+    "start": "00:03:21.134",
+    "end": "00:03:24.034",
+    "start_seconds": 201.13400000000001,
+    "end_seconds": 204.034,
+    "text": "There's been similar studies for breast cancer patients"
+  },
+  {
+    "start": "00:03:24.067",
+    "end": "00:03:27.634",
+    "start_seconds": 204.067,
+    "end_seconds": 207.63400000000001,
+    "text": "who have found that the period between getting a biopsy"
+  },
+  {
+    "start": "00:03:27.667",
+    "end": "00:03:29.334",
+    "start_seconds": 207.667,
+    "end_seconds": 209.334,
+    "text": "and getting the diagnosis"
+  },
+  {
+    "start": "00:03:29.367",
+    "end": "00:03:31.901",
+    "start_seconds": 209.367,
+    "end_seconds": 211.901,
+    "text": "is often the hardest part of the entire process,"
+  },
+  {
+    "start": "00:03:31.934",
+    "end": "00:03:34.201",
+    "start_seconds": 211.934,
+    "end_seconds": 214.201,
+    "text": "harder than chemo or surgery."
+  },
+  {
+    "start": "00:03:34.234",
+    "end": "00:03:36.701",
+    "start_seconds": 214.234,
+    "end_seconds": 216.701,
+    "text": "Because once we know what we're dealing with,"
+  },
+  {
+    "start": "00:03:36.734",
+    "end": "00:03:38.934",
+    "start_seconds": 216.734,
+    "end_seconds": 218.934,
+    "text": "then we know where to direct our energy."
+  },
+  {
+    "start": "00:03:38.967",
+    "end": "00:03:42.967",
+    "start_seconds": 218.96699999999998,
+    "end_seconds": 222.96699999999998,
+    "text": "But before we have that certainty, we can't necessarily plan."
+  },
+  {
+    "start": "00:03:43.001",
+    "end": "00:03:47.034",
+    "start_seconds": 223.001,
+    "end_seconds": 227.034,
+    "text": "We can't necessarily know where we should be spending our resources."
+  },
+  {
+    "start": "00:03:47.367",
+    "end": "00:03:51.434",
+    "start_seconds": 227.367,
+    "end_seconds": 231.434,
+    "text": "But I think there's also a cost to this discomfort we have with uncertainty,"
+  },
+  {
+    "start": "00:03:51.467",
+    "end": "00:03:56.301",
+    "start_seconds": 231.46699999999998,
+    "end_seconds": 236.301,
+    "text": "which is that we might close our minds off to new possibilities."
+  },
+  {
+    "start": "00:03:56.667",
+    "end": "00:03:59.601",
+    "start_seconds": 236.667,
+    "end_seconds": 239.601,
+    "text": "I think we all probably have a friend who's maybe in a job"
+  },
+  {
+    "start": "00:03:59.634",
+    "end": "00:04:03.901",
+    "start_seconds": 239.63400000000001,
+    "end_seconds": 243.901,
+    "text": "or in a relationship that they know isn't quite working for them,"
+  },
+  {
+    "start": "00:04:03.934",
+    "end": "00:04:08.534",
+    "start_seconds": 243.934,
+    "end_seconds": 248.534,
+    "text": "but they're so uncomfortable with the uncertainty of leaving"
+  },
+  {
+    "start": "00:04:08.567",
+    "end": "00:04:10.301",
+    "start_seconds": 248.567,
+    "end_seconds": 250.301,
+    "text": "that they sort of grit their teeth"
+  },
+  {
+    "start": "00:04:10.334",
+    "end": "00:04:12.067",
+    "start_seconds": 250.334,
+    "end_seconds": 252.067,
+    "text": "and just maintain the status quo."
+  },
+  {
+    "start": "00:04:12.467",
+    "end": "00:04:16.201",
+    "start_seconds": 252.467,
+    "end_seconds": 256.201,
+    "text": "And in my mind, that is sort of the main downside"
+  },
+  {
+    "start": "00:04:16.234",
+    "end": "00:04:18.367",
+    "start_seconds": 256.234,
+    "end_seconds": 258.367,
+    "text": "of our intolerance of uncertainty."
+  },
+  {
+    "start": "00:04:18.401",
+    "end": "00:04:21.067",
+    "start_seconds": 258.401,
+    "end_seconds": 261.067,
+    "text": "It's that when we are certain it has a narrowing effect,"
+  },
+  {
+    "start": "00:04:21.101",
+    "end": "00:04:22.534",
+    "start_seconds": 261.101,
+    "end_seconds": 262.534,
+    "text": "it closes our minds"
+  },
+  {
+    "start": "00:04:22.567",
+    "end": "00:04:25.667",
+    "start_seconds": 262.567,
+    "end_seconds": 265.66700000000003,
+    "text": "when we think we know exactly who's going to win the election"
+  },
+  {
+    "start": "00:04:25.701",
+    "end": "00:04:29.367",
+    "start_seconds": 265.701,
+    "end_seconds": 269.367,
+    "text": "or exactly how the market is going to react in the future."
+  },
+  {
+    "start": "00:04:29.367",
+    "end": "00:04:32.367",
+    "start_seconds": 269.367,
+    "end_seconds": 272.367,
+    "text": "But when we're able to maintain a state of not knowing,"
+  },
+  {
+    "start": "00:04:32.401",
+    "end": "00:04:34.834",
+    "start_seconds": 272.401,
+    "end_seconds": 274.834,
+    "text": "we're able to see the possibilities"
+  },
+  {
+    "start": "00:04:34.867",
+    "end": "00:04:38.867",
+    "start_seconds": 274.867,
+    "end_seconds": 278.867,
+    "text": "that may be sitting on the other side of our discomfort."
+  },
+  {
+    "start": "00:04:38.901",
+    "end": "00:04:40.501",
+    "start_seconds": 278.901,
+    "end_seconds": 280.501,
+    "text": "There's one other element to this"
+  },
+  {
+    "start": "00:04:40.534",
+    "end": "00:04:43.067",
+    "start_seconds": 280.534,
+    "end_seconds": 283.067,
+    "text": "that I think you are particularly primed to speak on,"
+  },
+  {
+    "start": "00:04:43.101",
+    "end": "00:04:46.734",
+    "start_seconds": 283.101,
+    "end_seconds": 286.734,
+    "text": "which is the relationship between identity and uncertainty"
+  },
+  {
+    "start": "00:04:46.734",
+    "end": "00:04:48.634",
+    "start_seconds": 286.734,
+    "end_seconds": 288.634,
+    "text": "or identity and change."
+  },
+  {
+    "start": "00:04:48.634",
+    "end": "00:04:53.367",
+    "start_seconds": 288.634,
+    "end_seconds": 293.367,
+    "text": "What do you think is so hard about change when it comes to our self-conception?"
+  },
+  {
+    "start": "00:04:54.201",
+    "end": "00:04:55.634",
+    "start_seconds": 294.201,
+    "end_seconds": 295.634,
+    "text": "MS: Yeah, it's so interesting."
+  },
+  {
+    "start": "00:04:55.667",
+    "end": "00:04:58.667",
+    "start_seconds": 295.66700000000003,
+    "end_seconds": 298.66700000000003,
+    "text": "There was a moment in hosting \"A Slight Change of Plans\""
+  },
+  {
+    "start": "00:04:58.701",
+    "end": "00:05:00.667",
+    "start_seconds": 298.701,
+    "end_seconds": 300.667,
+    "text": "where, I remember I was going on a walk,"
+  },
+  {
+    "start": "00:05:00.701",
+    "end": "00:05:02.934",
+    "start_seconds": 300.701,
+    "end_seconds": 302.934,
+    "text": "and I realized for the first time,"
+  },
+  {
+    "start": "00:05:02.967",
+    "end": "00:05:06.467",
+    "start_seconds": 302.967,
+    "end_seconds": 306.467,
+    "text": "“Oh my God, this is not even really a show about change --"
+  },
+  {
+    "start": "00:05:06.467",
+    "end": "00:05:07.967",
+    "start_seconds": 306.467,
+    "end_seconds": 307.967,
+    "text": "It’s a show about identity.”"
+  },
+  {
+    "start": "00:05:08.434",
+    "end": "00:05:11.001",
+    "start_seconds": 308.434,
+    "end_seconds": 311.001,
+    "text": "And that insight was born from the fact"
+  },
+  {
+    "start": "00:05:11.034",
+    "end": "00:05:13.501",
+    "start_seconds": 311.034,
+    "end_seconds": 313.501,
+    "text": "that so many of the stories I was hearing"
+  },
+  {
+    "start": "00:05:13.501",
+    "end": "00:05:17.934",
+    "start_seconds": 313.501,
+    "end_seconds": 317.934,
+    "text": "revealed that one of the biggest reasons why change is so scary"
+  },
+  {
+    "start": "00:05:17.967",
+    "end": "00:05:22.067",
+    "start_seconds": 317.967,
+    "end_seconds": 322.067,
+    "text": "is because it can threaten our self-identity"
+  },
+  {
+    "start": "00:05:22.101",
+    "end": "00:05:25.467",
+    "start_seconds": 322.101,
+    "end_seconds": 325.467,
+    "text": "in these really potent ways that are very uncomfortable."
+  },
+  {
+    "start": "00:05:25.501",
+    "end": "00:05:28.167",
+    "start_seconds": 325.501,
+    "end_seconds": 328.16700000000003,
+    "text": "Now let's think about self-identity for a moment."
+  },
+  {
+    "start": "00:05:28.801",
+    "end": "00:05:31.867",
+    "start_seconds": 328.801,
+    "end_seconds": 331.867,
+    "text": "It's very helpful for us to carry them, to have these identities,"
+  },
+  {
+    "start": "00:05:31.901",
+    "end": "00:05:34.534",
+    "start_seconds": 331.901,
+    "end_seconds": 334.534,
+    "text": "these labels, these roles we give ourselves, right?"
+  },
+  {
+    "start": "00:05:34.867",
+    "end": "00:05:37.567",
+    "start_seconds": 334.867,
+    "end_seconds": 337.567,
+    "text": "If I identify, for example, as an athlete --"
+  },
+  {
+    "start": "00:05:37.567",
+    "end": "00:05:40.867",
+    "start_seconds": 337.567,
+    "end_seconds": 340.867,
+    "text": "it's funny I've chosen that because I so don't identify as an athlete."
+  },
+  {
+    "start": "00:05:40.901",
+    "end": "00:05:43.734",
+    "start_seconds": 340.901,
+    "end_seconds": 343.734,
+    "text": "That's actually the last thing I'm qualified to identify as."
+  },
+  {
+    "start": "00:05:43.767",
+    "end": "00:05:47.901",
+    "start_seconds": 343.767,
+    "end_seconds": 347.901,
+    "text": "But while we're in this magical world together on a Thursday,"
+  },
+  {
+    "start": "00:05:47.934",
+    "end": "00:05:50.001",
+    "start_seconds": 347.93399999999997,
+    "end_seconds": 350.001,
+    "text": "let's just pretend that I'm an athlete."
+  },
+  {
+    "start": "00:05:50.801",
+    "end": "00:05:55.734",
+    "start_seconds": 350.801,
+    "end_seconds": 355.734,
+    "text": "It gives me an immediate feeling of camaraderie with my fellow athletes."
+  },
+  {
+    "start": "00:05:55.734",
+    "end": "00:05:58.467",
+    "start_seconds": 355.734,
+    "end_seconds": 358.467,
+    "text": "So I feel a sense of community and group membership."
+  },
+  {
+    "start": "00:05:58.501",
+    "end": "00:06:01.467",
+    "start_seconds": 358.501,
+    "end_seconds": 361.467,
+    "text": "I feel meaning and purpose in everyday life, right?"
+  },
+  {
+    "start": "00:06:01.501",
+    "end": "00:06:03.901",
+    "start_seconds": 361.501,
+    "end_seconds": 363.901,
+    "text": "Each day is imbued with a mission"
+  },
+  {
+    "start": "00:06:03.934",
+    "end": "00:06:08.534",
+    "start_seconds": 363.934,
+    "end_seconds": 368.534,
+    "text": "which can help stave off existential dread and feelings of nihilism."
+  },
+  {
+    "start": "00:06:08.867",
+    "end": "00:06:12.801",
+    "start_seconds": 368.867,
+    "end_seconds": 372.801,
+    "text": "So there's a lot of advantages to carrying these identities."
+  },
+  {
+    "start": "00:06:12.834",
+    "end": "00:06:17.801",
+    "start_seconds": 372.834,
+    "end_seconds": 377.801,
+    "text": "The problem is that when an unexpected change happens to us,"
+  },
+  {
+    "start": "00:06:17.834",
+    "end": "00:06:22.501",
+    "start_seconds": 377.834,
+    "end_seconds": 382.501,
+    "text": "it can threaten that identity and we can feel very unmoored."
+  },
+  {
+    "start": "00:06:22.534",
+    "end": "00:06:25.201",
+    "start_seconds": 382.534,
+    "end_seconds": 385.201,
+    "text": "So I experienced this actually when I was a little kid."
+  },
+  {
+    "start": "00:06:25.234",
+    "end": "00:06:28.067",
+    "start_seconds": 385.234,
+    "end_seconds": 388.067,
+    "text": "I was an aspiring concert violinist."
+  },
+  {
+    "start": "00:06:28.701",
+    "end": "00:06:30.401",
+    "start_seconds": 388.701,
+    "end_seconds": 390.401,
+    "text": "I started playing when I was six"
+  },
+  {
+    "start": "00:06:30.434",
+    "end": "00:06:34.401",
+    "start_seconds": 390.434,
+    "end_seconds": 394.401,
+    "text": "and I studied at the “Juilliard School of Music” under Itzhak Perlman."
+  },
+  {
+    "start": "00:06:34.434",
+    "end": "00:06:38.367",
+    "start_seconds": 394.43399999999997,
+    "end_seconds": 398.367,
+    "text": "And I had really big dreams of one day becoming a professional."
+  },
+  {
+    "start": "00:06:38.867",
+    "end": "00:06:43.001",
+    "start_seconds": 398.867,
+    "end_seconds": 403.001,
+    "text": "And then my \"slight change of plans\" was that I had a career-ending injury."
+  },
+  {
+    "start": "00:06:43.334",
+    "end": "00:06:47.301",
+    "start_seconds": 403.334,
+    "end_seconds": 407.301,
+    "text": "And I remember that there was something so curious about my grief"
+  },
+  {
+    "start": "00:06:47.301",
+    "end": "00:06:49.367",
+    "start_seconds": 407.301,
+    "end_seconds": 409.367,
+    "text": "when it came to the loss of the violin,"
+  },
+  {
+    "start": "00:06:49.401",
+    "end": "00:06:54.167",
+    "start_seconds": 409.401,
+    "end_seconds": 414.16700000000003,
+    "text": "which is that I found myself grieving not just the loss of the instrument,"
+  },
+  {
+    "start": "00:06:54.167",
+    "end": "00:06:57.601",
+    "start_seconds": 414.16700000000003,
+    "end_seconds": 417.601,
+    "text": "but also the loss of myself in this much deeper way."
+  },
+  {
+    "start": "00:06:57.634",
+    "end": "00:07:00.767",
+    "start_seconds": 417.634,
+    "end_seconds": 420.767,
+    "text": "I think many of us don't realize sometimes"
+  },
+  {
+    "start": "00:07:00.801",
+    "end": "00:07:05.734",
+    "start_seconds": 420.801,
+    "end_seconds": 425.734,
+    "text": "how much something has come to define us until we lose that very thing."
+  },
+  {
+    "start": "00:07:05.767",
+    "end": "00:07:08.667",
+    "start_seconds": 425.767,
+    "end_seconds": 428.667,
+    "text": "And I realized that so much of who I was"
+  },
+  {
+    "start": "00:07:08.701",
+    "end": "00:07:11.701",
+    "start_seconds": 428.701,
+    "end_seconds": 431.701,
+    "text": "had become entangled with this identity of violinist."
+  },
+  {
+    "start": "00:07:12.767",
+    "end": "00:07:13.934",
+    "start_seconds": 432.767,
+    "end_seconds": 433.934,
+    "text": "My sense of belonging,"
+  },
+  {
+    "start": "00:07:13.967",
+    "end": "00:07:16.334",
+    "start_seconds": 433.967,
+    "end_seconds": 436.334,
+    "text": "you know, I was bullied a lot in my school,"
+  },
+  {
+    "start": "00:07:16.367",
+    "end": "00:07:20.001",
+    "start_seconds": 436.367,
+    "end_seconds": 440.001,
+    "text": "I was one of the few brown kids in a predominantly Caucasian school."
+  },
+  {
+    "start": "00:07:20.001",
+    "end": "00:07:23.034",
+    "start_seconds": 440.001,
+    "end_seconds": 443.034,
+    "text": "So I found refuge in the more international community"
+  },
+  {
+    "start": "00:07:23.067",
+    "end": "00:07:24.567",
+    "start_seconds": 443.067,
+    "end_seconds": 444.567,
+    "text": "of my music school."
+  },
+  {
+    "start": "00:07:25.167",
+    "end": "00:07:27.367",
+    "start_seconds": 445.16700000000003,
+    "end_seconds": 447.367,
+    "text": "A lot of my self-confidence was tied up in it."
+  },
+  {
+    "start": "00:07:27.401",
+    "end": "00:07:30.601",
+    "start_seconds": 447.401,
+    "end_seconds": 450.601,
+    "text": "And so when I lost the violin, all of that kind of went away"
+  },
+  {
+    "start": "00:07:30.634",
+    "end": "00:07:36.901",
+    "start_seconds": 450.634,
+    "end_seconds": 456.901,
+    "text": "and I felt myself feeling really untethered from anything meaningful."
+  },
+  {
+    "start": "00:07:37.301",
+    "end": "00:07:42.201",
+    "start_seconds": 457.301,
+    "end_seconds": 462.201,
+    "text": "And it's taken me decades to learn a valuable lesson from that,"
+  },
+  {
+    "start": "00:07:42.234",
+    "end": "00:07:44.634",
+    "start_seconds": 462.234,
+    "end_seconds": 464.634,
+    "text": "that I'm so excited to share with all of you today."
+  },
+  {
+    "start": "00:07:44.667",
+    "end": "00:07:46.867",
+    "start_seconds": 464.66700000000003,
+    "end_seconds": 466.867,
+    "text": "Because had I known it at the time,"
+  },
+  {
+    "start": "00:07:46.901",
+    "end": "00:07:50.567",
+    "start_seconds": 466.901,
+    "end_seconds": 470.567,
+    "text": "I think I would have had an easier transition point for myself."
+  },
+  {
+    "start": "00:07:50.934",
+    "end": "00:07:54.234",
+    "start_seconds": 470.93399999999997,
+    "end_seconds": 474.234,
+    "text": "And that is it can be quite precarious for us"
+  },
+  {
+    "start": "00:07:54.267",
+    "end": "00:07:59.467",
+    "start_seconds": 474.267,
+    "end_seconds": 479.467,
+    "text": "to anchor our self-identity too tightly to what we do."
+  },
+  {
+    "start": "00:08:00.301",
+    "end": "00:08:03.067",
+    "start_seconds": 480.301,
+    "end_seconds": 483.067,
+    "text": "Instead, we can learn to anchor our identities"
+  },
+  {
+    "start": "00:08:03.101",
+    "end": "00:08:05.734",
+    "start_seconds": 483.101,
+    "end_seconds": 485.734,
+    "text": "to why we do the things we do."
+  },
+  {
+    "start": "00:08:06.234",
+    "end": "00:08:09.201",
+    "start_seconds": 486.234,
+    "end_seconds": 489.201,
+    "text": "So when I ask myself this question, when it came to the violin,"
+  },
+  {
+    "start": "00:08:09.234",
+    "end": "00:08:13.467",
+    "start_seconds": 489.234,
+    "end_seconds": 493.467,
+    "text": "I realized, oh, human connection was at the core of my love for music."
+  },
+  {
+    "start": "00:08:13.501",
+    "end": "00:08:16.801",
+    "start_seconds": 493.501,
+    "end_seconds": 496.801,
+    "text": "I love connecting with my peers, I love connecting with the audience."
+  },
+  {
+    "start": "00:08:16.801",
+    "end": "00:08:19.234",
+    "start_seconds": 496.801,
+    "end_seconds": 499.234,
+    "text": "And importantly, just because I lost the violin"
+  },
+  {
+    "start": "00:08:19.267",
+    "end": "00:08:22.634",
+    "start_seconds": 499.267,
+    "end_seconds": 502.634,
+    "text": "did not mean that I lost what led me to love it in the first place."
+  },
+  {
+    "start": "00:08:22.667",
+    "end": "00:08:25.301",
+    "start_seconds": 502.66700000000003,
+    "end_seconds": 505.301,
+    "text": "That part of Maya was still very much intact,"
+  },
+  {
+    "start": "00:08:25.334",
+    "end": "00:08:28.667",
+    "start_seconds": 505.334,
+    "end_seconds": 508.66700000000003,
+    "text": "even as a 15-year-old who could no longer play her instrument."
+  },
+  {
+    "start": "00:08:29.034",
+    "end": "00:08:32.201",
+    "start_seconds": 509.034,
+    "end_seconds": 512.201,
+    "text": "And when you anchor your identity in your why,"
+  },
+  {
+    "start": "00:08:32.234",
+    "end": "00:08:34.234",
+    "start_seconds": 512.234,
+    "end_seconds": 514.234,
+    "text": "then you have a path forward,"
+  },
+  {
+    "start": "00:08:34.267",
+    "end": "00:08:36.834",
+    "start_seconds": 514.267,
+    "end_seconds": 516.8340000000001,
+    "text": "because the thought experiment becomes,"
+  },
+  {
+    "start": "00:08:36.834",
+    "end": "00:08:38.601",
+    "start_seconds": 516.8340000000001,
+    "end_seconds": 518.601,
+    "text": "well, through what other means,"
+  },
+  {
+    "start": "00:08:38.634",
+    "end": "00:08:41.867",
+    "start_seconds": 518.634,
+    "end_seconds": 521.867,
+    "text": "through what other outlets can I express this part of who I am?"
+  },
+  {
+    "start": "00:08:41.901",
+    "end": "00:08:46.567",
+    "start_seconds": 521.901,
+    "end_seconds": 526.567,
+    "text": "And it turns out I kind of subconsciously gravitated towards those spaces."
+  },
+  {
+    "start": "00:08:47.201",
+    "end": "00:08:51.067",
+    "start_seconds": 527.201,
+    "end_seconds": 531.067,
+    "text": "I became a cognitive scientist who studies the science of human connection."
+  },
+  {
+    "start": "00:08:51.634",
+    "end": "00:08:54.367",
+    "start_seconds": 531.634,
+    "end_seconds": 534.367,
+    "text": "In hosting \"A Slight Change of Plans.\""
+  },
+  {
+    "start": "00:08:54.734",
+    "end": "00:08:57.834",
+    "start_seconds": 534.734,
+    "end_seconds": 537.8340000000001,
+    "text": "It's all about forging deep, emotional connections with the people"
+  },
+  {
+    "start": "00:08:57.867",
+    "end": "00:08:59.067",
+    "start_seconds": 537.867,
+    "end_seconds": 539.067,
+    "text": "that I'm interviewing."
+  },
+  {
+    "start": "00:08:59.067",
+    "end": "00:09:01.734",
+    "start_seconds": 539.067,
+    "end_seconds": 541.734,
+    "text": "This is the same for writing \"The Other Side of Change,\""
+  },
+  {
+    "start": "00:09:01.734",
+    "end": "00:09:04.634",
+    "start_seconds": 541.734,
+    "end_seconds": 544.634,
+    "text": "where I spent years interviewing people on repeated occasions"
+  },
+  {
+    "start": "00:09:04.667",
+    "end": "00:09:08.767",
+    "start_seconds": 544.667,
+    "end_seconds": 548.767,
+    "text": "and really going deep and deep and deep when it came to their stories."
+  },
+  {
+    "start": "00:09:09.167",
+    "end": "00:09:12.334",
+    "start_seconds": 549.167,
+    "end_seconds": 552.334,
+    "text": "And so I've been able"
+  },
+  {
+    "start": "00:09:12.367",
+    "end": "00:09:17.034",
+    "start_seconds": 552.367,
+    "end_seconds": 557.034,
+    "text": "to actually still express this huge part of what makes Maya Maya."
+  },
+  {
+    "start": "00:09:17.767",
+    "end": "00:09:21.467",
+    "start_seconds": 557.767,
+    "end_seconds": 561.467,
+    "text": "And to hold on to that as kind of a north star,"
+  },
+  {
+    "start": "00:09:21.501",
+    "end": "00:09:24.501",
+    "start_seconds": 561.501,
+    "end_seconds": 564.501,
+    "text": "a compass of sorts that can guide me towards my next steps."
+  },
+  {
+    "start": "00:09:24.534",
+    "end": "00:09:27.567",
+    "start_seconds": 564.534,
+    "end_seconds": 567.567,
+    "text": "And I feel like that has helped me,"
+  },
+  {
+    "start": "00:09:27.567",
+    "end": "00:09:33.167",
+    "start_seconds": 567.567,
+    "end_seconds": 573.167,
+    "text": "that why part of my self-identity has helped me weather more recent changes"
+  },
+  {
+    "start": "00:09:33.201",
+    "end": "00:09:36.634",
+    "start_seconds": 573.201,
+    "end_seconds": 576.634,
+    "text": "with a bit more equanimity, a bit more ease."
+  },
+  {
+    "start": "00:09:36.667",
+    "end": "00:09:41.034",
+    "start_seconds": 576.667,
+    "end_seconds": 581.034,
+    "text": "And that's because I know that the world can't take that passion away."
+  },
+  {
+    "start": "00:09:41.767",
+    "end": "00:09:43.234",
+    "start_seconds": 581.767,
+    "end_seconds": 583.234,
+    "text": "It's still very much there."
+  },
+  {
+    "start": "00:09:43.234",
+    "end": "00:09:46.434",
+    "start_seconds": 583.234,
+    "end_seconds": 586.434,
+    "text": "And so I would urge people who are tuning in today"
+  },
+  {
+    "start": "00:09:46.467",
+    "end": "00:09:49.401",
+    "start_seconds": 586.467,
+    "end_seconds": 589.401,
+    "text": "to ask themselves what their why is."
+  },
+  {
+    "start": "00:09:50.967",
+    "end": "00:09:55.134",
+    "start_seconds": 590.967,
+    "end_seconds": 595.134,
+    "text": "Maybe it's service, maybe it's getting better at a skill."
+  },
+  {
+    "start": "00:09:55.167",
+    "end": "00:09:56.901",
+    "start_seconds": 595.167,
+    "end_seconds": 596.901,
+    "text": "Maybe it's having a creative outlet."
+  },
+  {
+    "start": "00:09:56.934",
+    "end": "00:10:00.101",
+    "start_seconds": 596.934,
+    "end_seconds": 600.101,
+    "text": "Whatever your why is, that can be a soft landing"
+  },
+  {
+    "start": "00:10:00.134",
+    "end": "00:10:02.234",
+    "start_seconds": 600.134,
+    "end_seconds": 602.234,
+    "text": "when life makes other plans for you"
+  },
+  {
+    "start": "00:10:02.267",
+    "end": "00:10:05.601",
+    "start_seconds": 602.267,
+    "end_seconds": 605.601,
+    "text": "and can help you steer yourself towards what comes next."
+  },
+  {
+    "start": "00:10:05.634",
+    "end": "00:10:07.034",
+    "start_seconds": 605.634,
+    "end_seconds": 607.034,
+    "text": "SS: I love that so much."
+  },
+  {
+    "start": "00:10:07.067",
+    "end": "00:10:10.901",
+    "start_seconds": 607.067,
+    "end_seconds": 610.901,
+    "text": "I think there's an element to it that is right in line"
+  },
+  {
+    "start": "00:10:10.934",
+    "end": "00:10:14.267",
+    "start_seconds": 610.934,
+    "end_seconds": 614.267,
+    "text": "with the topic of my first book, which is called \"The Good Enough Job.\""
+  },
+  {
+    "start": "00:10:14.301",
+    "end": "00:10:17.801",
+    "start_seconds": 614.301,
+    "end_seconds": 617.801,
+    "text": "And the argument there was about the value of diversifying our identities,"
+  },
+  {
+    "start": "00:10:17.834",
+    "end": "00:10:21.701",
+    "start_seconds": 617.834,
+    "end_seconds": 621.701,
+    "text": "of not seeing ourselves as just one thing."
+  },
+  {
+    "start": "00:10:21.701",
+    "end": "00:10:25.401",
+    "start_seconds": 621.701,
+    "end_seconds": 625.401,
+    "text": "And one thing that anchoring your identity to your why"
+  },
+  {
+    "start": "00:10:25.434",
+    "end": "00:10:27.667",
+    "start_seconds": 625.434,
+    "end_seconds": 627.667,
+    "text": "as opposed to your what does"
+  },
+  {
+    "start": "00:10:27.667",
+    "end": "00:10:30.767",
+    "start_seconds": 627.667,
+    "end_seconds": 630.767,
+    "text": "is it is much more robust"
+  },
+  {
+    "start": "00:10:30.767",
+    "end": "00:10:33.967",
+    "start_seconds": 630.767,
+    "end_seconds": 633.967,
+    "text": "in the face of the changing winds around you."
+  },
+  {
+    "start": "00:10:34.434",
+    "end": "00:10:37.034",
+    "start_seconds": 634.434,
+    "end_seconds": 637.034,
+    "text": "So in the pandemic, for example,"
+  },
+  {
+    "start": "00:10:37.067",
+    "end": "00:10:41.567",
+    "start_seconds": 637.067,
+    "end_seconds": 641.567,
+    "text": "I spoke to so many workers who completely identified with their job,"
+  },
+  {
+    "start": "00:10:41.601",
+    "end": "00:10:45.634",
+    "start_seconds": 641.601,
+    "end_seconds": 645.634,
+    "text": "maybe being a Googler or working for this particular organization."
+  },
+  {
+    "start": "00:10:45.967",
+    "end": "00:10:48.167",
+    "start_seconds": 645.967,
+    "end_seconds": 648.167,
+    "text": "And then the market changed,"
+  },
+  {
+    "start": "00:10:48.201",
+    "end": "00:10:51.901",
+    "start_seconds": 648.201,
+    "end_seconds": 651.901,
+    "text": "or there was a series of layoffs or furloughs,"
+  },
+  {
+    "start": "00:10:51.934",
+    "end": "00:10:53.934",
+    "start_seconds": 651.934,
+    "end_seconds": 653.934,
+    "text": "and they were left asking themselves,"
+  },
+  {
+    "start": "00:10:53.967",
+    "end": "00:10:56.834",
+    "start_seconds": 653.967,
+    "end_seconds": 656.8340000000001,
+    "text": "\"If I don't have my job, who am I?\""
+  },
+  {
+    "start": "00:10:57.467",
+    "end": "00:11:00.434",
+    "start_seconds": 657.467,
+    "end_seconds": 660.434,
+    "text": "There's two people in particular that I'm thinking about"
+  },
+  {
+    "start": "00:11:00.467",
+    "end": "00:11:01.767",
+    "start_seconds": 660.467,
+    "end_seconds": 661.767,
+    "text": "in this conversation."
+  },
+  {
+    "start": "00:11:01.767",
+    "end": "00:11:05.367",
+    "start_seconds": 661.767,
+    "end_seconds": 665.367,
+    "text": "One is this woman named Liz, who I interviewed for my first book,"
+  },
+  {
+    "start": "00:11:05.401",
+    "end": "00:11:09.101",
+    "start_seconds": 665.401,
+    "end_seconds": 669.101,
+    "text": "and she was sort of your typical type-A overachiever."
+  },
+  {
+    "start": "00:11:09.134",
+    "end": "00:11:11.301",
+    "start_seconds": 669.134,
+    "end_seconds": 671.301,
+    "text": "She was a D1 college athlete,"
+  },
+  {
+    "start": "00:11:11.334",
+    "end": "00:11:13.701",
+    "start_seconds": 671.334,
+    "end_seconds": 673.701,
+    "text": "actually, she was a two-sport D1 college athlete."
+  },
+  {
+    "start": "00:11:13.701",
+    "end": "00:11:16.634",
+    "start_seconds": 673.701,
+    "end_seconds": 676.634,
+    "text": "She was both on the water polo team and a swimmer."
+  },
+  {
+    "start": "00:11:16.667",
+    "end": "00:11:17.834",
+    "start_seconds": 676.667,
+    "end_seconds": 677.834,
+    "text": "Exactly."
+  },
+  {
+    "start": "00:11:17.834",
+    "end": "00:11:19.267",
+    "start_seconds": 677.834,
+    "end_seconds": 679.267,
+    "text": "And then she graduated."
+  },
+  {
+    "start": "00:11:19.301",
+    "end": "00:11:20.567",
+    "start_seconds": 679.301,
+    "end_seconds": 680.567,
+    "text": "She did Teach for America,"
+  },
+  {
+    "start": "00:11:20.567",
+    "end": "00:11:21.934",
+    "start_seconds": 680.567,
+    "end_seconds": 681.934,
+    "text": "she found a lot of identity"
+  },
+  {
+    "start": "00:11:21.934",
+    "end": "00:11:24.301",
+    "start_seconds": 681.934,
+    "end_seconds": 684.301,
+    "text": "through being a public school teacher in Colorado."
+  },
+  {
+    "start": "00:11:24.334",
+    "end": "00:11:27.434",
+    "start_seconds": 684.334,
+    "end_seconds": 687.434,
+    "text": "Then she went to law school, found a lot of identity through law"
+  },
+  {
+    "start": "00:11:27.467",
+    "end": "00:11:28.701",
+    "start_seconds": 687.467,
+    "end_seconds": 688.701,
+    "text": "and being a lawyer."
+  },
+  {
+    "start": "00:11:28.701",
+    "end": "00:11:30.367",
+    "start_seconds": 688.701,
+    "end_seconds": 690.367,
+    "text": "But in that period of time,"
+  },
+  {
+    "start": "00:11:30.401",
+    "end": "00:11:32.934",
+    "start_seconds": 690.401,
+    "end_seconds": 692.934,
+    "text": "she contracted a chronic illness."
+  },
+  {
+    "start": "00:11:33.267",
+    "end": "00:11:35.334",
+    "start_seconds": 693.267,
+    "end_seconds": 695.3340000000001,
+    "text": "And so she went from someone who could, say,"
+  },
+  {
+    "start": "00:11:35.334",
+    "end": "00:11:37.567",
+    "start_seconds": 695.3340000000001,
+    "end_seconds": 697.567,
+    "text": "swim four to six hours a day"
+  },
+  {
+    "start": "00:11:37.601",
+    "end": "00:11:41.734",
+    "start_seconds": 697.601,
+    "end_seconds": 701.734,
+    "text": "to her mom spoon-feeding her chicken soup in bed."
+  },
+  {
+    "start": "00:11:41.767",
+    "end": "00:11:47.334",
+    "start_seconds": 701.767,
+    "end_seconds": 707.3340000000001,
+    "text": "And she couldn't any longer derive her self-worth or her identity"
+  },
+  {
+    "start": "00:11:47.367",
+    "end": "00:11:49.667",
+    "start_seconds": 707.367,
+    "end_seconds": 709.667,
+    "text": "from her external accomplishments."
+  },
+  {
+    "start": "00:11:49.701",
+    "end": "00:11:52.834",
+    "start_seconds": 709.701,
+    "end_seconds": 712.8340000000001,
+    "text": "She always prided herself on being a straight-A student"
+  },
+  {
+    "start": "00:11:52.867",
+    "end": "00:11:55.134",
+    "start_seconds": 712.867,
+    "end_seconds": 715.134,
+    "text": "or getting great performance reviews."
+  },
+  {
+    "start": "00:11:55.167",
+    "end": "00:11:58.767",
+    "start_seconds": 715.167,
+    "end_seconds": 718.767,
+    "text": "But as she started talking to more people with chronic illnesses,"
+  },
+  {
+    "start": "00:11:58.767",
+    "end": "00:12:00.534",
+    "start_seconds": 718.767,
+    "end_seconds": 720.534,
+    "text": "she learned this thing about herself,"
+  },
+  {
+    "start": "00:12:00.567",
+    "end": "00:12:04.734",
+    "start_seconds": 720.567,
+    "end_seconds": 724.734,
+    "text": "which is you can define yourself based on your evergreen traits"
+  },
+  {
+    "start": "00:12:04.767",
+    "end": "00:12:07.134",
+    "start_seconds": 724.767,
+    "end_seconds": 727.134,
+    "text": "as opposed to your accomplishments."
+  },
+  {
+    "start": "00:12:07.167",
+    "end": "00:12:11.667",
+    "start_seconds": 727.167,
+    "end_seconds": 731.667,
+    "text": "And so she started conceiving of herself as a generous friend"
+  },
+  {
+    "start": "00:12:11.701",
+    "end": "00:12:15.134",
+    "start_seconds": 731.701,
+    "end_seconds": 735.134,
+    "text": "or someone who really believes in particular causes"
+  },
+  {
+    "start": "00:12:15.167",
+    "end": "00:12:17.234",
+    "start_seconds": 735.167,
+    "end_seconds": 737.234,
+    "text": "and right in line with what you were saying,"
+  },
+  {
+    "start": "00:12:17.234",
+    "end": "00:12:18.734",
+    "start_seconds": 737.234,
+    "end_seconds": 738.734,
+    "text": "she connected to her why,"
+  },
+  {
+    "start": "00:12:18.767",
+    "end": "00:12:22.901",
+    "start_seconds": 738.767,
+    "end_seconds": 742.901,
+    "text": "a why that no employer or market"
+  },
+  {
+    "start": "00:12:22.934",
+    "end": "00:12:25.567",
+    "start_seconds": 742.934,
+    "end_seconds": 745.567,
+    "text": "or boss could ever take away from her."
+  },
+  {
+    "start": "00:12:25.601",
+    "end": "00:12:29.467",
+    "start_seconds": 745.601,
+    "end_seconds": 749.467,
+    "text": "And it became a much more durative identity"
+  },
+  {
+    "start": "00:12:29.501",
+    "end": "00:12:32.901",
+    "start_seconds": 749.501,
+    "end_seconds": 752.901,
+    "text": "that could shift along with the changes around her."
+  },
+  {
+    "start": "00:12:32.934",
+    "end": "00:12:34.467",
+    "start_seconds": 752.934,
+    "end_seconds": 754.467,
+    "text": "And that's really stuck with me."
+  },
+  {
+    "start": "00:12:34.501",
+    "end": "00:12:36.834",
+    "start_seconds": 754.501,
+    "end_seconds": 756.8340000000001,
+    "text": "It's one of those ideas that even though it came"
+  },
+  {
+    "start": "00:12:36.834",
+    "end": "00:12:39.234",
+    "start_seconds": 756.8340000000001,
+    "end_seconds": 759.234,
+    "text": "from the chronically-ill community,"
+  },
+  {
+    "start": "00:12:39.234",
+    "end": "00:12:41.801",
+    "start_seconds": 759.234,
+    "end_seconds": 761.801,
+    "text": "it's something we can all apply to our own lives"
+  },
+  {
+    "start": "00:12:41.834",
+    "end": "00:12:46.434",
+    "start_seconds": 761.8340000000001,
+    "end_seconds": 766.434,
+    "text": "of thinking about what are our traits, our evergreen characteristics."
+  },
+  {
+    "start": "00:12:46.467",
+    "end": "00:12:51.567",
+    "start_seconds": 766.467,
+    "end_seconds": 771.567,
+    "text": "And rather than seeing ourselves as just an accountant or a lawyer"
+  },
+  {
+    "start": "00:12:51.601",
+    "end": "00:12:55.334",
+    "start_seconds": 771.601,
+    "end_seconds": 775.3340000000001,
+    "text": "or someone who is very impressive in this way or that way,"
+  },
+  {
+    "start": "00:12:55.367",
+    "end": "00:12:57.901",
+    "start_seconds": 775.367,
+    "end_seconds": 777.901,
+    "text": "what are some of those values or virtues"
+  },
+  {
+    "start": "00:12:57.901",
+    "end": "00:13:01.434",
+    "start_seconds": 777.901,
+    "end_seconds": 781.434,
+    "text": "that will remain constant amidst all of the change?"
+  },
+  {
+    "start": "00:13:02.267",
+    "end": "00:13:04.534",
+    "start_seconds": 782.267,
+    "end_seconds": 784.534,
+    "text": "MS: I love that story so much."
+  },
+  {
+    "start": "00:13:05.734",
+    "end": "00:13:09.234",
+    "start_seconds": 785.734,
+    "end_seconds": 789.234,
+    "text": "I think the argument from both of our books"
+  },
+  {
+    "start": "00:13:09.234",
+    "end": "00:13:12.467",
+    "start_seconds": 789.234,
+    "end_seconds": 792.467,
+    "text": "is that there is so much possibility"
+  },
+  {
+    "start": "00:13:12.501",
+    "end": "00:13:15.601",
+    "start_seconds": 792.501,
+    "end_seconds": 795.601,
+    "text": "that sits within uncertainty, that sits within change."
+  },
+  {
+    "start": "00:13:16.034",
+    "end": "00:13:21.634",
+    "start_seconds": 796.034,
+    "end_seconds": 801.634,
+    "text": "And one of the reasons that I wanted to write \"The Other Side of Change\""
+  },
+  {
+    "start": "00:13:21.667",
+    "end": "00:13:26.134",
+    "start_seconds": 801.667,
+    "end_seconds": 806.134,
+    "text": "is that, at moments of inflection in my life,"
+  },
+  {
+    "start": "00:13:26.167",
+    "end": "00:13:27.967",
+    "start_seconds": 806.167,
+    "end_seconds": 807.967,
+    "text": "whether it was losing the violin"
+  },
+  {
+    "start": "00:13:27.967",
+    "end": "00:13:31.601",
+    "start_seconds": 807.967,
+    "end_seconds": 811.601,
+    "text": "or struggling to start a family with my husband"
+  },
+  {
+    "start": "00:13:31.634",
+    "end": "00:13:34.167",
+    "start_seconds": 811.634,
+    "end_seconds": 814.167,
+    "text": "and facing pregnancy losses with our surrogate"
+  },
+  {
+    "start": "00:13:34.167",
+    "end": "00:13:37.201",
+    "start_seconds": 814.167,
+    "end_seconds": 817.201,
+    "text": "and other disappointments"
+  },
+  {
+    "start": "00:13:37.234",
+    "end": "00:13:39.767",
+    "start_seconds": 817.234,
+    "end_seconds": 819.767,
+    "text": "and obstacles,"
+  },
+  {
+    "start": "00:13:39.801",
+    "end": "00:13:42.401",
+    "start_seconds": 819.801,
+    "end_seconds": 822.401,
+    "text": "I would hear so often this popular refrain"
+  },
+  {
+    "start": "00:13:42.434",
+    "end": "00:13:46.334",
+    "start_seconds": 822.434,
+    "end_seconds": 826.3340000000001,
+    "text": "that while you can't change what happens to you,"
+  },
+  {
+    "start": "00:13:46.334",
+    "end": "00:13:48.567",
+    "start_seconds": 826.3340000000001,
+    "end_seconds": 828.567,
+    "text": "you can change your response to what happens."
+  },
+  {
+    "start": "00:13:48.601",
+    "end": "00:13:50.901",
+    "start_seconds": 828.601,
+    "end_seconds": 830.901,
+    "text": "You can change your reaction to what happens."
+  },
+  {
+    "start": "00:13:50.934",
+    "end": "00:13:54.667",
+    "start_seconds": 830.934,
+    "end_seconds": 834.667,
+    "text": "And it's meant to be empowering, Simone,"
+  },
+  {
+    "start": "00:13:54.667",
+    "end": "00:13:57.834",
+    "start_seconds": 834.667,
+    "end_seconds": 837.8340000000001,
+    "text": "but I felt frustrated when I would hear that."
+  },
+  {
+    "start": "00:13:57.834",
+    "end": "00:13:59.667",
+    "start_seconds": 837.8340000000001,
+    "end_seconds": 839.667,
+    "text": "I would almost bristle at that advice,"
+  },
+  {
+    "start": "00:13:59.701",
+    "end": "00:14:01.901",
+    "start_seconds": 839.701,
+    "end_seconds": 841.901,
+    "text": "like, OK, if it's so easy, why don't you do it?"
+  },
+  {
+    "start": "00:14:01.934",
+    "end": "00:14:03.067",
+    "start_seconds": 841.934,
+    "end_seconds": 843.067,
+    "text": "You know what I mean?"
+  },
+  {
+    "start": "00:14:03.101",
+    "end": "00:14:05.901",
+    "start_seconds": 843.101,
+    "end_seconds": 845.901,
+    "text": "How the heck am I supposed to get from point A to point B?"
+  },
+  {
+    "start": "00:14:05.901",
+    "end": "00:14:09.334",
+    "start_seconds": 845.901,
+    "end_seconds": 849.334,
+    "text": "I don't actually know how to change my reaction."
+  },
+  {
+    "start": "00:14:09.367",
+    "end": "00:14:10.967",
+    "start_seconds": 849.367,
+    "end_seconds": 850.967,
+    "text": "And so in many ways,"
+  },
+  {
+    "start": "00:14:10.967",
+    "end": "00:14:14.534",
+    "start_seconds": 850.967,
+    "end_seconds": 854.534,
+    "text": "\"The Other Side of Change\" was a response to this personal need I had,"
+  },
+  {
+    "start": "00:14:14.567",
+    "end": "00:14:17.901",
+    "start_seconds": 854.567,
+    "end_seconds": 857.901,
+    "text": "which is I'm convinced that it would be beneficial for me"
+  },
+  {
+    "start": "00:14:17.934",
+    "end": "00:14:20.567",
+    "start_seconds": 857.934,
+    "end_seconds": 860.567,
+    "text": "to have a different reaction to what I'm going through."
+  },
+  {
+    "start": "00:14:20.567",
+    "end": "00:14:24.267",
+    "start_seconds": 860.567,
+    "end_seconds": 864.267,
+    "text": "But I don't know what the science-based techniques are"
+  },
+  {
+    "start": "00:14:24.301",
+    "end": "00:14:27.067",
+    "start_seconds": 864.301,
+    "end_seconds": 867.067,
+    "text": "or what the right questions I'm supposed to ask myself are,"
+  },
+  {
+    "start": "00:14:27.067",
+    "end": "00:14:29.701",
+    "start_seconds": 867.067,
+    "end_seconds": 869.701,
+    "text": "or what wisdom I can glean from other people's stories."
+  },
+  {
+    "start": "00:14:29.701",
+    "end": "00:14:31.234",
+    "start_seconds": 869.701,
+    "end_seconds": 871.234,
+    "text": "So like, please give that to me."
+  },
+  {
+    "start": "00:14:31.267",
+    "end": "00:14:34.234",
+    "start_seconds": 871.267,
+    "end_seconds": 874.234,
+    "text": "And so that was sort of the goal of \"The Other Side of Change.\""
+  },
+  {
+    "start": "00:14:34.267",
+    "end": "00:14:36.734",
+    "start_seconds": 874.267,
+    "end_seconds": 876.734,
+    "text": "And I think one of the overarching messages of hope,"
+  },
+  {
+    "start": "00:14:36.767",
+    "end": "00:14:39.167",
+    "start_seconds": 876.767,
+    "end_seconds": 879.167,
+    "text": "outside of the Change Survival Kit,"
+  },
+  {
+    "start": "00:14:39.167",
+    "end": "00:14:41.601",
+    "start_seconds": 879.167,
+    "end_seconds": 881.601,
+    "text": "which I give to each reader at the end of the book,"
+  },
+  {
+    "start": "00:14:41.634",
+    "end": "00:14:43.901",
+    "start_seconds": 881.634,
+    "end_seconds": 883.901,
+    "text": "which is a distillation of all those strategies,"
+  },
+  {
+    "start": "00:14:43.901",
+    "end": "00:14:45.101",
+    "start_seconds": 883.901,
+    "end_seconds": 885.101,
+    "text": "is to remind people"
+  },
+  {
+    "start": "00:14:45.134",
+    "end": "00:14:49.067",
+    "start_seconds": 885.134,
+    "end_seconds": 889.067,
+    "text": "that when a big change happens to you,"
+  },
+  {
+    "start": "00:14:49.067",
+    "end": "00:14:52.501",
+    "start_seconds": 889.067,
+    "end_seconds": 892.501,
+    "text": "it also leads to lasting change within you."
+  },
+  {
+    "start": "00:14:52.534",
+    "end": "00:14:55.701",
+    "start_seconds": 892.534,
+    "end_seconds": 895.701,
+    "text": "We often forget that we are works in progress,"
+  },
+  {
+    "start": "00:14:55.701",
+    "end": "00:14:59.201",
+    "start_seconds": 895.701,
+    "end_seconds": 899.201,
+    "text": "that we are constantly changing ourselves."
+  },
+  {
+    "start": "00:14:59.234",
+    "end": "00:15:03.034",
+    "start_seconds": 899.234,
+    "end_seconds": 903.034,
+    "text": "And so when we're feeling really daunted at the outset of a change,"
+  },
+  {
+    "start": "00:15:03.067",
+    "end": "00:15:05.934",
+    "start_seconds": 903.067,
+    "end_seconds": 905.934,
+    "text": "like, we can't possibly navigate what's up ahead,"
+  },
+  {
+    "start": "00:15:05.967",
+    "end": "00:15:08.401",
+    "start_seconds": 905.967,
+    "end_seconds": 908.401,
+    "text": "we have to remind ourselves that we are constrained"
+  },
+  {
+    "start": "00:15:08.434",
+    "end": "00:15:11.367",
+    "start_seconds": 908.434,
+    "end_seconds": 911.367,
+    "text": "by our current abilities and values and perspectives,"
+  },
+  {
+    "start": "00:15:11.401",
+    "end": "00:15:14.767",
+    "start_seconds": 911.401,
+    "end_seconds": 914.767,
+    "text": "and that we can undergo a huge transformation"
+  },
+  {
+    "start": "00:15:14.801",
+    "end": "00:15:18.434",
+    "start_seconds": 914.801,
+    "end_seconds": 918.434,
+    "text": "as a result of the big changes that happen in our lives."
+  },
+  {
+    "start": "00:15:18.434",
+    "end": "00:15:22.034",
+    "start_seconds": 918.434,
+    "end_seconds": 922.034,
+    "text": "And one, I think,"
+  },
+  {
+    "start": "00:15:22.067",
+    "end": "00:15:25.234",
+    "start_seconds": 922.067,
+    "end_seconds": 925.234,
+    "text": "universal message I heard from the cast of characters"
+  },
+  {
+    "start": "00:15:25.267",
+    "end": "00:15:27.601",
+    "start_seconds": 925.267,
+    "end_seconds": 927.601,
+    "text": "that I interviewed for \"The Other Side of Change\""
+  },
+  {
+    "start": "00:15:27.634",
+    "end": "00:15:31.267",
+    "start_seconds": 927.634,
+    "end_seconds": 931.267,
+    "text": "is that while they weren't necessarily grateful"
+  },
+  {
+    "start": "00:15:31.301",
+    "end": "00:15:33.001",
+    "start_seconds": 931.301,
+    "end_seconds": 933.001,
+    "text": "for the changes they went through,"
+  },
+  {
+    "start": "00:15:33.034",
+    "end": "00:15:36.801",
+    "start_seconds": 933.034,
+    "end_seconds": 936.801,
+    "text": "they were very hard, like, illness and loss and heartbreak,"
+  },
+  {
+    "start": "00:15:36.801",
+    "end": "00:15:39.901",
+    "start_seconds": 936.801,
+    "end_seconds": 939.901,
+    "text": "they were deeply grateful for the person they became"
+  },
+  {
+    "start": "00:15:39.934",
+    "end": "00:15:42.667",
+    "start_seconds": 939.934,
+    "end_seconds": 942.667,
+    "text": "as a result of what they went through."
+  },
+  {
+    "start": "00:15:42.967",
+    "end": "00:15:47.767",
+    "start_seconds": 942.967,
+    "end_seconds": 947.767,
+    "text": "You know, the new environment they were thrust into"
+  },
+  {
+    "start": "00:15:47.801",
+    "end": "00:15:52.334",
+    "start_seconds": 947.801,
+    "end_seconds": 952.3340000000001,
+    "text": "created this rich, fertile environment for growth"
+  },
+  {
+    "start": "00:15:52.367",
+    "end": "00:15:56.201",
+    "start_seconds": 952.367,
+    "end_seconds": 956.201,
+    "text": "and allowed them to see themselves in the world in really new ways"
+  },
+  {
+    "start": "00:15:56.234",
+    "end": "00:15:58.401",
+    "start_seconds": 956.234,
+    "end_seconds": 958.401,
+    "text": "that ultimately unlocked freedom"
+  },
+  {
+    "start": "00:15:58.401",
+    "end": "00:16:01.167",
+    "start_seconds": 958.401,
+    "end_seconds": 961.167,
+    "text": "or a new way of seeing themselves or seeing their families"
+  },
+  {
+    "start": "00:16:01.201",
+    "end": "00:16:04.101",
+    "start_seconds": 961.201,
+    "end_seconds": 964.101,
+    "text": "or seeing their self-identities that propelled them forward"
+  },
+  {
+    "start": "00:16:04.134",
+    "end": "00:16:07.401",
+    "start_seconds": 964.134,
+    "end_seconds": 967.401,
+    "text": "and led to a better version of themselves."
+  },
+  {
+    "start": "00:16:07.434",
+    "end": "00:16:10.434",
+    "start_seconds": 967.434,
+    "end_seconds": 970.434,
+    "text": "And I'm curious to know if you found something similar"
+  },
+  {
+    "start": "00:16:10.434",
+    "end": "00:16:12.667",
+    "start_seconds": 970.434,
+    "end_seconds": 972.667,
+    "text": "in all the research that you did for the book."
+  },
+  {
+    "start": "00:16:12.701",
+    "end": "00:16:17.601",
+    "start_seconds": 972.701,
+    "end_seconds": 977.601,
+    "text": "I mean, our books are similar in the focus on both science and stories, right?"
+  },
+  {
+    "start": "00:16:18.101",
+    "end": "00:16:19.734",
+    "start_seconds": 978.101,
+    "end_seconds": 979.734,
+    "text": "And obviously,"
+  },
+  {
+    "start": "00:16:19.734",
+    "end": "00:16:22.901",
+    "start_seconds": 979.734,
+    "end_seconds": 982.901,
+    "text": "you spent a lot of time interviewing people about their experiences"
+  },
+  {
+    "start": "00:16:22.934",
+    "end": "00:16:24.667",
+    "start_seconds": 982.934,
+    "end_seconds": 984.667,
+    "text": "of navigating uncertainty."
+  },
+  {
+    "start": "00:16:25.234",
+    "end": "00:16:27.167",
+    "start_seconds": 985.234,
+    "end_seconds": 987.167,
+    "text": "SS: Well, I think one thing that I found"
+  },
+  {
+    "start": "00:16:27.167",
+    "end": "00:16:31.601",
+    "start_seconds": 987.167,
+    "end_seconds": 991.601,
+    "text": "is that when we are willing to turn toward what we don't know,"
+  },
+  {
+    "start": "00:16:31.601",
+    "end": "00:16:36.567",
+    "start_seconds": 991.601,
+    "end_seconds": 996.567,
+    "text": "when we're willing to withstand some of the stress and anxiety"
+  },
+  {
+    "start": "00:16:36.567",
+    "end": "00:16:40.601",
+    "start_seconds": 996.567,
+    "end_seconds": 1000.601,
+    "text": "and fear that comes from facing uncertainty,"
+  },
+  {
+    "start": "00:16:40.634",
+    "end": "00:16:43.434",
+    "start_seconds": 1000.634,
+    "end_seconds": 1003.434,
+    "text": "we can get to a place that is greater"
+  },
+  {
+    "start": "00:16:43.467",
+    "end": "00:16:47.067",
+    "start_seconds": 1003.467,
+    "end_seconds": 1007.067,
+    "text": "than what we could have otherwise imagined before doing so."
+  },
+  {
+    "start": "00:16:47.101",
+    "end": "00:16:49.801",
+    "start_seconds": 1007.101,
+    "end_seconds": 1009.801,
+    "text": "So one, just sort of example from the business world."
+  },
+  {
+    "start": "00:16:49.834",
+    "end": "00:16:54.701",
+    "start_seconds": 1009.8340000000001,
+    "end_seconds": 1014.701,
+    "text": "In the early 2010s, there was this start-up called Tiny Speck,"
+  },
+  {
+    "start": "00:16:54.734",
+    "end": "00:16:56.734",
+    "start_seconds": 1014.734,
+    "end_seconds": 1016.734,
+    "text": "and it was sort of the belle of the ball."
+  },
+  {
+    "start": "00:16:56.734",
+    "end": "00:17:00.101",
+    "start_seconds": 1016.734,
+    "end_seconds": 1020.101,
+    "text": "They built this massive online multiplayer game called Glitch,"
+  },
+  {
+    "start": "00:17:00.134",
+    "end": "00:17:03.734",
+    "start_seconds": 1020.134,
+    "end_seconds": 1023.734,
+    "text": "and they had raised $17 million before they had launched."
+  },
+  {
+    "start": "00:17:03.734",
+    "end": "00:17:06.234",
+    "start_seconds": 1023.734,
+    "end_seconds": 1026.234,
+    "text": "And their launch was covered in \"The New York Times,\""
+  },
+  {
+    "start": "00:17:06.234",
+    "end": "00:17:10.067",
+    "start_seconds": 1026.234,
+    "end_seconds": 1030.067,
+    "text": "and they had tens of thousands of active players from the get-go."
+  },
+  {
+    "start": "00:17:10.067",
+    "end": "00:17:14.001",
+    "start_seconds": 1030.067,
+    "end_seconds": 1034.001,
+    "text": "And yet, the founder of the company felt in his heart of hearts"
+  },
+  {
+    "start": "00:17:14.034",
+    "end": "00:17:16.501",
+    "start_seconds": 1034.034,
+    "end_seconds": 1036.501,
+    "text": "that they weren't on a sustainable path."
+  },
+  {
+    "start": "00:17:16.534",
+    "end": "00:17:19.434",
+    "start_seconds": 1036.534,
+    "end_seconds": 1039.434,
+    "text": "There was something that wasn't quite right with the business."
+  },
+  {
+    "start": "00:17:19.467",
+    "end": "00:17:23.734",
+    "start_seconds": 1039.467,
+    "end_seconds": 1043.734,
+    "text": "And so he decided to do something that other people thought was insane."
+  },
+  {
+    "start": "00:17:23.734",
+    "end": "00:17:26.501",
+    "start_seconds": 1043.734,
+    "end_seconds": 1046.501,
+    "text": "Less than two years into founding the company,"
+  },
+  {
+    "start": "00:17:26.534",
+    "end": "00:17:30.867",
+    "start_seconds": 1046.534,
+    "end_seconds": 1050.867,
+    "text": "he decided to shut the game down, sort of at the peak of its success,"
+  },
+  {
+    "start": "00:17:30.901",
+    "end": "00:17:33.001",
+    "start_seconds": 1050.901,
+    "end_seconds": 1053.001,
+    "text": "and he offered to make his investors whole."
+  },
+  {
+    "start": "00:17:33.034",
+    "end": "00:17:36.634",
+    "start_seconds": 1053.034,
+    "end_seconds": 1056.634,
+    "text": "He gave employees that wanted to leave the opportunity to leave,"
+  },
+  {
+    "start": "00:17:36.667",
+    "end": "00:17:39.367",
+    "start_seconds": 1056.667,
+    "end_seconds": 1059.367,
+    "text": "and then he decided to pivot the organization"
+  },
+  {
+    "start": "00:17:39.401",
+    "end": "00:17:42.234",
+    "start_seconds": 1059.401,
+    "end_seconds": 1062.234,
+    "text": "around this internal-communications tool that they had built"
+  },
+  {
+    "start": "00:17:42.234",
+    "end": "00:17:45.134",
+    "start_seconds": 1062.234,
+    "end_seconds": 1065.134,
+    "text": "so that they can collaborate across different locations."
+  },
+  {
+    "start": "00:17:45.167",
+    "end": "00:17:47.767",
+    "start_seconds": 1065.167,
+    "end_seconds": 1067.767,
+    "text": "And talking to the founder at the time, he said,"
+  },
+  {
+    "start": "00:17:47.801",
+    "end": "00:17:51.667",
+    "start_seconds": 1067.801,
+    "end_seconds": 1071.667,
+    "text": "\"At the moment, I didn't know exactly what the possibility"
+  },
+  {
+    "start": "00:17:51.701",
+    "end": "00:17:53.501",
+    "start_seconds": 1071.701,
+    "end_seconds": 1073.501,
+    "text": "or the opportunity was."
+  },
+  {
+    "start": "00:17:53.534",
+    "end": "00:17:56.067",
+    "start_seconds": 1073.534,
+    "end_seconds": 1076.067,
+    "text": "But through making this change,"
+  },
+  {
+    "start": "00:17:56.101",
+    "end": "00:17:57.734",
+    "start_seconds": 1076.101,
+    "end_seconds": 1077.734,
+    "text": "we were able to discover it.\""
+  },
+  {
+    "start": "00:17:58.267",
+    "end": "00:18:00.301",
+    "start_seconds": 1078.267,
+    "end_seconds": 1080.301,
+    "text": "And that internal-communications tool"
+  },
+  {
+    "start": "00:18:00.301",
+    "end": "00:18:03.667",
+    "start_seconds": 1080.301,
+    "end_seconds": 1083.667,
+    "text": "is what you and I both know today as Slack."
+  },
+  {
+    "start": "00:18:04.067",
+    "end": "00:18:07.067",
+    "start_seconds": 1084.067,
+    "end_seconds": 1087.067,
+    "text": "And that founder's name is Stewart Butterfield."
+  },
+  {
+    "start": "00:18:07.101",
+    "end": "00:18:12.001",
+    "start_seconds": 1087.101,
+    "end_seconds": 1092.001,
+    "text": "And Slack became one of the most successful software companies of all time."
+  },
+  {
+    "start": "00:18:12.301",
+    "end": "00:18:13.901",
+    "start_seconds": 1092.301,
+    "end_seconds": 1093.901,
+    "text": "I think what that story shows"
+  },
+  {
+    "start": "00:18:13.934",
+    "end": "00:18:19.167",
+    "start_seconds": 1093.934,
+    "end_seconds": 1099.167,
+    "text": "is that when we are able to turn towards the fog,"
+  },
+  {
+    "start": "00:18:19.167",
+    "end": "00:18:22.234",
+    "start_seconds": 1099.167,
+    "end_seconds": 1102.234,
+    "text": "when we were able to maybe descend the peak"
+  },
+  {
+    "start": "00:18:22.267",
+    "end": "00:18:25.167",
+    "start_seconds": 1102.267,
+    "end_seconds": 1105.167,
+    "text": "that we thought we were standing on the top of the world from,"
+  },
+  {
+    "start": "00:18:25.201",
+    "end": "00:18:29.567",
+    "start_seconds": 1105.201,
+    "end_seconds": 1109.567,
+    "text": "we can discover a higher peak that's waiting just around the corner,"
+  },
+  {
+    "start": "00:18:29.601",
+    "end": "00:18:32.867",
+    "start_seconds": 1109.601,
+    "end_seconds": 1112.867,
+    "text": "or discover an element of ourselves,"
+  },
+  {
+    "start": "00:18:32.901",
+    "end": "00:18:37.167",
+    "start_seconds": 1112.901,
+    "end_seconds": 1117.167,
+    "text": "an opportunity, a possibility that comes at the threshold of what we know."
+  },
+  {
+    "start": "00:18:37.201",
+    "end": "00:18:42.267",
+    "start_seconds": 1117.201,
+    "end_seconds": 1122.267,
+    "text": "Nearly every scientific breakthrough or genre-busting piece of art"
+  },
+  {
+    "start": "00:18:42.301",
+    "end": "00:18:45.967",
+    "start_seconds": 1122.301,
+    "end_seconds": 1125.967,
+    "text": "or generational company began with someone's willingness"
+  },
+  {
+    "start": "00:18:45.967",
+    "end": "00:18:48.067",
+    "start_seconds": 1125.967,
+    "end_seconds": 1128.067,
+    "text": "to get to a point of uncertainty"
+  },
+  {
+    "start": "00:18:48.101",
+    "end": "00:18:51.967",
+    "start_seconds": 1128.101,
+    "end_seconds": 1131.967,
+    "text": "and then, rather than turn back or turn towards the safe option"
+  },
+  {
+    "start": "00:18:52.001",
+    "end": "00:18:54.134",
+    "start_seconds": 1132.001,
+    "end_seconds": 1134.134,
+    "text": "or turn towards something that was derivative"
+  },
+  {
+    "start": "00:18:54.134",
+    "end": "00:18:55.967",
+    "start_seconds": 1134.134,
+    "end_seconds": 1135.967,
+    "text": "of something that they've done before,"
+  },
+  {
+    "start": "00:18:56.001",
+    "end": "00:18:57.201",
+    "start_seconds": 1136.001,
+    "end_seconds": 1137.201,
+    "text": "they persisted."
+  },
+  {
+    "start": "00:18:57.234",
+    "end": "00:18:59.501",
+    "start_seconds": 1137.234,
+    "end_seconds": 1139.501,
+    "text": "One of my favorite quotes from \"How to Not Know\""
+  },
+  {
+    "start": "00:18:59.534",
+    "end": "00:19:01.534",
+    "start_seconds": 1139.534,
+    "end_seconds": 1141.534,
+    "text": "is from this psychologist named Rollo May."
+  },
+  {
+    "start": "00:19:01.567",
+    "end": "00:19:03.767",
+    "start_seconds": 1141.567,
+    "end_seconds": 1143.767,
+    "text": "And he says, \"Commitment is healthiest,"
+  },
+  {
+    "start": "00:19:03.801",
+    "end": "00:19:06.334",
+    "start_seconds": 1143.801,
+    "end_seconds": 1146.334,
+    "text": "not in the absence of doubt,"
+  },
+  {
+    "start": "00:19:06.334",
+    "end": "00:19:08.434",
+    "start_seconds": 1146.334,
+    "end_seconds": 1148.434,
+    "text": "but in spite of doubt.\""
+  },
+  {
+    "start": "00:19:08.867",
+    "end": "00:19:13.501",
+    "start_seconds": 1148.867,
+    "end_seconds": 1153.501,
+    "text": "And so if we're able to press forward, make decisions, commit to things,"
+  },
+  {
+    "start": "00:19:13.534",
+    "end": "00:19:15.567",
+    "start_seconds": 1153.534,
+    "end_seconds": 1155.567,
+    "text": "even though we're not sure,"
+  },
+  {
+    "start": "00:19:15.601",
+    "end": "00:19:19.367",
+    "start_seconds": 1155.601,
+    "end_seconds": 1159.367,
+    "text": "we can discover possibilities waiting on the other side."
+  },
+  {
+    "start": "00:19:21.334",
+    "end": "00:19:24.401",
+    "start_seconds": 1161.334,
+    "end_seconds": 1164.401,
+    "text": "MS: For those of us who have that gut-level discomfort"
+  },
+  {
+    "start": "00:19:24.434",
+    "end": "00:19:26.267",
+    "start_seconds": 1164.434,
+    "end_seconds": 1166.267,
+    "text": "with uncertainty, right,"
+  },
+  {
+    "start": "00:19:26.301",
+    "end": "00:19:28.367",
+    "start_seconds": 1166.301,
+    "end_seconds": 1168.367,
+    "text": "it sounds good to hear you say,"
+  },
+  {
+    "start": "00:19:28.367",
+    "end": "00:19:31.401",
+    "start_seconds": 1168.367,
+    "end_seconds": 1171.401,
+    "text": "oh, there's possibility on the other side of uncertainty."
+  },
+  {
+    "start": "00:19:31.767",
+    "end": "00:19:35.801",
+    "start_seconds": 1171.767,
+    "end_seconds": 1175.801,
+    "text": "But what is your advice for how to actually embrace it?"
+  },
+  {
+    "start": "00:19:35.801",
+    "end": "00:19:38.501",
+    "start_seconds": 1175.801,
+    "end_seconds": 1178.501,
+    "text": "Because I think for many of us,"
+  },
+  {
+    "start": "00:19:38.534",
+    "end": "00:19:40.601",
+    "start_seconds": 1178.534,
+    "end_seconds": 1180.601,
+    "text": "it's very challenging"
+  },
+  {
+    "start": "00:19:40.634",
+    "end": "00:19:46.267",
+    "start_seconds": 1180.634,
+    "end_seconds": 1186.267,
+    "text": "to just overcome the physical feelings of nausea that we have,"
+  },
+  {
+    "start": "00:19:46.301",
+    "end": "00:19:48.434",
+    "start_seconds": 1186.301,
+    "end_seconds": 1188.434,
+    "text": "when we are up against the unknown."
+  },
+  {
+    "start": "00:19:48.467",
+    "end": "00:19:51.834",
+    "start_seconds": 1188.467,
+    "end_seconds": 1191.834,
+    "text": "SS: And even, you know, the term \"embrace uncertainty\""
+  },
+  {
+    "start": "00:19:51.867",
+    "end": "00:19:54.901",
+    "start_seconds": 1191.867,
+    "end_seconds": 1194.901,
+    "text": "can feel sort of like gaslighting sometimes."
+  },
+  {
+    "start": "00:19:54.934",
+    "end": "00:19:56.401",
+    "start_seconds": 1194.934,
+    "end_seconds": 1196.401,
+    "text": "MS: Or like a platitude."
+  },
+  {
+    "start": "00:19:56.434",
+    "end": "00:19:57.867",
+    "start_seconds": 1196.434,
+    "end_seconds": 1197.867,
+    "text": "SS: Yeah, it's like, you know,"
+  },
+  {
+    "start": "00:19:57.867",
+    "end": "00:20:00.101",
+    "start_seconds": 1197.867,
+    "end_seconds": 1200.101,
+    "text": "I'm feeling incredibly scared and uncomfortable"
+  },
+  {
+    "start": "00:20:00.101",
+    "end": "00:20:01.867",
+    "start_seconds": 1200.101,
+    "end_seconds": 1201.867,
+    "text": "and you're telling me to embrace it?"
+  },
+  {
+    "start": "00:20:01.867",
+    "end": "00:20:04.234",
+    "start_seconds": 1201.867,
+    "end_seconds": 1204.234,
+    "text": "Like, no, screw you, I don't want to embrace that."
+  },
+  {
+    "start": "00:20:04.267",
+    "end": "00:20:07.601",
+    "start_seconds": 1204.267,
+    "end_seconds": 1207.601,
+    "text": "But I think there's something about understanding"
+  },
+  {
+    "start": "00:20:07.601",
+    "end": "00:20:11.601",
+    "start_seconds": 1207.601,
+    "end_seconds": 1211.601,
+    "text": "that uncertainty doesn't necessarily mean a threat,"
+  },
+  {
+    "start": "00:20:11.634",
+    "end": "00:20:15.834",
+    "start_seconds": 1211.634,
+    "end_seconds": 1215.834,
+    "text": "even though that's the way that our biology is wired."
+  },
+  {
+    "start": "00:20:15.867",
+    "end": "00:20:18.734",
+    "start_seconds": 1215.867,
+    "end_seconds": 1218.734,
+    "text": "Uncertainty can also be that birthplace of possibility."
+  },
+  {
+    "start": "00:20:18.767",
+    "end": "00:20:23.967",
+    "start_seconds": 1218.767,
+    "end_seconds": 1223.967,
+    "text": "So one thing I often tell people is, step one is to find your anchors."
+  },
+  {
+    "start": "00:20:23.967",
+    "end": "00:20:27.267",
+    "start_seconds": 1223.967,
+    "end_seconds": 1227.267,
+    "text": "When we are certain about some elements of our life,"
+  },
+  {
+    "start": "00:20:27.301",
+    "end": "00:20:30.967",
+    "start_seconds": 1227.301,
+    "end_seconds": 1230.967,
+    "text": "it makes it easier to hold uncertainty in others."
+  },
+  {
+    "start": "00:20:31.001",
+    "end": "00:20:34.334",
+    "start_seconds": 1231.001,
+    "end_seconds": 1234.334,
+    "text": "So Maya, for you, for example, that knowledge about your why,"
+  },
+  {
+    "start": "00:20:34.367",
+    "end": "00:20:37.401",
+    "start_seconds": 1234.367,
+    "end_seconds": 1237.401,
+    "text": "that knowledge about wanting to connect"
+  },
+  {
+    "start": "00:20:37.401",
+    "end": "00:20:40.234",
+    "start_seconds": 1237.401,
+    "end_seconds": 1240.234,
+    "text": "is something that will be steady"
+  },
+  {
+    "start": "00:20:40.267",
+    "end": "00:20:43.067",
+    "start_seconds": 1240.267,
+    "end_seconds": 1243.067,
+    "text": "amidst all of the change of your future."
+  },
+  {
+    "start": "00:20:43.401",
+    "end": "00:20:48.334",
+    "start_seconds": 1243.401,
+    "end_seconds": 1248.334,
+    "text": "Maybe that anchor for you is a commitment to live in a particular place,"
+  },
+  {
+    "start": "00:20:48.367",
+    "end": "00:20:50.301",
+    "start_seconds": 1248.367,
+    "end_seconds": 1250.301,
+    "text": "or a commitment to a spouse,"
+  },
+  {
+    "start": "00:20:50.334",
+    "end": "00:20:53.167",
+    "start_seconds": 1250.334,
+    "end_seconds": 1253.167,
+    "text": "or commitment to a set of values."
+  },
+  {
+    "start": "00:20:53.201",
+    "end": "00:20:56.401",
+    "start_seconds": 1253.201,
+    "end_seconds": 1256.401,
+    "text": "But when we can get clear on those anchors,"
+  },
+  {
+    "start": "00:20:56.434",
+    "end": "00:21:00.434",
+    "start_seconds": 1256.434,
+    "end_seconds": 1260.434,
+    "text": "it makes it easier to hold uncertainty in other realms of our life."
+  },
+  {
+    "start": "00:21:01.667",
+    "end": "00:21:03.467",
+    "start_seconds": 1261.667,
+    "end_seconds": 1263.467,
+    "text": "The other thing that I'll say"
+  },
+  {
+    "start": "00:21:03.467",
+    "end": "00:21:07.201",
+    "start_seconds": 1263.467,
+    "end_seconds": 1267.201,
+    "text": "is that you have to have some element of faith."
+  },
+  {
+    "start": "00:21:07.834",
+    "end": "00:21:11.201",
+    "start_seconds": 1267.834,
+    "end_seconds": 1271.201,
+    "text": "I don't mean this necessarily in a religious or dogmatic sense,"
+  },
+  {
+    "start": "00:21:11.234",
+    "end": "00:21:14.367",
+    "start_seconds": 1271.234,
+    "end_seconds": 1274.367,
+    "text": "but I used to work at this design firm Ideo, as I mentioned,"
+  },
+  {
+    "start": "00:21:14.401",
+    "end": "00:21:18.467",
+    "start_seconds": 1274.401,
+    "end_seconds": 1278.467,
+    "text": "and we used to have this metaphor which is facing uncertainty,"
+  },
+  {
+    "start": "00:21:18.501",
+    "end": "00:21:23.834",
+    "start_seconds": 1278.501,
+    "end_seconds": 1283.834,
+    "text": "being a leader in spite of uncertainty feels like you're on a boat"
+  },
+  {
+    "start": "00:21:23.867",
+    "end": "00:21:27.101",
+    "start_seconds": 1283.867,
+    "end_seconds": 1287.101,
+    "text": "on a lake that's shrouded in really heavy fog."
+  },
+  {
+    "start": "00:21:27.901",
+    "end": "00:21:30.834",
+    "start_seconds": 1287.901,
+    "end_seconds": 1290.834,
+    "text": "You might not be able to see very far in front of you"
+  },
+  {
+    "start": "00:21:30.867",
+    "end": "00:21:33.767",
+    "start_seconds": 1290.867,
+    "end_seconds": 1293.767,
+    "text": "or know exactly where you'll end up."
+  },
+  {
+    "start": "00:21:34.267",
+    "end": "00:21:35.467",
+    "start_seconds": 1294.267,
+    "end_seconds": 1295.467,
+    "text": "But you have two jobs."
+  },
+  {
+    "start": "00:21:35.467",
+    "end": "00:21:39.167",
+    "start_seconds": 1295.467,
+    "end_seconds": 1299.167,
+    "text": "One is to maintain faith that you'll eventually reach land."
+  },
+  {
+    "start": "00:21:39.201",
+    "end": "00:21:40.734",
+    "start_seconds": 1299.201,
+    "end_seconds": 1300.734,
+    "text": "Remember, you're on a lake."
+  },
+  {
+    "start": "00:21:41.134",
+    "end": "00:21:43.334",
+    "start_seconds": 1301.134,
+    "end_seconds": 1303.334,
+    "text": "And the second is to keep rowing."
+  },
+  {
+    "start": "00:21:44.067",
+    "end": "00:21:46.734",
+    "start_seconds": 1304.067,
+    "end_seconds": 1306.734,
+    "text": "And I think that second part is the key."
+  },
+  {
+    "start": "00:21:46.767",
+    "end": "00:21:48.934",
+    "start_seconds": 1306.767,
+    "end_seconds": 1308.934,
+    "text": "Is that through action,"
+  },
+  {
+    "start": "00:21:48.967",
+    "end": "00:21:51.267",
+    "start_seconds": 1308.967,
+    "end_seconds": 1311.267,
+    "text": "clarity can begin to emerge."
+  },
+  {
+    "start": "00:21:51.601",
+    "end": "00:21:54.234",
+    "start_seconds": 1311.601,
+    "end_seconds": 1314.234,
+    "text": "Because I think one of the most paralyzing things"
+  },
+  {
+    "start": "00:21:54.267",
+    "end": "00:21:57.001",
+    "start_seconds": 1314.267,
+    "end_seconds": 1317.001,
+    "text": "about change or transition"
+  },
+  {
+    "start": "00:21:57.001",
+    "end": "00:21:59.167",
+    "start_seconds": 1317.001,
+    "end_seconds": 1319.167,
+    "text": "or uncertainty or doubt"
+  },
+  {
+    "start": "00:21:59.201",
+    "end": "00:22:01.767",
+    "start_seconds": 1319.201,
+    "end_seconds": 1321.767,
+    "text": "is that it keeps us stuck."
+  },
+  {
+    "start": "00:22:01.801",
+    "end": "00:22:05.834",
+    "start_seconds": 1321.801,
+    "end_seconds": 1325.834,
+    "text": "It keeps us not wanting to leave the house or go outside"
+  },
+  {
+    "start": "00:22:05.867",
+    "end": "00:22:07.334",
+    "start_seconds": 1325.867,
+    "end_seconds": 1327.334,
+    "text": "or reach out to a friend."
+  },
+  {
+    "start": "00:22:07.767",
+    "end": "00:22:11.167",
+    "start_seconds": 1327.767,
+    "end_seconds": 1331.167,
+    "text": "But that action can absorb our anxiety."
+  },
+  {
+    "start": "00:22:11.567",
+    "end": "00:22:15.467",
+    "start_seconds": 1331.567,
+    "end_seconds": 1335.467,
+    "text": "I wrote a chapter about dealing with climate uncertainty,"
+  },
+  {
+    "start": "00:22:15.501",
+    "end": "00:22:20.234",
+    "start_seconds": 1335.501,
+    "end_seconds": 1340.234,
+    "text": "dealing with the sort of foreboding cloud on the horizon."
+  },
+  {
+    "start": "00:22:20.701",
+    "end": "00:22:23.301",
+    "start_seconds": 1340.701,
+    "end_seconds": 1343.301,
+    "text": "And I spoke to this psychologist"
+  },
+  {
+    "start": "00:22:23.301",
+    "end": "00:22:26.834",
+    "start_seconds": 1343.301,
+    "end_seconds": 1346.834,
+    "text": "who specializes in helping people deal with climate anxiety."
+  },
+  {
+    "start": "00:22:27.301",
+    "end": "00:22:31.467",
+    "start_seconds": 1347.301,
+    "end_seconds": 1351.467,
+    "text": "And she said the same thing that will help your anxiety"
+  },
+  {
+    "start": "00:22:31.501",
+    "end": "00:22:33.001",
+    "start_seconds": 1351.501,
+    "end_seconds": 1353.001,
+    "text": "is the thing that we need"
+  },
+  {
+    "start": "00:22:33.034",
+    "end": "00:22:35.534",
+    "start_seconds": 1353.034,
+    "end_seconds": 1355.534,
+    "text": "to make a difference in the climate crisis,"
+  },
+  {
+    "start": "00:22:35.567",
+    "end": "00:22:39.234",
+    "start_seconds": 1355.567,
+    "end_seconds": 1359.234,
+    "text": "which is to think about this tapestry of this huge problem"
+  },
+  {
+    "start": "00:22:39.267",
+    "end": "00:22:41.834",
+    "start_seconds": 1359.267,
+    "end_seconds": 1361.834,
+    "text": "and find that one string to pull."
+  },
+  {
+    "start": "00:22:42.401",
+    "end": "00:22:45.234",
+    "start_seconds": 1362.401,
+    "end_seconds": 1365.234,
+    "text": "Find that one action that you can take."
+  },
+  {
+    "start": "00:22:45.601",
+    "end": "00:22:49.634",
+    "start_seconds": 1365.601,
+    "end_seconds": 1369.634,
+    "text": "And that's where you can find a sense of agency, of autonomy"
+  },
+  {
+    "start": "00:22:49.667",
+    "end": "00:22:52.534",
+    "start_seconds": 1369.667,
+    "end_seconds": 1372.534,
+    "text": "to feel like you're moving toward a solution."
+  },
+  {
+    "start": "00:22:52.901",
+    "end": "00:22:54.901",
+    "start_seconds": 1372.901,
+    "end_seconds": 1374.901,
+    "text": "Because I think one thing that is so hard"
+  },
+  {
+    "start": "00:22:54.934",
+    "end": "00:22:57.667",
+    "start_seconds": 1374.934,
+    "end_seconds": 1377.667,
+    "text": "when people are in the midst of this change"
+  },
+  {
+    "start": "00:22:57.701",
+    "end": "00:23:00.101",
+    "start_seconds": 1377.701,
+    "end_seconds": 1380.101,
+    "text": "of knowing where to put their feet,"
+  },
+  {
+    "start": "00:23:00.134",
+    "end": "00:23:01.934",
+    "start_seconds": 1380.134,
+    "end_seconds": 1381.934,
+    "text": "where to direct their energy."
+  },
+  {
+    "start": "00:23:02.301",
+    "end": "00:23:04.167",
+    "start_seconds": 1382.301,
+    "end_seconds": 1384.167,
+    "text": "And in the words of Martin Luther King,"
+  },
+  {
+    "start": "00:23:04.201",
+    "end": "00:23:08.267",
+    "start_seconds": 1384.201,
+    "end_seconds": 1388.267,
+    "text": "you can take one step and hopefully the staircase will emerge."
+  },
+  {
+    "start": "00:23:09.167",
+    "end": "00:23:14.801",
+    "start_seconds": 1389.167,
+    "end_seconds": 1394.801,
+    "text": "MS: One of the most meaningful stories that I wrote about in the book"
+  },
+  {
+    "start": "00:23:14.834",
+    "end": "00:23:17.267",
+    "start_seconds": 1394.834,
+    "end_seconds": 1397.267,
+    "text": "concerns a guy named Reginald Dwayne Betts."
+  },
+  {
+    "start": "00:23:17.301",
+    "end": "00:23:18.667",
+    "start_seconds": 1397.301,
+    "end_seconds": 1398.667,
+    "text": "SS: I love this story."
+  },
+  {
+    "start": "00:23:19.334",
+    "end": "00:23:23.067",
+    "start_seconds": 1399.334,
+    "end_seconds": 1403.067,
+    "text": "MS: He was sentenced to nine years in adult prison"
+  },
+  {
+    "start": "00:23:23.101",
+    "end": "00:23:26.267",
+    "start_seconds": 1403.101,
+    "end_seconds": 1406.267,
+    "text": "as a 16-year-old for a carjacking he committed."
+  },
+  {
+    "start": "00:23:26.301",
+    "end": "00:23:29.601",
+    "start_seconds": 1406.301,
+    "end_seconds": 1409.601,
+    "text": "And Dwayne had been a very promising student."
+  },
+  {
+    "start": "00:23:29.601",
+    "end": "00:23:31.834",
+    "start_seconds": 1409.601,
+    "end_seconds": 1411.834,
+    "text": "He was class treasurer,"
+  },
+  {
+    "start": "00:23:31.834",
+    "end": "00:23:35.401",
+    "start_seconds": 1411.834,
+    "end_seconds": 1415.401,
+    "text": "he had his sights set on going to Georgia Tech,"
+  },
+  {
+    "start": "00:23:35.401",
+    "end": "00:23:37.867",
+    "start_seconds": 1415.401,
+    "end_seconds": 1417.867,
+    "text": "he had been ID'd as talented and gifted,"
+  },
+  {
+    "start": "00:23:37.901",
+    "end": "00:23:40.534",
+    "start_seconds": 1417.901,
+    "end_seconds": 1420.534,
+    "text": "he was a wonderfully loving and devoted son to his mom."
+  },
+  {
+    "start": "00:23:40.567",
+    "end": "00:23:42.301",
+    "start_seconds": 1420.567,
+    "end_seconds": 1422.301,
+    "text": "He had so much promise."
+  },
+  {
+    "start": "00:23:42.701",
+    "end": "00:23:46.567",
+    "start_seconds": 1422.701,
+    "end_seconds": 1426.567,
+    "text": "And in a moment, in an effort to try to prove his machismo"
+  },
+  {
+    "start": "00:23:46.601",
+    "end": "00:23:49.267",
+    "start_seconds": 1426.601,
+    "end_seconds": 1429.267,
+    "text": "to the boys in his neighborhood, to prove his toughness,"
+  },
+  {
+    "start": "00:23:49.267",
+    "end": "00:23:51.134",
+    "start_seconds": 1429.267,
+    "end_seconds": 1431.134,
+    "text": "he did this terrible thing"
+  },
+  {
+    "start": "00:23:51.167",
+    "end": "00:23:55.334",
+    "start_seconds": 1431.167,
+    "end_seconds": 1435.334,
+    "text": "and then got this incredibly long prison sentence as a result."
+  },
+  {
+    "start": "00:23:55.701",
+    "end": "00:23:59.967",
+    "start_seconds": 1435.701,
+    "end_seconds": 1439.967,
+    "text": "And what was so fascinating for me,"
+  },
+  {
+    "start": "00:23:59.967",
+    "end": "00:24:01.834",
+    "start_seconds": 1439.967,
+    "end_seconds": 1441.834,
+    "text": "in writing \"The other Side of Change,\""
+  },
+  {
+    "start": "00:24:01.834",
+    "end": "00:24:04.601",
+    "start_seconds": 1441.834,
+    "end_seconds": 1444.601,
+    "text": "was to probe people's interior lives"
+  },
+  {
+    "start": "00:24:04.601",
+    "end": "00:24:07.001",
+    "start_seconds": 1444.601,
+    "end_seconds": 1447.001,
+    "text": "and figure out what it was about the change"
+  },
+  {
+    "start": "00:24:07.034",
+    "end": "00:24:09.067",
+    "start_seconds": 1447.034,
+    "end_seconds": 1449.067,
+    "text": "that was scariest for them."
+  },
+  {
+    "start": "00:24:09.101",
+    "end": "00:24:12.967",
+    "start_seconds": 1449.101,
+    "end_seconds": 1452.967,
+    "text": "And what was so interesting is Dwayne told me,"
+  },
+  {
+    "start": "00:24:13.001",
+    "end": "00:24:17.301",
+    "start_seconds": 1453.001,
+    "end_seconds": 1457.301,
+    "text": "\"You know, I certainly was grieving the life that I could no longer live"
+  },
+  {
+    "start": "00:24:17.334",
+    "end": "00:24:19.067",
+    "start_seconds": 1457.334,
+    "end_seconds": 1459.067,
+    "text": "as a result of this prison sentence,"
+  },
+  {
+    "start": "00:24:19.101",
+    "end": "00:24:21.701",
+    "start_seconds": 1459.101,
+    "end_seconds": 1461.701,
+    "text": "like going to prom and graduating with my friends"
+  },
+  {
+    "start": "00:24:21.701",
+    "end": "00:24:23.934",
+    "start_seconds": 1461.701,
+    "end_seconds": 1463.934,
+    "text": "and studying at college,"
+  },
+  {
+    "start": "00:24:23.967",
+    "end": "00:24:25.601",
+    "start_seconds": 1463.967,
+    "end_seconds": 1465.601,
+    "text": "studying engineering."
+  },
+  {
+    "start": "00:24:25.634",
+    "end": "00:24:29.634",
+    "start_seconds": 1465.634,
+    "end_seconds": 1469.634,
+    "text": "But I was actually as afraid,"
+  },
+  {
+    "start": "00:24:29.634",
+    "end": "00:24:33.667",
+    "start_seconds": 1469.634,
+    "end_seconds": 1473.667,
+    "text": "I was so concerned about who I might become"
+  },
+  {
+    "start": "00:24:33.667",
+    "end": "00:24:35.567",
+    "start_seconds": 1473.667,
+    "end_seconds": 1475.567,
+    "text": "now that I was behind bars.\""
+  },
+  {
+    "start": "00:24:36.401",
+    "end": "00:24:38.001",
+    "start_seconds": 1476.401,
+    "end_seconds": 1478.001,
+    "text": "That cut through me like a knife,"
+  },
+  {
+    "start": "00:24:38.034",
+    "end": "00:24:39.667",
+    "start_seconds": 1478.034,
+    "end_seconds": 1479.667,
+    "text": "I was like, wow."
+  },
+  {
+    "start": "00:24:40.467",
+    "end": "00:24:44.201",
+    "start_seconds": 1480.467,
+    "end_seconds": 1484.201,
+    "text": "It actually speaks to a concept in psychology called possible selves."
+  },
+  {
+    "start": "00:24:44.234",
+    "end": "00:24:47.667",
+    "start_seconds": 1484.234,
+    "end_seconds": 1487.667,
+    "text": "So we have all these possible selves that we construct each and every day"
+  },
+  {
+    "start": "00:24:47.701",
+    "end": "00:24:49.034",
+    "start_seconds": 1487.701,
+    "end_seconds": 1489.034,
+    "text": "just by virtue of living."
+  },
+  {
+    "start": "00:24:49.367",
+    "end": "00:24:50.801",
+    "start_seconds": 1489.367,
+    "end_seconds": 1490.801,
+    "text": "So we have expected selves"
+  },
+  {
+    "start": "00:24:50.834",
+    "end": "00:24:52.201",
+    "start_seconds": 1490.834,
+    "end_seconds": 1492.201,
+    "text": "which are the versions of us"
+  },
+  {
+    "start": "00:24:52.201",
+    "end": "00:24:54.934",
+    "start_seconds": 1492.201,
+    "end_seconds": 1494.934,
+    "text": "that we just think are most likely to happen, good or bad."
+  },
+  {
+    "start": "00:24:54.967",
+    "end": "00:24:58.434",
+    "start_seconds": 1494.967,
+    "end_seconds": 1498.434,
+    "text": "We have hoped-for selves which reflect our dreams and aspirations,"
+  },
+  {
+    "start": "00:24:58.434",
+    "end": "00:25:02.601",
+    "start_seconds": 1498.434,
+    "end_seconds": 1502.601,
+    "text": "and then we have feared selves, which reflect our anxieties and worries"
+  },
+  {
+    "start": "00:25:02.634",
+    "end": "00:25:03.901",
+    "start_seconds": 1502.634,
+    "end_seconds": 1503.901,
+    "text": "about who we might become."
+  },
+  {
+    "start": "00:25:03.934",
+    "end": "00:25:07.501",
+    "start_seconds": 1503.934,
+    "end_seconds": 1507.501,
+    "text": "And Dwayne felt possessed by that latter bucket, right?"
+  },
+  {
+    "start": "00:25:07.501",
+    "end": "00:25:11.101",
+    "start_seconds": 1507.501,
+    "end_seconds": 1511.101,
+    "text": "He was now feeling like all these positive selves --"
+  },
+  {
+    "start": "00:25:11.101",
+    "end": "00:25:12.967",
+    "start_seconds": 1511.101,
+    "end_seconds": 1512.967,
+    "text": "those doors were slammed shut,"
+  },
+  {
+    "start": "00:25:12.967",
+    "end": "00:25:17.901",
+    "start_seconds": 1512.967,
+    "end_seconds": 1517.901,
+    "text": "and now all these doors were ajar open that he didn't want to see open, right?"
+  },
+  {
+    "start": "00:25:17.934",
+    "end": "00:25:21.601",
+    "start_seconds": 1517.934,
+    "end_seconds": 1521.601,
+    "text": "Like, will I develop a gambling habit while I'm in prison?"
+  },
+  {
+    "start": "00:25:21.634",
+    "end": "00:25:25.301",
+    "start_seconds": 1521.634,
+    "end_seconds": 1525.301,
+    "text": "Will I have to become violent in order to protect myself?"
+  },
+  {
+    "start": "00:25:25.834",
+    "end": "00:25:27.467",
+    "start_seconds": 1525.834,
+    "end_seconds": 1527.467,
+    "text": "Will I get addicted to cigarettes?"
+  },
+  {
+    "start": "00:25:27.501",
+    "end": "00:25:30.234",
+    "start_seconds": 1527.501,
+    "end_seconds": 1530.234,
+    "text": "Like, he had all these concerns about who he might become."
+  },
+  {
+    "start": "00:25:31.734",
+    "end": "00:25:37.134",
+    "start_seconds": 1531.734,
+    "end_seconds": 1537.134,
+    "text": "The mechanism that helped unlock this brighter future for him"
+  },
+  {
+    "start": "00:25:37.167",
+    "end": "00:25:39.501",
+    "start_seconds": 1537.167,
+    "end_seconds": 1539.501,
+    "text": "is called moral elevation."
+  },
+  {
+    "start": "00:25:40.467",
+    "end": "00:25:43.934",
+    "start_seconds": 1540.467,
+    "end_seconds": 1543.934,
+    "text": "Moral elevation is this warm, fuzzy feeling"
+  },
+  {
+    "start": "00:25:43.967",
+    "end": "00:25:45.234",
+    "start_seconds": 1543.967,
+    "end_seconds": 1545.234,
+    "text": "that we get in our chest"
+  },
+  {
+    "start": "00:25:45.234",
+    "end": "00:25:47.801",
+    "start_seconds": 1545.234,
+    "end_seconds": 1547.801,
+    "text": "when we witness someone else's extraordinary behavior."
+  },
+  {
+    "start": "00:25:47.801",
+    "end": "00:25:51.367",
+    "start_seconds": 1547.801,
+    "end_seconds": 1551.367,
+    "text": "So that could be their kindness or courage or self-sacrifice."
+  },
+  {
+    "start": "00:25:52.267",
+    "end": "00:25:54.534",
+    "start_seconds": 1552.267,
+    "end_seconds": 1554.534,
+    "text": "Whatever the extraordinary trait,"
+  },
+  {
+    "start": "00:25:54.567",
+    "end": "00:25:57.567",
+    "start_seconds": 1554.567,
+    "end_seconds": 1557.567,
+    "text": "interestingly, moral elevation doesn't simply feel good."
+  },
+  {
+    "start": "00:25:57.567",
+    "end": "00:26:00.167",
+    "start_seconds": 1557.567,
+    "end_seconds": 1560.167,
+    "text": "It doesn't just restore our faith in humanity."
+  },
+  {
+    "start": "00:26:00.201",
+    "end": "00:26:02.334",
+    "start_seconds": 1560.201,
+    "end_seconds": 1562.334,
+    "text": "It actually rewires our brains."
+  },
+  {
+    "start": "00:26:02.367",
+    "end": "00:26:04.967",
+    "start_seconds": 1562.367,
+    "end_seconds": 1564.967,
+    "text": "And that's because when we witness someone else"
+  },
+  {
+    "start": "00:26:05.001",
+    "end": "00:26:09.634",
+    "start_seconds": 1565.001,
+    "end_seconds": 1569.634,
+    "text": "engage in behaviors that violate our understanding of what humans are like,"
+  },
+  {
+    "start": "00:26:09.667",
+    "end": "00:26:13.367",
+    "start_seconds": 1569.667,
+    "end_seconds": 1573.367,
+    "text": "what humans are capable of in the best way possible,"
+  },
+  {
+    "start": "00:26:13.367",
+    "end": "00:26:16.267",
+    "start_seconds": 1573.367,
+    "end_seconds": 1576.267,
+    "text": "it actually cracks open our own imagination"
+  },
+  {
+    "start": "00:26:16.301",
+    "end": "00:26:18.234",
+    "start_seconds": 1576.301,
+    "end_seconds": 1578.234,
+    "text": "about what we are capable of."
+  },
+  {
+    "start": "00:26:19.001",
+    "end": "00:26:20.634",
+    "start_seconds": 1579.001,
+    "end_seconds": 1580.634,
+    "text": "And for Dwayne,"
+  },
+  {
+    "start": "00:26:20.667",
+    "end": "00:26:23.301",
+    "start_seconds": 1580.667,
+    "end_seconds": 1583.301,
+    "text": "this manifested in the form of --"
+  },
+  {
+    "start": "00:26:23.334",
+    "end": "00:26:24.901",
+    "start_seconds": 1583.334,
+    "end_seconds": 1584.901,
+    "text": "this moral elevation manifested"
+  },
+  {
+    "start": "00:26:24.901",
+    "end": "00:26:28.767",
+    "start_seconds": 1584.901,
+    "end_seconds": 1588.767,
+    "text": "in the form of a fellow prisoner named Bilal,"
+  },
+  {
+    "start": "00:26:28.767",
+    "end": "00:26:31.634",
+    "start_seconds": 1588.767,
+    "end_seconds": 1591.634,
+    "text": "who he came across about one year into his prison sentence."
+  },
+  {
+    "start": "00:26:31.667",
+    "end": "00:26:33.234",
+    "start_seconds": 1591.667,
+    "end_seconds": 1593.234,
+    "text": "And for Dwayne,"
+  },
+  {
+    "start": "00:26:33.267",
+    "end": "00:26:36.667",
+    "start_seconds": 1593.267,
+    "end_seconds": 1596.667,
+    "text": "Bilal violated all of the stereotypes Dwayne had in his head"
+  },
+  {
+    "start": "00:26:36.701",
+    "end": "00:26:39.567",
+    "start_seconds": 1596.701,
+    "end_seconds": 1599.567,
+    "text": "of what it meant to carry the label of prisoner."
+  },
+  {
+    "start": "00:26:40.134",
+    "end": "00:26:43.034",
+    "start_seconds": 1600.134,
+    "end_seconds": 1603.034,
+    "text": "So in Dwayne's mind, you had to be ruthlessly self-interested,"
+  },
+  {
+    "start": "00:26:43.067",
+    "end": "00:26:45.267",
+    "start_seconds": 1603.067,
+    "end_seconds": 1605.267,
+    "text": "you have to keep your cards close to the chest,"
+  },
+  {
+    "start": "00:26:45.301",
+    "end": "00:26:48.201",
+    "start_seconds": 1605.301,
+    "end_seconds": 1608.201,
+    "text": "you should never build friendships or get close to anyone else"
+  },
+  {
+    "start": "00:26:48.234",
+    "end": "00:26:51.901",
+    "start_seconds": 1608.234,
+    "end_seconds": 1611.901,
+    "text": "or it could be jeopardizing to your health and well-being and overall safety."
+  },
+  {
+    "start": "00:26:51.934",
+    "end": "00:26:56.701",
+    "start_seconds": 1611.934,
+    "end_seconds": 1616.701,
+    "text": "But Bilal was the kind of guy who made it a point to stand out."
+  },
+  {
+    "start": "00:26:56.734",
+    "end": "00:27:00.167",
+    "start_seconds": 1616.734,
+    "end_seconds": 1620.167,
+    "text": "His prison uniform was crisply ironed every day,"
+  },
+  {
+    "start": "00:27:00.201",
+    "end": "00:27:01.967",
+    "start_seconds": 1620.201,
+    "end_seconds": 1621.967,
+    "text": "and he was clean shaven,"
+  },
+  {
+    "start": "00:27:02.001",
+    "end": "00:27:06.167",
+    "start_seconds": 1622.001,
+    "end_seconds": 1626.167,
+    "text": "and he would get up two hours before count time to do 250 push-ups."
+  },
+  {
+    "start": "00:27:06.201",
+    "end": "00:27:08.801",
+    "start_seconds": 1626.201,
+    "end_seconds": 1628.801,
+    "text": "And he spent his free time"
+  },
+  {
+    "start": "00:27:08.834",
+    "end": "00:27:10.801",
+    "start_seconds": 1628.834,
+    "end_seconds": 1630.801,
+    "text": "coaching the younger men on how to box"
+  },
+  {
+    "start": "00:27:10.801",
+    "end": "00:27:14.601",
+    "start_seconds": 1630.801,
+    "end_seconds": 1634.601,
+    "text": "so that they could protect themselves from the threat of violence within prison."
+  },
+  {
+    "start": "00:27:14.634",
+    "end": "00:27:17.067",
+    "start_seconds": 1634.634,
+    "end_seconds": 1637.067,
+    "text": "And so Dwayne would see him teaching these young men"
+  },
+  {
+    "start": "00:27:17.101",
+    "end": "00:27:18.901",
+    "start_seconds": 1637.101,
+    "end_seconds": 1638.901,
+    "text": "how to box in the prison yard."
+  },
+  {
+    "start": "00:27:18.934",
+    "end": "00:27:23.967",
+    "start_seconds": 1638.934,
+    "end_seconds": 1643.967,
+    "text": "And Dwayne says that Bilal was kind of taking this stance,"
+  },
+  {
+    "start": "00:27:24.001",
+    "end": "00:27:28.267",
+    "start_seconds": 1644.001,
+    "end_seconds": 1648.267,
+    "text": "like, \"No, this is who I'm choosing to be as a prisoner.\""
+  },
+  {
+    "start": "00:27:28.801",
+    "end": "00:27:31.834",
+    "start_seconds": 1648.801,
+    "end_seconds": 1651.834,
+    "text": "And it was a radical experience for Dwayne"
+  },
+  {
+    "start": "00:27:31.867",
+    "end": "00:27:34.001",
+    "start_seconds": 1651.867,
+    "end_seconds": 1654.001,
+    "text": "because he, for the first time, realized"
+  },
+  {
+    "start": "00:27:34.034",
+    "end": "00:27:37.367",
+    "start_seconds": 1654.034,
+    "end_seconds": 1657.367,
+    "text": "that perhaps he wasn't destined"
+  },
+  {
+    "start": "00:27:37.367",
+    "end": "00:27:38.967",
+    "start_seconds": 1657.367,
+    "end_seconds": 1658.967,
+    "text": "to become a certain person,"
+  },
+  {
+    "start": "00:27:39.001",
+    "end": "00:27:42.334",
+    "start_seconds": 1659.001,
+    "end_seconds": 1662.334,
+    "text": "to have a certain future just because he was a prisoner."
+  },
+  {
+    "start": "00:27:42.701",
+    "end": "00:27:45.201",
+    "start_seconds": 1662.701,
+    "end_seconds": 1665.201,
+    "text": "And it was with that more empowered mindset"
+  },
+  {
+    "start": "00:27:45.234",
+    "end": "00:27:47.567",
+    "start_seconds": 1665.234,
+    "end_seconds": 1667.567,
+    "text": "that when he stumbled upon a book of poetry"
+  },
+  {
+    "start": "00:27:47.601",
+    "end": "00:27:50.567",
+    "start_seconds": 1667.601,
+    "end_seconds": 1670.567,
+    "text": "while in solitary confinement a few weeks later,"
+  },
+  {
+    "start": "00:27:50.601",
+    "end": "00:27:54.467",
+    "start_seconds": 1670.601,
+    "end_seconds": 1674.467,
+    "text": "and read a poem about a young Black man"
+  },
+  {
+    "start": "00:27:54.501",
+    "end": "00:27:56.701",
+    "start_seconds": 1674.501,
+    "end_seconds": 1676.701,
+    "text": "who had experienced sexual violence in prison,"
+  },
+  {
+    "start": "00:27:56.701",
+    "end": "00:28:00.601",
+    "start_seconds": 1676.701,
+    "end_seconds": 1680.601,
+    "text": "a 14 or 15-year-old, in this poem, he realized,"
+  },
+  {
+    "start": "00:28:00.601",
+    "end": "00:28:04.534",
+    "start_seconds": 1680.601,
+    "end_seconds": 1684.534,
+    "text": "\"Well, you know, I can't do for the young men here"
+  },
+  {
+    "start": "00:28:04.567",
+    "end": "00:28:05.734",
+    "start_seconds": 1684.567,
+    "end_seconds": 1685.734,
+    "text": "what Bilal's doing,"
+  },
+  {
+    "start": "00:28:05.767",
+    "end": "00:28:08.267",
+    "start_seconds": 1685.767,
+    "end_seconds": 1688.267,
+    "text": "I'm not strong, I don't know how to box."
+  },
+  {
+    "start": "00:28:08.667",
+    "end": "00:28:12.234",
+    "start_seconds": 1688.667,
+    "end_seconds": 1692.234,
+    "text": "But what I can do is dignify their experiences"
+  },
+  {
+    "start": "00:28:12.267",
+    "end": "00:28:13.834",
+    "start_seconds": 1692.267,
+    "end_seconds": 1693.834,
+    "text": "through the written word.\""
+  },
+  {
+    "start": "00:28:13.867",
+    "end": "00:28:16.634",
+    "start_seconds": 1693.867,
+    "end_seconds": 1696.634,
+    "text": "Like, \"I know how to write, I can do this.\""
+  },
+  {
+    "start": "00:28:16.667",
+    "end": "00:28:20.101",
+    "start_seconds": 1696.667,
+    "end_seconds": 1700.101,
+    "text": "And he started to obsessively write poems, Simone."
+  },
+  {
+    "start": "00:28:20.134",
+    "end": "00:28:21.634",
+    "start_seconds": 1700.134,
+    "end_seconds": 1701.634,
+    "text": "Like, day after day after day."
+  },
+  {
+    "start": "00:28:21.667",
+    "end": "00:28:23.734",
+    "start_seconds": 1701.667,
+    "end_seconds": 1703.734,
+    "text": "And when he would write a sufficient number,"
+  },
+  {
+    "start": "00:28:23.767",
+    "end": "00:28:27.967",
+    "start_seconds": 1703.767,
+    "end_seconds": 1707.967,
+    "text": "he would bind them together using thread from his pillowcase"
+  },
+  {
+    "start": "00:28:28.001",
+    "end": "00:28:30.301",
+    "start_seconds": 1708.001,
+    "end_seconds": 1710.301,
+    "text": "and you create a little book, you know."
+  },
+  {
+    "start": "00:28:30.334",
+    "end": "00:28:34.601",
+    "start_seconds": 1710.334,
+    "end_seconds": 1714.601,
+    "text": "And I'll save the details for anyone who reads \"The Other Side of Change,\""
+  },
+  {
+    "start": "00:28:34.634",
+    "end": "00:28:37.734",
+    "start_seconds": 1714.634,
+    "end_seconds": 1717.734,
+    "text": "because Dwayne will always say his story better than I will."
+  },
+  {
+    "start": "00:28:38.267",
+    "end": "00:28:42.534",
+    "start_seconds": 1718.267,
+    "end_seconds": 1722.534,
+    "text": "But fast forward and today, Dwayne is a Yale Law School graduate,"
+  },
+  {
+    "start": "00:28:42.534",
+    "end": "00:28:44.567",
+    "start_seconds": 1722.534,
+    "end_seconds": 1724.567,
+    "text": "he's a MacArthur Genius prize winner."
+  },
+  {
+    "start": "00:28:44.601",
+    "end": "00:28:47.734",
+    "start_seconds": 1724.601,
+    "end_seconds": 1727.734,
+    "text": "He writes some of the most stirring poetry I've ever heard"
+  },
+  {
+    "start": "00:28:47.767",
+    "end": "00:28:49.867",
+    "start_seconds": 1727.767,
+    "end_seconds": 1729.867,
+    "text": "on the topic of race and prison."
+  },
+  {
+    "start": "00:28:49.901",
+    "end": "00:28:54.401",
+    "start_seconds": 1729.901,
+    "end_seconds": 1734.401,
+    "text": "And what's so beautiful to me about his story is that, you know,"
+  },
+  {
+    "start": "00:28:54.434",
+    "end": "00:28:58.167",
+    "start_seconds": 1734.434,
+    "end_seconds": 1738.167,
+    "text": "you talked earlier about how uncertainty can be so constraining."
+  },
+  {
+    "start": "00:28:58.467",
+    "end": "00:29:02.601",
+    "start_seconds": 1738.467,
+    "end_seconds": 1742.601,
+    "text": "And that's the same for unexpected negative changes, right?"
+  },
+  {
+    "start": "00:29:02.634",
+    "end": "00:29:07.034",
+    "start_seconds": 1742.634,
+    "end_seconds": 1747.034,
+    "text": "We impose our own mental filter onto that situation and we think,"
+  },
+  {
+    "start": "00:29:07.067",
+    "end": "00:29:09.734",
+    "start_seconds": 1747.067,
+    "end_seconds": 1749.734,
+    "text": "well, I have some expectations,"
+  },
+  {
+    "start": "00:29:09.767",
+    "end": "00:29:14.201",
+    "start_seconds": 1749.767,
+    "end_seconds": 1754.201,
+    "text": "some presumptions about what it means to be a prisoner or a widow"
+  },
+  {
+    "start": "00:29:14.234",
+    "end": "00:29:17.601",
+    "start_seconds": 1754.234,
+    "end_seconds": 1757.601,
+    "text": "or someone who's unemployed or someone who's chronically ill."
+  },
+  {
+    "start": "00:29:17.634",
+    "end": "00:29:20.267",
+    "start_seconds": 1757.634,
+    "end_seconds": 1760.267,
+    "text": "And we have a very limited imagination"
+  },
+  {
+    "start": "00:29:20.301",
+    "end": "00:29:22.334",
+    "start_seconds": 1760.301,
+    "end_seconds": 1762.334,
+    "text": "as a result about what that can look like."
+  },
+  {
+    "start": "00:29:22.367",
+    "end": "00:29:28.334",
+    "start_seconds": 1762.367,
+    "end_seconds": 1768.334,
+    "text": "And I love the idea that moral elevation is actually available to all of us."
+  },
+  {
+    "start": "00:29:28.367",
+    "end": "00:29:30.901",
+    "start_seconds": 1768.367,
+    "end_seconds": 1770.901,
+    "text": "It's a form of awe in our everyday life."
+  },
+  {
+    "start": "00:29:30.901",
+    "end": "00:29:35.167",
+    "start_seconds": 1770.901,
+    "end_seconds": 1775.167,
+    "text": "As long as we're willing to be present and to receive that inspiration."
+  },
+  {
+    "start": "00:29:36.034",
+    "end": "00:29:40.634",
+    "start_seconds": 1776.034,
+    "end_seconds": 1780.634,
+    "text": "And when we feel that doors are closing,"
+  },
+  {
+    "start": "00:29:40.667",
+    "end": "00:29:44.201",
+    "start_seconds": 1780.667,
+    "end_seconds": 1784.201,
+    "text": "taking a walk and putting our phone away and just observing how people are."
+  },
+  {
+    "start": "00:29:44.901",
+    "end": "00:29:46.167",
+    "start_seconds": 1784.901,
+    "end_seconds": 1786.167,
+    "text": "Oh, wow, that was so nice."
+  },
+  {
+    "start": "00:29:46.167",
+    "end": "00:29:48.734",
+    "start_seconds": 1786.167,
+    "end_seconds": 1788.734,
+    "text": "The way that person was so kind to that elderly woman."
+  },
+  {
+    "start": "00:29:48.767",
+    "end": "00:29:51.667",
+    "start_seconds": 1788.767,
+    "end_seconds": 1791.667,
+    "text": "Or you're witnessing, say, your kids on the playground."
+  },
+  {
+    "start": "00:29:51.701",
+    "end": "00:29:54.801",
+    "start_seconds": 1791.701,
+    "end_seconds": 1794.801,
+    "text": "Oh my God, look at the way that little kid stood up to the bully."
+  },
+  {
+    "start": "00:29:54.834",
+    "end": "00:29:56.934",
+    "start_seconds": 1794.834,
+    "end_seconds": 1796.934,
+    "text": "Like that's another form of moral elevation."
+  },
+  {
+    "start": "00:29:56.967",
+    "end": "00:29:58.834",
+    "start_seconds": 1796.967,
+    "end_seconds": 1798.834,
+    "text": "It's everywhere we look."
+  },
+  {
+    "start": "00:29:59.301",
+    "end": "00:30:01.367",
+    "start_seconds": 1799.301,
+    "end_seconds": 1801.367,
+    "text": "It's so beautiful and empowering"
+  },
+  {
+    "start": "00:30:01.401",
+    "end": "00:30:04.701",
+    "start_seconds": 1801.401,
+    "end_seconds": 1804.701,
+    "text": "because we know of its ability to rewire the brain."
+  },
+  {
+    "start": "00:30:04.734",
+    "end": "00:30:07.101",
+    "start_seconds": 1804.734,
+    "end_seconds": 1807.101,
+    "text": "But I was thinking, based on the comment you made"
+  },
+  {
+    "start": "00:30:07.134",
+    "end": "00:30:09.201",
+    "start_seconds": 1807.134,
+    "end_seconds": 1809.201,
+    "text": "and the MLK quote,"
+  },
+  {
+    "start": "00:30:09.201",
+    "end": "00:30:11.401",
+    "start_seconds": 1809.201,
+    "end_seconds": 1811.401,
+    "text": "that it's actually just as important"
+  },
+  {
+    "start": "00:30:11.434",
+    "end": "00:30:16.634",
+    "start_seconds": 1811.434,
+    "end_seconds": 1816.634,
+    "text": "that we be a moment of moral elevation for someone else,"
+  },
+  {
+    "start": "00:30:16.634",
+    "end": "00:30:20.334",
+    "start_seconds": 1816.634,
+    "end_seconds": 1820.334,
+    "text": "that we be the moral beauty that can inspire other people."
+  },
+  {
+    "start": "00:30:20.367",
+    "end": "00:30:22.034",
+    "start_seconds": 1820.367,
+    "end_seconds": 1822.034,
+    "text": "And I think that can be, you know,"
+  },
+  {
+    "start": "00:30:22.067",
+    "end": "00:30:24.801",
+    "start_seconds": 1822.067,
+    "end_seconds": 1824.801,
+    "text": "so many of us are feeling helpless in this moment in time."
+  },
+  {
+    "start": "00:30:24.834",
+    "end": "00:30:27.101",
+    "start_seconds": 1824.834,
+    "end_seconds": 1827.101,
+    "text": "Like, can I change the world at all?"
+  },
+  {
+    "start": "00:30:27.134",
+    "end": "00:30:28.401",
+    "start_seconds": 1827.134,
+    "end_seconds": 1828.401,
+    "text": "Do I matter at all?"
+  },
+  {
+    "start": "00:30:28.434",
+    "end": "00:30:30.301",
+    "start_seconds": 1828.434,
+    "end_seconds": 1830.301,
+    "text": "Is there anything I can do"
+  },
+  {
+    "start": "00:30:30.334",
+    "end": "00:30:33.467",
+    "start_seconds": 1830.334,
+    "end_seconds": 1833.467,
+    "text": "in this moment of total disconnection and seeming chaos?"
+  },
+  {
+    "start": "00:30:33.867",
+    "end": "00:30:37.301",
+    "start_seconds": 1833.867,
+    "end_seconds": 1837.301,
+    "text": "And by being our best selves actually,"
+  },
+  {
+    "start": "00:30:37.301",
+    "end": "00:30:41.834",
+    "start_seconds": 1837.301,
+    "end_seconds": 1841.834,
+    "text": "we can have these beautiful effects on other human beings"
+  },
+  {
+    "start": "00:30:41.834",
+    "end": "00:30:44.934",
+    "start_seconds": 1841.834,
+    "end_seconds": 1844.934,
+    "text": "in ways that we might never even perceive, but they're happening."
+  },
+  {
+    "start": "00:30:44.967",
+    "end": "00:30:46.201",
+    "start_seconds": 1844.967,
+    "end_seconds": 1846.201,
+    "text": "SS: Yeah, I love that."
+  },
+  {
+    "start": "00:30:46.201",
+    "end": "00:30:49.067",
+    "start_seconds": 1846.201,
+    "end_seconds": 1849.067,
+    "text": "And I think we can also think about moral elevation"
+  },
+  {
+    "start": "00:30:49.101",
+    "end": "00:30:51.534",
+    "start_seconds": 1849.101,
+    "end_seconds": 1851.534,
+    "text": "in the context of our past lives as well,"
+  },
+  {
+    "start": "00:30:51.567",
+    "end": "00:30:55.334",
+    "start_seconds": 1851.567,
+    "end_seconds": 1855.334,
+    "text": "and thinking about moments in our past where we have stood up,"
+  },
+  {
+    "start": "00:30:55.367",
+    "end": "00:30:57.434",
+    "start_seconds": 1855.367,
+    "end_seconds": 1857.434,
+    "text": "where we have been that aspirational self"
+  },
+  {
+    "start": "00:30:57.467",
+    "end": "00:30:59.667",
+    "start_seconds": 1857.467,
+    "end_seconds": 1859.667,
+    "text": "that we wanted to be in the future as well."
+  },
+  {
+    "start": "00:30:59.701",
+    "end": "00:31:01.834",
+    "start_seconds": 1859.701,
+    "end_seconds": 1861.834,
+    "text": "I think it's one of the best things we can do"
+  },
+  {
+    "start": "00:31:01.834",
+    "end": "00:31:03.734",
+    "start_seconds": 1861.834,
+    "end_seconds": 1863.734,
+    "text": "to build our tolerance for uncertainty,"
+  },
+  {
+    "start": "00:31:03.767",
+    "end": "00:31:04.934",
+    "start_seconds": 1863.767,
+    "end_seconds": 1864.934,
+    "text": "is to remind ourselves"
+  },
+  {
+    "start": "00:31:04.967",
+    "end": "00:31:08.801",
+    "start_seconds": 1864.967,
+    "end_seconds": 1868.801,
+    "text": "that we have likely been through uncertain moments before."
+  },
+  {
+    "start": "00:31:08.834",
+    "end": "00:31:12.134",
+    "start_seconds": 1868.834,
+    "end_seconds": 1872.134,
+    "text": "We have navigated change and transition,"
+  },
+  {
+    "start": "00:31:12.167",
+    "end": "00:31:16.567",
+    "start_seconds": 1872.167,
+    "end_seconds": 1876.567,
+    "text": "and moments where we think we don't know exactly what the future will hold."
+  },
+  {
+    "start": "00:31:16.601",
+    "end": "00:31:19.534",
+    "start_seconds": 1876.601,
+    "end_seconds": 1879.534,
+    "text": "And maybe that can help build the case, the conviction,"
+  },
+  {
+    "start": "00:31:19.567",
+    "end": "00:31:22.234",
+    "start_seconds": 1879.567,
+    "end_seconds": 1882.234,
+    "text": "the evidence that we can continue to do so again."
+  },
+  {
+    "start": "00:31:22.801",
+    "end": "00:31:25.567",
+    "start_seconds": 1882.801,
+    "end_seconds": 1885.567,
+    "text": "So maybe let's transition into some questions from members."
+  },
+  {
+    "start": "00:31:25.601",
+    "end": "00:31:27.701",
+    "start_seconds": 1885.601,
+    "end_seconds": 1887.701,
+    "text": "There's so many good ones here."
+  },
+  {
+    "start": "00:31:27.701",
+    "end": "00:31:29.967",
+    "start_seconds": 1887.701,
+    "end_seconds": 1889.967,
+    "text": "Do you want to ask this first one from Michelle?"
+  },
+  {
+    "start": "00:31:30.001",
+    "end": "00:31:31.867",
+    "start_seconds": 1890.001,
+    "end_seconds": 1891.867,
+    "text": "MS: Yes, I'll ask this one for you."
+  },
+  {
+    "start": "00:31:32.167",
+    "end": "00:31:33.701",
+    "start_seconds": 1892.167,
+    "end_seconds": 1893.701,
+    "text": "From Michelle M,"
+  },
+  {
+    "start": "00:31:33.734",
+    "end": "00:31:35.834",
+    "start_seconds": 1893.734,
+    "end_seconds": 1895.834,
+    "text": "\"In a world that demands answers,"
+  },
+  {
+    "start": "00:31:35.867",
+    "end": "00:31:38.067",
+    "start_seconds": 1895.867,
+    "end_seconds": 1898.067,
+    "text": "what's the one question we can ask ourselves"
+  },
+  {
+    "start": "00:31:38.101",
+    "end": "00:31:40.601",
+    "start_seconds": 1898.101,
+    "end_seconds": 1900.601,
+    "text": "in the exact moment we don't know,"
+  },
+  {
+    "start": "00:31:40.634",
+    "end": "00:31:43.734",
+    "start_seconds": 1900.634,
+    "end_seconds": 1903.734,
+    "text": "when uncertainty feels physically uncomfortable"
+  },
+  {
+    "start": "00:31:43.734",
+    "end": "00:31:48.434",
+    "start_seconds": 1903.734,
+    "end_seconds": 1908.434,
+    "text": "that reliably turns that discomfort into curiosity and a clear next step?\""
+  },
+  {
+    "start": "00:31:48.867",
+    "end": "00:31:50.034",
+    "start_seconds": 1908.867,
+    "end_seconds": 1910.034,
+    "text": "Oh, I love this so much."
+  },
+  {
+    "start": "00:31:50.067",
+    "end": "00:31:51.434",
+    "start_seconds": 1910.067,
+    "end_seconds": 1911.434,
+    "text": "SS: Yeah, deep question."
+  },
+  {
+    "start": "00:31:51.967",
+    "end": "00:31:54.401",
+    "start_seconds": 1911.967,
+    "end_seconds": 1914.401,
+    "text": "A brief aside before I answer it more directly,"
+  },
+  {
+    "start": "00:31:54.434",
+    "end": "00:31:58.534",
+    "start_seconds": 1914.434,
+    "end_seconds": 1918.534,
+    "text": "which is, I spoke to this ethicist for the book,"
+  },
+  {
+    "start": "00:31:58.567",
+    "end": "00:32:00.801",
+    "start_seconds": 1918.567,
+    "end_seconds": 1920.801,
+    "text": "and I was asking him specifically"
+  },
+  {
+    "start": "00:32:00.834",
+    "end": "00:32:03.667",
+    "start_seconds": 1920.834,
+    "end_seconds": 1923.667,
+    "text": "about how to make decisions when we don't know."
+  },
+  {
+    "start": "00:32:03.701",
+    "end": "00:32:07.934",
+    "start_seconds": 1923.701,
+    "end_seconds": 1927.934,
+    "text": "And his name is Ira Bedzow, and he works at Emory University."
+  },
+  {
+    "start": "00:32:07.934",
+    "end": "00:32:11.767",
+    "start_seconds": 1927.934,
+    "end_seconds": 1931.767,
+    "text": "He both works as a rabbi, an ethicist in a hospital"
+  },
+  {
+    "start": "00:32:11.801",
+    "end": "00:32:13.234",
+    "start_seconds": 1931.801,
+    "end_seconds": 1933.234,
+    "text": "and as a college counselor."
+  },
+  {
+    "start": "00:32:13.234",
+    "end": "00:32:17.701",
+    "start_seconds": 1933.234,
+    "end_seconds": 1937.701,
+    "text": "So he's constantly advising people through these murky, foggy situations."
+  },
+  {
+    "start": "00:32:17.734",
+    "end": "00:32:20.334",
+    "start_seconds": 1937.734,
+    "end_seconds": 1940.334,
+    "text": "And he says, when he works with students in particular,"
+  },
+  {
+    "start": "00:32:20.367",
+    "end": "00:32:23.867",
+    "start_seconds": 1940.367,
+    "end_seconds": 1943.867,
+    "text": "he always asks them the same three questions when they're unsure."
+  },
+  {
+    "start": "00:32:24.634",
+    "end": "00:32:26.501",
+    "start_seconds": 1944.634,
+    "end_seconds": 1946.501,
+    "text": "The first is what do you want?"
+  },
+  {
+    "start": "00:32:27.067",
+    "end": "00:32:30.467",
+    "start_seconds": 1947.067,
+    "end_seconds": 1950.467,
+    "text": "And the idea here is to try and get out of our thinking brain"
+  },
+  {
+    "start": "00:32:30.501",
+    "end": "00:32:32.767",
+    "start_seconds": 1950.501,
+    "end_seconds": 1952.767,
+    "text": "and more into sort of our embodied wisdom."
+  },
+  {
+    "start": "00:32:32.767",
+    "end": "00:32:34.467",
+    "start_seconds": 1952.767,
+    "end_seconds": 1954.467,
+    "text": "What does your gut tell you?"
+  },
+  {
+    "start": "00:32:35.401",
+    "end": "00:32:38.334",
+    "start_seconds": 1955.401,
+    "end_seconds": 1958.334,
+    "text": "The second is, do you want to want that,"
+  },
+  {
+    "start": "00:32:38.367",
+    "end": "00:32:39.667",
+    "start_seconds": 1958.367,
+    "end_seconds": 1959.667,
+    "text": "which is an attempt to get"
+  },
+  {
+    "start": "00:32:39.701",
+    "end": "00:32:43.467",
+    "start_seconds": 1959.701,
+    "end_seconds": 1963.467,
+    "text": "into what philosophers sometimes call our second-order selves."
+  },
+  {
+    "start": "00:32:43.501",
+    "end": "00:32:46.167",
+    "start_seconds": 1963.501,
+    "end_seconds": 1966.167,
+    "text": "So our reflection on our ego."
+  },
+  {
+    "start": "00:32:46.501",
+    "end": "00:32:47.867",
+    "start_seconds": 1966.501,
+    "end_seconds": 1967.867,
+    "text": "Do I want a cigarette?"
+  },
+  {
+    "start": "00:32:47.901",
+    "end": "00:32:49.101",
+    "start_seconds": 1967.901,
+    "end_seconds": 1969.101,
+    "text": "Maybe yes."
+  },
+  {
+    "start": "00:32:49.101",
+    "end": "00:32:50.567",
+    "start_seconds": 1969.101,
+    "end_seconds": 1970.567,
+    "text": "Do I want to want a cigarette?"
+  },
+  {
+    "start": "00:32:50.567",
+    "end": "00:32:51.734",
+    "start_seconds": 1970.567,
+    "end_seconds": 1971.734,
+    "text": "Maybe no."
+  },
+  {
+    "start": "00:32:51.767",
+    "end": "00:32:55.034",
+    "start_seconds": 1971.767,
+    "end_seconds": 1975.034,
+    "text": "But the third question is the one that I think is the most important,"
+  },
+  {
+    "start": "00:32:55.034",
+    "end": "00:32:59.134",
+    "start_seconds": 1975.034,
+    "end_seconds": 1979.134,
+    "text": "which is what does this choice say about who you are as a person?"
+  },
+  {
+    "start": "00:32:59.734",
+    "end": "00:33:05.334",
+    "start_seconds": 1979.734,
+    "end_seconds": 1985.334,
+    "text": "And I think this is maybe the best answer I have to Michelle's question."
+  },
+  {
+    "start": "00:33:05.367",
+    "end": "00:33:07.634",
+    "start_seconds": 1985.367,
+    "end_seconds": 1987.634,
+    "text": "When you're in a moment of uncertainty,"
+  },
+  {
+    "start": "00:33:07.667",
+    "end": "00:33:10.401",
+    "start_seconds": 1987.667,
+    "end_seconds": 1990.401,
+    "text": "when you're having to decide between multiple paths,"
+  },
+  {
+    "start": "00:33:10.434",
+    "end": "00:33:14.267",
+    "start_seconds": 1990.434,
+    "end_seconds": 1994.267,
+    "text": "you can't know exactly how each of them will turn out."
+  },
+  {
+    "start": "00:33:14.667",
+    "end": "00:33:18.534",
+    "start_seconds": 1994.667,
+    "end_seconds": 1998.534,
+    "text": "But what you can do is try to connect your choice,"
+  },
+  {
+    "start": "00:33:18.567",
+    "end": "00:33:23.101",
+    "start_seconds": 1998.567,
+    "end_seconds": 2003.101,
+    "text": "your decision to your values and your identity."
+  },
+  {
+    "start": "00:33:23.501",
+    "end": "00:33:26.334",
+    "start_seconds": 2003.501,
+    "end_seconds": 2006.334,
+    "text": "And then if you're able to make a decision"
+  },
+  {
+    "start": "00:33:26.367",
+    "end": "00:33:28.701",
+    "start_seconds": 2006.367,
+    "end_seconds": 2008.701,
+    "text": "that's in alignment with your values,"
+  },
+  {
+    "start": "00:33:28.701",
+    "end": "00:33:31.267",
+    "start_seconds": 2008.701,
+    "end_seconds": 2011.267,
+    "text": "hopefully you can stand by that decision"
+  },
+  {
+    "start": "00:33:31.267",
+    "end": "00:33:35.001",
+    "start_seconds": 2011.267,
+    "end_seconds": 2015.001,
+    "text": "even if you don't get the outcome that you desire."
+  },
+  {
+    "start": "00:33:35.467",
+    "end": "00:33:37.334",
+    "start_seconds": 2015.467,
+    "end_seconds": 2017.334,
+    "text": "And so that's what I think a lot about"
+  },
+  {
+    "start": "00:33:37.334",
+    "end": "00:33:40.501",
+    "start_seconds": 2017.334,
+    "end_seconds": 2020.501,
+    "text": "in terms of what to do when we're at these crossroads in life."
+  },
+  {
+    "start": "00:33:40.534",
+    "end": "00:33:42.634",
+    "start_seconds": 2020.534,
+    "end_seconds": 2022.634,
+    "text": "And the moment before we make a decision,"
+  },
+  {
+    "start": "00:33:42.667",
+    "end": "00:33:43.901",
+    "start_seconds": 2022.667,
+    "end_seconds": 2023.901,
+    "text": "sometimes it's so hard"
+  },
+  {
+    "start": "00:33:43.934",
+    "end": "00:33:46.901",
+    "start_seconds": 2023.934,
+    "end_seconds": 2026.901,
+    "text": "because all of these possibilities are available to us,"
+  },
+  {
+    "start": "00:33:46.934",
+    "end": "00:33:49.867",
+    "start_seconds": 2026.934,
+    "end_seconds": 2029.867,
+    "text": "and therefore, making any choice feels like foreclosing"
+  },
+  {
+    "start": "00:33:49.901",
+    "end": "00:33:51.467",
+    "start_seconds": 2029.901,
+    "end_seconds": 2031.467,
+    "text": "on all these other choices."
+  },
+  {
+    "start": "00:33:51.467",
+    "end": "00:33:53.867",
+    "start_seconds": 2031.467,
+    "end_seconds": 2033.867,
+    "text": "It can feel like a loss more than a gain."
+  },
+  {
+    "start": "00:33:53.901",
+    "end": "00:33:57.501",
+    "start_seconds": 2033.901,
+    "end_seconds": 2037.501,
+    "text": "But if we're able to connect our decision to who we want to be,"
+  },
+  {
+    "start": "00:33:57.501",
+    "end": "00:34:01.234",
+    "start_seconds": 2037.501,
+    "end_seconds": 2041.234,
+    "text": "to that aspirational self, to our identities and values,"
+  },
+  {
+    "start": "00:34:01.267",
+    "end": "00:34:03.267",
+    "start_seconds": 2041.267,
+    "end_seconds": 2043.267,
+    "text": "then hopefully we can stand by them."
+  },
+  {
+    "start": "00:34:03.967",
+    "end": "00:34:05.201",
+    "start_seconds": 2043.967,
+    "end_seconds": 2045.201,
+    "text": "Thanks for that question."
+  },
+  {
+    "start": "00:34:05.234",
+    "end": "00:34:06.634",
+    "start_seconds": 2045.234,
+    "end_seconds": 2046.634,
+    "text": "OK, I'll ask one to Maya."
+  },
+  {
+    "start": "00:34:07.201",
+    "end": "00:34:08.767",
+    "start_seconds": 2047.201,
+    "end_seconds": 2048.767,
+    "text": "This is from Kim K."
+  },
+  {
+    "start": "00:34:08.801",
+    "end": "00:34:10.001",
+    "start_seconds": 2048.801,
+    "end_seconds": 2050.001,
+    "text": "She says,"
+  },
+  {
+    "start": "00:34:10.034",
+    "end": "00:34:13.734",
+    "start_seconds": 2050.034,
+    "end_seconds": 2053.734,
+    "text": "\"The Chinese symbol for chaos is also the symbol for opportunity."
+  },
+  {
+    "start": "00:34:13.767",
+    "end": "00:34:15.134",
+    "start_seconds": 2053.767,
+    "end_seconds": 2055.134,
+    "text": "Care to elucidate?\""
+  },
+  {
+    "start": "00:34:16.567",
+    "end": "00:34:18.701",
+    "start_seconds": 2056.567,
+    "end_seconds": 2058.701,
+    "text": "MS: Yeah, I was obsessed with this question,"
+  },
+  {
+    "start": "00:34:18.734",
+    "end": "00:34:21.567",
+    "start_seconds": 2058.734,
+    "end_seconds": 2061.567,
+    "text": "in part because my husband is Chinese American."
+  },
+  {
+    "start": "00:34:21.601",
+    "end": "00:34:25.167",
+    "start_seconds": 2061.601,
+    "end_seconds": 2065.167,
+    "text": "And so I spent years trying to learn Mandarin."
+  },
+  {
+    "start": "00:34:26.001",
+    "end": "00:34:28.534",
+    "start_seconds": 2066.001,
+    "end_seconds": 2068.534,
+    "text": "And so, yeah, let's just say"
+  },
+  {
+    "start": "00:34:28.567",
+    "end": "00:34:30.434",
+    "start_seconds": 2068.567,
+    "end_seconds": 2070.434,
+    "text": "my speaking abilities are much greater"
+  },
+  {
+    "start": "00:34:30.467",
+    "end": "00:34:33.501",
+    "start_seconds": 2070.467,
+    "end_seconds": 2073.501,
+    "text": "than the writing of characters abilities."
+  },
+  {
+    "start": "00:34:35.467",
+    "end": "00:34:39.167",
+    "start_seconds": 2075.467,
+    "end_seconds": 2079.167,
+    "text": "One thing that was so interesting because I actually think"
+  },
+  {
+    "start": "00:34:39.201",
+    "end": "00:34:41.401",
+    "start_seconds": 2079.201,
+    "end_seconds": 2081.401,
+    "text": "this speaks to what Kim has asked about,"
+  },
+  {
+    "start": "00:34:41.401",
+    "end": "00:34:46.367",
+    "start_seconds": 2081.401,
+    "end_seconds": 2086.367,
+    "text": "that I learned in researching the book is that the word apocalypse,"
+  },
+  {
+    "start": "00:34:46.401",
+    "end": "00:34:48.567",
+    "start_seconds": 2086.401,
+    "end_seconds": 2088.567,
+    "text": "which is often what we feel is happening to us"
+  },
+  {
+    "start": "00:34:48.567",
+    "end": "00:34:50.601",
+    "start_seconds": 2088.567,
+    "end_seconds": 2090.601,
+    "text": "in the throes of a massive change, right?"
+  },
+  {
+    "start": "00:34:50.601",
+    "end": "00:34:54.334",
+    "start_seconds": 2090.601,
+    "end_seconds": 2094.334,
+    "text": "It's like I'm in a personal apocalypse where I no longer have access"
+  },
+  {
+    "start": "00:34:54.367",
+    "end": "00:34:55.534",
+    "start_seconds": 2094.367,
+    "end_seconds": 2095.534,
+    "text": "to this prior world,"
+  },
+  {
+    "start": "00:34:55.567",
+    "end": "00:34:59.601",
+    "start_seconds": 2095.567,
+    "end_seconds": 2099.601,
+    "text": "the world that I am currently living in is a foreign one, right?"
+  },
+  {
+    "start": "00:35:01.067",
+    "end": "00:35:06.301",
+    "start_seconds": 2101.067,
+    "end_seconds": 2106.301,
+    "text": "The word apocalypse comes from the Greek word apocalypsis,"
+  },
+  {
+    "start": "00:35:06.334",
+    "end": "00:35:08.401",
+    "start_seconds": 2106.334,
+    "end_seconds": 2108.401,
+    "text": "which actually means revelation."
+  },
+  {
+    "start": "00:35:08.701",
+    "end": "00:35:12.301",
+    "start_seconds": 2108.701,
+    "end_seconds": 2112.301,
+    "text": "And I find that etymology so instructive."
+  },
+  {
+    "start": "00:35:12.334",
+    "end": "00:35:14.534",
+    "start_seconds": 2112.334,
+    "end_seconds": 2114.534,
+    "text": "Because yes, change can upend us,"
+  },
+  {
+    "start": "00:35:14.567",
+    "end": "00:35:17.201",
+    "start_seconds": 2114.567,
+    "end_seconds": 2117.201,
+    "text": "but it can also reveal things to us"
+  },
+  {
+    "start": "00:35:17.234",
+    "end": "00:35:19.701",
+    "start_seconds": 2117.234,
+    "end_seconds": 2119.701,
+    "text": "about who we are and what our values are"
+  },
+  {
+    "start": "00:35:19.734",
+    "end": "00:35:22.934",
+    "start_seconds": 2119.734,
+    "end_seconds": 2122.934,
+    "text": "and what our perspectives are and what our abilities are."
+  },
+  {
+    "start": "00:35:22.967",
+    "end": "00:35:27.401",
+    "start_seconds": 2122.967,
+    "end_seconds": 2127.401,
+    "text": "And that revelation brings into the light parts of us,"
+  },
+  {
+    "start": "00:35:27.401",
+    "end": "00:35:30.234",
+    "start_seconds": 2127.401,
+    "end_seconds": 2130.234,
+    "text": "parts of who we are that were previously hidden from sight."
+  },
+  {
+    "start": "00:35:30.267",
+    "end": "00:35:33.134",
+    "start_seconds": 2130.267,
+    "end_seconds": 2133.134,
+    "text": "I think it's very easy for us to believe, in everyday life,"
+  },
+  {
+    "start": "00:35:33.167",
+    "end": "00:35:36.267",
+    "start_seconds": 2133.167,
+    "end_seconds": 2136.267,
+    "text": "that we have a fairly good command of who we are as human beings,"
+  },
+  {
+    "start": "00:35:36.301",
+    "end": "00:35:40.201",
+    "start_seconds": 2136.301,
+    "end_seconds": 2140.201,
+    "text": "but the reality is that we've only had access to the parts of us"
+  },
+  {
+    "start": "00:35:40.234",
+    "end": "00:35:44.234",
+    "start_seconds": 2140.234,
+    "end_seconds": 2144.234,
+    "text": "that were revealed to the world, revealed to us,"
+  },
+  {
+    "start": "00:35:44.267",
+    "end": "00:35:47.901",
+    "start_seconds": 2144.267,
+    "end_seconds": 2147.901,
+    "text": "in response to the seemingly random set of life experiences we've had."
+  },
+  {
+    "start": "00:35:47.934",
+    "end": "00:35:51.667",
+    "start_seconds": 2147.934,
+    "end_seconds": 2151.667,
+    "text": "It's a set of data points that aren't comprehensive."
+  },
+  {
+    "start": "00:35:52.034",
+    "end": "00:35:55.001",
+    "start_seconds": 2152.034,
+    "end_seconds": 2155.001,
+    "text": "And so one thing that's beautiful about change"
+  },
+  {
+    "start": "00:35:55.034",
+    "end": "00:36:01.034",
+    "start_seconds": 2155.034,
+    "end_seconds": 2161.034,
+    "text": "is that in creating tension or creating pressure in some way,"
+  },
+  {
+    "start": "00:36:01.034",
+    "end": "00:36:02.434",
+    "start_seconds": 2161.034,
+    "end_seconds": 2162.434,
+    "text": "you start to see parts of you"
+  },
+  {
+    "start": "00:36:02.467",
+    "end": "00:36:05.034",
+    "start_seconds": 2162.467,
+    "end_seconds": 2165.034,
+    "text": "that you just didn't ever think to evaluate"
+  },
+  {
+    "start": "00:36:05.067",
+    "end": "00:36:08.067",
+    "start_seconds": 2165.067,
+    "end_seconds": 2168.067,
+    "text": "or investigate or even really acknowledge in the first place."
+  },
+  {
+    "start": "00:36:08.101",
+    "end": "00:36:14.301",
+    "start_seconds": 2168.101,
+    "end_seconds": 2174.301,
+    "text": "And Simo, I know both of us end our books on more personal notes, right?"
+  },
+  {
+    "start": "00:36:14.334",
+    "end": "00:36:17.434",
+    "start_seconds": 2174.334,
+    "end_seconds": 2177.434,
+    "text": "I didn't expect for the last chapter of my book"
+  },
+  {
+    "start": "00:36:17.434",
+    "end": "00:36:20.667",
+    "start_seconds": 2177.434,
+    "end_seconds": 2180.667,
+    "text": "to be more memoir than anything else,"
+  },
+  {
+    "start": "00:36:20.701",
+    "end": "00:36:23.867",
+    "start_seconds": 2180.701,
+    "end_seconds": 2183.867,
+    "text": "because I had spent the earlier chapters interviewing other people."
+  },
+  {
+    "start": "00:36:23.901",
+    "end": "00:36:25.501",
+    "start_seconds": 2183.901,
+    "end_seconds": 2185.501,
+    "text": "But as I was writing the book,"
+  },
+  {
+    "start": "00:36:25.534",
+    "end": "00:36:28.534",
+    "start_seconds": 2185.534,
+    "end_seconds": 2188.534,
+    "text": "I was navigating these own changes and losses in my own life."
+  },
+  {
+    "start": "00:36:28.567",
+    "end": "00:36:29.867",
+    "start_seconds": 2188.567,
+    "end_seconds": 2189.867,
+    "text": "I alluded to this earlier,"
+  },
+  {
+    "start": "00:36:29.901",
+    "end": "00:36:34.201",
+    "start_seconds": 2189.901,
+    "end_seconds": 2194.201,
+    "text": "but my husband and I were not having success in starting a family."
+  },
+  {
+    "start": "00:36:34.234",
+    "end": "00:36:37.101",
+    "start_seconds": 2194.234,
+    "end_seconds": 2197.101,
+    "text": "And one of the many things"
+  },
+  {
+    "start": "00:36:37.134",
+    "end": "00:36:42.767",
+    "start_seconds": 2197.134,
+    "end_seconds": 2202.767,
+    "text": "that these experiences of loss and despair revealed to me"
+  },
+  {
+    "start": "00:36:42.767",
+    "end": "00:36:47.967",
+    "start_seconds": 2202.767,
+    "end_seconds": 2207.967,
+    "text": "was I had placed a lot of my self-worth as a woman"
+  },
+  {
+    "start": "00:36:47.967",
+    "end": "00:36:50.634",
+    "start_seconds": 2207.967,
+    "end_seconds": 2210.634,
+    "text": "in having children."
+  },
+  {
+    "start": "00:36:51.101",
+    "end": "00:36:53.801",
+    "start_seconds": 2211.101,
+    "end_seconds": 2213.801,
+    "text": "And it might have been from cultural influences."
+  },
+  {
+    "start": "00:36:53.801",
+    "end": "00:36:56.667",
+    "start_seconds": 2213.801,
+    "end_seconds": 2216.667,
+    "text": "I think society also tells us"
+  },
+  {
+    "start": "00:36:56.701",
+    "end": "00:36:59.701",
+    "start_seconds": 2216.701,
+    "end_seconds": 2219.701,
+    "text": "that can be our primary value in this world"
+  },
+  {
+    "start": "00:36:59.701",
+    "end": "00:37:04.001",
+    "start_seconds": 2219.701,
+    "end_seconds": 2224.001,
+    "text": "and in revealing a belief that I had,"
+  },
+  {
+    "start": "00:37:04.034",
+    "end": "00:37:05.567",
+    "start_seconds": 2224.034,
+    "end_seconds": 2225.567,
+    "text": "I was able to realize like,"
+  },
+  {
+    "start": "00:37:05.601",
+    "end": "00:37:07.434",
+    "start_seconds": 2225.601,
+    "end_seconds": 2227.434,
+    "text": "hey, just because I have this belief,"
+  },
+  {
+    "start": "00:37:07.434",
+    "end": "00:37:10.701",
+    "start_seconds": 2227.434,
+    "end_seconds": 2230.701,
+    "text": "doesn't mean that it was developed on this sturdy foundation"
+  },
+  {
+    "start": "00:37:10.734",
+    "end": "00:37:12.267",
+    "start_seconds": 2230.734,
+    "end_seconds": 2232.267,
+    "text": "of thoughtful reasoning, right?"
+  },
+  {
+    "start": "00:37:12.301",
+    "end": "00:37:15.434",
+    "start_seconds": 2232.301,
+    "end_seconds": 2235.434,
+    "text": "Most of the beliefs we have, we just inherited"
+  },
+  {
+    "start": "00:37:15.467",
+    "end": "00:37:21.001",
+    "start_seconds": 2235.467,
+    "end_seconds": 2241.001,
+    "text": "through you know, teachers and messages from pop culture."
+  },
+  {
+    "start": "00:37:21.001",
+    "end": "00:37:24.667",
+    "start_seconds": 2241.001,
+    "end_seconds": 2244.667,
+    "text": "And a lot of them entered subconsciously without our even realizing it."
+  },
+  {
+    "start": "00:37:24.701",
+    "end": "00:37:28.834",
+    "start_seconds": 2244.701,
+    "end_seconds": 2248.834,
+    "text": "And we never thought to interrogate them or challenge those beliefs, right?"
+  },
+  {
+    "start": "00:37:28.867",
+    "end": "00:37:32.301",
+    "start_seconds": 2248.867,
+    "end_seconds": 2252.301,
+    "text": "And it's not like any of us have time to wake up every day and say,"
+  },
+  {
+    "start": "00:37:32.334",
+    "end": "00:37:34.767",
+    "start_seconds": 2252.334,
+    "end_seconds": 2254.767,
+    "text": "hmm, let me think from the, you know,"
+  },
+  {
+    "start": "00:37:34.801",
+    "end": "00:37:37.034",
+    "start_seconds": 2254.801,
+    "end_seconds": 2257.034,
+    "text": "hundreds of thousands of beliefs that I carry,"
+  },
+  {
+    "start": "00:37:37.067",
+    "end": "00:37:38.901",
+    "start_seconds": 2257.067,
+    "end_seconds": 2258.901,
+    "text": "which one should I investigate today?"
+  },
+  {
+    "start": "00:37:38.934",
+    "end": "00:37:41.634",
+    "start_seconds": 2258.934,
+    "end_seconds": 2261.634,
+    "text": "Like, that's not reasonable to actually do."
+  },
+  {
+    "start": "00:37:41.667",
+    "end": "00:37:43.201",
+    "start_seconds": 2261.667,
+    "end_seconds": 2263.201,
+    "text": "And it's uncomfortable as well,"
+  },
+  {
+    "start": "00:37:43.201",
+    "end": "00:37:45.567",
+    "start_seconds": 2263.201,
+    "end_seconds": 2265.567,
+    "text": "because a lot of times, our beliefs are entangled"
+  },
+  {
+    "start": "00:37:45.601",
+    "end": "00:37:48.267",
+    "start_seconds": 2265.601,
+    "end_seconds": 2268.267,
+    "text": "with our sense of self-identity, right?"
+  },
+  {
+    "start": "00:37:48.301",
+    "end": "00:37:50.334",
+    "start_seconds": 2268.301,
+    "end_seconds": 2270.334,
+    "text": "So it can be a very uncomfortable process."
+  },
+  {
+    "start": "00:37:50.367",
+    "end": "00:37:52.534",
+    "start_seconds": 2270.367,
+    "end_seconds": 2272.534,
+    "text": "And so for me,"
+  },
+  {
+    "start": "00:37:52.567",
+    "end": "00:37:55.134",
+    "start_seconds": 2272.567,
+    "end_seconds": 2275.134,
+    "text": "change in serving as a moment of revelation"
+  },
+  {
+    "start": "00:37:55.167",
+    "end": "00:37:58.534",
+    "start_seconds": 2275.167,
+    "end_seconds": 2278.534,
+    "text": "also gives you a chance to revisit the story you're telling yourself"
+  },
+  {
+    "start": "00:37:58.567",
+    "end": "00:38:00.734",
+    "start_seconds": 2278.567,
+    "end_seconds": 2280.734,
+    "text": "about who you are and where your worth is,"
+  },
+  {
+    "start": "00:38:00.767",
+    "end": "00:38:02.467",
+    "start_seconds": 2280.767,
+    "end_seconds": 2282.467,
+    "text": "where your worth is coming from."
+  },
+  {
+    "start": "00:38:02.467",
+    "end": "00:38:07.434",
+    "start_seconds": 2282.467,
+    "end_seconds": 2287.434,
+    "text": "And I had to do a lot of unwinding in that process of like,"
+  },
+  {
+    "start": "00:38:07.434",
+    "end": "00:38:09.734",
+    "start_seconds": 2287.434,
+    "end_seconds": 2289.734,
+    "text": "why do I feel that in the absence of children,"
+  },
+  {
+    "start": "00:38:09.734",
+    "end": "00:38:12.434",
+    "start_seconds": 2289.734,
+    "end_seconds": 2292.434,
+    "text": "my life would be stripped of all of its color and meaning"
+  },
+  {
+    "start": "00:38:12.467",
+    "end": "00:38:16.001",
+    "start_seconds": 2292.467,
+    "end_seconds": 2296.001,
+    "text": "and purpose and that my value as a human being would be less?"
+  },
+  {
+    "start": "00:38:16.001",
+    "end": "00:38:17.934",
+    "start_seconds": 2296.001,
+    "end_seconds": 2297.934,
+    "text": "And slowly work through all that stuff."
+  },
+  {
+    "start": "00:38:17.967",
+    "end": "00:38:21.534",
+    "start_seconds": 2297.967,
+    "end_seconds": 2301.534,
+    "text": "And, you know, as I write at the end of the chapter, you know,"
+  },
+  {
+    "start": "00:38:21.567",
+    "end": "00:38:23.301",
+    "start_seconds": 2301.567,
+    "end_seconds": 2303.301,
+    "text": "in this moment I'm child-free"
+  },
+  {
+    "start": "00:38:23.301",
+    "end": "00:38:26.801",
+    "start_seconds": 2303.301,
+    "end_seconds": 2306.801,
+    "text": "and kind of unexpectedly, I am the happiest,"
+  },
+  {
+    "start": "00:38:26.801",
+    "end": "00:38:31.234",
+    "start_seconds": 2306.801,
+    "end_seconds": 2311.234,
+    "text": "most hopeful, most grateful person."
+  },
+  {
+    "start": "00:38:31.267",
+    "end": "00:38:33.501",
+    "start_seconds": 2311.267,
+    "end_seconds": 2313.501,
+    "text": "And I never saw that coming."
+  },
+  {
+    "start": "00:38:33.534",
+    "end": "00:38:36.501",
+    "start_seconds": 2313.534,
+    "end_seconds": 2316.501,
+    "text": "You know, we talked earlier about how change can transform us,"
+  },
+  {
+    "start": "00:38:36.501",
+    "end": "00:38:39.001",
+    "start_seconds": 2316.501,
+    "end_seconds": 2319.001,
+    "text": "but I wouldn't have believed that message."
+  },
+  {
+    "start": "00:38:39.034",
+    "end": "00:38:41.201",
+    "start_seconds": 2319.034,
+    "end_seconds": 2321.201,
+    "text": "I would have just thought of it as a platitude"
+  },
+  {
+    "start": "00:38:41.234",
+    "end": "00:38:44.167",
+    "start_seconds": 2321.234,
+    "end_seconds": 2324.167,
+    "text": "unless I'd felt that similar transformation within me."
+  },
+  {
+    "start": "00:38:44.201",
+    "end": "00:38:47.634",
+    "start_seconds": 2324.201,
+    "end_seconds": 2327.634,
+    "text": "Because if you had asked me, you know,"
+  },
+  {
+    "start": "00:38:47.667",
+    "end": "00:38:50.767",
+    "start_seconds": 2327.667,
+    "end_seconds": 2330.767,
+    "text": "on the night where we found out we had lost identical twin girls,"
+  },
+  {
+    "start": "00:38:50.767",
+    "end": "00:38:54.167",
+    "start_seconds": 2330.767,
+    "end_seconds": 2334.167,
+    "text": "I would have been like, nope, nothing positive will ever come from this."
+  },
+  {
+    "start": "00:38:54.201",
+    "end": "00:38:56.967",
+    "start_seconds": 2334.201,
+    "end_seconds": 2336.967,
+    "text": "This is like a non-redemptive story."
+  },
+  {
+    "start": "00:38:57.434",
+    "end": "00:39:01.034",
+    "start_seconds": 2337.434,
+    "end_seconds": 2341.034,
+    "text": "And yet it inspired so much thinking and reflection"
+  },
+  {
+    "start": "00:39:01.067",
+    "end": "00:39:03.867",
+    "start_seconds": 2341.067,
+    "end_seconds": 2343.867,
+    "text": "and growth within me that I couldn't have anticipated."
+  },
+  {
+    "start": "00:39:04.401",
+    "end": "00:39:07.267",
+    "start_seconds": 2344.401,
+    "end_seconds": 2347.267,
+    "text": "And so all of this is to say like,"
+  },
+  {
+    "start": "00:39:07.267",
+    "end": "00:39:11.601",
+    "start_seconds": 2347.267,
+    "end_seconds": 2351.601,
+    "text": "I love Kim's question because chaos, opportunity, right?"
+  },
+  {
+    "start": "00:39:11.634",
+    "end": "00:39:15.534",
+    "start_seconds": 2351.634,
+    "end_seconds": 2355.534,
+    "text": "Revelation, upheaval, like, things are complicated."
+  },
+  {
+    "start": "00:39:15.534",
+    "end": "00:39:17.067",
+    "start_seconds": 2355.534,
+    "end_seconds": 2357.067,
+    "text": "Experiences are complicated."
+  },
+  {
+    "start": "00:39:17.101",
+    "end": "00:39:18.767",
+    "start_seconds": 2357.101,
+    "end_seconds": 2358.767,
+    "text": "They are rarely just good or bad."
+  },
+  {
+    "start": "00:39:18.801",
+    "end": "00:39:20.201",
+    "start_seconds": 2358.801,
+    "end_seconds": 2360.201,
+    "text": "They're often multifold."
+  },
+  {
+    "start": "00:39:20.234",
+    "end": "00:39:23.734",
+    "start_seconds": 2360.234,
+    "end_seconds": 2363.734,
+    "text": "And, if we are discerning enough"
+  },
+  {
+    "start": "00:39:23.767",
+    "end": "00:39:27.867",
+    "start_seconds": 2363.767,
+    "end_seconds": 2367.867,
+    "text": "to look for the opportunity that sits within the rubble,"
+  },
+  {
+    "start": "00:39:27.901",
+    "end": "00:39:29.934",
+    "start_seconds": 2367.901,
+    "end_seconds": 2369.934,
+    "text": "so much can be unlocked."
+  },
+  {
+    "start": "00:39:30.334",
+    "end": "00:39:33.534",
+    "start_seconds": 2370.334,
+    "end_seconds": 2373.534,
+    "text": "And I want to go to the next question, but I also just want to hear"
+  },
+  {
+    "start": "00:39:33.534",
+    "end": "00:39:35.267",
+    "start_seconds": 2373.534,
+    "end_seconds": 2375.267,
+    "text": "any reflections you have --"
+  },
+  {
+    "start": "00:39:35.301",
+    "end": "00:39:37.067",
+    "start_seconds": 2375.301,
+    "end_seconds": 2377.067,
+    "text": "and by the way, Simo is his nickname,"
+  },
+  {
+    "start": "00:39:37.067",
+    "end": "00:39:39.367",
+    "start_seconds": 2377.067,
+    "end_seconds": 2379.367,
+    "text": "so I'm going by that on occasion,"
+  },
+  {
+    "start": "00:39:39.401",
+    "end": "00:39:41.901",
+    "start_seconds": 2379.401,
+    "end_seconds": 2381.901,
+    "text": "I realize I'm flipping back and forth --"
+  },
+  {
+    "start": "00:39:41.934",
+    "end": "00:39:47.434",
+    "start_seconds": 2381.934,
+    "end_seconds": 2387.434,
+    "text": "in which you talk about the uncertainty that came alongside your journey"
+  },
+  {
+    "start": "00:39:47.434",
+    "end": "00:39:49.001",
+    "start_seconds": 2387.434,
+    "end_seconds": 2389.001,
+    "text": "into becoming parents."
+  },
+  {
+    "start": "00:39:49.734",
+    "end": "00:39:52.734",
+    "start_seconds": 2389.734,
+    "end_seconds": 2392.734,
+    "text": "SS: Yeah, I think, you know, pregnancy journeys"
+  },
+  {
+    "start": "00:39:52.767",
+    "end": "00:39:58.134",
+    "start_seconds": 2392.767,
+    "end_seconds": 2398.134,
+    "text": "are one of the greatest uncertainties that a lot of people face in their lives."
+  },
+  {
+    "start": "00:39:58.167",
+    "end": "00:40:00.067",
+    "start_seconds": 2398.167,
+    "end_seconds": 2400.067,
+    "text": "And similarly, you know,"
+  },
+  {
+    "start": "00:40:00.101",
+    "end": "00:40:03.367",
+    "start_seconds": 2400.101,
+    "end_seconds": 2403.367,
+    "text": "my wife and I were trying to conceive for a long time"
+  },
+  {
+    "start": "00:40:03.401",
+    "end": "00:40:05.501",
+    "start_seconds": 2403.401,
+    "end_seconds": 2405.501,
+    "text": "and we got the news that we were pregnant."
+  },
+  {
+    "start": "00:40:05.501",
+    "end": "00:40:08.434",
+    "start_seconds": 2405.501,
+    "end_seconds": 2408.434,
+    "text": "We were so excited, we had the little app that said,"
+  },
+  {
+    "start": "00:40:08.467",
+    "end": "00:40:10.934",
+    "start_seconds": 2408.467,
+    "end_seconds": 2410.934,
+    "text": "\"Your baby is the size of a poppy seed.\""
+  },
+  {
+    "start": "00:40:10.967",
+    "end": "00:40:14.334",
+    "start_seconds": 2410.967,
+    "end_seconds": 2414.334,
+    "text": "And we started calling this unborn child Poppy."
+  },
+  {
+    "start": "00:40:14.367",
+    "end": "00:40:16.767",
+    "start_seconds": 2414.367,
+    "end_seconds": 2416.767,
+    "text": "And I remember going to these doctor's appointments"
+  },
+  {
+    "start": "00:40:16.801",
+    "end": "00:40:18.201",
+    "start_seconds": 2416.801,
+    "end_seconds": 2418.201,
+    "text": "and just feeling so excited."
+  },
+  {
+    "start": "00:40:18.201",
+    "end": "00:40:22.934",
+    "start_seconds": 2418.201,
+    "end_seconds": 2422.934,
+    "text": "And I had this whole life that I had canvassed out for this unborn kid."
+  },
+  {
+    "start": "00:40:22.967",
+    "end": "00:40:25.367",
+    "start_seconds": 2422.967,
+    "end_seconds": 2425.367,
+    "text": "And we went in for a doctor's appointment"
+  },
+  {
+    "start": "00:40:25.401",
+    "end": "00:40:28.834",
+    "start_seconds": 2425.401,
+    "end_seconds": 2428.834,
+    "text": "about three months into the pregnancy."
+  },
+  {
+    "start": "00:40:28.867",
+    "end": "00:40:32.001",
+    "start_seconds": 2428.867,
+    "end_seconds": 2432.001,
+    "text": "And our doctor said,"
+  },
+  {
+    "start": "00:40:32.034",
+    "end": "00:40:34.234",
+    "start_seconds": 2432.034,
+    "end_seconds": 2434.234,
+    "text": "\"At this stage, we'd expect to see a heartbeat."
+  },
+  {
+    "start": "00:40:34.267",
+    "end": "00:40:36.467",
+    "start_seconds": 2434.267,
+    "end_seconds": 2436.467,
+    "text": "And I don't see one right now."
+  },
+  {
+    "start": "00:40:36.501",
+    "end": "00:40:41.067",
+    "start_seconds": 2436.501,
+    "end_seconds": 2441.067,
+    "text": "We're not yet ready to declare this a lost pregnancy."
+  },
+  {
+    "start": "00:40:41.067",
+    "end": "00:40:45.701",
+    "start_seconds": 2441.067,
+    "end_seconds": 2445.701,
+    "text": "Why don't you come back in a week and we can do some more tests?\""
+  },
+  {
+    "start": "00:40:46.201",
+    "end": "00:40:50.601",
+    "start_seconds": 2446.201,
+    "end_seconds": 2450.601,
+    "text": "And meanwhile, I'm writing this book about how to not know and uncertainty,"
+  },
+  {
+    "start": "00:40:50.634",
+    "end": "00:40:52.934",
+    "start_seconds": 2450.634,
+    "end_seconds": 2452.934,
+    "text": "and therefore it's coming to the fore in my life."
+  },
+  {
+    "start": "00:40:52.934",
+    "end": "00:40:55.701",
+    "start_seconds": 2452.934,
+    "end_seconds": 2455.701,
+    "text": "And I remember thinking about that electric shock study"
+  },
+  {
+    "start": "00:40:55.734",
+    "end": "00:40:57.567",
+    "start_seconds": 2455.734,
+    "end_seconds": 2457.567,
+    "text": "and being like, just shock me already,"
+  },
+  {
+    "start": "00:40:57.601",
+    "end": "00:40:59.434",
+    "start_seconds": 2457.601,
+    "end_seconds": 2459.434,
+    "text": "you know, say the quiet part out loud."
+  },
+  {
+    "start": "00:40:59.467",
+    "end": "00:41:02.867",
+    "start_seconds": 2459.467,
+    "end_seconds": 2462.867,
+    "text": "But in addition to the sort of anticipatory grief,"
+  },
+  {
+    "start": "00:41:02.901",
+    "end": "00:41:06.334",
+    "start_seconds": 2462.901,
+    "end_seconds": 2466.334,
+    "text": "we also had to deal with the waiting of the not knowing."
+  },
+  {
+    "start": "00:41:06.367",
+    "end": "00:41:08.801",
+    "start_seconds": 2466.367,
+    "end_seconds": 2468.801,
+    "text": "And, you know, the week was really hard."
+  },
+  {
+    "start": "00:41:08.834",
+    "end": "00:41:12.834",
+    "start_seconds": 2468.834,
+    "end_seconds": 2472.834,
+    "text": "I was just writing about that study about breast cancer patients,"
+  },
+  {
+    "start": "00:41:12.867",
+    "end": "00:41:15.601",
+    "start_seconds": 2472.867,
+    "end_seconds": 2475.601,
+    "text": "where the waiting before you get the diagnosis"
+  },
+  {
+    "start": "00:41:15.634",
+    "end": "00:41:17.501",
+    "start_seconds": 2475.634,
+    "end_seconds": 2477.501,
+    "text": "can be the most difficult part."
+  },
+  {
+    "start": "00:41:17.534",
+    "end": "00:41:21.634",
+    "start_seconds": 2477.534,
+    "end_seconds": 2481.634,
+    "text": "But there were other elements of that week that I think were really beautiful."
+  },
+  {
+    "start": "00:41:22.134",
+    "end": "00:41:26.767",
+    "start_seconds": 2482.134,
+    "end_seconds": 2486.767,
+    "text": "My wife and I held eye contact in crowded rooms for a little bit longer."
+  },
+  {
+    "start": "00:41:26.801",
+    "end": "00:41:29.667",
+    "start_seconds": 2486.801,
+    "end_seconds": 2489.667,
+    "text": "We would, you know, maybe hug for a little bit longer"
+  },
+  {
+    "start": "00:41:29.701",
+    "end": "00:41:31.101",
+    "start_seconds": 2489.701,
+    "end_seconds": 2491.101,
+    "text": "than we might have otherwise."
+  },
+  {
+    "start": "00:41:31.101",
+    "end": "00:41:34.067",
+    "start_seconds": 2491.101,
+    "end_seconds": 2494.067,
+    "text": "And we kept repeating this mantra to ourselves,"
+  },
+  {
+    "start": "00:41:34.101",
+    "end": "00:41:35.934",
+    "start_seconds": 2494.101,
+    "end_seconds": 2495.934,
+    "text": "which is, we are open,"
+  },
+  {
+    "start": "00:41:35.934",
+    "end": "00:41:37.901",
+    "start_seconds": 2495.934,
+    "end_seconds": 2497.901,
+    "text": "we are open, we are open."
+  },
+  {
+    "start": "00:41:38.634",
+    "end": "00:41:41.501",
+    "start_seconds": 2498.634,
+    "end_seconds": 2501.501,
+    "text": "And a week later, we come back to the doctor's office"
+  },
+  {
+    "start": "00:41:41.534",
+    "end": "00:41:43.734",
+    "start_seconds": 2501.534,
+    "end_seconds": 2503.734,
+    "text": "and we got the news that we expected."
+  },
+  {
+    "start": "00:41:43.734",
+    "end": "00:41:46.267",
+    "start_seconds": 2503.734,
+    "end_seconds": 2506.267,
+    "text": "You know, we had lost Poppy."
+  },
+  {
+    "start": "00:41:46.301",
+    "end": "00:41:48.967",
+    "start_seconds": 2506.301,
+    "end_seconds": 2508.967,
+    "text": "And it was incredibly sad."
+  },
+  {
+    "start": "00:41:50.301",
+    "end": "00:41:52.401",
+    "start_seconds": 2510.301,
+    "end_seconds": 2512.401,
+    "text": "But I think one of the things"
+  },
+  {
+    "start": "00:41:52.434",
+    "end": "00:41:54.534",
+    "start_seconds": 2512.434,
+    "end_seconds": 2514.534,
+    "text": "that grief and loss can teach us"
+  },
+  {
+    "start": "00:41:54.567",
+    "end": "00:41:57.034",
+    "start_seconds": 2514.567,
+    "end_seconds": 2517.034,
+    "text": "is what we care about."
+  },
+  {
+    "start": "00:41:57.501",
+    "end": "00:42:01.501",
+    "start_seconds": 2517.501,
+    "end_seconds": 2521.501,
+    "text": "And I think we can hurt in proportion with how much we care."
+  },
+  {
+    "start": "00:42:02.101",
+    "end": "00:42:05.467",
+    "start_seconds": 2522.101,
+    "end_seconds": 2525.467,
+    "text": "And long story short,"
+  },
+  {
+    "start": "00:42:05.501",
+    "end": "00:42:06.667",
+    "start_seconds": 2525.501,
+    "end_seconds": 2526.667,
+    "text": "a few months later,"
+  },
+  {
+    "start": "00:42:06.701",
+    "end": "00:42:09.434",
+    "start_seconds": 2526.701,
+    "end_seconds": 2529.434,
+    "text": "we were able to get pregnant again."
+  },
+  {
+    "start": "00:42:09.467",
+    "end": "00:42:13.034",
+    "start_seconds": 2529.467,
+    "end_seconds": 2533.034,
+    "text": "And now I have a one-year-old named Luca."
+  },
+  {
+    "start": "00:42:13.567",
+    "end": "00:42:14.767",
+    "start_seconds": 2533.567,
+    "end_seconds": 2534.767,
+    "text": "MS: And he's so cute."
+  },
+  {
+    "start": "00:42:14.801",
+    "end": "00:42:15.967",
+    "start_seconds": 2534.801,
+    "end_seconds": 2535.967,
+    "text": "SS: He's very cute."
+  },
+  {
+    "start": "00:42:15.967",
+    "end": "00:42:18.567",
+    "start_seconds": 2535.967,
+    "end_seconds": 2538.567,
+    "text": "I also think I wouldn't appreciate it quite as much"
+  },
+  {
+    "start": "00:42:18.601",
+    "end": "00:42:21.134",
+    "start_seconds": 2538.601,
+    "end_seconds": 2541.134,
+    "text": "if not having gone through this loss."
+  },
+  {
+    "start": "00:42:21.167",
+    "end": "00:42:23.301",
+    "start_seconds": 2541.167,
+    "end_seconds": 2543.301,
+    "text": "I think there's something that you said, too,"
+  },
+  {
+    "start": "00:42:23.334",
+    "end": "00:42:29.067",
+    "start_seconds": 2543.334,
+    "end_seconds": 2549.067,
+    "text": "about not knowing exactly how this loss in your case,"
+  },
+  {
+    "start": "00:42:29.101",
+    "end": "00:42:30.667",
+    "start_seconds": 2549.101,
+    "end_seconds": 2550.667,
+    "text": "would impact your ability"
+  },
+  {
+    "start": "00:42:30.667",
+    "end": "00:42:33.434",
+    "start_seconds": 2550.667,
+    "end_seconds": 2553.434,
+    "text": "to be grateful and present in your life,"
+  },
+  {
+    "start": "00:42:33.434",
+    "end": "00:42:37.134",
+    "start_seconds": 2553.434,
+    "end_seconds": 2557.134,
+    "text": "which is that I think there are trade offs on both sides."
+  },
+  {
+    "start": "00:42:37.467",
+    "end": "00:42:40.567",
+    "start_seconds": 2557.467,
+    "end_seconds": 2560.567,
+    "text": "So lots of people will ask me questions like,"
+  },
+  {
+    "start": "00:42:40.601",
+    "end": "00:42:42.234",
+    "start_seconds": 2560.601,
+    "end_seconds": 2562.234,
+    "text": "do you think we should have a kid?"
+  },
+  {
+    "start": "00:42:42.267",
+    "end": "00:42:44.934",
+    "start_seconds": 2562.267,
+    "end_seconds": 2564.934,
+    "text": "Or do you think we should bring a child into this world,"
+  },
+  {
+    "start": "00:42:44.967",
+    "end": "00:42:48.734",
+    "start_seconds": 2564.967,
+    "end_seconds": 2568.734,
+    "text": "given how much potential doom we are headed for?"
+  },
+  {
+    "start": "00:42:49.267",
+    "end": "00:42:55.667",
+    "start_seconds": 2569.267,
+    "end_seconds": 2575.667,
+    "text": "And from our vantage point, you know, in these chairs in our podcast studio,"
+  },
+  {
+    "start": "00:42:55.701",
+    "end": "00:42:59.167",
+    "start_seconds": 2575.701,
+    "end_seconds": 2579.167,
+    "text": "we can't make those decisions for you, on your behalf."
+  },
+  {
+    "start": "00:42:59.201",
+    "end": "00:43:02.834",
+    "start_seconds": 2579.201,
+    "end_seconds": 2582.834,
+    "text": "You'll never be able to play out the counterfactual."
+  },
+  {
+    "start": "00:43:02.834",
+    "end": "00:43:08.334",
+    "start_seconds": 2582.834,
+    "end_seconds": 2588.334,
+    "text": "But I love this idea that comes from Cheryl Strayed,"
+  },
+  {
+    "start": "00:43:08.367",
+    "end": "00:43:10.467",
+    "start_seconds": 2588.367,
+    "end_seconds": 2590.467,
+    "text": "one of her advice columns where she talks --"
+  },
+  {
+    "start": "00:43:10.501",
+    "end": "00:43:12.834",
+    "start_seconds": 2590.501,
+    "end_seconds": 2592.834,
+    "text": "MS: We talked about this on the phone last night."
+  },
+  {
+    "start": "00:43:12.867",
+    "end": "00:43:14.734",
+    "start_seconds": 2592.867,
+    "end_seconds": 2594.734,
+    "text": "It's my favorite quote from your book."
+  },
+  {
+    "start": "00:43:14.767",
+    "end": "00:43:17.834",
+    "start_seconds": 2594.767,
+    "end_seconds": 2597.834,
+    "text": "SS: Yeah. I mean, she talks about these ghost ships."
+  },
+  {
+    "start": "00:43:17.867",
+    "end": "00:43:19.667",
+    "start_seconds": 2597.867,
+    "end_seconds": 2599.667,
+    "text": "And when we make a decision in life,"
+  },
+  {
+    "start": "00:43:19.701",
+    "end": "00:43:21.801",
+    "start_seconds": 2599.701,
+    "end_seconds": 2601.801,
+    "text": "it's sort of like we're standing on this pier"
+  },
+  {
+    "start": "00:43:21.834",
+    "end": "00:43:24.901",
+    "start_seconds": 2601.834,
+    "end_seconds": 2604.901,
+    "text": "and we have to choose to board a ship."
+  },
+  {
+    "start": "00:43:25.434",
+    "end": "00:43:28.867",
+    "start_seconds": 2605.434,
+    "end_seconds": 2608.867,
+    "text": "And that ship becomes your life, the life that you lead."
+  },
+  {
+    "start": "00:43:28.901",
+    "end": "00:43:31.834",
+    "start_seconds": 2608.901,
+    "end_seconds": 2611.834,
+    "text": "But in that exact same moment, there is a fleet of other ships"
+  },
+  {
+    "start": "00:43:31.834",
+    "end": "00:43:34.201",
+    "start_seconds": 2611.834,
+    "end_seconds": 2614.201,
+    "text": "that also disembark,"
+  },
+  {
+    "start": "00:43:34.234",
+    "end": "00:43:37.334",
+    "start_seconds": 2614.234,
+    "end_seconds": 2617.334,
+    "text": "and they represent all the other choices that you could have made."
+  },
+  {
+    "start": "00:43:37.367",
+    "end": "00:43:39.801",
+    "start_seconds": 2617.367,
+    "end_seconds": 2619.801,
+    "text": "I could have married this person or that person."
+  },
+  {
+    "start": "00:43:39.801",
+    "end": "00:43:43.567",
+    "start_seconds": 2619.801,
+    "end_seconds": 2623.567,
+    "text": "I could have moved here or there, taken this job or that job,"
+  },
+  {
+    "start": "00:43:43.601",
+    "end": "00:43:46.401",
+    "start_seconds": 2623.601,
+    "end_seconds": 2626.401,
+    "text": "decided to have kids, or not have kids."
+  },
+  {
+    "start": "00:43:46.734",
+    "end": "00:43:49.667",
+    "start_seconds": 2626.734,
+    "end_seconds": 2629.667,
+    "text": "And to be a human being means"
+  },
+  {
+    "start": "00:43:49.701",
+    "end": "00:43:53.534",
+    "start_seconds": 2629.701,
+    "end_seconds": 2633.534,
+    "text": "being willing to wave at those ghost ships."
+  },
+  {
+    "start": "00:43:54.034",
+    "end": "00:43:58.534",
+    "start_seconds": 2634.034,
+    "end_seconds": 2638.534,
+    "text": "This open sea of the life you have and the life you could have had,"
+  },
+  {
+    "start": "00:43:58.567",
+    "end": "00:44:01.834",
+    "start_seconds": 2638.567,
+    "end_seconds": 2641.834,
+    "text": "and being able to be OK with making friends"
+  },
+  {
+    "start": "00:44:01.867",
+    "end": "00:44:04.401",
+    "start_seconds": 2641.867,
+    "end_seconds": 2644.401,
+    "text": "as those ships fade into the fog,"
+  },
+  {
+    "start": "00:44:04.434",
+    "end": "00:44:06.134",
+    "start_seconds": 2644.434,
+    "end_seconds": 2646.134,
+    "text": "into the distance."
+  },
+  {
+    "start": "00:44:06.134",
+    "end": "00:44:09.134",
+    "start_seconds": 2646.134,
+    "end_seconds": 2649.134,
+    "text": "I think that is what it means to live with uncertainty."
+  },
+  {
+    "start": "00:44:09.167",
+    "end": "00:44:10.701",
+    "start_seconds": 2649.167,
+    "end_seconds": 2650.701,
+    "text": "So maybe we're wrapping up here."
+  },
+  {
+    "start": "00:44:10.734",
+    "end": "00:44:12.934",
+    "start_seconds": 2650.734,
+    "end_seconds": 2652.934,
+    "text": "We can just give one piece of advice."
+  },
+  {
+    "start": "00:44:13.967",
+    "end": "00:44:18.334",
+    "start_seconds": 2653.967,
+    "end_seconds": 2658.334,
+    "text": "MS: One of the questions from Anka A was around any specific tools"
+  },
+  {
+    "start": "00:44:18.367",
+    "end": "00:44:20.534",
+    "start_seconds": 2658.367,
+    "end_seconds": 2660.534,
+    "text": "that we would encourage people to use"
+  },
+  {
+    "start": "00:44:20.534",
+    "end": "00:44:23.567",
+    "start_seconds": 2660.534,
+    "end_seconds": 2663.567,
+    "text": "to increase their capacity to embrace uncertainty."
+  },
+  {
+    "start": "00:44:23.601",
+    "end": "00:44:27.067",
+    "start_seconds": 2663.601,
+    "end_seconds": 2667.067,
+    "text": "I'll share two really quickly and then we can end with you, Simone,"
+  },
+  {
+    "start": "00:44:27.501",
+    "end": "00:44:31.467",
+    "start_seconds": 2667.501,
+    "end_seconds": 2671.467,
+    "text": "The first is to do an exercise called affect labeling."
+  },
+  {
+    "start": "00:44:32.301",
+    "end": "00:44:34.867",
+    "start_seconds": 2672.301,
+    "end_seconds": 2674.867,
+    "text": "I have an entire chapter of \"The Other Side of Change\""
+  },
+  {
+    "start": "00:44:34.867",
+    "end": "00:44:36.101",
+    "start_seconds": 2674.867,
+    "end_seconds": 2676.101,
+    "text": "devoted to rumination"
+  },
+  {
+    "start": "00:44:36.134",
+    "end": "00:44:38.801",
+    "start_seconds": 2676.134,
+    "end_seconds": 2678.801,
+    "text": "because I feel like I have a personal PhD in rumination."
+  },
+  {
+    "start": "00:44:38.834",
+    "end": "00:44:41.601",
+    "start_seconds": 2678.834,
+    "end_seconds": 2681.601,
+    "text": "I am a pro, I can ruminate until the cows come home."
+  },
+  {
+    "start": "00:44:41.634",
+    "end": "00:44:43.501",
+    "start_seconds": 2681.634,
+    "end_seconds": 2683.501,
+    "text": "And so I have a whole set of strategies"
+  },
+  {
+    "start": "00:44:43.534",
+    "end": "00:44:47.967",
+    "start_seconds": 2683.534,
+    "end_seconds": 2687.967,
+    "text": "that articulate for how to tame that inner chatter critic"
+  },
+  {
+    "start": "00:44:48.001",
+    "end": "00:44:50.034",
+    "start_seconds": 2688.001,
+    "end_seconds": 2690.034,
+    "text": "that can drive us absolutely nuts."
+  },
+  {
+    "start": "00:44:50.634",
+    "end": "00:44:52.967",
+    "start_seconds": 2690.634,
+    "end_seconds": 2692.967,
+    "text": "Affect labeling is when you simply give"
+  },
+  {
+    "start": "00:44:53.001",
+    "end": "00:44:56.067",
+    "start_seconds": 2693.001,
+    "end_seconds": 2696.067,
+    "text": "your negative emotions specific labels."
+  },
+  {
+    "start": "00:44:56.101",
+    "end": "00:44:58.834",
+    "start_seconds": 2696.101,
+    "end_seconds": 2698.834,
+    "text": "So in the aftermath of a negative change,"
+  },
+  {
+    "start": "00:44:58.867",
+    "end": "00:45:00.834",
+    "start_seconds": 2698.867,
+    "end_seconds": 2700.834,
+    "text": "I might feel just a cloud of negativity,"
+  },
+  {
+    "start": "00:45:00.867",
+    "end": "00:45:05.201",
+    "start_seconds": 2700.867,
+    "end_seconds": 2705.201,
+    "text": "but identifying that the primary emotion I'm feeling is, for example,"
+  },
+  {
+    "start": "00:45:05.234",
+    "end": "00:45:08.834",
+    "start_seconds": 2705.234,
+    "end_seconds": 2708.834,
+    "text": "anger, envy, grief, sadness."
+  },
+  {
+    "start": "00:45:08.867",
+    "end": "00:45:11.934",
+    "start_seconds": 2708.867,
+    "end_seconds": 2711.934,
+    "text": "That can shift our focus away from being the emotion"
+  },
+  {
+    "start": "00:45:11.967",
+    "end": "00:45:13.867",
+    "start_seconds": 2711.967,
+    "end_seconds": 2713.867,
+    "text": "to simply having the emotion."
+  },
+  {
+    "start": "00:45:13.901",
+    "end": "00:45:17.101",
+    "start_seconds": 2713.901,
+    "end_seconds": 2717.101,
+    "text": "And that breeds what psychologists call psychological distance."
+  },
+  {
+    "start": "00:45:17.134",
+    "end": "00:45:21.034",
+    "start_seconds": 2717.134,
+    "end_seconds": 2721.034,
+    "text": "So it helps us see our situation from new vantage points and perspectives."
+  },
+  {
+    "start": "00:45:21.067",
+    "end": "00:45:25.434",
+    "start_seconds": 2721.067,
+    "end_seconds": 2725.434,
+    "text": "The other strategy is to just spend five minutes today"
+  },
+  {
+    "start": "00:45:25.434",
+    "end": "00:45:27.701",
+    "start_seconds": 2725.434,
+    "end_seconds": 2727.701,
+    "text": "engaging in a self-affirmation exercise."
+  },
+  {
+    "start": "00:45:27.734",
+    "end": "00:45:30.234",
+    "start_seconds": 2727.734,
+    "end_seconds": 2730.234,
+    "text": "This is where you write down all the traits"
+  },
+  {
+    "start": "00:45:30.267",
+    "end": "00:45:31.701",
+    "start_seconds": 2730.267,
+    "end_seconds": 2731.701,
+    "text": "that you value about yourself,"
+  },
+  {
+    "start": "00:45:31.734",
+    "end": "00:45:33.434",
+    "start_seconds": 2731.734,
+    "end_seconds": 2733.434,
+    "text": "all the identities you value,"
+  },
+  {
+    "start": "00:45:33.467",
+    "end": "00:45:36.267",
+    "start_seconds": 2733.467,
+    "end_seconds": 2736.267,
+    "text": "that are not threatened by the change you're going through."
+  },
+  {
+    "start": "00:45:36.301",
+    "end": "00:45:38.501",
+    "start_seconds": 2736.301,
+    "end_seconds": 2738.501,
+    "text": "So if you're having a rough go of it at work,"
+  },
+  {
+    "start": "00:45:38.534",
+    "end": "00:45:41.201",
+    "start_seconds": 2738.534,
+    "end_seconds": 2741.201,
+    "text": "you might mention your membership on the pickleball team"
+  },
+  {
+    "start": "00:45:41.234",
+    "end": "00:45:42.401",
+    "start_seconds": 2741.234,
+    "end_seconds": 2742.401,
+    "text": "in your local community."
+  },
+  {
+    "start": "00:45:42.434",
+    "end": "00:45:44.834",
+    "start_seconds": 2742.434,
+    "end_seconds": 2744.834,
+    "text": "Or if you're struggling in a relationship,"
+  },
+  {
+    "start": "00:45:44.867",
+    "end": "00:45:46.867",
+    "start_seconds": 2744.867,
+    "end_seconds": 2746.867,
+    "text": "you might focus on your spiritual life."
+  },
+  {
+    "start": "00:45:46.901",
+    "end": "00:45:50.767",
+    "start_seconds": 2746.901,
+    "end_seconds": 2750.767,
+    "text": "The idea behind this exercise is that when you articulate all, you know,"
+  },
+  {
+    "start": "00:45:50.801",
+    "end": "00:45:53.201",
+    "start_seconds": 2750.801,
+    "end_seconds": 2753.201,
+    "text": "as Simo was talking about with anchors, right?"
+  },
+  {
+    "start": "00:45:53.234",
+    "end": "00:45:56.534",
+    "start_seconds": 2753.234,
+    "end_seconds": 2756.534,
+    "text": "When you articulate all the things that define your life,"
+  },
+  {
+    "start": "00:45:56.567",
+    "end": "00:45:58.701",
+    "start_seconds": 2756.567,
+    "end_seconds": 2758.701,
+    "text": "then when a change threatens one area,"
+  },
+  {
+    "start": "00:45:58.734",
+    "end": "00:46:02.334",
+    "start_seconds": 2758.734,
+    "end_seconds": 2762.334,
+    "text": "you don't feel entirely unmoored,"
+  },
+  {
+    "start": "00:46:02.334",
+    "end": "00:46:04.734",
+    "start_seconds": 2762.334,
+    "end_seconds": 2764.734,
+    "text": "you know that there are still so many parts of you"
+  },
+  {
+    "start": "00:46:04.767",
+    "end": "00:46:08.634",
+    "start_seconds": 2764.767,
+    "end_seconds": 2768.634,
+    "text": "that are still very alive and robust and steady during these moments,"
+  },
+  {
+    "start": "00:46:08.667",
+    "end": "00:46:10.467",
+    "start_seconds": 2768.667,
+    "end_seconds": 2770.467,
+    "text": "and it helps you zoom out"
+  },
+  {
+    "start": "00:46:10.467",
+    "end": "00:46:12.434",
+    "start_seconds": 2770.467,
+    "end_seconds": 2772.434,
+    "text": "from whatever loss you're experiencing"
+  },
+  {
+    "start": "00:46:12.467",
+    "end": "00:46:16.201",
+    "start_seconds": 2772.467,
+    "end_seconds": 2776.201,
+    "text": "and to see that you're living a very rich and multi-dimensional life."
+  },
+  {
+    "start": "00:46:16.234",
+    "end": "00:46:19.334",
+    "start_seconds": 2776.234,
+    "end_seconds": 2779.334,
+    "text": "I did this in the throes of the pregnancy losses,"
+  },
+  {
+    "start": "00:46:19.367",
+    "end": "00:46:22.534",
+    "start_seconds": 2779.367,
+    "end_seconds": 2782.534,
+    "text": "where so much of my attention was on trying to become a mom,"
+  },
+  {
+    "start": "00:46:22.534",
+    "end": "00:46:26.534",
+    "start_seconds": 2782.534,
+    "end_seconds": 2786.534,
+    "text": "that I lost sight of all these other rich and beautiful identities I had."
+  },
+  {
+    "start": "00:46:26.901",
+    "end": "00:46:29.434",
+    "start_seconds": 2786.901,
+    "end_seconds": 2789.434,
+    "text": "And so I found that to be a very useful exercise."
+  },
+  {
+    "start": "00:46:30.067",
+    "end": "00:46:32.401",
+    "start_seconds": 2790.067,
+    "end_seconds": 2792.401,
+    "text": "Simo, over to you for the last minute."
+  },
+  {
+    "start": "00:46:32.434",
+    "end": "00:46:35.467",
+    "start_seconds": 2792.434,
+    "end_seconds": 2795.467,
+    "text": "SS: Well, maybe I'll end with another quick story,"
+  },
+  {
+    "start": "00:46:35.501",
+    "end": "00:46:37.667",
+    "start_seconds": 2795.501,
+    "end_seconds": 2797.667,
+    "text": "which comes from a friend of mine named Emily."
+  },
+  {
+    "start": "00:46:37.701",
+    "end": "00:46:41.001",
+    "start_seconds": 2797.701,
+    "end_seconds": 2801.001,
+    "text": "And Emily is a therapist, a mental health professional."
+  },
+  {
+    "start": "00:46:41.034",
+    "end": "00:46:42.267",
+    "start_seconds": 2801.034,
+    "end_seconds": 2802.267,
+    "text": "But in her early 20s,"
+  },
+  {
+    "start": "00:46:42.301",
+    "end": "00:46:46.101",
+    "start_seconds": 2802.301,
+    "end_seconds": 2806.101,
+    "text": "her mom was given a potentially terminal diagnosis."
+  },
+  {
+    "start": "00:46:46.134",
+    "end": "00:46:50.334",
+    "start_seconds": 2806.134,
+    "end_seconds": 2810.334,
+    "text": "And so she spent weeks by her mom's side sitting in the hospital,"
+  },
+  {
+    "start": "00:46:50.367",
+    "end": "00:46:51.867",
+    "start_seconds": 2810.367,
+    "end_seconds": 2811.867,
+    "text": "and she was really struggling."
+  },
+  {
+    "start": "00:46:51.901",
+    "end": "00:46:54.534",
+    "start_seconds": 2811.901,
+    "end_seconds": 2814.534,
+    "text": "She was riding this emotional roller coaster"
+  },
+  {
+    "start": "00:46:54.567",
+    "end": "00:46:57.067",
+    "start_seconds": 2814.567,
+    "end_seconds": 2817.067,
+    "text": "of fear and anticipatory grief."
+  },
+  {
+    "start": "00:46:57.067",
+    "end": "00:47:00.467",
+    "start_seconds": 2817.067,
+    "end_seconds": 2820.467,
+    "text": "And one day, a family friend of Emily's named Bill came to visit."
+  },
+  {
+    "start": "00:47:00.467",
+    "end": "00:47:02.034",
+    "start_seconds": 2820.467,
+    "end_seconds": 2822.034,
+    "text": "And Bill is an oncology doctor."
+  },
+  {
+    "start": "00:47:02.067",
+    "end": "00:47:05.534",
+    "start_seconds": 2822.067,
+    "end_seconds": 2825.534,
+    "text": "So he has lots of experience helping people at the end of their lives."
+  },
+  {
+    "start": "00:47:05.567",
+    "end": "00:47:07.301",
+    "start_seconds": 2825.567,
+    "end_seconds": 2827.301,
+    "text": "He asked Emily, \"How are you doing?\""
+  },
+  {
+    "start": "00:47:07.301",
+    "end": "00:47:09.367",
+    "start_seconds": 2827.301,
+    "end_seconds": 2829.367,
+    "text": "And she said, \"Honestly, not very well."
+  },
+  {
+    "start": "00:47:09.401",
+    "end": "00:47:10.567",
+    "start_seconds": 2829.401,
+    "end_seconds": 2830.567,
+    "text": "I'm terrified."
+  },
+  {
+    "start": "00:47:10.601",
+    "end": "00:47:13.734",
+    "start_seconds": 2830.601,
+    "end_seconds": 2833.734,
+    "text": "I do not know what I'll do if my mom passes away.\""
+  },
+  {
+    "start": "00:47:14.367",
+    "end": "00:47:15.834",
+    "start_seconds": 2834.367,
+    "end_seconds": 2835.834,
+    "text": "Bill said something very wise."
+  },
+  {
+    "start": "00:47:15.867",
+    "end": "00:47:21.701",
+    "start_seconds": 2835.867,
+    "end_seconds": 2841.701,
+    "text": "He said, \"Emily, the version of you that will deal with that tragic event"
+  },
+  {
+    "start": "00:47:21.734",
+    "end": "00:47:24.667",
+    "start_seconds": 2841.734,
+    "end_seconds": 2844.667,
+    "text": "if or when it ever takes place,"
+  },
+  {
+    "start": "00:47:24.701",
+    "end": "00:47:27.934",
+    "start_seconds": 2844.701,
+    "end_seconds": 2847.934,
+    "text": "will be born into existence in that moment."
+  },
+  {
+    "start": "00:47:28.667",
+    "end": "00:47:32.034",
+    "start_seconds": 2848.667,
+    "end_seconds": 2852.034,
+    "text": "And that version of you will have more context,"
+  },
+  {
+    "start": "00:47:32.067",
+    "end": "00:47:33.734",
+    "start_seconds": 2852.067,
+    "end_seconds": 2853.734,
+    "text": "more information,"
+  },
+  {
+    "start": "00:47:33.767",
+    "end": "00:47:37.667",
+    "start_seconds": 2853.767,
+    "end_seconds": 2857.667,
+    "text": "and be better equipped to deal with it than you are today."
+  },
+  {
+    "start": "00:47:38.667",
+    "end": "00:47:44.067",
+    "start_seconds": 2858.667,
+    "end_seconds": 2864.067,
+    "text": "You have to trust in your future self to handle your future problems.\""
+  },
+  {
+    "start": "00:47:45.034",
+    "end": "00:47:48.034",
+    "start_seconds": 2865.034,
+    "end_seconds": 2868.034,
+    "text": "And I love this idea of trusting in our future selves,"
+  },
+  {
+    "start": "00:47:48.067",
+    "end": "00:47:51.334",
+    "start_seconds": 2868.067,
+    "end_seconds": 2871.334,
+    "text": "because so often when faced with uncertainty or change,"
+  },
+  {
+    "start": "00:47:51.367",
+    "end": "00:47:53.134",
+    "start_seconds": 2871.367,
+    "end_seconds": 2873.134,
+    "text": "we rush out to meet our worry."
+  },
+  {
+    "start": "00:47:53.467",
+    "end": "00:47:55.667",
+    "start_seconds": 2873.467,
+    "end_seconds": 2875.667,
+    "text": "We think of all the things that could go wrong,"
+  },
+  {
+    "start": "00:47:55.701",
+    "end": "00:47:59.201",
+    "start_seconds": 2875.701,
+    "end_seconds": 2879.201,
+    "text": "our minds catastrophize, we spiral through all of this doubt."
+  },
+  {
+    "start": "00:47:59.801",
+    "end": "00:48:03.501",
+    "start_seconds": 2879.801,
+    "end_seconds": 2883.501,
+    "text": "And yet, that brings us away from the sphere of influence"
+  },
+  {
+    "start": "00:48:03.534",
+    "end": "00:48:05.534",
+    "start_seconds": 2883.534,
+    "end_seconds": 2885.534,
+    "text": "that we have in the present."
+  },
+  {
+    "start": "00:48:05.567",
+    "end": "00:48:06.967",
+    "start_seconds": 2885.567,
+    "end_seconds": 2886.967,
+    "text": "It brings us into the future."
+  },
+  {
+    "start": "00:48:06.967",
+    "end": "00:48:11.834",
+    "start_seconds": 2886.967,
+    "end_seconds": 2891.834,
+    "text": "But how can we stay grounded and be able to trust in our future self?"
+  },
+  {
+    "start": "00:48:12.301",
+    "end": "00:48:15.434",
+    "start_seconds": 2892.301,
+    "end_seconds": 2895.434,
+    "text": "And in Emily's case, she's so glad that she followed Bill's advice"
+  },
+  {
+    "start": "00:48:15.434",
+    "end": "00:48:18.101",
+    "start_seconds": 2895.434,
+    "end_seconds": 2898.101,
+    "text": "because her mom ended up recovering"
+  },
+  {
+    "start": "00:48:18.134",
+    "end": "00:48:20.601",
+    "start_seconds": 2898.134,
+    "end_seconds": 2900.601,
+    "text": "and making [it] out of the hospital,"
+  },
+  {
+    "start": "00:48:20.634",
+    "end": "00:48:23.134",
+    "start_seconds": 2900.634,
+    "end_seconds": 2903.134,
+    "text": "and she didn't need to needlessly worry"
+  },
+  {
+    "start": "00:48:23.167",
+    "end": "00:48:25.267",
+    "start_seconds": 2903.167,
+    "end_seconds": 2905.267,
+    "text": "about something that never came to pass."
+  },
+  {
+    "start": "00:48:25.601",
+    "end": "00:48:29.634",
+    "start_seconds": 2905.601,
+    "end_seconds": 2909.634,
+    "text": "So maybe take those three things with you as you go out throughout your day."
+  },
+  {
+    "start": "00:48:29.667",
+    "end": "00:48:33.701",
+    "start_seconds": 2909.667,
+    "end_seconds": 2913.701,
+    "text": "Think about how you might be able to think about the constants in your life."
+  },
+  {
+    "start": "00:48:34.067",
+    "end": "00:48:37.467",
+    "start_seconds": 2914.067,
+    "end_seconds": 2917.467,
+    "text": "Think about how you can name the actual feelings that you're feeling"
+  },
+  {
+    "start": "00:48:37.467",
+    "end": "00:48:39.201",
+    "start_seconds": 2917.467,
+    "end_seconds": 2919.201,
+    "text": "and not be those feelings."
+  },
+  {
+    "start": "00:48:39.601",
+    "end": "00:48:42.467",
+    "start_seconds": 2919.601,
+    "end_seconds": 2922.467,
+    "text": "And then think about how you might be able to cultivate trust"
+  },
+  {
+    "start": "00:48:42.467",
+    "end": "00:48:43.967",
+    "start_seconds": 2922.467,
+    "end_seconds": 2923.967,
+    "text": "in your future self."
+  },
+  {
+    "start": "00:48:44.001",
+    "end": "00:48:45.601",
+    "start_seconds": 2924.001,
+    "end_seconds": 2925.601,
+    "text": "Thank you so much for being here."
+  },
+  {
+    "start": "00:48:45.634",
+    "end": "00:48:47.167",
+    "start_seconds": 2925.634,
+    "end_seconds": 2927.167,
+    "text": "Thank you TED for having us."
+  },
+  {
+    "start": "00:48:47.201",
+    "end": "00:48:50.067",
+    "start_seconds": 2927.201,
+    "end_seconds": 2930.067,
+    "text": "Thank you Maya for being such a great conversation partner."
+  },
+  {
+    "start": "00:48:50.101",
+    "end": "00:48:51.534",
+    "start_seconds": 2930.101,
+    "end_seconds": 2931.534,
+    "text": "MS: Thank you so much, Simone."
+  },
+  {
+    "start": "00:48:51.567",
+    "end": "00:48:52.834",
+    "start_seconds": 2931.567,
+    "end_seconds": 2932.834,
+    "text": "It was such a pleasure."
+  },
+  {
+    "start": "00:48:52.867",
+    "end": "00:48:54.967",
+    "start_seconds": 2932.867,
+    "end_seconds": 2934.967,
+    "text": "[Want to support TED?]"
+  },
+  {
+    "start": "00:48:54.967",
+    "end": "00:48:56.667",
+    "start_seconds": 2934.967,
+    "end_seconds": 2936.667,
+    "text": "[Become a TED Member!]"
+  },
+  {
+    "start": "00:48:56.667",
+    "end": "00:48:58.301",
+    "start_seconds": 2936.667,
+    "end_seconds": 2938.301,
+    "text": "[Learn more at ted.com/membership]"
+  }
+]

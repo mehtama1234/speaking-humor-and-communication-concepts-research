@@ -1,0 +1,1147 @@
+{
+  "schema_version": "1.0",
+  "status": "keyword_retrieval_leads_not_semantic_validation",
+  "claim_boundary": "Counts locate candidate contexts and do not establish semantic fit, recurrence, delivery meaning, transfer, or effectiveness.",
+  "rows": [
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "consequence_first_orientation",
+      "review_item_id": "ali-001",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 1282,
+      "transcripts_with_keyword_hits": 172,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "XVJc7WmNTFU",
+          "title": "Meeting My Attorney Reo | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#2",
+          "video_id": "fLQSIQIFYDo",
+          "title": "Digging Up the Begonias | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 3
+        },
+        {
+          "ref": "#3",
+          "video_id": "8HMY-iGc5hU",
+          "title": "My Favorite Uncle Was a Crazy Man | Ali Siddiq: My Father (Part 6 of 13) | Stand Up Comedy",
+          "occurrences": 10
+        },
+        {
+          "ref": "#4",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#5",
+          "video_id": "QRJJDB0uGEg",
+          "title": "Charles (Part 13 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 3
+        },
+        {
+          "ref": "#6",
+          "video_id": "9jOhTI2B-ZY",
+          "title": "Father's Influence (Part 11 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#7",
+          "video_id": "Gu6HhAWUbvY",
+          "title": "Would You Pay To Attend a Funeral? | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 5
+        },
+        {
+          "ref": "#8",
+          "video_id": "NZw8zqvJGG8",
+          "title": "A Message For Parents | Se7en the Poet | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 4
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "scene_detail_as_compression",
+      "review_item_id": "ali-002",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 921,
+      "transcripts_with_keyword_hits": 128,
+      "bounded_example_refs": [
+        {
+          "ref": "#2",
+          "video_id": "fLQSIQIFYDo",
+          "title": "Digging Up the Begonias | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 9
+        },
+        {
+          "ref": "#4",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "occurrences": 9
+        },
+        {
+          "ref": "#5",
+          "video_id": "QRJJDB0uGEg",
+          "title": "Charles (Part 13 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#6",
+          "video_id": "9jOhTI2B-ZY",
+          "title": "Father's Influence (Part 11 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#8",
+          "video_id": "NZw8zqvJGG8",
+          "title": "A Message For Parents | Se7en the Poet | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 7
+        },
+        {
+          "ref": "#9",
+          "video_id": "J9zR4OLN3vM",
+          "title": "Funeral Homes Are a Scam | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS | Stand Up Comedy",
+          "occurrences": 4
+        },
+        {
+          "ref": "#10",
+          "video_id": "0jPUikpbyck",
+          "title": "ALI SIDDIQ presents THE JIVE TURKEYS Comedy Special  {Full Stand Up Special}",
+          "occurrences": 63
+        },
+        {
+          "ref": "#12",
+          "video_id": "eQsIvQtqoBk",
+          "title": "Lost My Girl (Part 7 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 5
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "escalation_by_changed_conditions",
+      "review_item_id": "ali-003",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 1111,
+      "transcripts_with_keyword_hits": 166,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "XVJc7WmNTFU",
+          "title": "Meeting My Attorney Reo | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 6
+        },
+        {
+          "ref": "#2",
+          "video_id": "fLQSIQIFYDo",
+          "title": "Digging Up the Begonias | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#3",
+          "video_id": "8HMY-iGc5hU",
+          "title": "My Favorite Uncle Was a Crazy Man | Ali Siddiq: My Father (Part 6 of 13) | Stand Up Comedy",
+          "occurrences": 3
+        },
+        {
+          "ref": "#4",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "occurrences": 4
+        },
+        {
+          "ref": "#5",
+          "video_id": "QRJJDB0uGEg",
+          "title": "Charles (Part 13 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#6",
+          "video_id": "9jOhTI2B-ZY",
+          "title": "Father's Influence (Part 11 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#7",
+          "video_id": "Gu6HhAWUbvY",
+          "title": "Would You Pay To Attend a Funeral? | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 8
+        },
+        {
+          "ref": "#8",
+          "video_id": "NZw8zqvJGG8",
+          "title": "A Message For Parents | Se7en the Poet | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 11
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "character_contrast_and_point_of_view",
+      "review_item_id": "ali-004",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 3061,
+      "transcripts_with_keyword_hits": 171,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "XVJc7WmNTFU",
+          "title": "Meeting My Attorney Reo | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 6
+        },
+        {
+          "ref": "#2",
+          "video_id": "fLQSIQIFYDo",
+          "title": "Digging Up the Begonias | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 8
+        },
+        {
+          "ref": "#3",
+          "video_id": "8HMY-iGc5hU",
+          "title": "My Favorite Uncle Was a Crazy Man | Ali Siddiq: My Father (Part 6 of 13) | Stand Up Comedy",
+          "occurrences": 36
+        },
+        {
+          "ref": "#4",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "occurrences": 35
+        },
+        {
+          "ref": "#5",
+          "video_id": "QRJJDB0uGEg",
+          "title": "Charles (Part 13 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 10
+        },
+        {
+          "ref": "#6",
+          "video_id": "9jOhTI2B-ZY",
+          "title": "Father's Influence (Part 11 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 5
+        },
+        {
+          "ref": "#7",
+          "video_id": "Gu6HhAWUbvY",
+          "title": "Would You Pay To Attend a Funeral? | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 1
+        },
+        {
+          "ref": "#9",
+          "video_id": "J9zR4OLN3vM",
+          "title": "Funeral Homes Are a Scam | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS | Stand Up Comedy",
+          "occurrences": 23
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "public_repair_as_relationship_maintenance",
+      "review_item_id": "ali-005",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 1086,
+      "transcripts_with_keyword_hits": 162,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "XVJc7WmNTFU",
+          "title": "Meeting My Attorney Reo | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 3
+        },
+        {
+          "ref": "#2",
+          "video_id": "fLQSIQIFYDo",
+          "title": "Digging Up the Begonias | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#3",
+          "video_id": "8HMY-iGc5hU",
+          "title": "My Favorite Uncle Was a Crazy Man | Ali Siddiq: My Father (Part 6 of 13) | Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#4",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "occurrences": 2
+        },
+        {
+          "ref": "#5",
+          "video_id": "QRJJDB0uGEg",
+          "title": "Charles (Part 13 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 4
+        },
+        {
+          "ref": "#7",
+          "video_id": "Gu6HhAWUbvY",
+          "title": "Would You Pay To Attend a Funeral? | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 10
+        },
+        {
+          "ref": "#8",
+          "video_id": "NZw8zqvJGG8",
+          "title": "A Message For Parents | Se7en the Poet | ALI SIDDIQ presents THE JIVE TURKEYS",
+          "occurrences": 2
+        },
+        {
+          "ref": "#9",
+          "video_id": "J9zR4OLN3vM",
+          "title": "Funeral Homes Are a Scam | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS | Stand Up Comedy",
+          "occurrences": 8
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "repetition_callback_and_transformed_meaning",
+      "review_item_id": "ali-006",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 210,
+      "transcripts_with_keyword_hits": 91,
+      "bounded_example_refs": [
+        {
+          "ref": "#2",
+          "video_id": "fLQSIQIFYDo",
+          "title": "Digging Up the Begonias | The Domino Effect Part 3 | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#4",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#9",
+          "video_id": "J9zR4OLN3vM",
+          "title": "Funeral Homes Are a Scam | Marcus D. Wiley | ALI SIDDIQ presents THE JIVE TURKEYS | Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#10",
+          "video_id": "0jPUikpbyck",
+          "title": "ALI SIDDIQ presents THE JIVE TURKEYS Comedy Special  {Full Stand Up Special}",
+          "occurrences": 11
+        },
+        {
+          "ref": "#13",
+          "video_id": "unGX3azJQ98",
+          "title": "High School Couples (Part 6 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#14",
+          "video_id": "S8Qxn-qThYo",
+          "title": "Ali Siddiq: From Inside | Official Trailer",
+          "occurrences": 1
+        },
+        {
+          "ref": "#16",
+          "video_id": "8rWD9do9Pec",
+          "title": "First Girlfriend (Part 3 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#17",
+          "video_id": "lWUKuoE58Lw",
+          "title": "Allowed To Be a Kid Again (Part 2 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ali-siddiq-wave-2",
+      "candidate_pattern": "difficulty_made_discussable_through_humor",
+      "review_item_id": "ali-007",
+      "transcripts_available": 202,
+      "total_words": 148482,
+      "keyword_occurrences": 264,
+      "transcripts_with_keyword_hits": 64,
+      "bounded_example_refs": [
+        {
+          "ref": "#6",
+          "video_id": "9jOhTI2B-ZY",
+          "title": "Father's Influence (Part 11 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#10",
+          "video_id": "0jPUikpbyck",
+          "title": "ALI SIDDIQ presents THE JIVE TURKEYS Comedy Special  {Full Stand Up Special}",
+          "occurrences": 19
+        },
+        {
+          "ref": "#11",
+          "video_id": "W6AkV-DTc20",
+          "title": "Lost My Job (Part 8 of 20) | Domino Effect Part 2: Loss | Ali Siddiq Stand Up Comedy",
+          "occurrences": 1
+        },
+        {
+          "ref": "#18",
+          "video_id": "Kpit8VcHkrg",
+          "title": "Cleaning vs Straightening Up (Part 15 of 15) | Marcus D. Wiley: REHAB | Stand Up",
+          "occurrences": 2
+        },
+        {
+          "ref": "#19",
+          "video_id": "TGdVX0DRY9E",
+          "title": "Cooking VS Fixing Food (Part 14 of 15) | Marcus D. Wiley: REHAB | Stand Up",
+          "occurrences": 1
+        },
+        {
+          "ref": "#20",
+          "video_id": "fSLkNTdC8fU",
+          "title": "You Have to Let the Marriage Mature (Part 13 of 15) | Marcus D. Wiley: REHAB | Stand Up",
+          "occurrences": 7
+        },
+        {
+          "ref": "#22",
+          "video_id": "lsJreQ2jE6Y",
+          "title": "Happiness & Marriage Don't Go Together (Part 11 of 15) | Marcus D. Wiley: REHAB | Stand Up",
+          "occurrences": 8
+        },
+        {
+          "ref": "#23",
+          "video_id": "DDoTSivuPJ4",
+          "title": "Destination Wedding, No Destination Marriage (Part 10 of 15) | Marcus D. Wiley: REHAB | Stand Up",
+          "occurrences": 5
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "dry-bar-comedy-wave-2-starter",
+      "candidate_pattern": "concrete_friction_before_generalization",
+      "review_item_id": "drybar-001",
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "keyword_occurrences": 709,
+      "transcripts_with_keyword_hits": 35,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "occurrences": 43
+        },
+        {
+          "ref": "#2",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "occurrences": 54
+        },
+        {
+          "ref": "#3",
+          "video_id": "dykBd5NUc2M",
+          "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+          "occurrences": 10
+        },
+        {
+          "ref": "#4",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "occurrences": 20
+        },
+        {
+          "ref": "#5",
+          "video_id": "JIcmdlbGy7w",
+          "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+          "occurrences": 14
+        },
+        {
+          "ref": "#6",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "occurrences": 37
+        },
+        {
+          "ref": "#8",
+          "video_id": "2ocpXt91UIM",
+          "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+          "occurrences": 15
+        },
+        {
+          "ref": "#9",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "occurrences": 17
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "dry-bar-comedy-wave-2-starter",
+      "candidate_pattern": "premise_promise_turn_payoff",
+      "review_item_id": "drybar-002",
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "keyword_occurrences": 1959,
+      "transcripts_with_keyword_hits": 37,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "occurrences": 52
+        },
+        {
+          "ref": "#2",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "occurrences": 136
+        },
+        {
+          "ref": "#3",
+          "video_id": "dykBd5NUc2M",
+          "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+          "occurrences": 26
+        },
+        {
+          "ref": "#4",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "occurrences": 60
+        },
+        {
+          "ref": "#5",
+          "video_id": "JIcmdlbGy7w",
+          "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+          "occurrences": 61
+        },
+        {
+          "ref": "#6",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "occurrences": 143
+        },
+        {
+          "ref": "#8",
+          "video_id": "2ocpXt91UIM",
+          "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+          "occurrences": 11
+        },
+        {
+          "ref": "#9",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "occurrences": 89
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "dry-bar-comedy-wave-2-starter",
+      "candidate_pattern": "contrast_and_frame_replacement",
+      "review_item_id": "drybar-003",
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "keyword_occurrences": 1194,
+      "transcripts_with_keyword_hits": 37,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "occurrences": 21
+        },
+        {
+          "ref": "#2",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "occurrences": 66
+        },
+        {
+          "ref": "#3",
+          "video_id": "dykBd5NUc2M",
+          "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+          "occurrences": 27
+        },
+        {
+          "ref": "#4",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "occurrences": 38
+        },
+        {
+          "ref": "#5",
+          "video_id": "JIcmdlbGy7w",
+          "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+          "occurrences": 29
+        },
+        {
+          "ref": "#6",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "occurrences": 85
+        },
+        {
+          "ref": "#8",
+          "video_id": "2ocpXt91UIM",
+          "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+          "occurrences": 5
+        },
+        {
+          "ref": "#9",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "occurrences": 72
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "dry-bar-comedy-wave-2-starter",
+      "candidate_pattern": "character_specificity_and_point_of_view",
+      "review_item_id": "drybar-004",
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "keyword_occurrences": 2784,
+      "transcripts_with_keyword_hits": 36,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "occurrences": 142
+        },
+        {
+          "ref": "#2",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "occurrences": 223
+        },
+        {
+          "ref": "#3",
+          "video_id": "dykBd5NUc2M",
+          "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+          "occurrences": 41
+        },
+        {
+          "ref": "#4",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "occurrences": 149
+        },
+        {
+          "ref": "#5",
+          "video_id": "JIcmdlbGy7w",
+          "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+          "occurrences": 173
+        },
+        {
+          "ref": "#6",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "occurrences": 170
+        },
+        {
+          "ref": "#8",
+          "video_id": "2ocpXt91UIM",
+          "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+          "occurrences": 12
+        },
+        {
+          "ref": "#9",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "occurrences": 47
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "dry-bar-comedy-wave-2-starter",
+      "candidate_pattern": "room_awareness_and_recovery",
+      "review_item_id": "drybar-005",
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "keyword_occurrences": 5807,
+      "transcripts_with_keyword_hits": 37,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "occurrences": 227
+        },
+        {
+          "ref": "#2",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "occurrences": 359
+        },
+        {
+          "ref": "#3",
+          "video_id": "dykBd5NUc2M",
+          "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+          "occurrences": 89
+        },
+        {
+          "ref": "#4",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "occurrences": 209
+        },
+        {
+          "ref": "#5",
+          "video_id": "JIcmdlbGy7w",
+          "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+          "occurrences": 273
+        },
+        {
+          "ref": "#6",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "occurrences": 337
+        },
+        {
+          "ref": "#8",
+          "video_id": "2ocpXt91UIM",
+          "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+          "occurrences": 14
+        },
+        {
+          "ref": "#9",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "occurrences": 295
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "dry-bar-comedy-wave-2-starter",
+      "candidate_pattern": "self_inclusion_as_safety_boundary",
+      "review_item_id": "drybar-006",
+      "transcripts_available": 37,
+      "total_words": 178691,
+      "keyword_occurrences": 12945,
+      "transcripts_with_keyword_hits": 37,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "occurrences": 535
+        },
+        {
+          "ref": "#2",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "occurrences": 933
+        },
+        {
+          "ref": "#3",
+          "video_id": "dykBd5NUc2M",
+          "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+          "occurrences": 249
+        },
+        {
+          "ref": "#4",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "occurrences": 463
+        },
+        {
+          "ref": "#5",
+          "video_id": "JIcmdlbGy7w",
+          "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+          "occurrences": 507
+        },
+        {
+          "ref": "#6",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "occurrences": 645
+        },
+        {
+          "ref": "#8",
+          "video_id": "2ocpXt91UIM",
+          "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+          "occurrences": 69
+        },
+        {
+          "ref": "#9",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "occurrences": 527
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ted-wave-2-starter",
+      "candidate_pattern": "concrete_opening_before_abstraction",
+      "review_item_id": "ted-001",
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "keyword_occurrences": 475,
+      "transcripts_with_keyword_hits": 38,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "occurrences": 71
+        },
+        {
+          "ref": "#2",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "occurrences": 8
+        },
+        {
+          "ref": "#3",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "occurrences": 2
+        },
+        {
+          "ref": "#4",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "occurrences": 5
+        },
+        {
+          "ref": "#5",
+          "video_id": "4qtsOh2FwIs",
+          "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+          "occurrences": 22
+        },
+        {
+          "ref": "#6",
+          "video_id": "owRN5fVLoEk",
+          "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+          "occurrences": 20
+        },
+        {
+          "ref": "#8",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "occurrences": 4
+        },
+        {
+          "ref": "#9",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "occurrences": 32
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ted-wave-2-starter",
+      "candidate_pattern": "question_to_thesis_orientation",
+      "review_item_id": "ted-002",
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "keyword_occurrences": 537,
+      "transcripts_with_keyword_hits": 37,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "occurrences": 55
+        },
+        {
+          "ref": "#2",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "occurrences": 6
+        },
+        {
+          "ref": "#3",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "occurrences": 3
+        },
+        {
+          "ref": "#4",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "occurrences": 4
+        },
+        {
+          "ref": "#5",
+          "video_id": "4qtsOh2FwIs",
+          "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+          "occurrences": 27
+        },
+        {
+          "ref": "#6",
+          "video_id": "owRN5fVLoEk",
+          "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+          "occurrences": 11
+        },
+        {
+          "ref": "#8",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "occurrences": 6
+        },
+        {
+          "ref": "#9",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "occurrences": 47
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ted-wave-2-starter",
+      "candidate_pattern": "analogy_or_explanation_bridge",
+      "review_item_id": "ted-003",
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "keyword_occurrences": 866,
+      "transcripts_with_keyword_hits": 38,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "occurrences": 53
+        },
+        {
+          "ref": "#2",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "occurrences": 5
+        },
+        {
+          "ref": "#3",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "occurrences": 4
+        },
+        {
+          "ref": "#4",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "occurrences": 6
+        },
+        {
+          "ref": "#5",
+          "video_id": "4qtsOh2FwIs",
+          "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+          "occurrences": 122
+        },
+        {
+          "ref": "#6",
+          "video_id": "owRN5fVLoEk",
+          "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+          "occurrences": 29
+        },
+        {
+          "ref": "#8",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "occurrences": 14
+        },
+        {
+          "ref": "#9",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "occurrences": 71
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ted-wave-2-starter",
+      "candidate_pattern": "contrast_before_after_reframe",
+      "review_item_id": "ted-004",
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "keyword_occurrences": 701,
+      "transcripts_with_keyword_hits": 38,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "occurrences": 56
+        },
+        {
+          "ref": "#2",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "occurrences": 6
+        },
+        {
+          "ref": "#3",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "occurrences": 10
+        },
+        {
+          "ref": "#4",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "occurrences": 14
+        },
+        {
+          "ref": "#5",
+          "video_id": "4qtsOh2FwIs",
+          "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+          "occurrences": 45
+        },
+        {
+          "ref": "#6",
+          "video_id": "owRN5fVLoEk",
+          "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+          "occurrences": 16
+        },
+        {
+          "ref": "#8",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "occurrences": 6
+        },
+        {
+          "ref": "#9",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "occurrences": 43
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ted-wave-2-starter",
+      "candidate_pattern": "story_to_principle_transition",
+      "review_item_id": "ted-005",
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "keyword_occurrences": 1106,
+      "transcripts_with_keyword_hits": 38,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "occurrences": 131
+        },
+        {
+          "ref": "#2",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "occurrences": 19
+        },
+        {
+          "ref": "#3",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "occurrences": 16
+        },
+        {
+          "ref": "#4",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "occurrences": 16
+        },
+        {
+          "ref": "#5",
+          "video_id": "4qtsOh2FwIs",
+          "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+          "occurrences": 83
+        },
+        {
+          "ref": "#6",
+          "video_id": "owRN5fVLoEk",
+          "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+          "occurrences": 42
+        },
+        {
+          "ref": "#8",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "occurrences": 15
+        },
+        {
+          "ref": "#9",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "occurrences": 92
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    },
+    {
+      "source": "ted-wave-2-starter",
+      "candidate_pattern": "audience_orientation_and_close",
+      "review_item_id": "ted-006",
+      "transcripts_available": 38,
+      "total_words": 81429,
+      "keyword_occurrences": 3147,
+      "transcripts_with_keyword_hits": 38,
+      "bounded_example_refs": [
+        {
+          "ref": "#1",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "occurrences": 311
+        },
+        {
+          "ref": "#2",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "occurrences": 37
+        },
+        {
+          "ref": "#3",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "occurrences": 11
+        },
+        {
+          "ref": "#4",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "occurrences": 39
+        },
+        {
+          "ref": "#5",
+          "video_id": "4qtsOh2FwIs",
+          "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+          "occurrences": 252
+        },
+        {
+          "ref": "#6",
+          "video_id": "owRN5fVLoEk",
+          "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+          "occurrences": 111
+        },
+        {
+          "ref": "#8",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "occurrences": 23
+        },
+        {
+          "ref": "#9",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "occurrences": 198
+        }
+      ],
+      "status": "keyword_retrieval_lead_requires_contextual_review"
+    }
+  ]
+}

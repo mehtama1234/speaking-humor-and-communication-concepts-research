@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "status": "wave_2_candidate_evidence_not_promoted",
+  "source": "ted-wave-2-starter",
+  "channel_manifest_video_count": 4842,
+  "starter_slice_video_count": 40,
+  "transcripts_available": 38,
+  "total_words": 81429,
+  "missing_video_ids": ["4WUVkpC8MKs", "nLw3o-XgEdo"],
+  "artifacts": [
+    "analysis/ted-wave-2-starter-corpus-brief.md",
+    "analysis/ted-wave-2-starter-theme-map.md",
+    "analysis/ted-wave-2-starter-drill-candidates.md",
+    "analysis/ted-wave-2-starter-session-inventory.md",
+    "analysis/ted-wave-2-starter-context-review-queue.json"
+  ],
+  "candidate_patterns": [
+    "concrete_opening_before_abstraction",
+    "question_to_thesis_orientation",
+    "analogy_or_explanation_bridge",
+    "contrast_before_after_reframe",
+    "story_to_principle_transition",
+    "audience_orientation_and_close"
+  ],
+  "promotion_rule": "Do not merge this starter slice into the validated ten-corpus release until transcript quality, contextual review, identity, transfer, and outcome gates are recorded."
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "receipt_id": "unified-speaking-system-release",
+  "generated_on": "2026-09-22",
+  "status": "release_candidate_reconciled_not_promotion_validated",
+  "claim_boundary": "This joins repository-local artifact and runtime checks. It does not establish independent human review, learner transfer, listener outcomes, or communication effectiveness.",
+  "speaking_atlas": {
+    "corpus_count": 10,
+    "vertical_slice_count": 4,
+    "named_approach_definition_count": 27,
+    "source_to_approach_row_count": 10,
+    "presentation_pattern_candidate_count": 55,
+    "presentation_patterns_with_keyword_leads": 46,
+    "presentation_patterns_without_any_lead": 9,
+    "contextual_review_queue_item_count": 88,
+    "contextual_review_queue_status": "unreviewed_contextual_review_queue",
+    "wave_2_source_count": 3,
+    "wave_2_review_queue_item_count": 19,
+    "wave_2_candidate_pattern_count": 19,
+    "wave_2_keyword_lead_row_count": 19,
+    "wave_2_transcript_count": 277,
+    "combined_contextual_review_browser_item_count": 107,
+    "wave_2_focused_review_browser_item_count": 19,
+    "wave_2_reviewer_pack": "deliverables/wave-2-full-context-reviewer-pack.zip",
+    "wave_2_reviewer_pack_reference_count": 56,
+    "wave_2_reviewer_pack_unique_transcripts": 43,
+    "wave_2_reviewer_pack_unique_cue_files": 43,
+    "wave_2_reviewer_pack_checksums_verified": true,
+    "contextual_review_browser_smoke_status": "source_pattern_review_browser_smoke_passed",
+    "site_data_check": {
+      "command": "node scripts/validate_site_data.js",
+      "return_code": 0,
+      "stdout": "Site data validation passed.\n- corpora: 10\n- concepts: 23\n- drills: 18\n- pathways: 7\n- examples: 21\n- sessions: 41\n- sources: 14\n- evidence: 34\n- matrix: 15\n- roadmap: 5\n- contrasts: 11\n- curriculum: 53",
+      "stderr": ""
+    },
+    "integration_check": {
+      "command": "python3 scripts/validate_unified_integration.py",
+      "return_code": 0,
+      "stdout": "unified integration validation passed: 10 corpora, 10 source-job rows, 4 slices, 5 evidence layers, 4 crosswalk targets",
+      "stderr": ""
+    }
+  },
+  "best_speech_analysis": {
+    "release_audit_status": "release_audit_passed",
+    "release_audit_steps": {
+      "passed": 17,
+      "total": 17
+    },
+    "browser_smoke_status": "core_browser_smoke_passed",
+    "end_to_end_status": "autonomous_release_candidate_reconciled_not_promotion_validated",
+    "promotion_status": "promotion_checkpoint_open",
+    "promotion_ready_cards": 0,
+    "promotion_card_count": 18,
+    "external_review_launch": {
+      "status": "operations_ready_no_human_records_received",
+      "operation_count": 8,
+      "first_action": "priority_pattern_review",
+      "promotion_ready_cards": 0,
+      "claim_boundary": "This manifest routes external review and participant operations. It contains no reviewer, learner, listener or effectiveness records and cannot promote a pattern by itself.",
+      "manifest_check": {
+        "command": "python3 scripts/validate_external_review_launch_manifest.py",
+        "return_code": 0,
+        "stdout": "external review launch manifest valid: 8 operations, dependencies and referenced instruments reconcile",
+        "stderr": ""
+      },
+      "wave2_snapshot_check": {
+        "command": "python3 scripts/validate_wave2_crosswalk_snapshot.py",
+        "return_code": 0,
+        "stdout": "wave-2 crosswalk snapshot valid: local rows, source scope and provisional boundary reconcile",
+        "stderr": ""
+      }
+    }
+  },
+  "required_external_evidence": [
+    "independent identity, function, recurrence, phrase-form and multimodal review records",
+    "reviewed counterexamples and misuse boundaries",
+    "consented learner teachability and transfer records",
+    "locked listener stimuli and blinded listener outcome records"
+  ]
+}

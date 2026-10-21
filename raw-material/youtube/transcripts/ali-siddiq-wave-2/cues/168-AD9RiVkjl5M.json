@@ -1,0 +1,408 @@
+[
+  {
+    "start": "00:00:00.000",
+    "end": "00:00:01.030",
+    "start_seconds": 0.0,
+    "end_seconds": 1.03,
+    "text": "hey man"
+  },
+  {
+    "start": "00:00:01.030",
+    "end": "00:00:01.040",
+    "start_seconds": 1.03,
+    "end_seconds": 1.04,
+    "text": "hey man"
+  },
+  {
+    "start": "00:00:01.040",
+    "end": "00:00:03.270",
+    "start_seconds": 1.04,
+    "end_seconds": 3.27,
+    "text": "hey man you got to cut this up i say with"
+  },
+  {
+    "start": "00:00:03.270",
+    "end": "00:00:03.280",
+    "start_seconds": 3.27,
+    "end_seconds": 3.28,
+    "text": "you got to cut this up i say with"
+  },
+  {
+    "start": "00:00:03.280",
+    "end": "00:00:04.150",
+    "start_seconds": 3.28,
+    "end_seconds": 4.15,
+    "text": "you got to cut this up i say with what"
+  },
+  {
+    "start": "00:00:04.150",
+    "end": "00:00:04.160",
+    "start_seconds": 4.15,
+    "end_seconds": 4.16,
+    "text": "what"
+  },
+  {
+    "start": "00:00:04.160",
+    "end": "00:00:06.070",
+    "start_seconds": 4.16,
+    "end_seconds": 6.07,
+    "text": "what with a razor"
+  },
+  {
+    "start": "00:00:06.070",
+    "end": "00:00:06.080",
+    "start_seconds": 6.07,
+    "end_seconds": 6.08,
+    "text": "with a razor"
+  },
+  {
+    "start": "00:00:06.080",
+    "end": "00:00:09.190",
+    "start_seconds": 6.08,
+    "end_seconds": 9.19,
+    "text": "with a razor where you get that from"
+  },
+  {
+    "start": "00:00:09.200",
+    "end": "00:00:10.790",
+    "start_seconds": 9.2,
+    "end_seconds": 10.79,
+    "text": "he said man man i'm gonna show you my"
+  },
+  {
+    "start": "00:00:10.790",
+    "end": "00:00:10.800",
+    "start_seconds": 10.79,
+    "end_seconds": 10.8,
+    "text": "he said man man i'm gonna show you my"
+  },
+  {
+    "start": "00:00:10.800",
+    "end": "00:00:12.470",
+    "start_seconds": 10.8,
+    "end_seconds": 12.47,
+    "text": "he said man man i'm gonna show you my so"
+  },
+  {
+    "start": "00:00:12.470",
+    "end": "00:00:12.480",
+    "start_seconds": 12.47,
+    "end_seconds": 12.48,
+    "text": "so"
+  },
+  {
+    "start": "00:00:12.480",
+    "end": "00:00:14.070",
+    "start_seconds": 12.48,
+    "end_seconds": 14.07,
+    "text": "so he he couldn't say let me tell you"
+  },
+  {
+    "start": "00:00:14.070",
+    "end": "00:00:14.080",
+    "start_seconds": 14.07,
+    "end_seconds": 14.08,
+    "text": "he he couldn't say let me tell you"
+  },
+  {
+    "start": "00:00:14.080",
+    "end": "00:00:16.230",
+    "start_seconds": 14.08,
+    "end_seconds": 16.23,
+    "text": "he he couldn't say let me tell you you're gonna have to cut some nickels"
+  },
+  {
+    "start": "00:00:16.230",
+    "end": "00:00:16.240",
+    "start_seconds": 16.23,
+    "end_seconds": 16.24,
+    "text": "you're gonna have to cut some nickels"
+  },
+  {
+    "start": "00:00:16.240",
+    "end": "00:00:18.150",
+    "start_seconds": 16.24,
+    "end_seconds": 18.15,
+    "text": "you're gonna have to cut some nickels some dimes"
+  },
+  {
+    "start": "00:00:18.150",
+    "end": "00:00:18.160",
+    "start_seconds": 18.15,
+    "end_seconds": 18.16,
+    "text": "some dimes"
+  },
+  {
+    "start": "00:00:18.160",
+    "end": "00:00:19.590",
+    "start_seconds": 18.16,
+    "end_seconds": 19.59,
+    "text": "some dimes and some doing it"
+  },
+  {
+    "start": "00:00:19.590",
+    "end": "00:00:19.600",
+    "start_seconds": 19.59,
+    "end_seconds": 19.6,
+    "text": "and some doing it"
+  },
+  {
+    "start": "00:00:19.600",
+    "end": "00:00:23.189",
+    "start_seconds": 19.6,
+    "end_seconds": 23.189,
+    "text": "and some doing it i say man"
+  },
+  {
+    "start": "00:00:23.199",
+    "end": "00:00:25.269",
+    "start_seconds": 23.199,
+    "end_seconds": 25.269,
+    "text": "i took a little the little"
+  },
+  {
+    "start": "00:00:25.269",
+    "end": "00:00:25.279",
+    "start_seconds": 25.269,
+    "end_seconds": 25.279,
+    "text": "i took a little the little"
+  },
+  {
+    "start": "00:00:25.279",
+    "end": "00:00:27.429",
+    "start_seconds": 25.279,
+    "end_seconds": 27.429,
+    "text": "i took a little the little ceramic class"
+  },
+  {
+    "start": "00:00:27.429",
+    "end": "00:00:27.439",
+    "start_seconds": 27.429,
+    "end_seconds": 27.439,
+    "text": "ceramic class"
+  },
+  {
+    "start": "00:00:27.439",
+    "end": "00:00:28.830",
+    "start_seconds": 27.439,
+    "end_seconds": 28.83,
+    "text": "ceramic class and this don't look like"
+  },
+  {
+    "start": "00:00:28.830",
+    "end": "00:00:28.840",
+    "start_seconds": 28.83,
+    "end_seconds": 28.84,
+    "text": "and this don't look like"
+  },
+  {
+    "start": "00:00:28.840",
+    "end": "00:00:32.709",
+    "start_seconds": 28.84,
+    "end_seconds": 32.709,
+    "text": "and this don't look like enough to make nickels and die boy no"
+  },
+  {
+    "start": "00:00:32.709",
+    "end": "00:00:32.719",
+    "start_seconds": 32.709,
+    "end_seconds": 32.719,
+    "text": "enough to make nickels and die boy no"
+  },
+  {
+    "start": "00:00:32.719",
+    "end": "00:00:34.470",
+    "start_seconds": 32.719,
+    "end_seconds": 34.47,
+    "text": "enough to make nickels and die boy no boy you ain't making no damn pennies in"
+  },
+  {
+    "start": "00:00:34.470",
+    "end": "00:00:34.480",
+    "start_seconds": 34.47,
+    "end_seconds": 34.48,
+    "text": "boy you ain't making no damn pennies in"
+  },
+  {
+    "start": "00:00:34.480",
+    "end": "00:00:39.030",
+    "start_seconds": 34.48,
+    "end_seconds": 39.03,
+    "text": "boy you ain't making no damn pennies in pieces boy"
+  },
+  {
+    "start": "00:00:39.040",
+    "end": "00:00:42.229",
+    "start_seconds": 39.04,
+    "end_seconds": 42.229,
+    "text": "the size of the make it with it"
+  },
+  {
+    "start": "00:00:42.229",
+    "end": "00:00:42.239",
+    "start_seconds": 42.229,
+    "end_seconds": 42.239,
+    "text": "the size of the make it with it"
+  },
+  {
+    "start": "00:00:42.239",
+    "end": "00:00:44.549",
+    "start_seconds": 42.239,
+    "end_seconds": 44.549,
+    "text": "the size of the make it with it i'ma show"
+  },
+  {
+    "start": "00:00:44.549",
+    "end": "00:00:44.559",
+    "start_seconds": 44.549,
+    "end_seconds": 44.559,
+    "text": "i'ma show"
+  },
+  {
+    "start": "00:00:44.559",
+    "end": "00:00:46.790",
+    "start_seconds": 44.559,
+    "end_seconds": 46.79,
+    "text": "i'ma show so he cut it up then it matches on the"
+  },
+  {
+    "start": "00:00:46.790",
+    "end": "00:00:46.800",
+    "start_seconds": 46.79,
+    "end_seconds": 46.8,
+    "text": "so he cut it up then it matches on the"
+  },
+  {
+    "start": "00:00:46.800",
+    "end": "00:00:47.830",
+    "start_seconds": 46.8,
+    "end_seconds": 47.83,
+    "text": "so he cut it up then it matches on the table"
+  },
+  {
+    "start": "00:00:47.830",
+    "end": "00:00:47.840",
+    "start_seconds": 47.83,
+    "end_seconds": 47.84,
+    "text": "table"
+  },
+  {
+    "start": "00:00:47.840",
+    "end": "00:00:49.750",
+    "start_seconds": 47.84,
+    "end_seconds": 49.75,
+    "text": "table and i'm like"
+  },
+  {
+    "start": "00:00:49.750",
+    "end": "00:00:49.760",
+    "start_seconds": 49.75,
+    "end_seconds": 49.76,
+    "text": "and i'm like"
+  },
+  {
+    "start": "00:00:49.760",
+    "end": "00:00:51.350",
+    "start_seconds": 49.76,
+    "end_seconds": 51.35,
+    "text": "and i'm like well i'm gonna put all this stuff he"
+  },
+  {
+    "start": "00:00:51.350",
+    "end": "00:00:51.360",
+    "start_seconds": 51.35,
+    "end_seconds": 51.36,
+    "text": "well i'm gonna put all this stuff he"
+  },
+  {
+    "start": "00:00:51.360",
+    "end": "00:00:52.389",
+    "start_seconds": 51.36,
+    "end_seconds": 52.389,
+    "text": "well i'm gonna put all this stuff he said you're gonna have to put something"
+  },
+  {
+    "start": "00:00:52.389",
+    "end": "00:00:52.399",
+    "start_seconds": 52.389,
+    "end_seconds": 52.399,
+    "text": "said you're gonna have to put something"
+  },
+  {
+    "start": "00:00:52.399",
+    "end": "00:00:54.389",
+    "start_seconds": 52.399,
+    "end_seconds": 54.389,
+    "text": "said you're gonna have to put something put it in something he said i put my"
+  },
+  {
+    "start": "00:00:54.389",
+    "end": "00:00:54.399",
+    "start_seconds": 54.389,
+    "end_seconds": 54.399,
+    "text": "put it in something he said i put my"
+  },
+  {
+    "start": "00:00:54.399",
+    "end": "00:00:56.470",
+    "start_seconds": 54.399,
+    "end_seconds": 56.47,
+    "text": "put it in something he said i put my in the matchbox i'm going through"
+  },
+  {
+    "start": "00:00:56.470",
+    "end": "00:00:56.480",
+    "start_seconds": 56.47,
+    "end_seconds": 56.48,
+    "text": "in the matchbox i'm going through"
+  },
+  {
+    "start": "00:00:56.480",
+    "end": "00:00:58.389",
+    "start_seconds": 56.48,
+    "end_seconds": 58.389,
+    "text": "in the matchbox i'm going through my mama's house trying to find something"
+  },
+  {
+    "start": "00:00:58.389",
+    "end": "00:00:58.399",
+    "start_seconds": 58.389,
+    "end_seconds": 58.399,
+    "text": "my mama's house trying to find something"
+  },
+  {
+    "start": "00:00:58.399",
+    "end": "00:01:00.950",
+    "start_seconds": 58.399,
+    "end_seconds": 60.95,
+    "text": "my mama's house trying to find something i find a film bottle i take the film i"
+  },
+  {
+    "start": "00:01:00.950",
+    "end": "00:01:00.960",
+    "start_seconds": 60.95,
+    "end_seconds": 60.96,
+    "text": "i find a film bottle i take the film i"
+  },
+  {
+    "start": "00:01:00.960",
+    "end": "00:01:03.670",
+    "start_seconds": 60.96,
+    "end_seconds": 63.67,
+    "text": "i find a film bottle i take the film i put all my in the film bob they say"
+  },
+  {
+    "start": "00:01:03.670",
+    "end": "00:01:03.680",
+    "start_seconds": 63.67,
+    "end_seconds": 63.68,
+    "text": "put all my in the film bob they say"
+  },
+  {
+    "start": "00:01:03.680",
+    "end": "00:01:07.439",
+    "start_seconds": 63.68,
+    "end_seconds": 67.439,
+    "text": "put all my in the film bob they say well come on man let's get on out here"
+  }
+]

@@ -1,0 +1,310 @@
+I snapped this photo of my daughter this
+summer when we had the chance to hike
+together on our vacation in Colorado.
+I know you can't see her face, but I
+promise she's smiling.
+She is so glad she made it to the top of
+the mountain.
+But actually the photo op almost didn't
+happen.
+Because after starting out with
+incredible optimism and excitement and
+joining me on this hike,
+she quickly began to grow tired. Her
+7-year-old legs after an hour of steep
+terrain
+had had all they could take and she was
+getting frustrated
+and teary-eyed
+and I realized I needed to shift from
+hiking companion to cheerleader.
+I know you can do it.
+I've actually been to the top of this
+mountain and we're almost there.
+Of course we can turn around if you need
+to, but I think you're going to be glad
+that you made it.
+She was really ready to give up, but
+then
+she scrambled up that last little ledge
+to the top
+and all of that frustration faded as she
+saw the view
+and took in the sunshine. She was so
+proud of herself.
+Now, even if you've never been hiking,
+which I do encourage if you haven't,
+I imagine you can relate to this story.
+Because no matter whether you've started
+a business, made a big career switch, or
+just tried to take up tennis at the age
+of 40. Not that I know anything about
+that.
+We all have experienced what I call the
+messy middle.
+It's that moment when the pinnacle seems
+completely out of reach even though
+you've done everything right.
+As a senior leader in BCG's digital and
+AI practice, I've worked with dozens of
+business leaders as they've transformed
+their companies using new technologies.
+Almost [snorts] every one of these
+transformation journeys starts out in
+the same way. There's a lot of
+excitement, there's a lot of optimism
+because everyone knows this is the
+opportunity to do something new.
+But inevitably, they hit the messy
+middle.
+Maybe results are slow to materialize.
+Maybe their teams start to lose
+confidence, or maybe the market changes.
+It's out of their control.
+And no matter what the context,
+just like my daughter, even very
+seasoned executives
+grow frustrated in this moment.
+And many of them actually want to call
+off the transformation.
+Well, as much as we want to avoid those
+messy middle moments, I would argue
+not only are they inevitable,
+they're a good thing.
+Why? Because messiness is a sign of bold
+ambition.
+Change absolutely is hard simply because
+it's hard.
+Transformation without a messy middle
+means you probably won't get the big
+results you were hoping for.
+And so, instead of being afraid of this
+moment,
+you should embrace it.
+It means you're on the right track.
+Okay, obviously that doesn't make it
+easy. We need tools to weather the messy
+middle successfully.
+And my advice is to look for glimmers of
+progress, small indicators that you're
+on the right track,
+even when the summit is completely out
+of sight.
+The first place I look for these
+glimmers of progress is in results for
+the business.
+So, one of my clients is a fast-food
+chicken brand.
+And when we started working together,
+their operations were fairly slow. It
+took about 18 minutes to cook an order
+of chicken wings.
+And that was because they were cooking
+fresh chicken and not pre-cooked frozen
+chicken. So, I don't know if you've ever
+had chicken wings, but when they're
+freshly cooked, they are delicious.
+But customers were pretty unhappy
+because time was long. They didn't want
+to wait that long.
+We needed a way to speed things up
+without sacrificing quality.
+So, we designed an AI-powered
+forecasting tool that would predict how
+many customer orders were going to be
+placed
+and then would guide the employees in
+the store on how much chicken to
+prepare, so there was always fresh
+chicken
+when orders were placed.
+Great vision. The CEO knew this was the
+right approach.
+But it was going to take some time. We
+needed to design, we needed to build,
+and then we needed to scale it out. And
+in the meantime, the CEO had to go to
+all those franchisees and convince them
+that they should make some meaningful
+investments in this new technology.
+We didn't have a year to wait and hope
+that the results turned out like we
+expected.
+So, we focused on finding glimmers of
+progress.
+We built a very rudimentary version of
+the tool.
+And then we took it on a clipboard,
+printed Excel sheet, and a pen. We went
+one night into a restaurant and we stood
+with the employees and we guided them on
+how to prepare the food.
+So, how about you drop 25 chicken wings
+into the fryer now?
+15 minutes later, now drop 60 chicken
+wings into the fryer.
+That first test showed great promise. We
+were seeing a couple minutes shaved off
+their speed of service. Certainly wasn't
+perfect. No one wants to do this
+manually.
+But it showed the potential and it was
+enough to give the entire leadership
+team conviction that we were on the
+right track.
+In the months that followed, we kept
+investing in the solution, improving it,
+so we were seeing a 50% improvement in
+speed of service.
+And as more restaurants were testing it,
+seeing better and better results,
+franchisees grew excited, investors grew
+excited, and they were ready to scale to
+the entire system.
+Without that very first test and that
+glimmer of progress, it would have been
+really hard to have conviction for what
+became a multi-year journey.
+The second place you can look for
+glimmers of progress is in your team,
+how they're working together.
+Another one of my clients is a gas
+station and convenience store chain.
+We worked with them on a multi-year
+transformation to improve most of their
+core business functions with AI.
+So things like how they priced the
+products in the store, how they staffed
+their labor and and how many people were
+staffed in the store,
+how they planned the inventory mix they
+were going to have.
+At the start of this journey together,
+we surveyed their team because we wanted
+to understand if they were going to have
+any points of friction. Could we get
+ahead of any challenges?
+And we found that most of their
+mid-level managers
+didn't really feel like they had a voice
+in how company decisions were being
+made.
+And so the chief digital officer, who
+was leading this,
+implemented a simple, powerful concept.
+Everyone has a flag
+and I need you to use it.
+What he meant was, no matter your role,
+no matter your title,
+if you raise a flag, senior leaders are
+going to listen
+and they will act.
+Within just a couple months, members of
+the extended working team had suggested
+some changes to our timeline,
+some different ways to think about
+scoping the use cases, even different
+ways that we could test things to make
+sure we were getting the best results.
+And the chief digital officer went a
+little farther. He actually had the team
+members, not the senior leaders,
+present results regularly to the CEO.
+This was such a significant cultural
+shift.
+And we went from people feeling like
+change was just being forced down into
+the organization
+to feeling like they really had a voice
+in how the objectives were being set.
+And it was that shift in the team that
+gave us confidence that the results we
+delivered were going to stick.
+And that was long before we saw the
+double-digit returns that that
+transformation yielded.
+Finally, if you're in a messy middle,
+you can look for glimmers of progress in
+yourself.
+One of my other clients was the chief
+strategy officer for a group of snack
+food brands.
+And we were working with them on a large
+effort to rethink some of their digital
+app experiences,
+to develop better email communications,
+and to redesign some of the loyalty
+programs, not just in one of the brands,
+but actually multiple brands across the
+group.
+When we started working together, the
+chief strategy officer had a lot of
+conviction, a very clear vision. He was
+really the one advocating for this
+transformation.
+But he hadn't led anything this big, and
+he didn't really have any intuition on
+how this journey was going to feel as it
+unfolded.
+And I watched as he grew frustrated,
+even with his own team,
+because progress was happening more
+slowly than he wanted.
+When other senior members of the
+organization would question the approach
+or sometimes just express skepticism,
+he would go defensive.
+And by the midway point of the 18-month
+journey, his relationships were strained
+with most of the other leaders.
+He came to the realization that he was
+going to have to change his approach.
+Because he couldn't make this successful
+on his own. He had to have partnership.
+And I watched him begin to intentionally
+tune his leadership style.
+He started working on building bridges,
+on bringing people along.
+He would show up to meetings ready to
+listen and not trying to push one
+agenda.
+He would work on controlling what he
+could control
+and let the organization move at its
+pace around him.
+To be honest, it didn't make the journey
+easier. It was a hard transformation.
+But that sign of progress in him as a
+leader
+actually was one of the biggest
+indicators that this was going to
+succeed for the company.
+So maybe you're finding yourself in a
+messy middle right now, personally or
+professionally.
+Try to remember
+messiness is a sign that you're doing
+something big.
+You haven't reached the goal yet,
+but you will.
+Maybe you haven't won a tennis match
+like me,
+but your backhand is improving.
+Maybe you haven't hit the big milestone
+that's next on your list,
+but you've delivered a small win.
+Celebrate it.
+I like to buy cupcakes for my team or
+make a cake.
+Maybe you just take the time to call a
+mentor and share your success.
+Whatever you do,
+turn those glimmers into energy
+that will propel you up the mountain.
+Because I am very confident that when
+you climb over those last few rocks
+and you walk into the sunshine,
+you will be really glad that you didn't
+turn around.
+Thank you.
+>> [applause]

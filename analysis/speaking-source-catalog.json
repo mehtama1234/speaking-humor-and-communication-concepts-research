@@ -1,0 +1,632 @@
+{
+  "description": "Sources cited by the authored approach chapters, not a full-corpus review certificate.",
+  "coverage_rule": "Read each chapter's source trail for inspected passages and limits. A citation does not imply complete-video or audiovisual review.",
+  "url_status": "Public URLs and titles match local acquisition metadata; current online availability is not verified by this build.",
+  "chapter_count": 27,
+  "source_count": 31,
+  "sources": [
+    {
+      "video_id": "qM-qKLa4lmo",
+      "title": "How To Say \"I don't know\" With Credibility!",
+      "channel": "Alexander Lyon Communication Coach",
+      "url": "https://www.youtube.com/watch?v=qM-qKLa4lmo",
+      "transcript": "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/067-qM-qKLa4lmo.txt",
+      "transcript_sha256": "041bb368560fdccb5d87a15a205f216137977d30f1fe42bb9af9f12fdc414d8b",
+      "metadata": "raw-material/youtube/metadata/alexander-lyon-wave-1/067-qM-qKLa4lmo-How To Say ＂I don't know＂ With Credibility!.info.json",
+      "chapters": [
+        "03"
+      ]
+    },
+    {
+      "video_id": "IbpPnT66XWI",
+      "title": "How to Get to the Point when Speaking",
+      "channel": "Alexander Lyon Communication Coach",
+      "url": "https://www.youtube.com/watch?v=IbpPnT66XWI",
+      "transcript": "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/084-IbpPnT66XWI.txt",
+      "transcript_sha256": "0bacec3be9473f87f95d7b97ad4d8c3f6652ca8e031db1530f17e5f27121522a",
+      "metadata": "raw-material/youtube/metadata/alexander-lyon-wave-1/084-IbpPnT66XWI-How to Get to the Point when Speaking.info.json",
+      "chapters": [
+        "26"
+      ]
+    },
+    {
+      "video_id": "4i7YmZ9EDIs",
+      "title": "Positive Communication Skills for Leaders (complete series)",
+      "channel": "Alexander Lyon Communication Coach",
+      "url": "https://www.youtube.com/watch?v=4i7YmZ9EDIs",
+      "transcript": "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/090-4i7YmZ9EDIs.txt",
+      "transcript_sha256": "cd5d346d21bcb65eb8fc7b2c8e692be0ff78fae9ae2984a9c8237e65ddf65b38",
+      "metadata": "raw-material/youtube/metadata/alexander-lyon-wave-1/090-4i7YmZ9EDIs-Positive Communication Skills for Leaders (complete series).info.json",
+      "chapters": [
+        "20"
+      ]
+    },
+    {
+      "video_id": "Loh8nYQdOCQ",
+      "title": "Reflective Listening Skills",
+      "channel": "Alexander Lyon Communication Coach",
+      "url": "https://www.youtube.com/watch?v=Loh8nYQdOCQ",
+      "transcript": "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/118-Loh8nYQdOCQ.txt",
+      "transcript_sha256": "89dda1ac03d37a3e9d19efb8416d6ce68bad603c0e6327cd2fa6cf8a5481174b",
+      "metadata": "raw-material/youtube/metadata/alexander-lyon-wave-1/118-Loh8nYQdOCQ-Reflective Listening Skills.info.json",
+      "chapters": [
+        "25"
+      ]
+    },
+    {
+      "video_id": "s48guxtM4x4",
+      "title": "How to Hold a Memorable Presentation - Humor That Works",
+      "channel": "Andrew Tarvin",
+      "url": "https://www.youtube.com/watch?v=s48guxtM4x4",
+      "transcript": "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/010-s48guxtM4x4.txt",
+      "transcript_sha256": "ed2af3b2de18b067195e56f78dfb21600713668bc9b073914380715a90b0286c",
+      "metadata": "raw-material/youtube/metadata/andrew-tarvin-wave-1/010-s48guxtM4x4-How to Hold a Memorable Presentation - Humor That Works.info.json",
+      "chapters": [
+        "17"
+      ]
+    },
+    {
+      "video_id": "csvreO_G_xo",
+      "title": "How to Play Improv Game - New Choice",
+      "channel": "Andrew Tarvin",
+      "url": "https://www.youtube.com/watch?v=csvreO_G_xo",
+      "transcript": "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/012-csvreO_G_xo.txt",
+      "transcript_sha256": "208f789af37628774d1eec17e38a8cd5b50f9476f5e186bad4ec480df11a14a0",
+      "metadata": "raw-material/youtube/metadata/andrew-tarvin-wave-1/012-csvreO_G_xo-How to Play Improv Game - New Choice.info.json",
+      "chapters": [
+        "24"
+      ]
+    },
+    {
+      "video_id": "mvdjLjejekE",
+      "title": "Rule of 3 vs Comic Triple",
+      "channel": "Andrew Tarvin",
+      "url": "https://www.youtube.com/watch?v=mvdjLjejekE",
+      "transcript": "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/017-mvdjLjejekE.txt",
+      "transcript_sha256": "01c01115f33ddedb1bc02d796a5d730815fe98a9a5632a61d7e3889694551b2c",
+      "metadata": "raw-material/youtube/metadata/andrew-tarvin-wave-1/017-mvdjLjejekE-Rule of 3 vs Comic Triple.info.json",
+      "chapters": [
+        "17"
+      ]
+    },
+    {
+      "video_id": "iHA7_tbx8S8",
+      "title": "The Dangers of Humor at Work",
+      "channel": "Andrew Tarvin",
+      "url": "https://www.youtube.com/watch?v=iHA7_tbx8S8",
+      "transcript": "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/028-iHA7_tbx8S8.txt",
+      "transcript_sha256": "f4788115c9ae27be557541f50a14cb9d925805b5c650fdacee8b725aa93752b2",
+      "metadata": "raw-material/youtube/metadata/andrew-tarvin-wave-1/028-iHA7_tbx8S8-The Dangers of Humor at Work.info.json",
+      "chapters": [
+        "11"
+      ]
+    },
+    {
+      "video_id": "zChjPuhdgHs",
+      "title": "How To Have A Conversation Without Asking Questions",
+      "channel": "Chad Littlefield",
+      "url": "https://www.youtube.com/watch?v=zChjPuhdgHs",
+      "transcript": "raw-material/youtube/transcripts/chad-littlefield-wave-1/clean/351-zChjPuhdgHs.txt",
+      "transcript_sha256": "b99baea3135070702b291b8cd8f2b18475911684e54b5947dbbb2584fa0cbe70",
+      "metadata": "raw-material/youtube/metadata/chad-littlefield-wave-1/351-zChjPuhdgHs-How To Have A Conversation Without Asking Questions.info.json",
+      "chapters": [
+        "25"
+      ]
+    },
+    {
+      "video_id": "BfUEDvrD1Y4",
+      "title": "How To Have Deeper Conversations With Anyone",
+      "channel": "Charisma on Command",
+      "url": "https://www.youtube.com/watch?v=BfUEDvrD1Y4",
+      "transcript": "raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/026-BfUEDvrD1Y4.txt",
+      "transcript_sha256": "7c4f8691aa42147d8da90865aad2b51b0f4feeb32dbaf5ff63b0def95458f7a2",
+      "metadata": "raw-material/youtube/metadata/charisma-on-command-wave-1/026-BfUEDvrD1Y4-How To Have Deeper Conversations With Anyone.info.json",
+      "chapters": [
+        "08"
+      ]
+    },
+    {
+      "video_id": "Tg_yavuXU6g",
+      "title": "Trying to Get Respect Doesn’t Work, This Does",
+      "channel": "Charisma on Command",
+      "url": "https://www.youtube.com/watch?v=Tg_yavuXU6g",
+      "transcript": "raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/011-Tg_yavuXU6g.txt",
+      "transcript_sha256": "21862603621239af6d0d73a40ee9373c1c34d5767fdde6dd4710c5d93a0779e8",
+      "metadata": "raw-material/youtube/metadata/charisma-on-command-wave-1/011-Tg_yavuXU6g-Trying to Get Respect Doesn’t Work, This Does.info.json",
+      "chapters": [
+        "12"
+      ]
+    },
+    {
+      "video_id": "_2tXNCxg8hs",
+      "title": "What To Say When A Conversation Gets Awkward",
+      "channel": "Charisma on Command",
+      "url": "https://www.youtube.com/watch?v=_2tXNCxg8hs",
+      "transcript": "raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/040-_2tXNCxg8hs.txt",
+      "transcript_sha256": "554ee33ab8791922caab74380a779b5e84e8de57a2187ca96ade1286573fc84a",
+      "metadata": "raw-material/youtube/metadata/charisma-on-command-wave-1/040-_2tXNCxg8hs-What To Say When A Conversation Gets Awkward.info.json",
+      "chapters": [
+        "09"
+      ]
+    },
+    {
+      "video_id": "ntS2x2Lsfo8",
+      "title": "How To Talk To Someone You Completely Disagree With",
+      "channel": "Jefferson Fisher",
+      "url": "https://www.youtube.com/watch?v=ntS2x2Lsfo8",
+      "transcript": "raw-material/youtube/transcripts/jefferson-fisher-wave-1/clean/103-ntS2x2Lsfo8.txt",
+      "transcript_sha256": "49435836f44e02bbc88e0b2cc8f3a02188657cfc7a69e28c63eb1c740c91c1a0",
+      "metadata": "raw-material/youtube/metadata/jefferson-fisher-wave-1/103-ntS2x2Lsfo8-How To Talk To Someone You Completely Disagree With.info.json",
+      "chapters": [
+        "19"
+      ]
+    },
+    {
+      "video_id": "1gcuEOpK3Jg",
+      "title": "How to Know If a Story Is Worth Telling",
+      "channel": "Matthew Dicks",
+      "url": "https://www.youtube.com/watch?v=1gcuEOpK3Jg",
+      "transcript": "raw-material/youtube/transcripts/matthew-dicks-wave-1/clean/025-1gcuEOpK3Jg.txt",
+      "transcript_sha256": "738816acf3c4a42de078e76cb902919de131d2c96baed3751775fbf760c536c7",
+      "metadata": "raw-material/youtube/metadata/matthew-dicks-wave-1/025-1gcuEOpK3Jg-How to Know If a Story Is Worth Telling.info.json",
+      "chapters": [
+        "18"
+      ]
+    },
+    {
+      "video_id": "nXoTR5l4Dks",
+      "title": "Stop Using Story Hooks. Do This in the First 30s.",
+      "channel": "Matthew Dicks",
+      "url": "https://www.youtube.com/watch?v=nXoTR5l4Dks",
+      "transcript": "raw-material/youtube/transcripts/matthew-dicks-wave-1/clean/004-nXoTR5l4Dks.txt",
+      "transcript_sha256": "230b47acaf07fe8c4219bb9aa3f39582c8c199ac18e19eca8cbac0d395a1ef02",
+      "metadata": "raw-material/youtube/metadata/matthew-dicks-wave-1/004-nXoTR5l4Dks-Stop Using Story Hooks. Do This in the First 30s..info.json",
+      "chapters": [
+        "18"
+      ]
+    },
+    {
+      "video_id": "UvgvohGpq_4",
+      "title": "Accent-uate, Don't Compensate: Why Clarity Matters More Than Perfection",
+      "channel": "Think Fast Talk Smart",
+      "url": "https://www.youtube.com/watch?v=UvgvohGpq_4",
+      "transcript": "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/006-UvgvohGpq_4.txt",
+      "transcript_sha256": "32d0b6da22f2d7948d6f3541b1617b4d8725ad556452243bfeec485f543086a4",
+      "metadata": "raw-material/youtube/metadata/think-fast-talk-smart-wave-1/006-UvgvohGpq_4-Accent-uate, Don't Compensate： Why Clarity Matters More Than Perfection.info.json",
+      "chapters": [
+        "23"
+      ]
+    },
+    {
+      "video_id": "HvW2cnqCVZk",
+      "title": "How to Pitch Anything: 10 20 30 Rule by Guy Kawasaki",
+      "channel": "Think Fast Talk Smart",
+      "url": "https://www.youtube.com/watch?v=HvW2cnqCVZk",
+      "transcript": "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/009-HvW2cnqCVZk.txt",
+      "transcript_sha256": "5666a261353b7fdcd491264d4b9059a0dfa0fbab1eb11faa8d3e923d675a2c2d",
+      "metadata": "raw-material/youtube/metadata/think-fast-talk-smart-wave-1/009-HvW2cnqCVZk-How to Pitch Anything： 10 20 30 Rule by Guy Kawasaki.info.json",
+      "chapters": [
+        "22"
+      ]
+    },
+    {
+      "video_id": "5KjQV3GNG6s",
+      "title": "Know Before You Tell - The Three-Part Framework Every Communicator Needs",
+      "channel": "Think Fast Talk Smart",
+      "url": "https://www.youtube.com/watch?v=5KjQV3GNG6s",
+      "transcript": "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/014-5KjQV3GNG6s.txt",
+      "transcript_sha256": "564149c65534cfde93db85328478957396fee141eae44de7eda81abf06b56c48",
+      "metadata": "raw-material/youtube/metadata/think-fast-talk-smart-wave-1/014-5KjQV3GNG6s-Know Before You Tell - The Three-Part Framework Every Communicator Needs.info.json",
+      "chapters": [
+        "05"
+      ]
+    },
+    {
+      "video_id": "-tgPyunhoLM",
+      "title": "The First 5 Seconds: How to Start a Speech the Moment All Eyes Suddenly Turn to You | AMA",
+      "channel": "Think Fast Talk Smart",
+      "url": "https://www.youtube.com/watch?v=-tgPyunhoLM",
+      "transcript": "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/013--tgPyunhoLM.txt",
+      "transcript_sha256": "42aa2e715d550dad0e428b3b081a04d3a83de6ad754d72f97bc340a42a461a24",
+      "metadata": "raw-material/youtube/metadata/think-fast-talk-smart-wave-1/013--tgPyunhoLM-The First 5 Seconds： How to Start a Speech the Moment All Eyes Suddenly Turn to You ｜ AMA.info.json",
+      "chapters": [
+        "04"
+      ]
+    },
+    {
+      "video_id": "SehA30-v-nM",
+      "title": "Impromptu Speaking: How to Get Better at Speaking on the Spot",
+      "channel": "Toastmasters International",
+      "url": "https://www.youtube.com/watch?v=SehA30-v-nM",
+      "transcript": "raw-material/youtube/transcripts/toastmasters-wave-1/clean/087-SehA30-v-nM.txt",
+      "transcript_sha256": "bc5692bae5f475e8568352be7bc156d390cbcdb27e7e16fb8710d900d0be42a2",
+      "metadata": "raw-material/youtube/metadata/toastmasters-wave-1/087-SehA30-v-nM-Impromptu Speaking： How to Get Better at Speaking on the Spot.info.json",
+      "chapters": [
+        "27"
+      ]
+    },
+    {
+      "video_id": "i3IF86LWrKQ",
+      "title": "How to Speak Brilliantly Well – Without a Script (Ali Abdaal)",
+      "channel": "Ultraspeaking",
+      "url": "https://www.youtube.com/watch?v=i3IF86LWrKQ",
+      "transcript": "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/004-i3IF86LWrKQ.txt",
+      "transcript_sha256": "a1f7db684baed783b6b4101885d53e275c960f63faa1b4e47dcb808da827c498",
+      "metadata": "raw-material/youtube/metadata/ultraspeaking-wave-1/004-i3IF86LWrKQ-How to Speak Brilliantly Well – Without a Script (Ali Abdaal).info.json",
+      "chapters": [
+        "01"
+      ]
+    },
+    {
+      "video_id": "ncMThSTFFsA",
+      "title": "How to Speak like a CEO",
+      "channel": "Ultraspeaking",
+      "url": "https://www.youtube.com/watch?v=ncMThSTFFsA",
+      "transcript": "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/010-ncMThSTFFsA.txt",
+      "transcript_sha256": "4fb4945fe1c500d79f9f8df7238f8c1aeb055b081e2e4914de1ecc7babd3778a",
+      "metadata": "raw-material/youtube/metadata/ultraspeaking-wave-1/010-ncMThSTFFsA-How to Speak like a CEO.info.json",
+      "chapters": [
+        "06"
+      ]
+    },
+    {
+      "video_id": "_UiqGbnU-sk",
+      "title": "How to get people to listen to you (musicality lecture)",
+      "channel": "Ultraspeaking",
+      "url": "https://www.youtube.com/watch?v=_UiqGbnU-sk",
+      "transcript": "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/018-_UiqGbnU-sk.txt",
+      "transcript_sha256": "0a5e6ebdd15943ab7727abc46f715817bbb682afc9678b5ca61f2becca8ee1ec",
+      "metadata": "raw-material/youtube/metadata/ultraspeaking-wave-1/018-_UiqGbnU-sk-How to get people to listen to you (musicality lecture).info.json",
+      "chapters": [
+        "10"
+      ]
+    },
+    {
+      "video_id": "miL69223IOU",
+      "title": "How to speak more clearly (without saying a word)",
+      "channel": "Ultraspeaking",
+      "url": "https://www.youtube.com/watch?v=miL69223IOU",
+      "transcript": "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/016-miL69223IOU.txt",
+      "transcript_sha256": "874108a2589b6aaa901c0b0dcbeb1b5cd55fd97fadfbb4af7197467b2348c430",
+      "metadata": "raw-material/youtube/metadata/ultraspeaking-wave-1/016-miL69223IOU-How to speak more clearly (without saying a word).info.json",
+      "chapters": [
+        "21"
+      ]
+    },
+    {
+      "video_id": "35Q4krRIz9o",
+      "title": "5 \"Low Status\" Speaking Habits That Make You Sound Weak",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=35Q4krRIz9o",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/013-35Q4krRIz9o.txt",
+      "transcript_sha256": "9f68c331db30a497e48f60ba0c7c6ab1464ca196523b5b2e24790eba33382666",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/013-35Q4krRIz9o-5 ＂Low Status＂ Speaking Habits That Make You Sound Weak.info.json",
+      "chapters": [
+        "07"
+      ]
+    },
+    {
+      "video_id": "W-E6fqoKUrY",
+      "title": "How To Be Quick Witted In Any Conversation (Without Overthinking It)",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=W-E6fqoKUrY",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/008-W-E6fqoKUrY.txt",
+      "transcript_sha256": "9d50ad4b02eba7b8fc6ed5d03fb6f2b0af6200c4d65ec02c8ddeb1d2893bc78a",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/008-W-E6fqoKUrY-How To Be Quick Witted In Any Conversation (Without Overthinking It).info.json",
+      "chapters": [
+        "24"
+      ]
+    },
+    {
+      "video_id": "Sqh6rt1hN2A",
+      "title": "How to Explain Anything To Anyone (Even If It's Complex!)",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=Sqh6rt1hN2A",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/011-Sqh6rt1hN2A.txt",
+      "transcript_sha256": "fb0916115e4ecf1acdb630898e76f532aae1b143c7b430a4bd49ad8b2c63d423",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/011-Sqh6rt1hN2A-How to Explain Anything To Anyone (Even If It's Complex!).info.json",
+      "chapters": [
+        "14"
+      ]
+    },
+    {
+      "video_id": "3B5gmNKFqSY",
+      "title": "How to Never Say 'Umm' & 'Ahh' Ever Again",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=3B5gmNKFqSY",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/001-3B5gmNKFqSY.txt",
+      "transcript_sha256": "704df9a332d2d5dfa2bdc897d49c9dabc66b2af5c34d0fe996434d48d1a4a788",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/001-3B5gmNKFqSY-How to Never Say 'Umm' & 'Ahh' Ever Again.info.json",
+      "chapters": [
+        "02"
+      ]
+    },
+    {
+      "video_id": "HYNXzKU92Qs",
+      "title": "How to Speak When All Eyes Are On You...",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=HYNXzKU92Qs",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/017-HYNXzKU92Qs.txt",
+      "transcript_sha256": "5e8b55a7620c4a673de08586ff1c0f9a6eaf7d491bf84e088e2cea38cc53cb98",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/017-HYNXzKU92Qs-How to Speak When All Eyes Are On You....info.json",
+      "chapters": [
+        "15",
+        "16"
+      ]
+    },
+    {
+      "video_id": "8LNYkTVk9BU",
+      "title": "How to Think 10 Steps Ahead In Any High Stakes Conversation",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=8LNYkTVk9BU",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/007-8LNYkTVk9BU.txt",
+      "transcript_sha256": "3dda9519663a0ca75a8fac7c844817de8f59a1ca494eb1fc1de53dda51142ae5",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/007-8LNYkTVk9BU-How to Think 10 Steps Ahead In Any High Stakes Conversation.info.json",
+      "chapters": [
+        "13"
+      ]
+    },
+    {
+      "video_id": "aA3O-mczM_8",
+      "title": "You're Making These Communication Mistakes (Without Knowing)",
+      "channel": "Vinh Giang",
+      "url": "https://www.youtube.com/watch?v=aA3O-mczM_8",
+      "transcript": "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/024-aA3O-mczM_8.txt",
+      "transcript_sha256": "858e10750493cc129c717277e3707fe0c6f157974af17d031dd55ea222f97540",
+      "metadata": "raw-material/youtube/metadata/vinh-giang-wave-1/024-aA3O-mczM_8-You're Making These Communication Mistakes (Without Knowing).info.json",
+      "chapters": [
+        "19"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "number": "01",
+      "file": "writeups/speaking-practice/01-talking-points-navigation.md",
+      "title": "01 — Know the route, not every sentence",
+      "sources": [
+        "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/004-i3IF86LWrKQ.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [local transcript of Ultraspeaking session 004](../../raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/004-i3IF86LWrKQ.txt). Relevant text lines: 29–48 for partial scripting; 58–152 for returns to the main point; 153–239 for internalization and the accordion exercise. These are transcript line numbers, not video timestamps. The analysis concerns a channel breakdown containing embedded clips, not an independent review of all original Ali videos.\n\nThis chapter develops [approach 1 in the original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). Apply it through the developed [presentation learning path](../speaking-curricula/08-presentations.md), alongside [compression before expansion](06-compress-before-expand.md) and [rehearsing recovery](15-rehearse-recovery.md)."
+    },
+    {
+      "number": "02",
+      "file": "writeups/speaking-practice/02-deliberate-silence.md",
+      "title": "02 — Let the pause do its job",
+      "sources": [
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/001-3B5gmNKFqSY.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Vinh Giang session 001 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/001-3B5gmNKFqSY.txt). Relevant text lines: 27–63 for recording and awareness; 64–154 for feedback and deliberate exaggeration; 187–260 for everyday transfer and another demonstration. These are local text lines, not timestamps. No independent audience response or acoustic analysis is claimed.\n\nThis develops approach 2 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). Pair it with [answering within your knowledge](03-pause-frame-answer.md), where the pause is used to choose an accurate response, and [musicality](10-musicality.md), where silence is one part of a larger contrast."
+    },
+    {
+      "number": "03",
+      "file": "writeups/speaking-practice/03-pause-frame-answer.md",
+      "title": "03 — Give the answer you can stand behind",
+      "sources": [
+        "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/067-qM-qKLa4lmo.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Alexander Lyon session 067 transcript](../../raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/067-qM-qKLa4lmo.txt). The first teaching section, including follow-up, referral and partial-answer examples, occupies text lines 47–156; the later sections develop alternate wording. These are text lines, not timestamps. The chapter adapts instructional examples; it does not establish that a particular phrase produces credibility in every audience.\n\nThis develops approach 3 in the [existing inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [interview and hard-question curriculum](../../analysis/interview-and-hard-question-curriculum.md). Pair it with [talking-points navigation](01-talking-points-navigation.md) when the question interrupts a prepared presentation."
+    },
+    {
+      "number": "04",
+      "file": "writeups/speaking-practice/04-establish-direction.md",
+      "title": "04 — Give the room somewhere to go",
+      "sources": [
+        "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/013--tgPyunhoLM.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Think Fast Talk Smart session 013 transcript](../../raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/013--tgPyunhoLM.txt), the opening portion through text line 360, with particular attention to Neil's question and Matt's answer around lines 196–322. The complete episode has not been reviewed for this chapter. Text lines are not video timestamps.\n\nThis develops approach 4 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [presentation curriculum](../../analysis/presentation-and-formal-speaking-curriculum.md). Use [answering within your knowledge](03-pause-frame-answer.md) when the opening must also communicate uncertainty."
+    },
+    {
+      "number": "05",
+      "file": "writeups/speaking-practice/05-goal-audience-constraints.md",
+      "title": "05 — Prepare for a listener, not an empty page",
+      "sources": [
+        "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/014-5KjQV3GNG6s.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Think Fast Talk Smart session 014 transcript](../../raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/014-5KjQV3GNG6s.txt), text lines 1–255. Key passages: 47–85 for goal, audience and data; 96–150 for channel choice; 199–241 for coaching specialists. The full episode has not been reviewed for this chapter. Line references identify local text, not timestamps.\n\nThis develops approach 5 in the [existing inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [business communication curriculum](../../analysis/business-communication-curriculum.md). Use it before designing [your opening](04-establish-direction.md) or [your talking-point route](01-talking-points-navigation.md)."
+    },
+    {
+      "number": "06",
+      "file": "writeups/speaking-practice/06-compress-before-expand.md",
+      "title": "06 — Give the short answer a complete job",
+      "sources": [
+        "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/010-ncMThSTFFsA.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Ultraspeaking session 010 transcript](../../raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/010-ncMThSTFFsA.txt). Text lines 1–62 contain the imagined coach, the memorization contrast and the accordion method. The rest of the lesson discusses emotion and storytelling; those themes are not evidence that this exercise guarantees authority. Text lines are not timestamps.\n\nThis develops approach 6 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). [Talking-points navigation](01-talking-points-navigation.md) addresses finding your place; this chapter addresses choosing the amount to say. [Audience preparation](05-goal-audience-constraints.md) helps determine which details the short version must retain.\n\nPractice this over a sequence of sessions in the [clarity learning path](../speaking-curricula/03-clarity.md), or apply it to a decision in the [business communication path](../speaking-curricula/02-business.md)."
+    },
+    {
+      "number": "07",
+      "file": "writeups/speaking-practice/07-clear-contribution.md",
+      "title": "07 — Make your contribution clear",
+      "sources": [
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/013-35Q4krRIz9o.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Vinh Giang session 013 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/013-35Q4krRIz9o.txt), text lines 1–250 and 260–440. The rest has not been reviewed for this chapter. Lines 43–93 contain the speaker's cross-context account and the qualification about habit; 171–247 describe PAT and the staged update. These are text lines, not timestamps; no acoustic measurement is claimed.\n\nThis develops approach 7, originally named “Remove Low-Status Leakage,” in the [research inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). The revised title deliberately emphasizes a usable communication task rather than ranking speakers. Pair it with [answering within your knowledge](03-pause-frame-answer.md) and [giving the short answer a complete job](06-compress-before-expand.md)."
+    },
+    {
+      "number": "08",
+      "file": "writeups/speaking-practice/08-curiosity.md",
+      "title": "08 — Follow the person, not your list of questions",
+      "sources": [
+        "raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/026-BfUEDvrD1Y4.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Charisma on Command session 026 transcript](../../raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/026-BfUEDvrD1Y4.txt). Text lines 75–162 discuss moving toward meaning and repeating a phrase; 211–246 discuss allowing space; 247–322 discuss the speaker's own disclosure. These are text lines, not timestamps. This chapter does not independently verify the full original interviews or the video's outcome claims.\n\nThis develops approach 8 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [social speaking and humor curriculum](../../analysis/social-speaking-and-humor-curriculum.md). If a question lands badly, [repair the exchange](09-awkwardness-repair.md) rather than explaining why the other person ought to have welcomed it."
+    },
+    {
+      "number": "09",
+      "file": "writeups/speaking-practice/09-awkwardness-repair.md",
+      "title": "09 — Repair the exchange, not your image",
+      "sources": [
+        "raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/040-_2tXNCxg8hs.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Charisma on Command session 040, local transcript](../../raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/040-_2tXNCxg8hs.txt), opening through text line 310. Relevant portions: lines 18–105 for proposed interview repairs; 110–185 for the Jonah Hill discussion and boundary qualification; 187–237 for the disputed invitation and another proposed alternative. These are transcript lines, not timestamps. Later portions have not been reviewed for this chapter; visual expressions and psychological motives have not been independently verified.\n\nThis develops [approach 9 in the original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md), connecting the Charisma material directly to substantive teaching prose. It supports the [social speaking and humor curriculum](../../analysis/social-speaking-and-humor-curriculum.md). It also complements [talking-points navigation](01-talking-points-navigation.md): one restores an exchange after a misunderstanding; the other restores an argument after a diversion. Neither requires pretending nothing happened."
+    },
+    {
+      "number": "10",
+      "file": "writeups/speaking-practice/10-musicality.md",
+      "title": "10 — Let the voice reveal the meaning",
+      "sources": [
+        "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/018-_UiqGbnU-sk.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Ultraspeaking session 018 transcript](../../raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/018-_UiqGbnU-sk.txt). Text lines 29–91 discuss constrained range and the limits of impersonation; 112–156 introduce contrast and conductor; 174–219 discuss a supportive practice setting. These are transcript lines, not timestamps. This chapter does not claim audio or video analysis.\n\nThis develops approach 10 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [delivery and vocal presence curriculum](../../analysis/delivery-and-vocal-presence-curriculum.md). [Deliberate silence](02-deliberate-silence.md) develops one component; [compression](06-compress-before-expand.md) helps ensure that expressive delivery is carrying a well-chosen message."
+    },
+    {
+      "number": "11",
+      "file": "writeups/speaking-practice/11-shared-humor.md",
+      "title": "11 — Make room for a shared smile",
+      "sources": [
+        "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/028-iHA7_tbx8S8.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Andrew Tarvin session 028 transcript](../../raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/028-iHA7_tbx8S8.txt), *The Dangers of Humor at Work*. It contains the distract/divide/disparage framework, the two-audience account and the alliterative teaching joke. Historical cases are attributed to that account rather than independently re-reported as verified findings.\n\nThis develops approach 11 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [social speaking and humor curriculum](../../analysis/social-speaking-and-humor-curriculum.md). Pair it with [curiosity](08-curiosity.md) to keep the exchange responsive, and [awkwardness repair](09-awkwardness-repair.md) when a line needs correction rather than defense."
+    },
+    {
+      "number": "12",
+      "file": "writeups/speaking-practice/12-steadiness.md",
+      "title": "12 — Answer the challenge without auditioning for respect",
+      "sources": [
+        "raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/011-Tg_yavuXU6g.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Charisma on Command session 011 transcript](../../raw-material/youtube/transcripts/charisma-on-command-wave-1/clean/011-Tg_yavuXU6g.txt), text lines 1–320. Lines 53–92 discuss the false persona; 95–183 discuss confrontation and proving status; 219–266 discuss indirectness and leaving; 285–320 qualify the fictional model. The final portion has not been reviewed for this chapter. Text lines are not timestamps. All *Peaky Blinders* examples are fictional illustrations interpreted by the channel.\n\nThis develops approach 12 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [confidence and composure curriculum](../../analysis/confidence-and-composure-curriculum.md). [Clear contribution](07-clear-contribution.md) concerns stating your point; this chapter concerns what happens when that point is challenged. [Answering within your knowledge](03-pause-frame-answer.md) provides the corresponding discipline for uncertainty."
+    },
+    {
+      "number": "13",
+      "file": "writeups/speaking-practice/13-anticipate-objections.md",
+      "title": "13 — Put the difficult part on the table",
+      "sources": [
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/007-8LNYkTVk9BU.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Vinh Giang session 007 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/007-8LNYkTVk9BU.txt), text lines 1–310. The high-level preparation map is at 110–155; the reported client example is at 157–252. Later portions are not reviewed for this chapter. These are local text lines, not timestamps.\n\nThis develops approach 13 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [skeptical-room curriculum](../../analysis/skeptical-room-and-objection-handling-curriculum.md). Combine it with [goal and audience preparation](05-goal-audience-constraints.md) before the meeting and [steadiness under challenge](12-steadiness.md) during it."
+    },
+    {
+      "number": "14",
+      "file": "writeups/speaking-practice/14-layered-explanation.md",
+      "title": "14 — Build the explanation one useful layer at a time",
+      "sources": [
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/011-Sqh6rt1hN2A.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Vinh Giang session 011 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/011-Sqh6rt1hN2A.txt), text lines 1–220 and 238–401. Calibration appears at 88–130; the workshop analogy at 165–216; the learning-stage explanation at 242–322; the recap at 365–386. Lines 221–237 were not inspected for this chapter. References are local text lines, not video timestamps, and no independent visual analysis is claimed.\n\nThis develops approach 14 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [clarity and anti-rambling curriculum](../../analysis/clarity-and-anti-rambling-curriculum.md). Pair it with [compression](06-compress-before-expand.md): choose the amount of information, then arrange that information so the listener can use it."
+    },
+    {
+      "number": "15",
+      "file": "writeups/speaking-practice/15-rehearse-recovery.md",
+      "title": "15 — Rehearse the return, not only the run-through",
+      "sources": [
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/017-HYNXzKU92Qs.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Vinh Giang session 017 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/017-HYNXzKU92Qs.txt), text lines 1–240. Lines 97–174 contain the table-read and improv-rehearsal instructions; 195–218 acknowledge continuing nervousness. The rest of the episode has not been inspected for this chapter. Line references identify local text, not timestamps. No independent effectiveness study or observed learner outcome is claimed.\n\nThis develops approach 15 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [presentation curriculum](../../analysis/presentation-and-formal-speaking-curriculum.md). [Talking-points navigation](01-talking-points-navigation.md) supplies the route; [answering within your knowledge](03-pause-frame-answer.md) supplies a response discipline; [compression](06-compress-before-expand.md) helps when the available time changes."
+    },
+    {
+      "number": "16",
+      "file": "writeups/speaking-practice/16-connection-before-content.md",
+      "title": "16 — Show why this belongs in their day",
+      "sources": [
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/017-HYNXzKU92Qs.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Vinh Giang session 017 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/017-HYNXzKU92Qs.txt), text lines 310–505. Lines 335–391 contain the connection-first advice and interview adaptation; 415–446 contain the reported feedback and organizer question. The rest of the episode is not claimed as reviewed for this chapter. Text lines are not timestamps, and a full performed origin-story opening was not available in this passage.\n\nThis develops approach 16 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [presentation curriculum](../../analysis/presentation-and-formal-speaking-curriculum.md). [Establishing direction](04-establish-direction.md) answers “Where are we going?”; this chapter answers “Why does that matter here?” Use [audience preparation](05-goal-audience-constraints.md) to check your assumptions before choosing either opening."
+    },
+    {
+      "number": "17",
+      "file": "writeups/speaking-practice/17-comic-turn.md",
+      "title": "17 — Let the surprise finish the sentence",
+      "sources": [
+        "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/010-s48guxtM4x4.txt",
+        "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/017-mvdjLjejekE.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Andrew Tarvin session 017 transcript](../../raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/017-mvdjLjejekE.txt), *Rule of 3 vs Comic Triple*. Supplementary passage: [session 010 transcript](../../raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/010-s48guxtM4x4.txt), text lines 660–755, including the workshop participant's account and planned-spontaneity discussion. The rest of that longer workshop has not been reviewed for this chapter. Text lines are not timestamps; no pause duration or audience response has been independently measured.\n\nThis develops approach 17 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). Read [shared humor](11-shared-humor.md) first for the decision about whether the joke belongs; this chapter concerns its construction and delivery. [Recovery rehearsal](15-rehearse-recovery.md) provides a way to practice continuing when the response differs from what you expected."
+    },
+    {
+      "number": "18",
+      "file": "writeups/speaking-practice/18-story-moment.md",
+      "title": "18 — Find the moment when something changes",
+      "sources": [
+        "raw-material/youtube/transcripts/matthew-dicks-wave-1/clean/004-nXoTR5l4Dks.txt",
+        "raw-material/youtube/transcripts/matthew-dicks-wave-1/clean/025-1gcuEOpK3Jg.txt"
+      ],
+      "source_trail_markdown": "Sources inspected: the complete [Matthew Dicks session 025 transcript](../../raw-material/youtube/transcripts/matthew-dicks-wave-1/clean/025-1gcuEOpK3Jg.txt), and [session 004 transcript](../../raw-material/youtube/transcripts/matthew-dicks-wave-1/clean/004-nXoTR5l4Dks.txt), text lines 1–160. The playground example and explanation of the initial stakes occur around lines 20–90 of session 004; its later portions were not reviewed for this chapter. References are local text lines, not timestamps. The workshop participant's experience is treated as Dicks's retelling, not independently established fact.\n\nThis develops approach 18 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [storytelling curriculum](../../analysis/storytelling-and-memorability-curriculum.md). [Connection before content](16-connection-before-content.md) helps decide whether the story belongs in the opening; this chapter helps select what happens inside it."
+    },
+    {
+      "number": "19",
+      "file": "writeups/speaking-practice/19-position-reason-reopen.md",
+      "title": "19 — Have a view, and give it somewhere to go",
+      "sources": [
+        "raw-material/youtube/transcripts/jefferson-fisher-wave-1/clean/103-ntS2x2Lsfo8.txt",
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/024-aA3O-mczM_8.txt"
+      ],
+      "source_trail_markdown": "Source passages inspected: [Vinh Giang session 024 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/024-aA3O-mczM_8.txt), text lines 212–346, especially PRO and the staged publishing discussion at 295–338; and [Jefferson Fisher session 103 transcript](../../raw-material/youtube/transcripts/jefferson-fisher-wave-1/clean/103-ntS2x2Lsfo8.txt), text lines 95–215, on acknowledging without agreeing. The complete episodes have not been reviewed for this chapter. Text references are not timestamps. The chapter selectively adapts these lessons rather than endorsing all their outcome or motive claims.\n\nThis develops approach 19 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). [Clear contribution](07-clear-contribution.md) helps state the position without unnecessary self-dismissal; [steadiness](12-steadiness.md) helps when it is challenged; [anticipating objections](13-anticipate-objections.md) helps prepare the reasons that deserve examination."
+    },
+    {
+      "number": "20",
+      "file": "writeups/speaking-practice/20-warmth.md",
+      "title": "20 — Make it possible to approach you",
+      "sources": [
+        "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/090-4i7YmZ9EDIs.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Alexander Lyon session 090 transcript](../../raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/090-4i7YmZ9EDIs.txt), text lines 340–633, the greeting section with Julien Mirivel. Lines 548–602 contain Mirivel's reported executive example; 506–546 discuss greeting elements. The complete compilation has not been reviewed for this chapter. References are local text lines, not timestamps, and the account is not treated as a causal evaluation.\n\nThis develops approach 20 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). [Curiosity](08-curiosity.md) develops the follow-up; [clear contribution](07-clear-contribution.md) preserves directness; [position, reason, reopen](19-position-reason-reopen.md) shows how a welcoming exchange can still contain real disagreement."
+    },
+    {
+      "number": "21",
+      "file": "writeups/speaking-practice/21-unhurried-pace.md",
+      "title": "21 — Give the idea enough time",
+      "sources": [
+        "raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/016-miL69223IOU.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete [Ultraspeaking session 016 transcript](../../raw-material/youtube/transcripts/ultraspeaking-wave-1/clean/016-miL69223IOU.txt). Text lines 30–68 contain the navigation analogy; 69–115 discuss emphasis and losing the thread; 223–300 discuss interruptions and unhurriedness. These are local text lines, not timestamps. No acoustic measurement, diagnosis of confidence or independent audience-effect claim is made.\n\nThis develops approach 21 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). [Deliberate silence](02-deliberate-silence.md) addresses a single transition; [compression](06-compress-before-expand.md) addresses how much to say; this chapter combines pacing and turn-taking across the whole answer. It supports the [delivery curriculum](../../analysis/delivery-and-vocal-presence-curriculum.md)."
+    },
+    {
+      "number": "22",
+      "file": "writeups/speaking-practice/22-next-step.md",
+      "title": "22 — Ask for the decision this conversation can support",
+      "sources": [
+        "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/009-HvW2cnqCVZk.txt"
+      ],
+      "source_trail_markdown": "Source inspected for this chapter: [Think Fast Talk Smart session 009 transcript](../../raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/009-HvW2cnqCVZk.txt), text lines 164–310. Lines 176–252 contain the next-stage objective and concise offering example; 263–294 discuss accumulated pitch revisions. The complete episode has not been reviewed for this chapter. Text lines are not timestamps. The interview's investment setting is adapted here to a clearly labeled internal-work example.\n\nThis develops approach 22 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [skeptical-room curriculum](../../analysis/skeptical-room-and-objection-handling-curriculum.md). [Goal and audience preparation](05-goal-audience-constraints.md) identifies the current decision; [anticipating objections](13-anticipate-objections.md) helps select what the step must answer."
+    },
+    {
+      "number": "23",
+      "file": "writeups/speaking-practice/23-intelligibility.md",
+      "title": "23 — Make the message clear without replacing your voice",
+      "sources": [
+        "raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/006-UvgvohGpq_4.txt"
+      ],
+      "source_trail_markdown": "Source passages inspected: [Think Fast Talk Smart session 006 transcript](../../raw-material/youtube/transcripts/think-fast-talk-smart-wave-1/clean/006-UvgvohGpq_4.txt), text lines 1–55 and 175–360. The video-call distinction occurs at 191–250; the clarity and delivery discussion follows. The full episode and underlying research papers have not been reviewed for this chapter. References identify local text, not timestamps; no acoustic assessment is claimed.\n\nThis develops approach 23 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md) and supports the [multilingual clarity curriculum](../../analysis/multilingual-clarity-and-accent-pressure-curriculum.md). [Layered explanation](14-layered-explanation.md) addresses conceptual understanding; [pacing](21-unhurried-pace.md) helps protect important distinctions in delivery."
+    },
+    {
+      "number": "24",
+      "file": "writeups/speaking-practice/24-review-missed-moments.md",
+      "title": "24 — Turn the late answer into a useful rehearsal",
+      "sources": [
+        "raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/012-csvreO_G_xo.txt",
+        "raw-material/youtube/transcripts/vinh-giang-wave-1/clean/008-W-E6fqoKUrY.txt"
+      ],
+      "source_trail_markdown": "Source passages inspected: [Vinh Giang session 008 transcript](../../raw-material/youtube/transcripts/vinh-giang-wave-1/clean/008-W-E6fqoKUrY.txt), text lines 95–240, covering reflection and its proposed transfer to live responses; and [Andrew Tarvin session 012 transcript](../../raw-material/youtube/transcripts/andrew-tarvin-wave-1/clean/012-csvreO_G_xo.txt), text lines 1–55, containing the New Choice instructions and opening fictional prompt. Complete-session review is not claimed for either source. References are local text lines, not timestamps, and the practice is not presented as experimentally validated training.\n\nThis develops approach 24 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). [Recovery rehearsal](15-rehearse-recovery.md) prepares for disruption; this chapter uses an actual missed moment to select the next rehearsal. [Awkwardness repair](09-awkwardness-repair.md) helps when the original exchange still needs attention."
+    },
+    {
+      "number": "25",
+      "file": "writeups/speaking-practice/25-reflect-extend.md",
+      "title": "25 — Show what you heard before adding what you think",
+      "sources": [
+        "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/118-Loh8nYQdOCQ.txt",
+        "raw-material/youtube/transcripts/chad-littlefield-wave-1/clean/351-zChjPuhdgHs.txt"
+      ],
+      "source_trail_markdown": "Sources inspected for this chapter: [Alexander Lyon session 118 transcript](../../raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/118-Loh8nYQdOCQ.txt), text lines 1–300. Lines 18–83 define and illustrate reflection; 209–277 discuss questions and the boundary against speculative reframing; 285–300 return to listening. [Chad Littlefield session 351 transcript](../../raw-material/youtube/transcripts/chad-littlefield-wave-1/clean/351-zChjPuhdgHs.txt), text lines 1–118 and 211–238. Lines 35–118 set out verbatim reflection and translation; 211–238 caution against formulaic repetition and suggest choosing a small number of natural phrases. The rest of both videos, including later practice material, has not been reviewed for this chapter. References are local text lines, not timestamps.\n\nThis develops approach 25 in the [original inventory](../../analysis/transcript-backed-concrete-speaking-approaches.md). [Curiosity](08-curiosity.md) helps choose the follow-up; [warmth](20-warmth.md) establishes room for the exchange; [position, reason, reopen](19-position-reason-reopen.md) helps when your eventual contribution includes disagreement."
+    },
+    {
+      "number": "26",
+      "file": "writeups/speaking-practice/26-topic-and-intent.md",
+      "title": "26 — Tell them what kind of conversation this is",
+      "sources": [
+        "raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/084-IbpPnT66XWI.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete local transcript of [Alexander Lyon #84, interviewing Chris Fenning](../../raw-material/youtube/transcripts/alexander-lyon-wave-1/clean/084-IbpPnT66XWI.txt). The workshop case and practice sequence are original teaching applications.\n\nFor the larger direction of a presentation, see [Give the room somewhere to go](04-establish-direction.md). For relevance beyond the immediate request, see [Show why this belongs in their day](16-connection-before-content.md). For supporting detail after the opening, see [Build the explanation one useful layer at a time](14-layered-explanation.md)."
+    },
+    {
+      "number": "27",
+      "file": "writeups/speaking-practice/27-prep-on-the-spot.md",
+      "title": "27 — Give the unexpected answer a beginning and an end",
+      "sources": [
+        "raw-material/youtube/transcripts/toastmasters-wave-1/clean/087-SehA30-v-nM.txt"
+      ],
+      "source_trail_markdown": "Source inspected: the complete local transcript of [Toastmasters #87, with Ramona J. Smith](../../raw-material/youtube/transcripts/toastmasters-wave-1/clean/087-SehA30-v-nM.txt). The museum conversation, decision-focused interpretation of the reason step and exercise are original teaching applications.\n\nFor uncertainty, see [Give the answer you can stand behind](03-pause-frame-answer.md). For inviting discussion, see [Have a view, and give it somewhere to go](19-position-reason-reopen.md). For preparing without memorizing sentences, see [Know the route, not every sentence](01-talking-points-navigation.md)."
+    }
+  ]
+}
