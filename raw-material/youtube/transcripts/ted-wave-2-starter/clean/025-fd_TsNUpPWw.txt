@@ -1,0 +1,349 @@
+On Valentine's Day 2022,
+a pontoon bridge appeared
+near the border of Belarus and Ukraine.
+One day, an empty river,
+and the next day, a bridge.
+I’m the cofounder
+of an Earth imaging company,
+and with our satellites,
+we can see the entire world every day.
+And from space, we were able
+to detect that bridge,
+zoom in,
+and that picture was broadcast
+around the world the next morning.
+Everyone could see
+that something was changing.
+And then ten days later,
+Russia invaded Ukraine.
+Thanks to satellite imagery,
+many governments and NGOs,
+researchers and journalists,
+they all had access
+to the same daily facts,
+the same baseline of reality,
+and the same possibility,
+at least in theory,
+of seeing clearly enough
+to respond together.
+And with that shared view of reality,
+we’re no longer arguing
+if something is there
+but deciding what to do
+because it is there.
+In the days that followed
+that Valentine's Day bridge,
+Western nations coordinated
+for severe sanctions against Russia
+and unified in their support for Ukraine.
+But for months beforehand,
+we saw an increase of military activity
+and tanks amassing at the border.
+The signals were there.
+Perhaps the allies stopped
+the worst from happening,
+but they didn't stop the war.
+And I sat with that
+for a really long time.
+The satellites, they worked
+exactly as they were designed.
+They showed the emerging threat.
+They saw the threat.
+But the institutions
+that were supposed to respond,
+they weren't built for this.
+The alliances, the frameworks,
+the coordination mechanisms,
+they weren't built
+to handle signal at this speed
+or to incorporate
+this amount of information.
+And we built this extraordinary eye,
+an independent source of truth
+about what's happening on the planet.
+But an eye that's not connected
+to a functional nervous system
+and a body capable of response,
+that eye is just a witness.
+But fortunately, new technologies
+are helping to close that gap.
+When you take all of this earth data
+and pair it with
+the analytical power of AI,
+we can build extremely different things,
+action in an entirely new way.
+We're entering into an era
+that we call planetary intelligence,
+where new capabilities in action
+can happen at the speed of change.
+Now, my cofounder, Will,
+was on this spot in 2014,
+and he shared with you all our dream.
+What if we could image
+the whole world every day?
+And he came back in 2018 with a new dream.
+What if we can use AI to understand
+how the world is changing?
+And today, that vision
+is becoming a reality.
+And before I share that with you today,
+I want to provide a little bit of context.
+The space sector is going
+through a renaissance right now.
+We have reusable rockets,
+thousands of satellites.
+And for the first time in over 50 years,
+we just sent humans to the moon and back.
+NASA is inspiring us once again
+with this picture
+to gain perspective
+that we live on this beautiful,
+precious spaceship Earth
+that we call home.
+And with hundreds of satellites
+that are all monitoring the planet,
+they're getting connected to each other,
+and we're putting
+a lot more compute next to it.
+It's beginning to build
+a planetary nervous system.
+And here on the ground,
+we're all in amazement as AI just
+continues to accelerate at rapid speed.
+And like many of you here,
+I'm holding on to that polarity
+between the sheer awesomeness
+of this technology,
+and also a bit of anxiety
+about how this comes
+into the world in the right way.
+We have to get governance right,
+and we have to get alignment right.
+For AI to work for everyone
+and the larger living world,
+we need it to speak the language
+of the planetary systems
+to which we're all embedded.
+It must understand our infrastructure
+and human activity,
+but also the impacts on the water,
+the trees and the soil.
+So let me show you what this looks like.
+So when you combine all of this Earth data
+with AI and large language models,
+we are allowing for global change
+to happen in near real time.
+You can see change
+in just about everywhere
+over vast distances and time.
+It's helping to close that gap
+between awareness and action.
+A farmer can understand
+how healthy their soil is.
+An insurer can create a dynamic
+and custom policy
+based on the real-time
+environmental risk of the asset.
+And a finance minister,
+they can account for the true cost
+of their financial economy
+along with their rich,
+living, natural ecosystems.
+So planetary intelligence
+guides our actions
+much in the same way
+that the eye connected
+to a nervous system guides the body
+so that humanity is no longer a witness
+to what's happening.
+We can become stewards
+for the planet and our society.
+And we're already seeing glimmers
+of planetary intelligence
+happening all over the world.
+It is already measuring
+global change in near real time,
+guiding human intervention
+where it's needed the most.
+So let me show you a few examples.
+First, let's go to Brazil.
+The Brazilian Amazon is huge.
+It's five million square kilometers,
+roughly two thirds the size
+of the United States,
+and it's brimming with rich biodiversity,
+countless Indigenous communities.
+And it's the home of about 20 percent
+of the planet's freshwater supply.
+But deep in the dense
+forests of the Amazon,
+there are illegal activities
+that are happening all the time.
+Fields are cleared for illicit crops.
+Runways are cut for narco traffickers.
+Riverbeds are illegally mined
+and poisoning downstream communities.
+And deforestation still happens every day.
+So how do you stop that?
+You can't manually patrol that
+with boots on the ground
+and planes and paperwork.
+So our team worked with local partners
+and the Brazilian federal police
+to create a system that monitors
+the entire Brazilian Amazon every day.
+And it looks for a signal
+of illegal activity.
+For instance, an unpermitted road.
+And today, over 100 000 people
+across the Brazilian government,
+from a ranger to federal courts,
+they use this system
+and over the last three years,
+they’ve seized four billion dollars’ worth
+of illegal equipment in the Amazon.
+And most importantly, I think,
+over wherever this was deployed,
+deforestation rates decreased
+by over 50 percent.
+(Applause)
+Now let's see what this looks like
+at the speed of change.
+Let's go to Kenya.
+A herder has kept his cattle
+on the same semi-arid land
+for generations.
+And livestock to pastoral families
+is not just their income,
+it's their savings, their insurance,
+the accumulated wealth of a lifetime.
+But every few years, the rains fail.
+And when they do,
+the grass dries up,
+the cattle weaken and they start to die.
+So one bad drought can wipe out
+the economic foundation of a family
+in a matter of weeks.
+But now, a new drought insurance
+program is coming together.
+The satellite is able to read
+the health of the grass.
+If that health falls
+below a critical threshold,
+an automatic payment is sent
+via mobile money
+to every pastoralist
+in the region affected
+so that they can go and buy
+supplemental food for their animals.
+So the herder doesn't need
+to understand satellite imagery.
+He doesn't even need to file a claim.
+Satellite reads the grass,
+a number crosses a line,
+money appears on his phone,
+he moves his herd,
+he buys supplemental food,
+and the crisis that would
+have unfolded doesn't.
+Over a million and a half herders
+across the Horn of Africa
+are now protected with this
+drought insurance program.
+(Applause)
+So this is what it looks like
+when you use a signal from space
+to guide human action
+in real time to changing events.
+The eye detects change
+and the body moves to prevent harm.
+And I think there's something
+deeper going on here.
+Planetary intelligence
+doesn't just change what we do,
+but it changes how we know the world
+and our place within it.
+It allows for us to see
+with the whole in mind.
+And dissolves the false separation
+between our culture and our society
+and that of the larger living planet.
+And we're living through a time right now
+where many of our institutions
+and our alliances
+are fracturing and falling apart.
+And this is extremely painful
+because the problems
+that these institutions
+were built to address
+are only intensifying.
+But I believe that planetary intelligence
+can help us transform our institutions.
+Purpose-built for the speed
+and the complexity of the 21st century.
+We can all build new
+products and institutions
+that allow for us
+to see change in real time.
+And it can transform just
+about every sector of our society,
+from finance to infrastructure,
+decision-making
+and accountability mechanisms,
+all at the speed of change,
+in order for us to build
+a more resilient future
+so that the next time
+tanks amass at a border,
+there will be no pontoon bridge.
+I started my career believing
+that information would save us.
+I now know that only
+coordination actually will.
+We gave the earth eyes.
+We're connecting it to the brain.
+But now, now the only thing left
+to do is to build the body,
+the trust, the alliances,
+the institutions,
+that is brave enough to move
+when the mind signals.
+Thank you.
+(Applause)
+DS: Thank you so much
+for watching Robbie’s incredible TED Talk.
+I'm Divya Siddharth,
+one of the guest curators
+for Robbie’s session
+this year at TED2026,
+along with the incredible Audrey Tang.
+And I think the reason we were so excited
+to share Robbie's work with the world
+is because we think it's a huge part
+of what the world needs
+to collectively govern
+and understand our future with AI.
+One of the reasons this is an important
+talk to have on stage now
+is information is power.
+And the incredible thing
+that Planet has done
+is build a very powerful
+information source
+and make it, in as much as they can,
+available to everyone.
+And so they not only
+create the information,
+which lots of people do,
+but they actually
+let people benefit from it.
+And that's, in the age of AI,
+not always true.
+Audrey Tang: When you see the Earth
+from the outer space,
+we become better people
+because we can then imagine
+that we're on this fragile spaceship.
+And that really changed me
+to want to wage peace
+much more forcefully than we wage war.

@@ -1,0 +1,3222 @@
+[
+  {
+    "start": "00:00:00.000",
+    "end": "00:00:01.750",
+    "start_seconds": 0.0,
+    "end_seconds": 1.75,
+    "text": "The world's largest landfill is in"
+  },
+  {
+    "start": "00:00:01.750",
+    "end": "00:00:01.760",
+    "start_seconds": 1.75,
+    "end_seconds": 1.76,
+    "text": "The world's largest landfill is in"
+  },
+  {
+    "start": "00:00:01.760",
+    "end": "00:00:03.470",
+    "start_seconds": 1.76,
+    "end_seconds": 3.47,
+    "text": "The world's largest landfill is in Staten Island, New York, and as you can"
+  },
+  {
+    "start": "00:00:03.470",
+    "end": "00:00:03.480",
+    "start_seconds": 3.47,
+    "end_seconds": 3.48,
+    "text": "Staten Island, New York, and as you can"
+  },
+  {
+    "start": "00:00:03.480",
+    "end": "00:00:05.884",
+    "start_seconds": 3.48,
+    "end_seconds": 5.884,
+    "text": "Staten Island, New York, and as you can imagine, we're a proud people."
+  },
+  {
+    "start": "00:00:05.884",
+    "end": "00:00:05.894",
+    "start_seconds": 5.884,
+    "end_seconds": 5.894,
+    "text": "imagine, we're a proud people."
+  },
+  {
+    "start": "00:00:05.894",
+    "end": "00:00:07.270",
+    "start_seconds": 5.894,
+    "end_seconds": 7.27,
+    "text": "imagine, we're a proud people. >> [laughter]"
+  },
+  {
+    "start": "00:00:07.270",
+    "end": "00:00:07.280",
+    "start_seconds": 7.27,
+    "end_seconds": 7.28,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:00:07.280",
+    "end": "00:00:10.590",
+    "start_seconds": 7.28,
+    "end_seconds": 10.59,
+    "text": ">> [laughter] >> Home of the dump."
+  },
+  {
+    "start": "00:00:10.590",
+    "end": "00:00:10.600",
+    "start_seconds": 10.59,
+    "end_seconds": 10.6,
+    "text": ">> Home of the dump."
+  },
+  {
+    "start": "00:00:10.600",
+    "end": "00:00:13.990",
+    "start_seconds": 10.6,
+    "end_seconds": 13.99,
+    "text": ">> Home of the dump. When was the last time you were standing"
+  },
+  {
+    "start": "00:00:13.990",
+    "end": "00:00:14.000",
+    "start_seconds": 13.99,
+    "end_seconds": 14.0,
+    "text": "When was the last time you were standing"
+  },
+  {
+    "start": "00:00:14.000",
+    "end": "00:00:16.870",
+    "start_seconds": 14.0,
+    "end_seconds": 16.87,
+    "text": "When was the last time you were standing in front of a room full of strangers"
+  },
+  {
+    "start": "00:00:16.870",
+    "end": "00:00:16.880",
+    "start_seconds": 16.87,
+    "end_seconds": 16.88,
+    "text": "in front of a room full of strangers"
+  },
+  {
+    "start": "00:00:16.880",
+    "end": "00:00:18.790",
+    "start_seconds": 16.88,
+    "end_seconds": 18.79,
+    "text": "in front of a room full of strangers who were sitting there"
+  },
+  {
+    "start": "00:00:18.790",
+    "end": "00:00:18.800",
+    "start_seconds": 18.79,
+    "end_seconds": 18.8,
+    "text": "who were sitting there"
+  },
+  {
+    "start": "00:00:18.800",
+    "end": "00:00:20.950",
+    "start_seconds": 18.8,
+    "end_seconds": 20.95,
+    "text": "who were sitting there staring at you"
+  },
+  {
+    "start": "00:00:20.950",
+    "end": "00:00:20.960",
+    "start_seconds": 20.95,
+    "end_seconds": 20.96,
+    "text": "staring at you"
+  },
+  {
+    "start": "00:00:20.960",
+    "end": "00:00:22.630",
+    "start_seconds": 20.96,
+    "end_seconds": 22.63,
+    "text": "staring at you >> [laughter]"
+  },
+  {
+    "start": "00:00:22.630",
+    "end": "00:00:22.640",
+    "start_seconds": 22.63,
+    "end_seconds": 22.64,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:00:22.640",
+    "end": "00:00:25.990",
+    "start_seconds": 22.64,
+    "end_seconds": 25.99,
+    "text": ">> [laughter] >> expecting something from you"
+  },
+  {
+    "start": "00:00:25.990",
+    "end": "00:00:26.000",
+    "start_seconds": 25.99,
+    "end_seconds": 26.0,
+    "text": ">> expecting something from you"
+  },
+  {
+    "start": "00:00:26.000",
+    "end": "00:00:28.710",
+    "start_seconds": 26.0,
+    "end_seconds": 28.71,
+    "text": ">> expecting something from you as you personally battle clinical"
+  },
+  {
+    "start": "00:00:28.710",
+    "end": "00:00:28.720",
+    "start_seconds": 28.71,
+    "end_seconds": 28.72,
+    "text": "as you personally battle clinical"
+  },
+  {
+    "start": "00:00:28.720",
+    "end": "00:00:31.430",
+    "start_seconds": 28.72,
+    "end_seconds": 31.43,
+    "text": "as you personally battle clinical anxiety"
+  },
+  {
+    "start": "00:00:31.430",
+    "end": "00:00:31.440",
+    "start_seconds": 31.43,
+    "end_seconds": 31.44,
+    "text": "anxiety"
+  },
+  {
+    "start": "00:00:31.440",
+    "end": "00:00:32.150",
+    "start_seconds": 31.44,
+    "end_seconds": 32.15,
+    "text": "anxiety >> [laughter]"
+  },
+  {
+    "start": "00:00:32.150",
+    "end": "00:00:32.160",
+    "start_seconds": 32.15,
+    "end_seconds": 32.16,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:00:32.160",
+    "end": "00:00:34.790",
+    "start_seconds": 32.16,
+    "end_seconds": 34.79,
+    "text": ">> [laughter] >> and you left your meds back in THE HOTEL"
+  },
+  {
+    "start": "00:00:34.790",
+    "end": "00:00:34.800",
+    "start_seconds": 34.79,
+    "end_seconds": 34.8,
+    "text": ">> and you left your meds back in THE HOTEL"
+  },
+  {
+    "start": "00:00:34.800",
+    "end": "00:00:39.670",
+    "start_seconds": 34.8,
+    "end_seconds": 39.67,
+    "text": ">> and you left your meds back in THE HOTEL ROOM."
+  },
+  {
+    "start": "00:00:39.680",
+    "end": "00:00:42.830",
+    "start_seconds": 39.68,
+    "end_seconds": 42.83,
+    "text": "NOW, IF YOU WERE ME, DO YOU think inside"
+  },
+  {
+    "start": "00:00:42.830",
+    "end": "00:00:42.840",
+    "start_seconds": 42.83,
+    "end_seconds": 42.84,
+    "text": "NOW, IF YOU WERE ME, DO YOU think inside"
+  },
+  {
+    "start": "00:00:42.840",
+    "end": "00:00:45.430",
+    "start_seconds": 42.84,
+    "end_seconds": 45.43,
+    "text": "NOW, IF YOU WERE ME, DO YOU think inside you'd be feeling \"Wow, is it great to be"
+  },
+  {
+    "start": "00:00:45.430",
+    "end": "00:00:45.440",
+    "start_seconds": 45.43,
+    "end_seconds": 45.44,
+    "text": "you'd be feeling \"Wow, is it great to be"
+  },
+  {
+    "start": "00:00:45.440",
+    "end": "00:00:48.630",
+    "start_seconds": 45.44,
+    "end_seconds": 48.63,
+    "text": "you'd be feeling \"Wow, is it great to be here tonight?\" No."
+  },
+  {
+    "start": "00:00:48.630",
+    "end": "00:00:48.640",
+    "start_seconds": 48.63,
+    "end_seconds": 48.64,
+    "text": "here tonight?\" No."
+  },
+  {
+    "start": "00:00:48.640",
+    "end": "00:00:50.550",
+    "start_seconds": 48.64,
+    "end_seconds": 50.55,
+    "text": "here tonight?\" No. Not at all. This is a horrible"
+  },
+  {
+    "start": "00:00:50.550",
+    "end": "00:00:50.560",
+    "start_seconds": 50.55,
+    "end_seconds": 50.56,
+    "text": "Not at all. This is a horrible"
+  },
+  {
+    "start": "00:00:50.560",
+    "end": "00:00:51.735",
+    "start_seconds": 50.56,
+    "end_seconds": 51.735,
+    "text": "Not at all. This is a horrible situation."
+  },
+  {
+    "start": "00:00:51.735",
+    "end": "00:00:51.745",
+    "start_seconds": 51.735,
+    "end_seconds": 51.745,
+    "text": "situation."
+  },
+  {
+    "start": "00:00:51.745",
+    "end": "00:00:53.670",
+    "start_seconds": 51.745,
+    "end_seconds": 53.67,
+    "text": "situation. >> [laughter]"
+  },
+  {
+    "start": "00:00:53.670",
+    "end": "00:00:53.680",
+    "start_seconds": 53.67,
+    "end_seconds": 53.68,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:00:53.680",
+    "end": "00:00:55.750",
+    "start_seconds": 53.68,
+    "end_seconds": 55.75,
+    "text": ">> [laughter] >> I'm a wreck right now. Especially no"
+  },
+  {
+    "start": "00:00:55.750",
+    "end": "00:00:55.760",
+    "start_seconds": 55.75,
+    "end_seconds": 55.76,
+    "text": ">> I'm a wreck right now. Especially no"
+  },
+  {
+    "start": "00:00:55.760",
+    "end": "00:01:00.310",
+    "start_seconds": 55.76,
+    "end_seconds": 60.31,
+    "text": ">> I'm a wreck right now. Especially no alcohol, I'M A WRECK."
+  },
+  {
+    "start": "00:01:00.320",
+    "end": "00:01:02.110",
+    "start_seconds": 60.32,
+    "end_seconds": 62.11,
+    "text": "I'M ON THE STREET BEGGING PEOPLE FOR A"
+  },
+  {
+    "start": "00:01:02.110",
+    "end": "00:01:02.120",
+    "start_seconds": 62.11,
+    "end_seconds": 62.12,
+    "text": "I'M ON THE STREET BEGGING PEOPLE FOR A"
+  },
+  {
+    "start": "00:01:02.120",
+    "end": "00:01:04.670",
+    "start_seconds": 62.12,
+    "end_seconds": 64.67,
+    "text": "I'M ON THE STREET BEGGING PEOPLE FOR A cap of beer, anything."
+  },
+  {
+    "start": "00:01:04.670",
+    "end": "00:01:04.680",
+    "start_seconds": 64.67,
+    "end_seconds": 64.68,
+    "text": "cap of beer, anything."
+  },
+  {
+    "start": "00:01:04.680",
+    "end": "00:01:06.510",
+    "start_seconds": 64.68,
+    "end_seconds": 66.51,
+    "text": "cap of beer, anything. I'm not doing that, but the point is"
+  },
+  {
+    "start": "00:01:06.510",
+    "end": "00:01:06.520",
+    "start_seconds": 66.51,
+    "end_seconds": 66.52,
+    "text": "I'm not doing that, but the point is"
+  },
+  {
+    "start": "00:01:06.520",
+    "end": "00:01:08.630",
+    "start_seconds": 66.52,
+    "end_seconds": 68.63,
+    "text": "I'm not doing that, but the point is that I said, \"I know"
+  },
+  {
+    "start": "00:01:08.630",
+    "end": "00:01:08.640",
+    "start_seconds": 68.63,
+    "end_seconds": 68.64,
+    "text": "that I said, \"I know"
+  },
+  {
+    "start": "00:01:08.640",
+    "end": "00:01:10.830",
+    "start_seconds": 68.64,
+    "end_seconds": 70.83,
+    "text": "that I said, \"I know this is a tough situation, and I'll"
+  },
+  {
+    "start": "00:01:10.830",
+    "end": "00:01:10.840",
+    "start_seconds": 70.83,
+    "end_seconds": 70.84,
+    "text": "this is a tough situation, and I'll"
+  },
+  {
+    "start": "00:01:10.840",
+    "end": "00:01:13.750",
+    "start_seconds": 70.84,
+    "end_seconds": 73.75,
+    "text": "this is a tough situation, and I'll begin my show by using the words my"
+  },
+  {
+    "start": "00:01:13.750",
+    "end": "00:01:13.760",
+    "start_seconds": 73.75,
+    "end_seconds": 73.76,
+    "text": "begin my show by using the words my"
+  },
+  {
+    "start": "00:01:13.760",
+    "end": "00:01:16.110",
+    "start_seconds": 73.76,
+    "end_seconds": 76.11,
+    "text": "begin my show by using the words my father gave me if I should ever be in a"
+  },
+  {
+    "start": "00:01:16.110",
+    "end": "00:01:16.120",
+    "start_seconds": 76.11,
+    "end_seconds": 76.12,
+    "text": "father gave me if I should ever be in a"
+  },
+  {
+    "start": "00:01:16.120",
+    "end": "00:01:18.990",
+    "start_seconds": 76.12,
+    "end_seconds": 78.99,
+    "text": "father gave me if I should ever be in a tough spot like this one here tonight.\""
+  },
+  {
+    "start": "00:01:18.990",
+    "end": "00:01:19.000",
+    "start_seconds": 78.99,
+    "end_seconds": 79.0,
+    "text": "tough spot like this one here tonight.\""
+  },
+  {
+    "start": "00:01:19.000",
+    "end": "00:01:21.990",
+    "start_seconds": 79.0,
+    "end_seconds": 81.99,
+    "text": "tough spot like this one here tonight.\" So, I'd like to begin by saying"
+  },
+  {
+    "start": "00:01:21.990",
+    "end": "00:01:22.000",
+    "start_seconds": 81.99,
+    "end_seconds": 82.0,
+    "text": "So, I'd like to begin by saying"
+  },
+  {
+    "start": "00:01:22.000",
+    "end": "00:01:25.470",
+    "start_seconds": 82.0,
+    "end_seconds": 85.47,
+    "text": "So, I'd like to begin by saying \"What are you looking at, HUH?"
+  },
+  {
+    "start": "00:01:25.480",
+    "end": "00:01:27.760",
+    "start_seconds": 85.48,
+    "end_seconds": 87.76,
+    "text": "YOU, YOU GOT A PROBLEM, HUH?"
+  },
+  {
+    "start": "00:01:27.760",
+    "end": "00:01:27.770",
+    "start_seconds": 87.76,
+    "end_seconds": 87.77,
+    "text": "YOU, YOU GOT A PROBLEM, HUH?"
+  },
+  {
+    "start": "00:01:27.770",
+    "end": "00:01:28.430",
+    "start_seconds": 87.77,
+    "end_seconds": 88.43,
+    "text": "YOU, YOU GOT A PROBLEM, HUH? >> [laughter]"
+  },
+  {
+    "start": "00:01:28.430",
+    "end": "00:01:28.440",
+    "start_seconds": 88.43,
+    "end_seconds": 88.44,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:01:28.440",
+    "end": "00:01:32.670",
+    "start_seconds": 88.44,
+    "end_seconds": 92.67,
+    "text": ">> [laughter] >> SWEAR TO GOD.\""
+  },
+  {
+    "start": "00:01:32.680",
+    "end": "00:01:34.870",
+    "start_seconds": 92.68,
+    "end_seconds": 94.87,
+    "text": "IT'S HONESTY. IT'S A DOSE OF THE truth"
+  },
+  {
+    "start": "00:01:34.870",
+    "end": "00:01:34.880",
+    "start_seconds": 94.87,
+    "end_seconds": 94.88,
+    "text": "IT'S HONESTY. IT'S A DOSE OF THE truth"
+  },
+  {
+    "start": "00:01:34.880",
+    "end": "00:01:38.030",
+    "start_seconds": 94.88,
+    "end_seconds": 98.03,
+    "text": "IT'S HONESTY. IT'S A DOSE OF THE truth that cues you right into who I am, where"
+  },
+  {
+    "start": "00:01:38.030",
+    "end": "00:01:38.040",
+    "start_seconds": 98.03,
+    "end_seconds": 98.03999999999999,
+    "text": "that cues you right into who I am, where"
+  },
+  {
+    "start": "00:01:38.040",
+    "end": "00:01:41.110",
+    "start_seconds": 98.03999999999999,
+    "end_seconds": 101.11,
+    "text": "that cues you right into who I am, where I'm from. No shock to anyone, no secret."
+  },
+  {
+    "start": "00:01:41.110",
+    "end": "00:01:41.120",
+    "start_seconds": 101.11,
+    "end_seconds": 101.12,
+    "text": "I'm from. No shock to anyone, no secret."
+  },
+  {
+    "start": "00:01:41.120",
+    "end": "00:01:43.110",
+    "start_seconds": 101.12,
+    "end_seconds": 103.11,
+    "text": "I'm from. No shock to anyone, no secret. If you guessed the deep south, you're"
+  },
+  {
+    "start": "00:01:43.110",
+    "end": "00:01:43.120",
+    "start_seconds": 103.11,
+    "end_seconds": 103.12,
+    "text": "If you guessed the deep south, you're"
+  },
+  {
+    "start": "00:01:43.120",
+    "end": "00:01:46.750",
+    "start_seconds": 103.12,
+    "end_seconds": 106.75,
+    "text": "If you guessed the deep south, you're 100% correct. I"
+  },
+  {
+    "start": "00:01:46.750",
+    "end": "00:01:46.760",
+    "start_seconds": 106.75,
+    "end_seconds": 106.75999999999999,
+    "text": "100% correct. I"
+  },
+  {
+    "start": "00:01:46.760",
+    "end": "00:01:48.630",
+    "start_seconds": 106.75999999999999,
+    "end_seconds": 108.63,
+    "text": "100% correct. I I'm from the southeast of the United"
+  },
+  {
+    "start": "00:01:48.630",
+    "end": "00:01:48.640",
+    "start_seconds": 108.63,
+    "end_seconds": 108.64,
+    "text": "I'm from the southeast of the United"
+  },
+  {
+    "start": "00:01:48.640",
+    "end": "00:01:50.550",
+    "start_seconds": 108.64,
+    "end_seconds": 110.55,
+    "text": "I'm from the southeast of the United States, small town. You probably never"
+  },
+  {
+    "start": "00:01:50.550",
+    "end": "00:01:50.560",
+    "start_seconds": 110.55,
+    "end_seconds": 110.56,
+    "text": "States, small town. You probably never"
+  },
+  {
+    "start": "00:01:50.560",
+    "end": "00:01:52.470",
+    "start_seconds": 110.56,
+    "end_seconds": 112.47,
+    "text": "States, small town. You probably never heard of it. It's called It's deep, deep"
+  },
+  {
+    "start": "00:01:52.470",
+    "end": "00:01:52.480",
+    "start_seconds": 112.47,
+    "end_seconds": 112.47999999999999,
+    "text": "heard of it. It's called It's deep, deep"
+  },
+  {
+    "start": "00:01:52.480",
+    "end": "00:01:54.470",
+    "start_seconds": 112.47999999999999,
+    "end_seconds": 114.47,
+    "text": "heard of it. It's called It's deep, deep in southern Brooklyn, New York. I don't"
+  },
+  {
+    "start": "00:01:54.470",
+    "end": "00:01:54.480",
+    "start_seconds": 114.47,
+    "end_seconds": 114.47999999999999,
+    "text": "in southern Brooklyn, New York. I don't"
+  },
+  {
+    "start": "00:01:54.480",
+    "end": "00:01:56.870",
+    "start_seconds": 114.47999999999999,
+    "end_seconds": 116.87,
+    "text": "in southern Brooklyn, New York. I don't know if you've ever"
+  },
+  {
+    "start": "00:01:56.870",
+    "end": "00:01:56.880",
+    "start_seconds": 116.87,
+    "end_seconds": 116.88,
+    "text": "know if you've ever"
+  },
+  {
+    "start": "00:01:56.880",
+    "end": "00:01:58.470",
+    "start_seconds": 116.88,
+    "end_seconds": 118.47,
+    "text": "know if you've ever heard of that part of the South, but"
+  },
+  {
+    "start": "00:01:58.470",
+    "end": "00:01:58.480",
+    "start_seconds": 118.47,
+    "end_seconds": 118.47999999999999,
+    "text": "heard of that part of the South, but"
+  },
+  {
+    "start": "00:01:58.480",
+    "end": "00:02:01.470",
+    "start_seconds": 118.47999999999999,
+    "end_seconds": 121.47,
+    "text": "heard of that part of the South, but that's where I'm from. Uh Uh"
+  },
+  {
+    "start": "00:02:01.470",
+    "end": "00:02:01.480",
+    "start_seconds": 121.47,
+    "end_seconds": 121.48,
+    "text": "that's where I'm from. Uh Uh"
+  },
+  {
+    "start": "00:02:01.480",
+    "end": "00:02:02.950",
+    "start_seconds": 121.48,
+    "end_seconds": 122.95,
+    "text": "that's where I'm from. Uh Uh I get a lot of, you know, people really"
+  },
+  {
+    "start": "00:02:02.950",
+    "end": "00:02:02.960",
+    "start_seconds": 122.95,
+    "end_seconds": 122.96,
+    "text": "I get a lot of, you know, people really"
+  },
+  {
+    "start": "00:02:02.960",
+    "end": "00:02:04.670",
+    "start_seconds": 122.96,
+    "end_seconds": 124.67,
+    "text": "I get a lot of, you know, people really don't believe me, but it I I come from a"
+  },
+  {
+    "start": "00:02:04.670",
+    "end": "00:02:04.680",
+    "start_seconds": 124.67,
+    "end_seconds": 124.68,
+    "text": "don't believe me, but it I I come from a"
+  },
+  {
+    "start": "00:02:04.680",
+    "end": "00:02:07.030",
+    "start_seconds": 124.68,
+    "end_seconds": 127.03,
+    "text": "don't believe me, but it I I come from a long line of farmers, you know, just"
+  },
+  {
+    "start": "00:02:07.030",
+    "end": "00:02:07.040",
+    "start_seconds": 127.03,
+    "end_seconds": 127.04,
+    "text": "long line of farmers, you know, just"
+  },
+  {
+    "start": "00:02:07.040",
+    "end": "00:02:09.630",
+    "start_seconds": 127.04,
+    "end_seconds": 129.63,
+    "text": "long line of farmers, you know, just ages and generations of farmers. We used"
+  },
+  {
+    "start": "00:02:09.630",
+    "end": "00:02:09.640",
+    "start_seconds": 129.63,
+    "end_seconds": 129.64,
+    "text": "ages and generations of farmers. We used"
+  },
+  {
+    "start": "00:02:09.640",
+    "end": "00:02:13.611",
+    "start_seconds": 129.64,
+    "end_seconds": 133.611,
+    "text": "ages and generations of farmers. We used to We used to We used to milk things. Um"
+  },
+  {
+    "start": "00:02:13.611",
+    "end": "00:02:13.621",
+    "start_seconds": 133.611,
+    "end_seconds": 133.621,
+    "text": "to We used to We used to milk things. Um"
+  },
+  {
+    "start": "00:02:13.621",
+    "end": "00:02:14.070",
+    "start_seconds": 133.621,
+    "end_seconds": 134.07,
+    "text": "to We used to We used to milk things. Um >> [laughter]"
+  },
+  {
+    "start": "00:02:14.070",
+    "end": "00:02:14.080",
+    "start_seconds": 134.07,
+    "end_seconds": 134.08,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:02:14.080",
+    "end": "00:02:16.110",
+    "start_seconds": 134.08,
+    "end_seconds": 136.11,
+    "text": ">> [laughter] >> We would uh Oh, we would grow stuff, you"
+  },
+  {
+    "start": "00:02:16.110",
+    "end": "00:02:16.120",
+    "start_seconds": 136.11,
+    "end_seconds": 136.12,
+    "text": ">> We would uh Oh, we would grow stuff, you"
+  },
+  {
+    "start": "00:02:16.120",
+    "end": "00:02:18.350",
+    "start_seconds": 136.12,
+    "end_seconds": 138.35,
+    "text": ">> We would uh Oh, we would grow stuff, you know, it's uh"
+  },
+  {
+    "start": "00:02:18.350",
+    "end": "00:02:18.360",
+    "start_seconds": 138.35,
+    "end_seconds": 138.36,
+    "text": "know, it's uh"
+  },
+  {
+    "start": "00:02:18.360",
+    "end": "00:02:19.830",
+    "start_seconds": 138.36,
+    "end_seconds": 139.82999999999998,
+    "text": "know, it's uh It's farm talk. I don't expect you to"
+  },
+  {
+    "start": "00:02:19.830",
+    "end": "00:02:19.840",
+    "start_seconds": 139.82999999999998,
+    "end_seconds": 139.84,
+    "text": "It's farm talk. I don't expect you to"
+  },
+  {
+    "start": "00:02:19.840",
+    "end": "00:02:21.471",
+    "start_seconds": 139.84,
+    "end_seconds": 141.471,
+    "text": "It's farm talk. I don't expect you to understand it, but"
+  },
+  {
+    "start": "00:02:21.471",
+    "end": "00:02:21.481",
+    "start_seconds": 141.471,
+    "end_seconds": 141.481,
+    "text": "understand it, but"
+  },
+  {
+    "start": "00:02:21.481",
+    "end": "00:02:22.310",
+    "start_seconds": 141.481,
+    "end_seconds": 142.31,
+    "text": "understand it, but >> [laughter]"
+  },
+  {
+    "start": "00:02:22.310",
+    "end": "00:02:22.320",
+    "start_seconds": 142.31,
+    "end_seconds": 142.32,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:02:22.320",
+    "end": "00:02:25.030",
+    "start_seconds": 142.32,
+    "end_seconds": 145.03,
+    "text": ">> [laughter] >> Um there is one time at the of the year"
+  },
+  {
+    "start": "00:02:25.030",
+    "end": "00:02:25.040",
+    "start_seconds": 145.03,
+    "end_seconds": 145.04,
+    "text": ">> Um there is one time at the of the year"
+  },
+  {
+    "start": "00:02:25.040",
+    "end": "00:02:26.790",
+    "start_seconds": 145.04,
+    "end_seconds": 146.79,
+    "text": ">> Um there is one time at the of the year uh where we all sort of become or"
+  },
+  {
+    "start": "00:02:26.790",
+    "end": "00:02:26.800",
+    "start_seconds": 146.79,
+    "end_seconds": 146.8,
+    "text": "uh where we all sort of become or"
+  },
+  {
+    "start": "00:02:26.800",
+    "end": "00:02:29.870",
+    "start_seconds": 146.8,
+    "end_seconds": 149.87,
+    "text": "uh where we all sort of become or pretend to be farmers, and that is that"
+  },
+  {
+    "start": "00:02:29.870",
+    "end": "00:02:29.880",
+    "start_seconds": 149.87,
+    "end_seconds": 149.88,
+    "text": "pretend to be farmers, and that is that"
+  },
+  {
+    "start": "00:02:29.880",
+    "end": "00:02:31.870",
+    "start_seconds": 149.88,
+    "end_seconds": 151.87,
+    "text": "pretend to be farmers, and that is that is around Halloween time when we go"
+  },
+  {
+    "start": "00:02:31.870",
+    "end": "00:02:31.880",
+    "start_seconds": 151.87,
+    "end_seconds": 151.88,
+    "text": "is around Halloween time when we go"
+  },
+  {
+    "start": "00:02:31.880",
+    "end": "00:02:33.990",
+    "start_seconds": 151.88,
+    "end_seconds": 153.99,
+    "text": "is around Halloween time when we go punkin picking."
+  },
+  {
+    "start": "00:02:33.990",
+    "end": "00:02:34.000",
+    "start_seconds": 153.99,
+    "end_seconds": 154.0,
+    "text": "punkin picking."
+  },
+  {
+    "start": "00:02:34.000",
+    "end": "00:02:35.830",
+    "start_seconds": 154.0,
+    "end_seconds": 155.82999999999998,
+    "text": "punkin picking. Now, if you heard the word punkin, you"
+  },
+  {
+    "start": "00:02:35.830",
+    "end": "00:02:35.840",
+    "start_seconds": 155.82999999999998,
+    "end_seconds": 155.84,
+    "text": "Now, if you heard the word punkin, you"
+  },
+  {
+    "start": "00:02:35.840",
+    "end": "00:02:37.846",
+    "start_seconds": 155.84,
+    "end_seconds": 157.846,
+    "text": "Now, if you heard the word punkin, you heard correctly."
+  },
+  {
+    "start": "00:02:37.846",
+    "end": "00:02:37.856",
+    "start_seconds": 157.846,
+    "end_seconds": 157.856,
+    "text": "heard correctly."
+  },
+  {
+    "start": "00:02:37.856",
+    "end": "00:02:38.590",
+    "start_seconds": 157.856,
+    "end_seconds": 158.59,
+    "text": "heard correctly. >> [laughter]"
+  },
+  {
+    "start": "00:02:38.590",
+    "end": "00:02:38.600",
+    "start_seconds": 158.59,
+    "end_seconds": 158.6,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:02:38.600",
+    "end": "00:02:40.750",
+    "start_seconds": 158.6,
+    "end_seconds": 160.75,
+    "text": ">> [laughter] >> I cannot say the word pumpkin. I don't"
+  },
+  {
+    "start": "00:02:40.750",
+    "end": "00:02:40.760",
+    "start_seconds": 160.75,
+    "end_seconds": 160.76,
+    "text": ">> I cannot say the word pumpkin. I don't"
+  },
+  {
+    "start": "00:02:40.760",
+    "end": "00:02:42.390",
+    "start_seconds": 160.76,
+    "end_seconds": 162.39,
+    "text": ">> I cannot say the word pumpkin. I don't know if it's because I'm firstborn"
+  },
+  {
+    "start": "00:02:42.390",
+    "end": "00:02:42.400",
+    "start_seconds": 162.39,
+    "end_seconds": 162.4,
+    "text": "know if it's because I'm firstborn"
+  },
+  {
+    "start": "00:02:42.400",
+    "end": "00:02:45.310",
+    "start_seconds": 162.4,
+    "end_seconds": 165.31,
+    "text": "know if it's because I'm firstborn American, but it doesn't I can't say"
+  },
+  {
+    "start": "00:02:45.310",
+    "end": "00:02:45.320",
+    "start_seconds": 165.31,
+    "end_seconds": 165.32,
+    "text": "American, but it doesn't I can't say"
+  },
+  {
+    "start": "00:02:45.320",
+    "end": "00:02:47.190",
+    "start_seconds": 165.32,
+    "end_seconds": 167.19,
+    "text": "American, but it doesn't I can't say punkin. So, if you're like really a"
+  },
+  {
+    "start": "00:02:47.190",
+    "end": "00:02:47.200",
+    "start_seconds": 167.19,
+    "end_seconds": 167.2,
+    "text": "punkin. So, if you're like really a"
+  },
+  {
+    "start": "00:02:47.200",
+    "end": "00:02:49.430",
+    "start_seconds": 167.2,
+    "end_seconds": 169.43,
+    "text": "punkin. So, if you're like really a stickler about syntax, you might want to"
+  },
+  {
+    "start": "00:02:49.430",
+    "end": "00:02:49.440",
+    "start_seconds": 169.43,
+    "end_seconds": 169.44,
+    "text": "stickler about syntax, you might want to"
+  },
+  {
+    "start": "00:02:49.440",
+    "end": "00:02:51.750",
+    "start_seconds": 169.44,
+    "end_seconds": 171.75,
+    "text": "stickler about syntax, you might want to cover your ears cuz for this next bit,"
+  },
+  {
+    "start": "00:02:51.750",
+    "end": "00:02:51.760",
+    "start_seconds": 171.75,
+    "end_seconds": 171.76,
+    "text": "cover your ears cuz for this next bit,"
+  },
+  {
+    "start": "00:02:51.760",
+    "end": "00:02:53.150",
+    "start_seconds": 171.76,
+    "end_seconds": 173.15,
+    "text": "cover your ears cuz for this next bit, you're going to hear the word punkin"
+  },
+  {
+    "start": "00:02:53.150",
+    "end": "00:02:53.160",
+    "start_seconds": 173.15,
+    "end_seconds": 173.16,
+    "text": "you're going to hear the word punkin"
+  },
+  {
+    "start": "00:02:53.160",
+    "end": "00:02:54.876",
+    "start_seconds": 173.16,
+    "end_seconds": 174.876,
+    "text": "you're going to hear the word punkin several times."
+  },
+  {
+    "start": "00:02:54.876",
+    "end": "00:02:54.886",
+    "start_seconds": 174.876,
+    "end_seconds": 174.886,
+    "text": "several times."
+  },
+  {
+    "start": "00:02:54.886",
+    "end": "00:02:58.470",
+    "start_seconds": 174.886,
+    "end_seconds": 178.47,
+    "text": "several times. >> [laughter]"
+  },
+  {
+    "start": "00:02:58.480",
+    "end": "00:03:00.870",
+    "start_seconds": 178.48,
+    "end_seconds": 180.87,
+    "text": ">> And this all comes down to the fact that"
+  },
+  {
+    "start": "00:03:00.870",
+    "end": "00:03:00.880",
+    "start_seconds": 180.87,
+    "end_seconds": 180.88,
+    "text": ">> And this all comes down to the fact that"
+  },
+  {
+    "start": "00:03:00.880",
+    "end": "00:03:04.030",
+    "start_seconds": 180.88,
+    "end_seconds": 184.03,
+    "text": ">> And this all comes down to the fact that anyone here who's ever gone pumpkin"
+  },
+  {
+    "start": "00:03:04.030",
+    "end": "00:03:04.040",
+    "start_seconds": 184.03,
+    "end_seconds": 184.04,
+    "text": "anyone here who's ever gone pumpkin"
+  },
+  {
+    "start": "00:03:04.040",
+    "end": "00:03:06.350",
+    "start_seconds": 184.04,
+    "end_seconds": 186.35,
+    "text": "anyone here who's ever gone pumpkin picking [laughter]"
+  },
+  {
+    "start": "00:03:06.350",
+    "end": "00:03:06.360",
+    "start_seconds": 186.35,
+    "end_seconds": 186.36,
+    "text": "picking [laughter]"
+  },
+  {
+    "start": "00:03:06.360",
+    "end": "00:03:09.470",
+    "start_seconds": 186.36,
+    "end_seconds": 189.47,
+    "text": "picking [laughter] has most likely never ever picked a"
+  },
+  {
+    "start": "00:03:09.470",
+    "end": "00:03:09.480",
+    "start_seconds": 189.47,
+    "end_seconds": 189.48,
+    "text": "has most likely never ever picked a"
+  },
+  {
+    "start": "00:03:09.480",
+    "end": "00:03:11.110",
+    "start_seconds": 189.48,
+    "end_seconds": 191.11,
+    "text": "has most likely never ever picked a pumpkin."
+  },
+  {
+    "start": "00:03:11.110",
+    "end": "00:03:11.120",
+    "start_seconds": 191.11,
+    "end_seconds": 191.12,
+    "text": "pumpkin."
+  },
+  {
+    "start": "00:03:11.120",
+    "end": "00:03:13.217",
+    "start_seconds": 191.12,
+    "end_seconds": 193.217,
+    "text": "pumpkin. You've picked it up"
+  },
+  {
+    "start": "00:03:13.217",
+    "end": "00:03:13.227",
+    "start_seconds": 193.217,
+    "end_seconds": 193.227,
+    "text": "You've picked it up"
+  },
+  {
+    "start": "00:03:13.227",
+    "end": "00:03:14.229",
+    "start_seconds": 193.227,
+    "end_seconds": 194.22899999999998,
+    "text": "You've picked it up >> [laughter]"
+  },
+  {
+    "start": "00:03:14.229",
+    "end": "00:03:14.239",
+    "start_seconds": 194.22899999999998,
+    "end_seconds": 194.239,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:03:14.239",
+    "end": "00:03:16.390",
+    "start_seconds": 194.239,
+    "end_seconds": 196.39,
+    "text": ">> [laughter] >> that the real farmers cut from the vine"
+  },
+  {
+    "start": "00:03:16.390",
+    "end": "00:03:16.400",
+    "start_seconds": 196.39,
+    "end_seconds": 196.4,
+    "text": ">> that the real farmers cut from the vine"
+  },
+  {
+    "start": "00:03:16.400",
+    "end": "00:03:18.457",
+    "start_seconds": 196.4,
+    "end_seconds": 198.457,
+    "text": ">> that the real farmers cut from the vine and threw in the grass."
+  },
+  {
+    "start": "00:03:18.457",
+    "end": "00:03:18.467",
+    "start_seconds": 198.457,
+    "end_seconds": 198.46699999999998,
+    "text": "and threw in the grass."
+  },
+  {
+    "start": "00:03:18.467",
+    "end": "00:03:18.470",
+    "start_seconds": 198.46699999999998,
+    "end_seconds": 198.47,
+    "text": "and threw in the grass. >> [laughter]"
+  },
+  {
+    "start": "00:03:18.470",
+    "end": "00:03:18.480",
+    "start_seconds": 198.47,
+    "end_seconds": 198.48,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:03:18.480",
+    "end": "00:03:20.670",
+    "start_seconds": 198.48,
+    "end_seconds": 200.67000000000002,
+    "text": ">> [laughter] >> You picked up a pumpkin"
+  },
+  {
+    "start": "00:03:20.670",
+    "end": "00:03:20.680",
+    "start_seconds": 200.67000000000002,
+    "end_seconds": 200.68,
+    "text": ">> You picked up a pumpkin"
+  },
+  {
+    "start": "00:03:20.680",
+    "end": "00:03:23.630",
+    "start_seconds": 200.68,
+    "end_seconds": 203.63,
+    "text": ">> You picked up a pumpkin and carried it to the register"
+  },
+  {
+    "start": "00:03:23.630",
+    "end": "00:03:23.640",
+    "start_seconds": 203.63,
+    "end_seconds": 203.64,
+    "text": "and carried it to the register"
+  },
+  {
+    "start": "00:03:23.640",
+    "end": "00:03:27.627",
+    "start_seconds": 203.64,
+    "end_seconds": 207.627,
+    "text": "and carried it to the register paid $60 for a piece of squash"
+  },
+  {
+    "start": "00:03:27.627",
+    "end": "00:03:27.637",
+    "start_seconds": 207.627,
+    "end_seconds": 207.637,
+    "text": "paid $60 for a piece of squash"
+  },
+  {
+    "start": "00:03:27.637",
+    "end": "00:03:31.150",
+    "start_seconds": 207.637,
+    "end_seconds": 211.15,
+    "text": "paid $60 for a piece of squash >> [laughter]"
+  },
+  {
+    "start": "00:03:31.160",
+    "end": "00:03:35.550",
+    "start_seconds": 211.16,
+    "end_seconds": 215.55,
+    "text": ">> $2.99 in the supermarket."
+  },
+  {
+    "start": "00:03:35.560",
+    "end": "00:03:37.830",
+    "start_seconds": 215.56,
+    "end_seconds": 217.82999999999998,
+    "text": "And you proudly display your fresh"
+  },
+  {
+    "start": "00:03:37.830",
+    "end": "00:03:37.840",
+    "start_seconds": 217.82999999999998,
+    "end_seconds": 217.84,
+    "text": "And you proudly display your fresh"
+  },
+  {
+    "start": "00:03:37.840",
+    "end": "00:03:41.382",
+    "start_seconds": 217.84,
+    "end_seconds": 221.382,
+    "text": "And you proudly display your fresh vegetable outside your house."
+  },
+  {
+    "start": "00:03:41.382",
+    "end": "00:03:41.392",
+    "start_seconds": 221.382,
+    "end_seconds": 221.392,
+    "text": "vegetable outside your house."
+  },
+  {
+    "start": "00:03:41.392",
+    "end": "00:03:42.110",
+    "start_seconds": 221.392,
+    "end_seconds": 222.11,
+    "text": "vegetable outside your house. >> [laughter]"
+  },
+  {
+    "start": "00:03:42.110",
+    "end": "00:03:42.120",
+    "start_seconds": 222.11,
+    "end_seconds": 222.12,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:03:42.120",
+    "end": "00:03:46.310",
+    "start_seconds": 222.12,
+    "end_seconds": 226.31,
+    "text": ">> [laughter] >> $65 piece of squash. Here it is"
+  },
+  {
+    "start": "00:03:46.310",
+    "end": "00:03:46.320",
+    "start_seconds": 226.31,
+    "end_seconds": 226.32,
+    "text": ">> $65 piece of squash. Here it is"
+  },
+  {
+    "start": "00:03:46.320",
+    "end": "00:03:49.310",
+    "start_seconds": 226.32,
+    "end_seconds": 229.31,
+    "text": ">> $65 piece of squash. Here it is for everybody to look at."
+  },
+  {
+    "start": "00:03:49.310",
+    "end": "00:03:49.320",
+    "start_seconds": 229.31,
+    "end_seconds": 229.32,
+    "text": "for everybody to look at."
+  },
+  {
+    "start": "00:03:49.320",
+    "end": "00:03:51.750",
+    "start_seconds": 229.32,
+    "end_seconds": 231.75,
+    "text": "for everybody to look at. Can you imagine being underprivileged,"
+  },
+  {
+    "start": "00:03:51.750",
+    "end": "00:03:51.760",
+    "start_seconds": 231.75,
+    "end_seconds": 231.76,
+    "text": "Can you imagine being underprivileged,"
+  },
+  {
+    "start": "00:03:51.760",
+    "end": "00:03:53.430",
+    "start_seconds": 231.76,
+    "end_seconds": 233.43,
+    "text": "Can you imagine being underprivileged, driving through a middle-class"
+  },
+  {
+    "start": "00:03:53.430",
+    "end": "00:03:53.440",
+    "start_seconds": 233.43,
+    "end_seconds": 233.44,
+    "text": "driving through a middle-class"
+  },
+  {
+    "start": "00:03:53.440",
+    "end": "00:03:55.430",
+    "start_seconds": 233.44,
+    "end_seconds": 235.43,
+    "text": "driving through a middle-class neighborhood, seeing all these fresh"
+  },
+  {
+    "start": "00:03:55.430",
+    "end": "00:03:55.440",
+    "start_seconds": 235.43,
+    "end_seconds": 235.44,
+    "text": "neighborhood, seeing all these fresh"
+  },
+  {
+    "start": "00:03:55.440",
+    "end": "00:03:57.102",
+    "start_seconds": 235.44,
+    "end_seconds": 237.102,
+    "text": "neighborhood, seeing all these fresh vegetables,"
+  },
+  {
+    "start": "00:03:57.102",
+    "end": "00:03:57.112",
+    "start_seconds": 237.102,
+    "end_seconds": 237.112,
+    "text": "vegetables,"
+  },
+  {
+    "start": "00:03:57.112",
+    "end": "00:03:57.910",
+    "start_seconds": 237.112,
+    "end_seconds": 237.91,
+    "text": "vegetables, >> [laughter]"
+  },
+  {
+    "start": "00:03:57.910",
+    "end": "00:03:57.920",
+    "start_seconds": 237.91,
+    "end_seconds": 237.92000000000002,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:03:57.920",
+    "end": "00:03:59.430",
+    "start_seconds": 237.92000000000002,
+    "end_seconds": 239.43,
+    "text": ">> [laughter] >> and thinking, \"Why aren't they cooking"
+  },
+  {
+    "start": "00:03:59.430",
+    "end": "00:03:59.440",
+    "start_seconds": 239.43,
+    "end_seconds": 239.44,
+    "text": ">> and thinking, \"Why aren't they cooking"
+  },
+  {
+    "start": "00:03:59.440",
+    "end": "00:04:01.430",
+    "start_seconds": 239.44,
+    "end_seconds": 241.43,
+    "text": ">> and thinking, \"Why aren't they cooking them?\""
+  },
+  {
+    "start": "00:04:01.430",
+    "end": "00:04:01.440",
+    "start_seconds": 241.43,
+    "end_seconds": 241.44,
+    "text": "them?\""
+  },
+  {
+    "start": "00:04:01.440",
+    "end": "00:04:03.070",
+    "start_seconds": 241.44,
+    "end_seconds": 243.07,
+    "text": "them?\" That's not decoration, that's dinner."
+  },
+  {
+    "start": "00:04:03.070",
+    "end": "00:04:03.080",
+    "start_seconds": 243.07,
+    "end_seconds": 243.08,
+    "text": "That's not decoration, that's dinner."
+  },
+  {
+    "start": "00:04:03.080",
+    "end": "00:04:05.430",
+    "start_seconds": 243.08,
+    "end_seconds": 245.43,
+    "text": "That's not decoration, that's dinner. What are they doing?"
+  },
+  {
+    "start": "00:04:05.430",
+    "end": "00:04:05.440",
+    "start_seconds": 245.43,
+    "end_seconds": 245.44,
+    "text": "What are they doing?"
+  },
+  {
+    "start": "00:04:05.440",
+    "end": "00:04:06.830",
+    "start_seconds": 245.44,
+    "end_seconds": 246.83,
+    "text": "What are they doing? To put it in perspective, it's like"
+  },
+  {
+    "start": "00:04:06.830",
+    "end": "00:04:06.840",
+    "start_seconds": 246.83,
+    "end_seconds": 246.84,
+    "text": "To put it in perspective, it's like"
+  },
+  {
+    "start": "00:04:06.840",
+    "end": "00:04:08.470",
+    "start_seconds": 246.84,
+    "end_seconds": 248.47,
+    "text": "To put it in perspective, it's like being middle-class and driving through"
+  },
+  {
+    "start": "00:04:08.470",
+    "end": "00:04:08.480",
+    "start_seconds": 248.47,
+    "end_seconds": 248.48,
+    "text": "being middle-class and driving through"
+  },
+  {
+    "start": "00:04:08.480",
+    "end": "00:04:10.630",
+    "start_seconds": 248.48,
+    "end_seconds": 250.63,
+    "text": "being middle-class and driving through an affluent neighborhood, and for no"
+  },
+  {
+    "start": "00:04:10.630",
+    "end": "00:04:10.640",
+    "start_seconds": 250.63,
+    "end_seconds": 250.64,
+    "text": "an affluent neighborhood, and for no"
+  },
+  {
+    "start": "00:04:10.640",
+    "end": "00:04:13.230",
+    "start_seconds": 250.64,
+    "end_seconds": 253.23,
+    "text": "an affluent neighborhood, and for no apparent reason, they have raw piece of"
+  },
+  {
+    "start": "00:04:13.230",
+    "end": "00:04:13.240",
+    "start_seconds": 253.23,
+    "end_seconds": 253.24,
+    "text": "apparent reason, they have raw piece of"
+  },
+  {
+    "start": "00:04:13.240",
+    "end": "00:04:15.070",
+    "start_seconds": 253.24,
+    "end_seconds": 255.07,
+    "text": "apparent reason, they have raw piece of filet mignon just hanging out of the"
+  },
+  {
+    "start": "00:04:15.070",
+    "end": "00:04:15.080",
+    "start_seconds": 255.07,
+    "end_seconds": 255.08,
+    "text": "filet mignon just hanging out of the"
+  },
+  {
+    "start": "00:04:15.080",
+    "end": "00:04:16.097",
+    "start_seconds": 255.08,
+    "end_seconds": 256.097,
+    "text": "filet mignon just hanging out of the trees."
+  },
+  {
+    "start": "00:04:16.097",
+    "end": "00:04:16.107",
+    "start_seconds": 256.097,
+    "end_seconds": 256.10699999999997,
+    "text": "trees."
+  },
+  {
+    "start": "00:04:16.107",
+    "end": "00:04:19.750",
+    "start_seconds": 256.10699999999997,
+    "end_seconds": 259.75,
+    "text": "trees. >> [laughter]"
+  },
+  {
+    "start": "00:04:19.760",
+    "end": "00:04:21.910",
+    "start_seconds": 259.76,
+    "end_seconds": 261.91,
+    "text": ">> I don't know. Open jars of beluga caviar"
+  },
+  {
+    "start": "00:04:21.910",
+    "end": "00:04:21.920",
+    "start_seconds": 261.91,
+    "end_seconds": 261.92,
+    "text": ">> I don't know. Open jars of beluga caviar"
+  },
+  {
+    "start": "00:04:21.920",
+    "end": "00:04:24.613",
+    "start_seconds": 261.92,
+    "end_seconds": 264.613,
+    "text": ">> I don't know. Open jars of beluga caviar lining the driveway."
+  },
+  {
+    "start": "00:04:24.613",
+    "end": "00:04:24.623",
+    "start_seconds": 264.613,
+    "end_seconds": 264.623,
+    "text": "lining the driveway."
+  },
+  {
+    "start": "00:04:24.623",
+    "end": "00:04:26.830",
+    "start_seconds": 264.623,
+    "end_seconds": 266.83,
+    "text": "lining the driveway. >> [laughter]"
+  },
+  {
+    "start": "00:04:26.840",
+    "end": "00:04:28.110",
+    "start_seconds": 266.84,
+    "end_seconds": 268.11,
+    "text": ">> Maybe I am. Maybe everybody's right."
+  },
+  {
+    "start": "00:04:28.110",
+    "end": "00:04:28.120",
+    "start_seconds": 268.11,
+    "end_seconds": 268.12,
+    "text": ">> Maybe I am. Maybe everybody's right."
+  },
+  {
+    "start": "00:04:28.120",
+    "end": "00:04:30.150",
+    "start_seconds": 268.12,
+    "end_seconds": 270.15,
+    "text": ">> Maybe I am. Maybe everybody's right. Maybe I'm a bit of a dinosaur, you know,"
+  },
+  {
+    "start": "00:04:30.150",
+    "end": "00:04:30.160",
+    "start_seconds": 270.15,
+    "end_seconds": 270.16,
+    "text": "Maybe I'm a bit of a dinosaur, you know,"
+  },
+  {
+    "start": "00:04:30.160",
+    "end": "00:04:31.909",
+    "start_seconds": 270.16,
+    "end_seconds": 271.909,
+    "text": "Maybe I'm a bit of a dinosaur, you know, when it comes to this attitude and this"
+  },
+  {
+    "start": "00:04:31.909",
+    "end": "00:04:31.919",
+    "start_seconds": 271.909,
+    "end_seconds": 271.919,
+    "text": "when it comes to this attitude and this"
+  },
+  {
+    "start": "00:04:31.919",
+    "end": "00:04:34.990",
+    "start_seconds": 271.919,
+    "end_seconds": 274.99,
+    "text": "when it comes to this attitude and this tough guy thing, it's fading away."
+  },
+  {
+    "start": "00:04:34.990",
+    "end": "00:04:35.000",
+    "start_seconds": 274.99,
+    "end_seconds": 275.0,
+    "text": "tough guy thing, it's fading away."
+  },
+  {
+    "start": "00:04:35.000",
+    "end": "00:04:37.190",
+    "start_seconds": 275.0,
+    "end_seconds": 277.19,
+    "text": "tough guy thing, it's fading away. And certainly a dinosaur when it comes"
+  },
+  {
+    "start": "00:04:37.190",
+    "end": "00:04:37.200",
+    "start_seconds": 277.19,
+    "end_seconds": 277.2,
+    "text": "And certainly a dinosaur when it comes"
+  },
+  {
+    "start": "00:04:37.200",
+    "end": "00:04:39.430",
+    "start_seconds": 277.2,
+    "end_seconds": 279.43,
+    "text": "And certainly a dinosaur when it comes to technology. We all live and breathe"
+  },
+  {
+    "start": "00:04:39.430",
+    "end": "00:04:39.440",
+    "start_seconds": 279.43,
+    "end_seconds": 279.44,
+    "text": "to technology. We all live and breathe"
+  },
+  {
+    "start": "00:04:39.440",
+    "end": "00:04:40.830",
+    "start_seconds": 279.44,
+    "end_seconds": 280.83,
+    "text": "to technology. We all live and breathe our technology to the point where I"
+  },
+  {
+    "start": "00:04:40.830",
+    "end": "00:04:40.840",
+    "start_seconds": 280.83,
+    "end_seconds": 280.84000000000003,
+    "text": "our technology to the point where I"
+  },
+  {
+    "start": "00:04:40.840",
+    "end": "00:04:42.390",
+    "start_seconds": 280.84000000000003,
+    "end_seconds": 282.39,
+    "text": "our technology to the point where I think it's unhealthy to certain to a"
+  },
+  {
+    "start": "00:04:42.390",
+    "end": "00:04:42.400",
+    "start_seconds": 282.39,
+    "end_seconds": 282.4,
+    "text": "think it's unhealthy to certain to a"
+  },
+  {
+    "start": "00:04:42.400",
+    "end": "00:04:44.030",
+    "start_seconds": 282.4,
+    "end_seconds": 284.03,
+    "text": "think it's unhealthy to certain to a certain extent. I feel like I'm a"
+  },
+  {
+    "start": "00:04:44.030",
+    "end": "00:04:44.040",
+    "start_seconds": 284.03,
+    "end_seconds": 284.04,
+    "text": "certain extent. I feel like I'm a"
+  },
+  {
+    "start": "00:04:44.040",
+    "end": "00:04:46.390",
+    "start_seconds": 284.04,
+    "end_seconds": 286.39,
+    "text": "certain extent. I feel like I'm a hostage to it. For perfect example, you"
+  },
+  {
+    "start": "00:04:46.390",
+    "end": "00:04:46.400",
+    "start_seconds": 286.39,
+    "end_seconds": 286.4,
+    "text": "hostage to it. For perfect example, you"
+  },
+  {
+    "start": "00:04:46.400",
+    "end": "00:04:47.790",
+    "start_seconds": 286.4,
+    "end_seconds": 287.79,
+    "text": "hostage to it. For perfect example, you want to know the weather. What do you"
+  },
+  {
+    "start": "00:04:47.790",
+    "end": "00:04:47.800",
+    "start_seconds": 287.79,
+    "end_seconds": 287.8,
+    "text": "want to know the weather. What do you"
+  },
+  {
+    "start": "00:04:47.800",
+    "end": "00:04:49.710",
+    "start_seconds": 287.8,
+    "end_seconds": 289.71,
+    "text": "want to know the weather. What do you do? You look at your phone, right?"
+  },
+  {
+    "start": "00:04:49.710",
+    "end": "00:04:49.720",
+    "start_seconds": 289.71,
+    "end_seconds": 289.72,
+    "text": "do? You look at your phone, right?"
+  },
+  {
+    "start": "00:04:49.720",
+    "end": "00:04:51.870",
+    "start_seconds": 289.72,
+    "end_seconds": 291.87,
+    "text": "do? You look at your phone, right? But by the time you take the phone out"
+  },
+  {
+    "start": "00:04:51.870",
+    "end": "00:04:51.880",
+    "start_seconds": 291.87,
+    "end_seconds": 291.88,
+    "text": "But by the time you take the phone out"
+  },
+  {
+    "start": "00:04:51.880",
+    "end": "00:04:53.909",
+    "start_seconds": 291.88,
+    "end_seconds": 293.909,
+    "text": "But by the time you take the phone out of your back pocket of your skinny"
+  },
+  {
+    "start": "00:04:53.909",
+    "end": "00:04:53.919",
+    "start_seconds": 293.909,
+    "end_seconds": 293.919,
+    "text": "of your back pocket of your skinny"
+  },
+  {
+    "start": "00:04:53.919",
+    "end": "00:04:55.870",
+    "start_seconds": 293.919,
+    "end_seconds": 295.87,
+    "text": "of your back pocket of your skinny jeans, you know,"
+  },
+  {
+    "start": "00:04:55.870",
+    "end": "00:04:55.880",
+    "start_seconds": 295.87,
+    "end_seconds": 295.88,
+    "text": "jeans, you know,"
+  },
+  {
+    "start": "00:04:55.880",
+    "end": "00:04:57.870",
+    "start_seconds": 295.88,
+    "end_seconds": 297.87,
+    "text": "jeans, you know, now you got to wake up the screen"
+  },
+  {
+    "start": "00:04:57.870",
+    "end": "00:04:57.880",
+    "start_seconds": 297.87,
+    "end_seconds": 297.88,
+    "text": "now you got to wake up the screen"
+  },
+  {
+    "start": "00:04:57.880",
+    "end": "00:05:00.950",
+    "start_seconds": 297.88,
+    "end_seconds": 300.95,
+    "text": "now you got to wake up the screen because it doesn't recognize Face ID cuz"
+  },
+  {
+    "start": "00:05:00.950",
+    "end": "00:05:00.960",
+    "start_seconds": 300.95,
+    "end_seconds": 300.96,
+    "text": "because it doesn't recognize Face ID cuz"
+  },
+  {
+    "start": "00:05:00.960",
+    "end": "00:05:03.110",
+    "start_seconds": 300.96,
+    "end_seconds": 303.11,
+    "text": "because it doesn't recognize Face ID cuz you grew a thick beard, and it doesn't"
+  },
+  {
+    "start": "00:05:03.110",
+    "end": "00:05:03.120",
+    "start_seconds": 303.11,
+    "end_seconds": 303.12,
+    "text": "you grew a thick beard, and it doesn't"
+  },
+  {
+    "start": "00:05:03.120",
+    "end": "00:05:04.750",
+    "start_seconds": 303.12,
+    "end_seconds": 304.75,
+    "text": "you grew a thick beard, and it doesn't know who you are, and you didn't update"
+  },
+  {
+    "start": "00:05:04.750",
+    "end": "00:05:04.760",
+    "start_seconds": 304.75,
+    "end_seconds": 304.76,
+    "text": "know who you are, and you didn't update"
+  },
+  {
+    "start": "00:05:04.760",
+    "end": "00:05:06.590",
+    "start_seconds": 304.76,
+    "end_seconds": 306.59,
+    "text": "know who you are, and you didn't update the app. So, then you got to put the"
+  },
+  {
+    "start": "00:05:06.590",
+    "end": "00:05:06.600",
+    "start_seconds": 306.59,
+    "end_seconds": 306.6,
+    "text": "the app. So, then you got to put the"
+  },
+  {
+    "start": "00:05:06.600",
+    "end": "00:05:08.870",
+    "start_seconds": 306.6,
+    "end_seconds": 308.87,
+    "text": "the app. So, then you got to put the code in, but you forgot the code cuz you"
+  },
+  {
+    "start": "00:05:08.870",
+    "end": "00:05:08.880",
+    "start_seconds": 308.87,
+    "end_seconds": 308.88,
+    "text": "code in, but you forgot the code cuz you"
+  },
+  {
+    "start": "00:05:08.880",
+    "end": "00:05:11.190",
+    "start_seconds": 308.88,
+    "end_seconds": 311.19,
+    "text": "code in, but you forgot the code cuz you were hacked about a week ago. So, now"
+  },
+  {
+    "start": "00:05:11.190",
+    "end": "00:05:11.200",
+    "start_seconds": 311.19,
+    "end_seconds": 311.2,
+    "text": "were hacked about a week ago. So, now"
+  },
+  {
+    "start": "00:05:11.200",
+    "end": "00:05:13.430",
+    "start_seconds": 311.2,
+    "end_seconds": 313.43,
+    "text": "were hacked about a week ago. So, now you got to try to remember which family"
+  },
+  {
+    "start": "00:05:13.430",
+    "end": "00:05:13.440",
+    "start_seconds": 313.43,
+    "end_seconds": 313.44,
+    "text": "you got to try to remember which family"
+  },
+  {
+    "start": "00:05:13.440",
+    "end": "00:05:17.270",
+    "start_seconds": 313.44,
+    "end_seconds": 317.27,
+    "text": "you got to try to remember which family member's birthday you used this time."
+  },
+  {
+    "start": "00:05:17.270",
+    "end": "00:05:17.280",
+    "start_seconds": 317.27,
+    "end_seconds": 317.28,
+    "text": "member's birthday you used this time."
+  },
+  {
+    "start": "00:05:17.280",
+    "end": "00:05:18.790",
+    "start_seconds": 317.28,
+    "end_seconds": 318.79,
+    "text": "member's birthday you used this time. So, you're going through, and it's like,"
+  },
+  {
+    "start": "00:05:18.790",
+    "end": "00:05:18.800",
+    "start_seconds": 318.79,
+    "end_seconds": 318.8,
+    "text": "So, you're going through, and it's like,"
+  },
+  {
+    "start": "00:05:18.800",
+    "end": "00:05:20.830",
+    "start_seconds": 318.8,
+    "end_seconds": 320.83,
+    "text": "So, you're going through, and it's like, \"Oh my goodness, it's the fourth try.\""
+  },
+  {
+    "start": "00:05:20.830",
+    "end": "00:05:20.840",
+    "start_seconds": 320.83,
+    "end_seconds": 320.84,
+    "text": "\"Oh my goodness, it's the fourth try.\""
+  },
+  {
+    "start": "00:05:20.840",
+    "end": "00:05:22.470",
+    "start_seconds": 320.84,
+    "end_seconds": 322.47,
+    "text": "\"Oh my goodness, it's the fourth try.\" And you finally get it. You get it on"
+  },
+  {
+    "start": "00:05:22.470",
+    "end": "00:05:22.480",
+    "start_seconds": 322.47,
+    "end_seconds": 322.48,
+    "text": "And you finally get it. You get it on"
+  },
+  {
+    "start": "00:05:22.480",
+    "end": "00:05:24.110",
+    "start_seconds": 322.48,
+    "end_seconds": 324.11,
+    "text": "And you finally get it. You get it on the fourth try, and you're like, \"Yes.\""
+  },
+  {
+    "start": "00:05:24.110",
+    "end": "00:05:24.120",
+    "start_seconds": 324.11,
+    "end_seconds": 324.12,
+    "text": "the fourth try, and you're like, \"Yes.\""
+  },
+  {
+    "start": "00:05:24.120",
+    "end": "00:05:26.310",
+    "start_seconds": 324.12,
+    "end_seconds": 326.31,
+    "text": "the fourth try, and you're like, \"Yes.\" Cuz you know, if you had gone five"
+  },
+  {
+    "start": "00:05:26.310",
+    "end": "00:05:26.320",
+    "start_seconds": 326.31,
+    "end_seconds": 326.32,
+    "text": "Cuz you know, if you had gone five"
+  },
+  {
+    "start": "00:05:26.320",
+    "end": "00:05:28.150",
+    "start_seconds": 326.32,
+    "end_seconds": 328.15,
+    "text": "Cuz you know, if you had gone five times, you would have got locked out."
+  },
+  {
+    "start": "00:05:28.150",
+    "end": "00:05:28.160",
+    "start_seconds": 328.15,
+    "end_seconds": 328.16,
+    "text": "times, you would have got locked out."
+  },
+  {
+    "start": "00:05:28.160",
+    "end": "00:05:29.909",
+    "start_seconds": 328.16,
+    "end_seconds": 329.909,
+    "text": "times, you would have got locked out. And that's 3 hours of your life you"
+  },
+  {
+    "start": "00:05:29.909",
+    "end": "00:05:29.919",
+    "start_seconds": 329.909,
+    "end_seconds": 329.919,
+    "text": "And that's 3 hours of your life you"
+  },
+  {
+    "start": "00:05:29.919",
+    "end": "00:05:31.870",
+    "start_seconds": 329.919,
+    "end_seconds": 331.87,
+    "text": "And that's 3 hours of your life you don't have to waste talking to support,"
+  },
+  {
+    "start": "00:05:31.870",
+    "end": "00:05:31.880",
+    "start_seconds": 331.87,
+    "end_seconds": 331.88,
+    "text": "don't have to waste talking to support,"
+  },
+  {
+    "start": "00:05:31.880",
+    "end": "00:05:32.733",
+    "start_seconds": 331.88,
+    "end_seconds": 332.733,
+    "text": "don't have to waste talking to support, you know?"
+  },
+  {
+    "start": "00:05:32.733",
+    "end": "00:05:32.743",
+    "start_seconds": 332.733,
+    "end_seconds": 332.743,
+    "text": "you know?"
+  },
+  {
+    "start": "00:05:32.743",
+    "end": "00:05:33.430",
+    "start_seconds": 332.743,
+    "end_seconds": 333.43,
+    "text": "you know? >> [laughter]"
+  },
+  {
+    "start": "00:05:33.430",
+    "end": "00:05:33.440",
+    "start_seconds": 333.43,
+    "end_seconds": 333.44,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:05:33.440",
+    "end": "00:05:35.230",
+    "start_seconds": 333.44,
+    "end_seconds": 335.23,
+    "text": ">> [laughter] >> Okay, you're in. The phone is open. Now"
+  },
+  {
+    "start": "00:05:35.230",
+    "end": "00:05:35.240",
+    "start_seconds": 335.23,
+    "end_seconds": 335.24,
+    "text": ">> Okay, you're in. The phone is open. Now"
+  },
+  {
+    "start": "00:05:35.240",
+    "end": "00:05:36.230",
+    "start_seconds": 335.24,
+    "end_seconds": 336.23,
+    "text": ">> Okay, you're in. The phone is open. Now you're going to get you're going to get"
+  },
+  {
+    "start": "00:05:36.230",
+    "end": "00:05:36.240",
+    "start_seconds": 336.23,
+    "end_seconds": 336.24,
+    "text": "you're going to get you're going to get"
+  },
+  {
+    "start": "00:05:36.240",
+    "end": "00:05:37.790",
+    "start_seconds": 336.24,
+    "end_seconds": 337.79,
+    "text": "you're going to get you're going to get to check the weather. But first, you"
+  },
+  {
+    "start": "00:05:37.790",
+    "end": "00:05:37.800",
+    "start_seconds": 337.79,
+    "end_seconds": 337.8,
+    "text": "to check the weather. But first, you"
+  },
+  {
+    "start": "00:05:37.800",
+    "end": "00:05:40.310",
+    "start_seconds": 337.8,
+    "end_seconds": 340.31,
+    "text": "to check the weather. But first, you have to find that microscopic X in the"
+  },
+  {
+    "start": "00:05:40.310",
+    "end": "00:05:40.320",
+    "start_seconds": 340.31,
+    "end_seconds": 340.32,
+    "text": "have to find that microscopic X in the"
+  },
+  {
+    "start": "00:05:40.320",
+    "end": "00:05:43.110",
+    "start_seconds": 340.32,
+    "end_seconds": 343.11,
+    "text": "have to find that microscopic X in the corner of the pop-up ad and close that,"
+  },
+  {
+    "start": "00:05:43.110",
+    "end": "00:05:43.120",
+    "start_seconds": 343.11,
+    "end_seconds": 343.12,
+    "text": "corner of the pop-up ad and close that,"
+  },
+  {
+    "start": "00:05:43.120",
+    "end": "00:05:44.790",
+    "start_seconds": 343.12,
+    "end_seconds": 344.79,
+    "text": "corner of the pop-up ad and close that, you know? Then you got to then you got"
+  },
+  {
+    "start": "00:05:44.790",
+    "end": "00:05:44.800",
+    "start_seconds": 344.79,
+    "end_seconds": 344.8,
+    "text": "you know? Then you got to then you got"
+  },
+  {
+    "start": "00:05:44.800",
+    "end": "00:05:46.830",
+    "start_seconds": 344.8,
+    "end_seconds": 346.83,
+    "text": "you know? Then you got to then you got to switch over to your city because you"
+  },
+  {
+    "start": "00:05:46.830",
+    "end": "00:05:46.840",
+    "start_seconds": 346.83,
+    "end_seconds": 346.84000000000003,
+    "text": "to switch over to your city because you"
+  },
+  {
+    "start": "00:05:46.840",
+    "end": "00:05:49.110",
+    "start_seconds": 346.84000000000003,
+    "end_seconds": 349.11,
+    "text": "to switch over to your city because you were a different city yesterday. Okay,"
+  },
+  {
+    "start": "00:05:49.110",
+    "end": "00:05:49.120",
+    "start_seconds": 349.11,
+    "end_seconds": 349.12,
+    "text": "were a different city yesterday. Okay,"
+  },
+  {
+    "start": "00:05:49.120",
+    "end": "00:05:51.470",
+    "start_seconds": 349.12,
+    "end_seconds": 351.47,
+    "text": "were a different city yesterday. Okay, so now you're in your city, you scroll"
+  },
+  {
+    "start": "00:05:51.470",
+    "end": "00:05:51.480",
+    "start_seconds": 351.47,
+    "end_seconds": 351.48,
+    "text": "so now you're in your city, you scroll"
+  },
+  {
+    "start": "00:05:51.480",
+    "end": "00:05:53.950",
+    "start_seconds": 351.48,
+    "end_seconds": 353.95,
+    "text": "so now you're in your city, you scroll down to the time of day, the extended"
+  },
+  {
+    "start": "00:05:53.950",
+    "end": "00:05:53.960",
+    "start_seconds": 353.95,
+    "end_seconds": 353.96,
+    "text": "down to the time of day, the extended"
+  },
+  {
+    "start": "00:05:53.960",
+    "end": "00:05:56.590",
+    "start_seconds": 353.96,
+    "end_seconds": 356.59000000000003,
+    "text": "down to the time of day, the extended forecast, you find a picture of a sun or"
+  },
+  {
+    "start": "00:05:56.590",
+    "end": "00:05:56.600",
+    "start_seconds": 356.59000000000003,
+    "end_seconds": 356.6,
+    "text": "forecast, you find a picture of a sun or"
+  },
+  {
+    "start": "00:05:56.600",
+    "end": "00:05:58.910",
+    "start_seconds": 356.6,
+    "end_seconds": 358.90999999999997,
+    "text": "forecast, you find a picture of a sun or a picture of a cloud and a number,"
+  },
+  {
+    "start": "00:05:58.910",
+    "end": "00:05:58.920",
+    "start_seconds": 358.90999999999997,
+    "end_seconds": 358.92,
+    "text": "a picture of a cloud and a number,"
+  },
+  {
+    "start": "00:05:58.920",
+    "end": "00:06:00.470",
+    "start_seconds": 358.92,
+    "end_seconds": 360.47,
+    "text": "a picture of a cloud and a number, there's the weather. When you could have"
+  },
+  {
+    "start": "00:06:00.470",
+    "end": "00:06:00.480",
+    "start_seconds": 360.47,
+    "end_seconds": 360.48,
+    "text": "there's the weather. When you could have"
+  },
+  {
+    "start": "00:06:00.480",
+    "end": "00:06:02.030",
+    "start_seconds": 360.48,
+    "end_seconds": 362.03,
+    "text": "there's the weather. When you could have just stuck your head out the window to"
+  },
+  {
+    "start": "00:06:02.030",
+    "end": "00:06:02.040",
+    "start_seconds": 362.03,
+    "end_seconds": 362.04,
+    "text": "just stuck your head out the window to"
+  },
+  {
+    "start": "00:06:02.040",
+    "end": "00:06:05.484",
+    "start_seconds": 362.04,
+    "end_seconds": 365.484,
+    "text": "just stuck your head out the window to see, do I need a jacket or not?"
+  },
+  {
+    "start": "00:06:05.484",
+    "end": "00:06:05.494",
+    "start_seconds": 365.484,
+    "end_seconds": 365.494,
+    "text": "see, do I need a jacket or not?"
+  },
+  {
+    "start": "00:06:05.494",
+    "end": "00:06:08.870",
+    "start_seconds": 365.494,
+    "end_seconds": 368.87,
+    "text": "see, do I need a jacket or not? >> [laughter]"
+  },
+  {
+    "start": "00:06:08.880",
+    "end": "00:06:10.510",
+    "start_seconds": 368.88,
+    "end_seconds": 370.51,
+    "text": ">> Maybe I'm a dinosaur, maybe I'm a"
+  },
+  {
+    "start": "00:06:10.510",
+    "end": "00:06:10.520",
+    "start_seconds": 370.51,
+    "end_seconds": 370.52,
+    "text": ">> Maybe I'm a dinosaur, maybe I'm a"
+  },
+  {
+    "start": "00:06:10.520",
+    "end": "00:06:14.830",
+    "start_seconds": 370.52,
+    "end_seconds": 374.83,
+    "text": ">> Maybe I'm a dinosaur, maybe I'm a genius. I don't know it, but"
+  },
+  {
+    "start": "00:06:14.840",
+    "end": "00:06:16.190",
+    "start_seconds": 374.84,
+    "end_seconds": 376.19,
+    "text": "There's uh there's a few things There's"
+  },
+  {
+    "start": "00:06:16.190",
+    "end": "00:06:16.200",
+    "start_seconds": 376.19,
+    "end_seconds": 376.2,
+    "text": "There's uh there's a few things There's"
+  },
+  {
+    "start": "00:06:16.200",
+    "end": "00:06:18.390",
+    "start_seconds": 376.2,
+    "end_seconds": 378.39,
+    "text": "There's uh there's a few things There's five boroughs in New York City. There"
+  },
+  {
+    "start": "00:06:18.390",
+    "end": "00:06:18.400",
+    "start_seconds": 378.39,
+    "end_seconds": 378.4,
+    "text": "five boroughs in New York City. There"
+  },
+  {
+    "start": "00:06:18.400",
+    "end": "00:06:20.990",
+    "start_seconds": 378.4,
+    "end_seconds": 380.99,
+    "text": "five boroughs in New York City. There are five boroughs of New York City and I"
+  },
+  {
+    "start": "00:06:20.990",
+    "end": "00:06:21.000",
+    "start_seconds": 380.99,
+    "end_seconds": 381.0,
+    "text": "are five boroughs of New York City and I"
+  },
+  {
+    "start": "00:06:21.000",
+    "end": "00:06:23.550",
+    "start_seconds": 381.0,
+    "end_seconds": 383.55,
+    "text": "are five boroughs of New York City and I lived for the most part in two of them."
+  },
+  {
+    "start": "00:06:23.550",
+    "end": "00:06:23.560",
+    "start_seconds": 383.55,
+    "end_seconds": 383.56,
+    "text": "lived for the most part in two of them."
+  },
+  {
+    "start": "00:06:23.560",
+    "end": "00:06:25.270",
+    "start_seconds": 383.56,
+    "end_seconds": 385.27,
+    "text": "lived for the most part in two of them. And they And And these two boroughs are"
+  },
+  {
+    "start": "00:06:25.270",
+    "end": "00:06:25.280",
+    "start_seconds": 385.27,
+    "end_seconds": 385.28,
+    "text": "And they And And these two boroughs are"
+  },
+  {
+    "start": "00:06:25.280",
+    "end": "00:06:27.830",
+    "start_seconds": 385.28,
+    "end_seconds": 387.83,
+    "text": "And they And And these two boroughs are famous for something individually and"
+  },
+  {
+    "start": "00:06:27.830",
+    "end": "00:06:27.840",
+    "start_seconds": 387.83,
+    "end_seconds": 387.84,
+    "text": "famous for something individually and"
+  },
+  {
+    "start": "00:06:27.840",
+    "end": "00:06:29.670",
+    "start_seconds": 387.84,
+    "end_seconds": 389.67,
+    "text": "famous for something individually and usually when I ask audiences if they"
+  },
+  {
+    "start": "00:06:29.670",
+    "end": "00:06:29.680",
+    "start_seconds": 389.67,
+    "end_seconds": 389.68,
+    "text": "usually when I ask audiences if they"
+  },
+  {
+    "start": "00:06:29.680",
+    "end": "00:06:31.430",
+    "start_seconds": 389.68,
+    "end_seconds": 391.43,
+    "text": "usually when I ask audiences if they know what they're famous for, they"
+  },
+  {
+    "start": "00:06:31.430",
+    "end": "00:06:31.440",
+    "start_seconds": 391.43,
+    "end_seconds": 391.44,
+    "text": "know what they're famous for, they"
+  },
+  {
+    "start": "00:06:31.440",
+    "end": "00:06:32.710",
+    "start_seconds": 391.44,
+    "end_seconds": 392.71,
+    "text": "know what they're famous for, they always get it wrong. You know, they"
+  },
+  {
+    "start": "00:06:32.710",
+    "end": "00:06:32.720",
+    "start_seconds": 392.71,
+    "end_seconds": 392.72,
+    "text": "always get it wrong. You know, they"
+  },
+  {
+    "start": "00:06:32.720",
+    "end": "00:06:34.390",
+    "start_seconds": 392.72,
+    "end_seconds": 394.39,
+    "text": "always get it wrong. You know, they start out with like murder and things"
+  },
+  {
+    "start": "00:06:34.390",
+    "end": "00:06:34.400",
+    "start_seconds": 394.39,
+    "end_seconds": 394.4,
+    "text": "start out with like murder and things"
+  },
+  {
+    "start": "00:06:34.400",
+    "end": "00:06:36.350",
+    "start_seconds": 394.4,
+    "end_seconds": 396.35,
+    "text": "start out with like murder and things like that and you know, those are good"
+  },
+  {
+    "start": "00:06:36.350",
+    "end": "00:06:36.360",
+    "start_seconds": 396.35,
+    "end_seconds": 396.36,
+    "text": "like that and you know, those are good"
+  },
+  {
+    "start": "00:06:36.360",
+    "end": "00:06:37.750",
+    "start_seconds": 396.36,
+    "end_seconds": 397.75,
+    "text": "like that and you know, those are good answers, but they're not the ones I'm"
+  },
+  {
+    "start": "00:06:37.750",
+    "end": "00:06:37.760",
+    "start_seconds": 397.75,
+    "end_seconds": 397.76,
+    "text": "answers, but they're not the ones I'm"
+  },
+  {
+    "start": "00:06:37.760",
+    "end": "00:06:40.199",
+    "start_seconds": 397.76,
+    "end_seconds": 400.199,
+    "text": "answers, but they're not the ones I'm looking for."
+  },
+  {
+    "start": "00:06:40.199",
+    "end": "00:06:40.209",
+    "start_seconds": 400.199,
+    "end_seconds": 400.209,
+    "text": "looking for."
+  },
+  {
+    "start": "00:06:40.209",
+    "end": "00:06:41.830",
+    "start_seconds": 400.209,
+    "end_seconds": 401.83,
+    "text": "looking for. >> [laughter]"
+  },
+  {
+    "start": "00:06:41.830",
+    "end": "00:06:41.840",
+    "start_seconds": 401.83,
+    "end_seconds": 401.84000000000003,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:06:41.840",
+    "end": "00:06:44.070",
+    "start_seconds": 401.84000000000003,
+    "end_seconds": 404.07,
+    "text": ">> [laughter] >> Staten Island, New York is one of the uh"
+  },
+  {
+    "start": "00:06:44.070",
+    "end": "00:06:44.080",
+    "start_seconds": 404.07,
+    "end_seconds": 404.08,
+    "text": ">> Staten Island, New York is one of the uh"
+  },
+  {
+    "start": "00:06:44.080",
+    "end": "00:06:45.950",
+    "start_seconds": 404.08,
+    "end_seconds": 405.95,
+    "text": ">> Staten Island, New York is one of the uh five boroughs that I spent a good part"
+  },
+  {
+    "start": "00:06:45.950",
+    "end": "00:06:45.960",
+    "start_seconds": 405.95,
+    "end_seconds": 405.96,
+    "text": "five boroughs that I spent a good part"
+  },
+  {
+    "start": "00:06:45.960",
+    "end": "00:06:47.430",
+    "start_seconds": 405.96,
+    "end_seconds": 407.43,
+    "text": "five boroughs that I spent a good part of my life in and Staten Island is"
+  },
+  {
+    "start": "00:06:47.430",
+    "end": "00:06:47.440",
+    "start_seconds": 407.43,
+    "end_seconds": 407.44,
+    "text": "of my life in and Staten Island is"
+  },
+  {
+    "start": "00:06:47.440",
+    "end": "00:06:49.510",
+    "start_seconds": 407.44,
+    "end_seconds": 409.51,
+    "text": "of my life in and Staten Island is famous for something. I don't know if"
+  },
+  {
+    "start": "00:06:49.510",
+    "end": "00:06:49.520",
+    "start_seconds": 409.51,
+    "end_seconds": 409.52,
+    "text": "famous for something. I don't know if"
+  },
+  {
+    "start": "00:06:49.520",
+    "end": "00:06:50.670",
+    "start_seconds": 409.52,
+    "end_seconds": 410.67,
+    "text": "famous for something. I don't know if you're going to know, so I'm not going"
+  },
+  {
+    "start": "00:06:50.670",
+    "end": "00:06:50.680",
+    "start_seconds": 410.67,
+    "end_seconds": 410.68,
+    "text": "you're going to know, so I'm not going"
+  },
+  {
+    "start": "00:06:50.680",
+    "end": "00:06:52.870",
+    "start_seconds": 410.68,
+    "end_seconds": 412.87,
+    "text": "you're going to know, so I'm not going to pose it as a question, but it's not"
+  },
+  {
+    "start": "00:06:52.870",
+    "end": "00:06:52.880",
+    "start_seconds": 412.87,
+    "end_seconds": 412.88,
+    "text": "to pose it as a question, but it's not"
+  },
+  {
+    "start": "00:06:52.880",
+    "end": "00:06:55.909",
+    "start_seconds": 412.88,
+    "end_seconds": 415.909,
+    "text": "to pose it as a question, but it's not Wu-Tang, it's not the mafia. Again, two"
+  },
+  {
+    "start": "00:06:55.909",
+    "end": "00:06:55.919",
+    "start_seconds": 415.909,
+    "end_seconds": 415.919,
+    "text": "Wu-Tang, it's not the mafia. Again, two"
+  },
+  {
+    "start": "00:06:55.919",
+    "end": "00:06:57.884",
+    "start_seconds": 415.919,
+    "end_seconds": 417.884,
+    "text": "Wu-Tang, it's not the mafia. Again, two very good answers, but"
+  },
+  {
+    "start": "00:06:57.884",
+    "end": "00:06:57.894",
+    "start_seconds": 417.884,
+    "end_seconds": 417.894,
+    "text": "very good answers, but"
+  },
+  {
+    "start": "00:06:57.894",
+    "end": "00:06:59.870",
+    "start_seconds": 417.894,
+    "end_seconds": 419.87,
+    "text": "very good answers, but >> [laughter]"
+  },
+  {
+    "start": "00:06:59.870",
+    "end": "00:06:59.880",
+    "start_seconds": 419.87,
+    "end_seconds": 419.88,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:06:59.880",
+    "end": "00:07:01.870",
+    "start_seconds": 419.88,
+    "end_seconds": 421.87,
+    "text": ">> [laughter] >> it's one answer and one answer alone and"
+  },
+  {
+    "start": "00:07:01.870",
+    "end": "00:07:01.880",
+    "start_seconds": 421.87,
+    "end_seconds": 421.88,
+    "text": ">> it's one answer and one answer alone and"
+  },
+  {
+    "start": "00:07:01.880",
+    "end": "00:07:05.350",
+    "start_seconds": 421.88,
+    "end_seconds": 425.35,
+    "text": ">> it's one answer and one answer alone and that is the world's largest landfill."
+  },
+  {
+    "start": "00:07:05.350",
+    "end": "00:07:05.360",
+    "start_seconds": 425.35,
+    "end_seconds": 425.36,
+    "text": "that is the world's largest landfill."
+  },
+  {
+    "start": "00:07:05.360",
+    "end": "00:07:06.150",
+    "start_seconds": 425.36,
+    "end_seconds": 426.15,
+    "text": "that is the world's largest landfill. Yeah."
+  },
+  {
+    "start": "00:07:06.150",
+    "end": "00:07:06.160",
+    "start_seconds": 426.15,
+    "end_seconds": 426.16,
+    "text": "Yeah."
+  },
+  {
+    "start": "00:07:06.160",
+    "end": "00:07:07.830",
+    "start_seconds": 426.16,
+    "end_seconds": 427.83,
+    "text": "Yeah. The world's largest landfill is in"
+  },
+  {
+    "start": "00:07:07.830",
+    "end": "00:07:07.840",
+    "start_seconds": 427.83,
+    "end_seconds": 427.84,
+    "text": "The world's largest landfill is in"
+  },
+  {
+    "start": "00:07:07.840",
+    "end": "00:07:09.390",
+    "start_seconds": 427.84,
+    "end_seconds": 429.39,
+    "text": "The world's largest landfill is in Staten Island, New York and as you as"
+  },
+  {
+    "start": "00:07:09.390",
+    "end": "00:07:09.400",
+    "start_seconds": 429.39,
+    "end_seconds": 429.4,
+    "text": "Staten Island, New York and as you as"
+  },
+  {
+    "start": "00:07:09.400",
+    "end": "00:07:12.294",
+    "start_seconds": 429.4,
+    "end_seconds": 432.294,
+    "text": "Staten Island, New York and as you as you can imagine, we're a proud people."
+  },
+  {
+    "start": "00:07:12.294",
+    "end": "00:07:12.304",
+    "start_seconds": 432.294,
+    "end_seconds": 432.304,
+    "text": "you can imagine, we're a proud people."
+  },
+  {
+    "start": "00:07:12.304",
+    "end": "00:07:13.470",
+    "start_seconds": 432.304,
+    "end_seconds": 433.47,
+    "text": "you can imagine, we're a proud people. >> [laughter]"
+  },
+  {
+    "start": "00:07:13.470",
+    "end": "00:07:13.480",
+    "start_seconds": 433.47,
+    "end_seconds": 433.48,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:07:13.480",
+    "end": "00:07:18.670",
+    "start_seconds": 433.48,
+    "end_seconds": 438.67,
+    "text": ">> [laughter] >> Home of the dump."
+  },
+  {
+    "start": "00:07:18.680",
+    "end": "00:07:20.470",
+    "start_seconds": 438.68,
+    "end_seconds": 440.47,
+    "text": "When I'm closer to the East Coast and I"
+  },
+  {
+    "start": "00:07:20.470",
+    "end": "00:07:20.480",
+    "start_seconds": 440.47,
+    "end_seconds": 440.48,
+    "text": "When I'm closer to the East Coast and I"
+  },
+  {
+    "start": "00:07:20.480",
+    "end": "00:07:22.390",
+    "start_seconds": 440.48,
+    "end_seconds": 442.39,
+    "text": "When I'm closer to the East Coast and I ask that question, I get answers from"
+  },
+  {
+    "start": "00:07:22.390",
+    "end": "00:07:22.400",
+    "start_seconds": 442.39,
+    "end_seconds": 442.4,
+    "text": "ask that question, I get answers from"
+  },
+  {
+    "start": "00:07:22.400",
+    "end": "00:07:25.350",
+    "start_seconds": 442.4,
+    "end_seconds": 445.35,
+    "text": "ask that question, I get answers from people. I get I get the Staten Island"
+  },
+  {
+    "start": "00:07:25.350",
+    "end": "00:07:25.360",
+    "start_seconds": 445.35,
+    "end_seconds": 445.36,
+    "text": "people. I get I get the Staten Island"
+  },
+  {
+    "start": "00:07:25.360",
+    "end": "00:07:26.950",
+    "start_seconds": 445.36,
+    "end_seconds": 446.95,
+    "text": "people. I get I get the Staten Island Ferry, which is a great answer. It's"
+  },
+  {
+    "start": "00:07:26.950",
+    "end": "00:07:26.960",
+    "start_seconds": 446.95,
+    "end_seconds": 446.96,
+    "text": "Ferry, which is a great answer. It's"
+  },
+  {
+    "start": "00:07:26.960",
+    "end": "00:07:29.550",
+    "start_seconds": 446.96,
+    "end_seconds": 449.55,
+    "text": "Ferry, which is a great answer. It's historic Staten Island Ferry, but that's"
+  },
+  {
+    "start": "00:07:29.550",
+    "end": "00:07:29.560",
+    "start_seconds": 449.55,
+    "end_seconds": 449.56,
+    "text": "historic Staten Island Ferry, but that's"
+  },
+  {
+    "start": "00:07:29.560",
+    "end": "00:07:31.630",
+    "start_seconds": 449.56,
+    "end_seconds": 451.63,
+    "text": "historic Staten Island Ferry, but that's not what I'm looking for. Sometimes they"
+  },
+  {
+    "start": "00:07:31.630",
+    "end": "00:07:31.640",
+    "start_seconds": 451.63,
+    "end_seconds": 451.64,
+    "text": "not what I'm looking for. Sometimes they"
+  },
+  {
+    "start": "00:07:31.640",
+    "end": "00:07:33.150",
+    "start_seconds": 451.64,
+    "end_seconds": 453.15,
+    "text": "not what I'm looking for. Sometimes they say, \"Does anybody know what Staten"
+  },
+  {
+    "start": "00:07:33.150",
+    "end": "00:07:33.160",
+    "start_seconds": 453.15,
+    "end_seconds": 453.15999999999997,
+    "text": "say, \"Does anybody know what Staten"
+  },
+  {
+    "start": "00:07:33.160",
+    "end": "00:07:34.550",
+    "start_seconds": 453.15999999999997,
+    "end_seconds": 454.55,
+    "text": "say, \"Does anybody know what Staten Island is famous for?\" and they say,"
+  },
+  {
+    "start": "00:07:34.550",
+    "end": "00:07:34.560",
+    "start_seconds": 454.55,
+    "end_seconds": 454.56,
+    "text": "Island is famous for?\" and they say,"
+  },
+  {
+    "start": "00:07:34.560",
+    "end": "00:07:36.230",
+    "start_seconds": 454.56,
+    "end_seconds": 456.23,
+    "text": "Island is famous for?\" and they say, \"Hot dogs.\" And I'm like, \"Wow, you're"
+  },
+  {
+    "start": "00:07:36.230",
+    "end": "00:07:36.240",
+    "start_seconds": 456.23,
+    "end_seconds": 456.24,
+    "text": "\"Hot dogs.\" And I'm like, \"Wow, you're"
+  },
+  {
+    "start": "00:07:36.240",
+    "end": "00:07:38.495",
+    "start_seconds": 456.24,
+    "end_seconds": 458.495,
+    "text": "\"Hot dogs.\" And I'm like, \"Wow, you're obviously an idiot. No one"
+  },
+  {
+    "start": "00:07:38.495",
+    "end": "00:07:38.505",
+    "start_seconds": 458.495,
+    "end_seconds": 458.505,
+    "text": "obviously an idiot. No one"
+  },
+  {
+    "start": "00:07:38.505",
+    "end": "00:07:39.510",
+    "start_seconds": 458.505,
+    "end_seconds": 459.51,
+    "text": "obviously an idiot. No one >> [laughter]"
+  },
+  {
+    "start": "00:07:39.510",
+    "end": "00:07:39.520",
+    "start_seconds": 459.51,
+    "end_seconds": 459.52,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:07:39.520",
+    "end": "00:07:40.990",
+    "start_seconds": 459.52,
+    "end_seconds": 460.99,
+    "text": ">> [laughter] >> No one has ever been sitting around and"
+  },
+  {
+    "start": "00:07:40.990",
+    "end": "00:07:41.000",
+    "start_seconds": 460.99,
+    "end_seconds": 461.0,
+    "text": ">> No one has ever been sitting around and"
+  },
+  {
+    "start": "00:07:41.000",
+    "end": "00:07:42.110",
+    "start_seconds": 461.0,
+    "end_seconds": 462.11,
+    "text": ">> No one has ever been sitting around and \"You know what? I feel like a really"
+  },
+  {
+    "start": "00:07:42.110",
+    "end": "00:07:42.120",
+    "start_seconds": 462.11,
+    "end_seconds": 462.12,
+    "text": "\"You know what? I feel like a really"
+  },
+  {
+    "start": "00:07:42.120",
+    "end": "00:07:43.630",
+    "start_seconds": 462.12,
+    "end_seconds": 463.63,
+    "text": "\"You know what? I feel like a really good hot dog. Why don't we go to Staten"
+  },
+  {
+    "start": "00:07:43.630",
+    "end": "00:07:43.640",
+    "start_seconds": 463.63,
+    "end_seconds": 463.64,
+    "text": "good hot dog. Why don't we go to Staten"
+  },
+  {
+    "start": "00:07:43.640",
+    "end": "00:07:45.700",
+    "start_seconds": 463.64,
+    "end_seconds": 465.7,
+    "text": "good hot dog. Why don't we go to Staten Island?\" That's never been said ever."
+  },
+  {
+    "start": "00:07:45.700",
+    "end": "00:07:45.710",
+    "start_seconds": 465.7,
+    "end_seconds": 465.71,
+    "text": "Island?\" That's never been said ever."
+  },
+  {
+    "start": "00:07:45.710",
+    "end": "00:07:46.350",
+    "start_seconds": 465.71,
+    "end_seconds": 466.35,
+    "text": "Island?\" That's never been said ever. >> [laughter]"
+  },
+  {
+    "start": "00:07:46.350",
+    "end": "00:07:46.360",
+    "start_seconds": 466.35,
+    "end_seconds": 466.36,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:07:46.360",
+    "end": "00:07:48.710",
+    "start_seconds": 466.36,
+    "end_seconds": 468.71,
+    "text": ">> [laughter] >> Ever."
+  },
+  {
+    "start": "00:07:48.720",
+    "end": "00:07:50.270",
+    "start_seconds": 468.72,
+    "end_seconds": 470.27,
+    "text": "I get this answer a lot, which"
+  },
+  {
+    "start": "00:07:50.270",
+    "end": "00:07:50.280",
+    "start_seconds": 470.27,
+    "end_seconds": 470.28,
+    "text": "I get this answer a lot, which"
+  },
+  {
+    "start": "00:07:50.280",
+    "end": "00:07:51.830",
+    "start_seconds": 470.28,
+    "end_seconds": 471.83,
+    "text": "I get this answer a lot, which fascinates me that they even know that"
+  },
+  {
+    "start": "00:07:51.830",
+    "end": "00:07:51.840",
+    "start_seconds": 471.83,
+    "end_seconds": 471.84000000000003,
+    "text": "fascinates me that they even know that"
+  },
+  {
+    "start": "00:07:51.840",
+    "end": "00:07:54.390",
+    "start_seconds": 471.84000000000003,
+    "end_seconds": 474.39,
+    "text": "fascinates me that they even know that we have one, the zoo."
+  },
+  {
+    "start": "00:07:54.390",
+    "end": "00:07:54.400",
+    "start_seconds": 474.39,
+    "end_seconds": 474.4,
+    "text": "we have one, the zoo."
+  },
+  {
+    "start": "00:07:54.400",
+    "end": "00:07:56.390",
+    "start_seconds": 474.4,
+    "end_seconds": 476.39,
+    "text": "we have one, the zoo. Yeah, we have a zoo. It's a little tiny"
+  },
+  {
+    "start": "00:07:56.390",
+    "end": "00:07:56.400",
+    "start_seconds": 476.39,
+    "end_seconds": 476.4,
+    "text": "Yeah, we have a zoo. It's a little tiny"
+  },
+  {
+    "start": "00:07:56.400",
+    "end": "00:07:58.430",
+    "start_seconds": 476.4,
+    "end_seconds": 478.43,
+    "text": "Yeah, we have a zoo. It's a little tiny zoo, but I know the person who answered"
+  },
+  {
+    "start": "00:07:58.430",
+    "end": "00:07:58.440",
+    "start_seconds": 478.43,
+    "end_seconds": 478.44,
+    "text": "zoo, but I know the person who answered"
+  },
+  {
+    "start": "00:07:58.440",
+    "end": "00:08:00.230",
+    "start_seconds": 478.44,
+    "end_seconds": 480.23,
+    "text": "zoo, but I know the person who answered that question has never been to the"
+  },
+  {
+    "start": "00:08:00.230",
+    "end": "00:08:00.240",
+    "start_seconds": 480.23,
+    "end_seconds": 480.24,
+    "text": "that question has never been to the"
+  },
+  {
+    "start": "00:08:00.240",
+    "end": "00:08:02.150",
+    "start_seconds": 480.24,
+    "end_seconds": 482.15,
+    "text": "that question has never been to the Staten Island Zoo because they wouldn't"
+  },
+  {
+    "start": "00:08:02.150",
+    "end": "00:08:02.160",
+    "start_seconds": 482.15,
+    "end_seconds": 482.16,
+    "text": "Staten Island Zoo because they wouldn't"
+  },
+  {
+    "start": "00:08:02.160",
+    "end": "00:08:05.310",
+    "start_seconds": 482.16,
+    "end_seconds": 485.31,
+    "text": "Staten Island Zoo because they wouldn't describe it using the word famous. It's"
+  },
+  {
+    "start": "00:08:05.310",
+    "end": "00:08:05.320",
+    "start_seconds": 485.31,
+    "end_seconds": 485.32,
+    "text": "describe it using the word famous. It's"
+  },
+  {
+    "start": "00:08:05.320",
+    "end": "00:08:07.790",
+    "start_seconds": 485.32,
+    "end_seconds": 487.79,
+    "text": "describe it using the word famous. It's not the San Diego Zoo, the Philadelphia,"
+  },
+  {
+    "start": "00:08:07.790",
+    "end": "00:08:07.800",
+    "start_seconds": 487.79,
+    "end_seconds": 487.8,
+    "text": "not the San Diego Zoo, the Philadelphia,"
+  },
+  {
+    "start": "00:08:07.800",
+    "end": "00:08:08.990",
+    "start_seconds": 487.8,
+    "end_seconds": 488.99,
+    "text": "not the San Diego Zoo, the Philadelphia, it's the Staten Island Zoo. It's a"
+  },
+  {
+    "start": "00:08:08.990",
+    "end": "00:08:09.000",
+    "start_seconds": 488.99,
+    "end_seconds": 489.0,
+    "text": "it's the Staten Island Zoo. It's a"
+  },
+  {
+    "start": "00:08:09.000",
+    "end": "00:08:11.590",
+    "start_seconds": 489.0,
+    "end_seconds": 491.59,
+    "text": "it's the Staten Island Zoo. It's a little tiny kids zoo. And as a kid, I"
+  },
+  {
+    "start": "00:08:11.590",
+    "end": "00:08:11.600",
+    "start_seconds": 491.59,
+    "end_seconds": 491.6,
+    "text": "little tiny kids zoo. And as a kid, I"
+  },
+  {
+    "start": "00:08:11.600",
+    "end": "00:08:12.990",
+    "start_seconds": 491.6,
+    "end_seconds": 492.99,
+    "text": "little tiny kids zoo. And as a kid, I went on a class trip to the Staten"
+  },
+  {
+    "start": "00:08:12.990",
+    "end": "00:08:13.000",
+    "start_seconds": 492.99,
+    "end_seconds": 493.0,
+    "text": "went on a class trip to the Staten"
+  },
+  {
+    "start": "00:08:13.000",
+    "end": "00:08:15.950",
+    "start_seconds": 493.0,
+    "end_seconds": 495.95,
+    "text": "went on a class trip to the Staten Island Zoo. So, I took my children and I"
+  },
+  {
+    "start": "00:08:15.950",
+    "end": "00:08:15.960",
+    "start_seconds": 495.95,
+    "end_seconds": 495.96,
+    "text": "Island Zoo. So, I took my children and I"
+  },
+  {
+    "start": "00:08:15.960",
+    "end": "00:08:18.110",
+    "start_seconds": 495.96,
+    "end_seconds": 498.11,
+    "text": "Island Zoo. So, I took my children and I saw the zoo, the Staten Island Zoo,"
+  },
+  {
+    "start": "00:08:18.110",
+    "end": "00:08:18.120",
+    "start_seconds": 498.11,
+    "end_seconds": 498.12,
+    "text": "saw the zoo, the Staten Island Zoo,"
+  },
+  {
+    "start": "00:08:18.120",
+    "end": "00:08:20.270",
+    "start_seconds": 498.12,
+    "end_seconds": 500.27,
+    "text": "saw the zoo, the Staten Island Zoo, through the eyes of an adult and I"
+  },
+  {
+    "start": "00:08:20.270",
+    "end": "00:08:20.280",
+    "start_seconds": 500.27,
+    "end_seconds": 500.28,
+    "text": "through the eyes of an adult and I"
+  },
+  {
+    "start": "00:08:20.280",
+    "end": "00:08:24.110",
+    "start_seconds": 500.28,
+    "end_seconds": 504.11,
+    "text": "through the eyes of an adult and I realized there's one animal."
+  },
+  {
+    "start": "00:08:24.110",
+    "end": "00:08:24.120",
+    "start_seconds": 504.11,
+    "end_seconds": 504.12,
+    "text": "realized there's one animal."
+  },
+  {
+    "start": "00:08:24.120",
+    "end": "00:08:26.965",
+    "start_seconds": 504.12,
+    "end_seconds": 506.965,
+    "text": "realized there's one animal. IT'S A DOG."
+  },
+  {
+    "start": "00:08:26.965",
+    "end": "00:08:26.975",
+    "start_seconds": 506.965,
+    "end_seconds": 506.975,
+    "text": "IT'S A DOG."
+  },
+  {
+    "start": "00:08:26.975",
+    "end": "00:08:28.270",
+    "start_seconds": 506.975,
+    "end_seconds": 508.27,
+    "text": "IT'S A DOG. >> [laughter]"
+  },
+  {
+    "start": "00:08:28.270",
+    "end": "00:08:28.280",
+    "start_seconds": 508.27,
+    "end_seconds": 508.28,
+    "text": ">> [laughter]"
+  },
+  {
+    "start": "00:08:28.280",
+    "end": "00:08:30.030",
+    "start_seconds": 508.28,
+    "end_seconds": 510.03,
+    "text": ">> [laughter] >> THEY JUST DRESS IT UP LIKE different"
+  },
+  {
+    "start": "00:08:30.030",
+    "end": "00:08:30.040",
+    "start_seconds": 510.03,
+    "end_seconds": 510.04,
+    "text": ">> THEY JUST DRESS IT UP LIKE different"
+  },
+  {
+    "start": "00:08:30.040",
+    "end": "00:08:32.860",
+    "start_seconds": 510.04,
+    "end_seconds": 512.86,
+    "text": ">> THEY JUST DRESS IT UP LIKE different things and move it around real quick."
+  },
+  {
+    "start": "00:08:32.860",
+    "end": "00:08:32.870",
+    "start_seconds": 512.86,
+    "end_seconds": 512.87,
+    "text": "things and move it around real quick."
+  },
+  {
+    "start": "00:08:32.870",
+    "end": "00:08:34.890",
+    "start_seconds": 512.87,
+    "end_seconds": 514.89,
+    "text": "things and move it around real quick. >> [laughter]"
+  }
+]

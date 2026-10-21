@@ -1,0 +1,228 @@
+[
+  {
+    "id": "t5KfasCtgZ8",
+    "index": 1,
+    "expected_title": "Too many LADY songs",
+    "title": "Too many LADY songs",
+    "url": "https://www.youtube.com/watch?v=t5KfasCtgZ8",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "LW1jNMMQEFc",
+    "slug": "stand-up-studios-wave-3-starter",
+    "index": 2,
+    "expected_title": "Judy Wyner Satire of Female Comics over 40",
+    "title": "Judy Wyner Satire of Female Comics over 40",
+    "url": "https://www.youtube.com/watch?v=LW1jNMMQEFc",
+    "duration": 155,
+    "channel": "Stand-Up Studios",
+    "clean_txt": "raw-material/youtube/transcripts/stand-up-studios-wave-3-starter/clean/002-LW1jNMMQEFc.txt",
+    "cue_json": "raw-material/youtube/transcripts/stand-up-studios-wave-3-starter/cues/002-LW1jNMMQEFc.json",
+    "raw_vtt": "raw-material/youtube/transcripts/stand-up-studios-wave-3-starter/raw-vtt/002-LW1jNMMQEFc-Judy Wyner Satire of Female Comics over 40.en.vtt",
+    "word_count": 334,
+    "cue_count": 86,
+    "transcript_status": "available"
+  },
+  {
+    "id": "4W_kI7YDJ50",
+    "index": 3,
+    "expected_title": "What if the Apostles were picky eaters? - Original material Sheila Wenz",
+    "title": "What if the Apostles were picky eaters? - Original material Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=4W_kI7YDJ50",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "kLT0IGTHl6c",
+    "index": 4,
+    "expected_title": "Flirt like a Ten Year Old... Stand-Up Sheila (c) #Laugh Factory Los Angeles",
+    "title": "Flirt like a Ten Year Old... Stand-Up Sheila (c) #Laugh Factory Los Angeles",
+    "url": "https://www.youtube.com/watch?v=kLT0IGTHl6c",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "mFG_6Shvr08",
+    "index": 5,
+    "expected_title": "What do you call a Stay at Home Dad in Los Angeles?    comedy written by Sheila Wenz",
+    "title": "What do you call a Stay at Home Dad in Los Angeles?    comedy written by Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=mFG_6Shvr08",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "9SDhGEx9b-U",
+    "index": 6,
+    "expected_title": "Dating Couples  - In The Back Seat - Los Angeles Laugh Factory original material  Sheila Wenz",
+    "title": "Dating Couples  - In The Back Seat - Los Angeles Laugh Factory original material  Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=9SDhGEx9b-U",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "CAW667v_F5g",
+    "index": 7,
+    "expected_title": "Jane Goodall in the Steam Room  (C)  Sheila Wenz original material",
+    "title": "Jane Goodall in the Steam Room  (C)  Sheila Wenz original material",
+    "url": "https://www.youtube.com/watch?v=CAW667v_F5g",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "vevH_r_zbyI",
+    "index": 8,
+    "expected_title": "I don't know how to flirt - Original material Sheila Wenz",
+    "title": "I don't know how to flirt - Original material Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=vevH_r_zbyI",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "9Qhh9TSpr1I",
+    "index": 9,
+    "expected_title": "Comedy Show Spoof \"Home Repairs\" - Sheila Wenz",
+    "title": "Comedy Show Spoof \"Home Repairs\" - Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=9Qhh9TSpr1I",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "m8JGd5-UXJg",
+    "index": 10,
+    "expected_title": "Comedy Courtroom Spoof  \"You're out of order\" Written & Directed by Sheila Wenz",
+    "title": "Comedy Courtroom Spoof  \"You're out of order\" Written & Directed by Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=m8JGd5-UXJg",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "VvBuxv33OCk",
+    "index": 11,
+    "expected_title": "Comedy Show Spoof  - \"Stuff your Facebook\" Written & Directed by Sheila Wenz",
+    "title": "Comedy Show Spoof  - \"Stuff your Facebook\" Written & Directed by Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=VvBuxv33OCk",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "NltHrcEN9mA",
+    "index": 12,
+    "expected_title": "Comedy Show Spoof - Vegan Restaurant Written & Directed by Sheila Wenz",
+    "title": "Comedy Show Spoof - Vegan Restaurant Written & Directed by Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=NltHrcEN9mA",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "BIcg0qBGo3Q",
+    "index": 13,
+    "expected_title": "Comedy to make boring fun - Written by Sheila Wenz",
+    "title": "Comedy to make boring fun - Written by Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=BIcg0qBGo3Q",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "1ql5O8E5fGg",
+    "index": 14,
+    "expected_title": "What do you call a Stay at Home Dad in Los Angeles    Original material (C) by Sheila Wenz",
+    "title": "What do you call a Stay at Home Dad in Los Angeles    Original material (C) by Sheila Wenz",
+    "url": "https://www.youtube.com/watch?v=1ql5O8E5fGg",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "7TIWC5lGYjk",
+    "index": 15,
+    "expected_title": "Stand Up Studios Fabulous Funny Females Showcase!",
+    "title": "Stand Up Studios Fabulous Funny Females Showcase!",
+    "url": "https://www.youtube.com/watch?v=7TIWC5lGYjk",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "GmlRkczyHS8",
+    "index": 16,
+    "expected_title": "Normal Father's Day Card",
+    "title": "Normal Father's Day Card",
+    "url": "https://www.youtube.com/watch?v=GmlRkczyHS8",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "DCNwEtjSAQY",
+    "index": 17,
+    "expected_title": "Funny Stories!",
+    "title": "Funny Stories!",
+    "url": "https://www.youtube.com/watch?v=DCNwEtjSAQY",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "Ey5hqL-pi3w",
+    "index": 18,
+    "expected_title": "1st Time on Stage!",
+    "title": "1st Time on Stage!",
+    "url": "https://www.youtube.com/watch?v=Ey5hqL-pi3w",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "j_cek-rER6g",
+    "index": 19,
+    "expected_title": "Stand-Up Comedy Showcase - Stand-Up Studios",
+    "title": "Stand-Up Comedy Showcase - Stand-Up Studios",
+    "url": "https://www.youtube.com/watch?v=j_cek-rER6g",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "-m_q_eoqFpw",
+    "index": 20,
+    "expected_title": "Stand-Up Studios Comedy Classes for Everyone!",
+    "title": "Stand-Up Studios Comedy Classes for Everyone!",
+    "url": "https://www.youtube.com/watch?v=-m_q_eoqFpw",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "-qqxAHGvCXU",
+    "index": 21,
+    "expected_title": "The Laugh Factory, Los Angeles \"In the back seat\" - original material",
+    "title": "The Laugh Factory, Los Angeles \"In the back seat\" - original material",
+    "url": "https://www.youtube.com/watch?v=-qqxAHGvCXU",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  },
+  {
+    "id": "IdO4kc3ff-M",
+    "index": 22,
+    "expected_title": "Stand-Up Comedy - \"Carrie\" by SW",
+    "title": "Stand-Up Comedy - \"Carrie\" by SW",
+    "url": "https://www.youtube.com/watch?v=IdO4kc3ff-M",
+    "transcript_status": "missing",
+    "word_count": 0,
+    "cue_count": 0
+  }
+]

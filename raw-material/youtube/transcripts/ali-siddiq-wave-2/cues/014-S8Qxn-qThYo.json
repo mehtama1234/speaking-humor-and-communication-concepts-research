@@ -1,0 +1,226 @@
+[
+  {
+    "start": "00:00:03.274",
+    "end": "00:00:07.849",
+    "start_seconds": 3.274,
+    "end_seconds": 7.849,
+    "text": "[applause]"
+  },
+  {
+    "start": "00:00:07.859",
+    "end": "00:00:08.230",
+    "start_seconds": 7.859,
+    "end_seconds": 8.23,
+    "text": "[applause]"
+  },
+  {
+    "start": "00:00:08.230",
+    "end": "00:00:08.240",
+    "start_seconds": 8.23,
+    "end_seconds": 8.24,
+    "text": "[applause]"
+  },
+  {
+    "start": "00:00:08.240",
+    "end": "00:00:11.030",
+    "start_seconds": 8.24,
+    "end_seconds": 11.03,
+    "text": "[applause] >> This is not a"
+  },
+  {
+    "start": "00:00:11.030",
+    "end": "00:00:11.040",
+    "start_seconds": 11.03,
+    "end_seconds": 11.04,
+    "text": ">> This is not a"
+  },
+  {
+    "start": "00:00:11.040",
+    "end": "00:00:12.830",
+    "start_seconds": 11.04,
+    "end_seconds": 12.83,
+    "text": ">> This is not a a speech."
+  },
+  {
+    "start": "00:00:12.830",
+    "end": "00:00:12.840",
+    "start_seconds": 12.83,
+    "end_seconds": 12.84,
+    "text": "a speech."
+  },
+  {
+    "start": "00:00:12.840",
+    "end": "00:00:14.230",
+    "start_seconds": 12.84,
+    "end_seconds": 14.23,
+    "text": "a speech. Not a speech."
+  },
+  {
+    "start": "00:00:14.230",
+    "end": "00:00:14.240",
+    "start_seconds": 14.23,
+    "end_seconds": 14.24,
+    "text": "Not a speech."
+  },
+  {
+    "start": "00:00:14.240",
+    "end": "00:00:17.230",
+    "start_seconds": 14.24,
+    "end_seconds": 17.23,
+    "text": "Not a speech. This is me returning"
+  },
+  {
+    "start": "00:00:17.230",
+    "end": "00:00:17.240",
+    "start_seconds": 17.23,
+    "end_seconds": 17.24,
+    "text": "This is me returning"
+  },
+  {
+    "start": "00:00:17.240",
+    "end": "00:00:18.950",
+    "start_seconds": 17.24,
+    "end_seconds": 18.95,
+    "text": "This is me returning to what made me what"
+  },
+  {
+    "start": "00:00:18.950",
+    "end": "00:00:18.960",
+    "start_seconds": 18.95,
+    "end_seconds": 18.96,
+    "text": "to what made me what"
+  },
+  {
+    "start": "00:00:18.960",
+    "end": "00:00:21.190",
+    "start_seconds": 18.96,
+    "end_seconds": 21.19,
+    "text": "to what made me what I am outside."
+  },
+  {
+    "start": "00:00:21.190",
+    "end": "00:00:21.200",
+    "start_seconds": 21.19,
+    "end_seconds": 21.2,
+    "text": "I am outside."
+  },
+  {
+    "start": "00:00:21.200",
+    "end": "00:00:22.870",
+    "start_seconds": 21.2,
+    "end_seconds": 22.87,
+    "text": "I am outside."
+  },
+  {
+    "start": "00:00:22.880",
+    "end": "00:00:25.110",
+    "start_seconds": 22.88,
+    "end_seconds": 25.11,
+    "text": "October 21st,"
+  },
+  {
+    "start": "00:00:25.110",
+    "end": "00:00:25.120",
+    "start_seconds": 25.11,
+    "end_seconds": 25.12,
+    "text": "October 21st,"
+  },
+  {
+    "start": "00:00:25.120",
+    "end": "00:00:27.910",
+    "start_seconds": 25.12,
+    "end_seconds": 27.91,
+    "text": "October 21st, this is what we have in common."
+  },
+  {
+    "start": "00:00:27.910",
+    "end": "00:00:27.920",
+    "start_seconds": 27.91,
+    "end_seconds": 27.92,
+    "text": "this is what we have in common."
+  },
+  {
+    "start": "00:00:27.920",
+    "end": "00:00:29.430",
+    "start_seconds": 27.92,
+    "end_seconds": 29.43,
+    "text": "this is what we have in common."
+  },
+  {
+    "start": "00:00:29.440",
+    "end": "00:00:31.910",
+    "start_seconds": 29.44,
+    "end_seconds": 31.91,
+    "text": "October 21st,"
+  },
+  {
+    "start": "00:00:31.910",
+    "end": "00:00:31.920",
+    "start_seconds": 31.91,
+    "end_seconds": 31.92,
+    "text": "October 21st,"
+  },
+  {
+    "start": "00:00:31.920",
+    "end": "00:00:33.910",
+    "start_seconds": 31.92,
+    "end_seconds": 33.91,
+    "text": "October 21st, the same feeling that y'all felt when"
+  },
+  {
+    "start": "00:00:33.910",
+    "end": "00:00:33.920",
+    "start_seconds": 33.91,
+    "end_seconds": 33.92,
+    "text": "the same feeling that y'all felt when"
+  },
+  {
+    "start": "00:00:33.920",
+    "end": "00:00:36.030",
+    "start_seconds": 33.92,
+    "end_seconds": 36.03,
+    "text": "the same feeling that y'all felt when that door, whatever day you was"
+  },
+  {
+    "start": "00:00:36.030",
+    "end": "00:00:36.040",
+    "start_seconds": 36.03,
+    "end_seconds": 36.04,
+    "text": "that door, whatever day you was"
+  },
+  {
+    "start": "00:00:36.040",
+    "end": "00:00:37.470",
+    "start_seconds": 36.04,
+    "end_seconds": 37.47,
+    "text": "that door, whatever day you was arrested,"
+  },
+  {
+    "start": "00:00:37.470",
+    "end": "00:00:37.480",
+    "start_seconds": 37.47,
+    "end_seconds": 37.48,
+    "text": "arrested,"
+  },
+  {
+    "start": "00:00:37.480",
+    "end": "00:00:39.310",
+    "start_seconds": 37.48,
+    "end_seconds": 39.31,
+    "text": "arrested, when that door closed,"
+  },
+  {
+    "start": "00:00:39.310",
+    "end": "00:00:39.320",
+    "start_seconds": 39.31,
+    "end_seconds": 39.32,
+    "text": "when that door closed,"
+  },
+  {
+    "start": "00:00:39.320",
+    "end": "00:00:42.760",
+    "start_seconds": 39.32,
+    "end_seconds": 42.76,
+    "text": "when that door closed, is when this got real to you."
+  }
+]

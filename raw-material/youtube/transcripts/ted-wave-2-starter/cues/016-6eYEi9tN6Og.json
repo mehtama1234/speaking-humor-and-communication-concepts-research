@@ -1,0 +1,1486 @@
+[
+  {
+    "start": "00:00:04.268",
+    "end": "00:00:09.073",
+    "start_seconds": 4.268,
+    "end_seconds": 9.073,
+    "text": "I've been writing about global health and medical innovation for years,"
+  },
+  {
+    "start": "00:00:09.073",
+    "end": "00:00:13.878",
+    "start_seconds": 9.073,
+    "end_seconds": 13.878,
+    "text": "and when I tell my friends and family how much progress there's been,"
+  },
+  {
+    "start": "00:00:13.911",
+    "end": "00:00:16.547",
+    "start_seconds": 13.911,
+    "end_seconds": 16.547,
+    "text": "the reaction is almost always the same."
+  },
+  {
+    "start": "00:00:16.547",
+    "end": "00:00:18.983",
+    "start_seconds": 16.547,
+    "end_seconds": 18.983,
+    "text": "They had no idea most of it was happening."
+  },
+  {
+    "start": "00:00:19.950",
+    "end": "00:00:23.320",
+    "start_seconds": 19.95,
+    "end_seconds": 23.32,
+    "text": "Take the most common cause of death today, heart disease."
+  },
+  {
+    "start": "00:00:23.654",
+    "end": "00:00:27.792",
+    "start_seconds": 23.654,
+    "end_seconds": 27.792,
+    "text": "People today have roughly a quarter the chance of dying from heart disease"
+  },
+  {
+    "start": "00:00:27.792",
+    "end": "00:00:30.795",
+    "start_seconds": 27.792,
+    "end_seconds": 30.795,
+    "text": "as people did in the 1950s at the same age."
+  },
+  {
+    "start": "00:00:31.162",
+    "end": "00:00:32.296",
+    "start_seconds": 31.162,
+    "end_seconds": 32.296,
+    "text": "A quarter."
+  },
+  {
+    "start": "00:00:32.897",
+    "end": "00:00:37.201",
+    "start_seconds": 32.897,
+    "end_seconds": 37.201,
+    "text": "Back then, there were no statins, no cholesterol testing,"
+  },
+  {
+    "start": "00:00:37.234",
+    "end": "00:00:39.603",
+    "start_seconds": 37.234,
+    "end_seconds": 39.603,
+    "text": "no implanted pacemakers,"
+  },
+  {
+    "start": "00:00:39.637",
+    "end": "00:00:43.174",
+    "start_seconds": 39.637,
+    "end_seconds": 43.174,
+    "text": "no anti-smoking campaigns, no bans on trans fats,"
+  },
+  {
+    "start": "00:00:43.174",
+    "end": "00:00:46.143",
+    "start_seconds": 43.174,
+    "end_seconds": 46.143,
+    "text": "no bypass surgery, no CPR."
+  },
+  {
+    "start": "00:00:47.011",
+    "end": "00:00:48.446",
+    "start_seconds": 47.011,
+    "end_seconds": 48.446,
+    "text": "But hardly anyone hears"
+  },
+  {
+    "start": "00:00:48.479",
+    "end": "00:00:51.549",
+    "start_seconds": 48.479,
+    "end_seconds": 51.549,
+    "text": "about the long-term impact of those breakthroughs."
+  },
+  {
+    "start": "00:00:52.216",
+    "end": "00:00:54.385",
+    "start_seconds": 52.216,
+    "end_seconds": 54.385,
+    "text": "When progress happens gradually,"
+  },
+  {
+    "start": "00:00:54.418",
+    "end": "00:00:56.020",
+    "start_seconds": 54.418,
+    "end_seconds": 56.02,
+    "text": "it's rarely considered news."
+  },
+  {
+    "start": "00:00:57.054",
+    "end": "00:00:58.656",
+    "start_seconds": 57.054,
+    "end_seconds": 58.656,
+    "text": "And I think it's a problem."
+  },
+  {
+    "start": "00:00:58.689",
+    "end": "00:01:02.927",
+    "start_seconds": 58.689,
+    "end_seconds": 62.927,
+    "text": "I think it’s part of why people don’t know how important it’s all been --"
+  },
+  {
+    "start": "00:01:02.927",
+    "end": "00:01:05.029",
+    "start_seconds": 62.927,
+    "end_seconds": 65.029,
+    "text": "public health, vaccines and all the rest --"
+  },
+  {
+    "start": "00:01:05.162",
+    "end": "00:01:06.597",
+    "start_seconds": 65.162,
+    "end_seconds": 66.597,
+    "text": "in improving people’s lives."
+  },
+  {
+    "start": "00:01:08.032",
+    "end": "00:01:09.700",
+    "start_seconds": 68.032,
+    "end_seconds": 69.7,
+    "text": "But what I want to tell you about"
+  },
+  {
+    "start": "00:01:09.733",
+    "end": "00:01:12.269",
+    "start_seconds": 69.733,
+    "end_seconds": 72.269,
+    "text": "is the thing that doesn't make the news at all."
+  },
+  {
+    "start": "00:01:12.603",
+    "end": "00:01:14.371",
+    "start_seconds": 72.603,
+    "end_seconds": 74.371,
+    "text": "Not the breakthroughs themselves,"
+  },
+  {
+    "start": "00:01:14.405",
+    "end": "00:01:17.208",
+    "start_seconds": 74.405,
+    "end_seconds": 77.208,
+    "text": "but everything that got in the way of them."
+  },
+  {
+    "start": "00:01:18.476",
+    "end": "00:01:21.479",
+    "start_seconds": 78.476,
+    "end_seconds": 81.479,
+    "text": "I used to have this impression that breakthroughs were uncommon,"
+  },
+  {
+    "start": "00:01:21.512",
+    "end": "00:01:22.880",
+    "start_seconds": 81.512,
+    "end_seconds": 82.88,
+    "text": "sporadic,"
+  },
+  {
+    "start": "00:01:22.913",
+    "end": "00:01:25.249",
+    "start_seconds": 82.913,
+    "end_seconds": 85.249,
+    "text": "sometimes happening by pure chance,"
+  },
+  {
+    "start": "00:01:25.282",
+    "end": "00:01:27.651",
+    "start_seconds": 85.282,
+    "end_seconds": 87.651,
+    "text": "sometimes by sheer determination."
+  },
+  {
+    "start": "00:01:29.487",
+    "end": "00:01:31.388",
+    "start_seconds": 89.487,
+    "end_seconds": 91.388,
+    "text": "The way I see it now,"
+  },
+  {
+    "start": "00:01:31.422",
+    "end": "00:01:36.327",
+    "start_seconds": 91.422,
+    "end_seconds": 96.327,
+    "text": "it's more like there's a continuous stream of medical innovation every year."
+  },
+  {
+    "start": "00:01:37.595",
+    "end": "00:01:40.464",
+    "start_seconds": 97.595,
+    "end_seconds": 100.464,
+    "text": "In just the last two years, for example,"
+  },
+  {
+    "start": "00:01:40.498",
+    "end": "00:01:44.802",
+    "start_seconds": 100.49799999999999,
+    "end_seconds": 104.80199999999999,
+    "text": "we've had a new antiviral against HIV,"
+  },
+  {
+    "start": "00:01:44.835",
+    "end": "00:01:50.241",
+    "start_seconds": 104.83500000000001,
+    "end_seconds": 110.241,
+    "text": "which protects against infections with an efficacy of nearly 100 percent"
+  },
+  {
+    "start": "00:01:50.274",
+    "end": "00:01:53.210",
+    "start_seconds": 110.274,
+    "end_seconds": 113.21000000000001,
+    "text": "with just a single dose given every six months."
+  },
+  {
+    "start": "00:01:54.111",
+    "end": "00:01:57.681",
+    "start_seconds": 114.11099999999999,
+    "end_seconds": 117.681,
+    "text": "There are new drugs that reduce cholesterol levels by 60 percent,"
+  },
+  {
+    "start": "00:01:57.715",
+    "end": "00:01:59.316",
+    "start_seconds": 117.715,
+    "end_seconds": 119.316,
+    "text": "beyond the effect of statins."
+  },
+  {
+    "start": "00:02:00.651",
+    "end": "00:02:04.822",
+    "start_seconds": 120.651,
+    "end_seconds": 124.822,
+    "text": "There are new treatments that slow down the progression of certain cancers,"
+  },
+  {
+    "start": "00:02:04.855",
+    "end": "00:02:10.261",
+    "start_seconds": 124.855,
+    "end_seconds": 130.261,
+    "text": "certain lung cancers, brain cancer and multiple myeloma by half or more."
+  },
+  {
+    "start": "00:02:11.262",
+    "end": "00:02:13.564",
+    "start_seconds": 131.262,
+    "end_seconds": 133.564,
+    "text": "And in just the last five years,"
+  },
+  {
+    "start": "00:02:13.597",
+    "end": "00:02:17.635",
+    "start_seconds": 133.597,
+    "end_seconds": 137.635,
+    "text": "we've had new vaccines against four diseases for the very first time."
+  },
+  {
+    "start": "00:02:18.102",
+    "end": "00:02:19.236",
+    "start_seconds": 138.102,
+    "end_seconds": 139.236,
+    "text": "COVID, of course,"
+  },
+  {
+    "start": "00:02:19.270",
+    "end": "00:02:21.772",
+    "start_seconds": 139.27,
+    "end_seconds": 141.772,
+    "text": "but also the first malaria vaccine,"
+  },
+  {
+    "start": "00:02:21.805",
+    "end": "00:02:26.076",
+    "start_seconds": 141.805,
+    "end_seconds": 146.076,
+    "text": "the first chikungunya vaccine and the first vaccine against RSV."
+  },
+  {
+    "start": "00:02:28.012",
+    "end": "00:02:32.082",
+    "start_seconds": 148.012,
+    "end_seconds": 152.082,
+    "text": "The tools to develop new drugs and vaccines have improved enormously."
+  },
+  {
+    "start": "00:02:32.983",
+    "end": "00:02:34.852",
+    "start_seconds": 152.983,
+    "end_seconds": 154.852,
+    "text": "Like genome sequencing, for example,"
+  },
+  {
+    "start": "00:02:34.885",
+    "end": "00:02:37.488",
+    "start_seconds": 154.885,
+    "end_seconds": 157.488,
+    "text": "which has touched almost every part of biology."
+  },
+  {
+    "start": "00:02:38.589",
+    "end": "00:02:42.326",
+    "start_seconds": 158.589,
+    "end_seconds": 162.326,
+    "text": "Back when the Human Genome Project was completed in 2003,"
+  },
+  {
+    "start": "00:02:42.359",
+    "end": "00:02:47.064",
+    "start_seconds": 162.359,
+    "end_seconds": 167.064,
+    "text": "it cost $50 million to sequence one person’s genome,"
+  },
+  {
+    "start": "00:02:47.097",
+    "end": "00:02:48.866",
+    "start_seconds": 167.097,
+    "end_seconds": 168.86599999999999,
+    "text": "and it took half a year."
+  },
+  {
+    "start": "00:02:48.899",
+    "end": "00:02:52.269",
+    "start_seconds": 168.899,
+    "end_seconds": 172.269,
+    "text": "Now it takes under four hours"
+  },
+  {
+    "start": "00:02:52.303",
+    "end": "00:02:54.305",
+    "start_seconds": 172.303,
+    "end_seconds": 174.305,
+    "text": "and it costs a few hundred dollars."
+  },
+  {
+    "start": "00:02:54.972",
+    "end": "00:02:58.943",
+    "start_seconds": 174.972,
+    "end_seconds": 178.94299999999998,
+    "text": "There's also been a revolution in the technology of microscopes."
+  },
+  {
+    "start": "00:02:58.943",
+    "end": "00:03:01.345",
+    "start_seconds": 178.94299999999998,
+    "end_seconds": 181.345,
+    "text": "Over the past 200 years,"
+  },
+  {
+    "start": "00:03:01.378",
+    "end": "00:03:05.883",
+    "start_seconds": 181.378,
+    "end_seconds": 185.883,
+    "text": "their resolution has increased over 10,000-fold."
+  },
+  {
+    "start": "00:03:06.283",
+    "end": "00:03:10.421",
+    "start_seconds": 186.283,
+    "end_seconds": 190.421,
+    "text": "We can now see viruses down to their individual atoms"
+  },
+  {
+    "start": "00:03:10.454",
+    "end": "00:03:14.391",
+    "start_seconds": 190.454,
+    "end_seconds": 194.391,
+    "text": "and design new drugs to target them extremely precisely."
+  },
+  {
+    "start": "00:03:14.959",
+    "end": "00:03:17.728",
+    "start_seconds": 194.959,
+    "end_seconds": 197.728,
+    "text": "This is RSV, respiratory syncytial virus."
+  },
+  {
+    "start": "00:03:18.062",
+    "end": "00:03:19.563",
+    "start_seconds": 198.062,
+    "end_seconds": 199.563,
+    "text": "It's in the middle right there."
+  },
+  {
+    "start": "00:03:19.597",
+    "end": "00:03:22.633",
+    "start_seconds": 199.597,
+    "end_seconds": 202.633,
+    "text": "And we can now see its atomic structure on the right."
+  },
+  {
+    "start": "00:03:23.200",
+    "end": "00:03:24.835",
+    "start_seconds": 203.2,
+    "end_seconds": 204.835,
+    "text": "Until the 1930s,"
+  },
+  {
+    "start": "00:03:24.868",
+    "end": "00:03:27.404",
+    "start_seconds": 204.868,
+    "end_seconds": 207.404,
+    "text": "no one had ever seen a virus."
+  },
+  {
+    "start": "00:03:28.072",
+    "end": "00:03:33.244",
+    "start_seconds": 208.072,
+    "end_seconds": 213.244,
+    "text": "So if our technology has advanced so much,"
+  },
+  {
+    "start": "00:03:33.277",
+    "end": "00:03:36.380",
+    "start_seconds": 213.277,
+    "end_seconds": 216.38,
+    "text": "why are so many diseases still untreatable today?"
+  },
+  {
+    "start": "00:03:38.682",
+    "end": "00:03:42.319",
+    "start_seconds": 218.68200000000002,
+    "end_seconds": 222.31900000000002,
+    "text": "What I've learned is that technology isn't always the barrier."
+  },
+  {
+    "start": "00:03:43.287",
+    "end": "00:03:47.491",
+    "start_seconds": 223.287,
+    "end_seconds": 227.49099999999999,
+    "text": "Sometimes it’s about the funding, the institutions and the incentives."
+  },
+  {
+    "start": "00:03:48.626",
+    "end": "00:03:51.161",
+    "start_seconds": 228.626,
+    "end_seconds": 231.161,
+    "text": "We recently got a new malaria vaccine, as I mentioned,"
+  },
+  {
+    "start": "00:03:51.195",
+    "end": "00:03:54.465",
+    "start_seconds": 231.195,
+    "end_seconds": 234.465,
+    "text": "and when I first heard about it, I was amazed."
+  },
+  {
+    "start": "00:03:54.498",
+    "end": "00:03:56.033",
+    "start_seconds": 234.498,
+    "end_seconds": 236.03300000000002,
+    "text": "I remember learning"
+  },
+  {
+    "start": "00:03:56.066",
+    "end": "00:03:59.336",
+    "start_seconds": 236.066,
+    "end_seconds": 239.336,
+    "text": "that malaria was a very complicated disease, scientifically."
+  },
+  {
+    "start": "00:03:59.336",
+    "end": "00:04:02.806",
+    "start_seconds": 239.336,
+    "end_seconds": 242.806,
+    "text": "It's caused by a parasite, not a virus or bacterium."
+  },
+  {
+    "start": "00:04:02.840",
+    "end": "00:04:07.211",
+    "start_seconds": 242.84,
+    "end_seconds": 247.211,
+    "text": "And that parasite changes shape multiple times during its life cycle,"
+  },
+  {
+    "start": "00:04:07.244",
+    "end": "00:04:10.748",
+    "start_seconds": 247.244,
+    "end_seconds": 250.748,
+    "text": "which makes it really hard to know what to target with a vaccine."
+  },
+  {
+    "start": "00:04:11.582",
+    "end": "00:04:14.418",
+    "start_seconds": 251.582,
+    "end_seconds": 254.418,
+    "text": "So I wanted to write about it, this amazing breakthrough."
+  },
+  {
+    "start": "00:04:15.586",
+    "end": "00:04:18.922",
+    "start_seconds": 255.586,
+    "end_seconds": 258.922,
+    "text": "But one of the first things I learned about this new malaria vaccine"
+  },
+  {
+    "start": "00:04:18.922",
+    "end": "00:04:21.925",
+    "start_seconds": 258.922,
+    "end_seconds": 261.925,
+    "text": "that was introduced just a few years ago,"
+  },
+  {
+    "start": "00:04:21.925",
+    "end": "00:04:24.295",
+    "start_seconds": 261.925,
+    "end_seconds": 264.295,
+    "text": "was that it was developed in the '90s."
+  },
+  {
+    "start": "00:04:24.928",
+    "end": "00:04:26.430",
+    "start_seconds": 264.928,
+    "end_seconds": 266.43,
+    "text": "Decades ago."
+  },
+  {
+    "start": "00:04:26.964",
+    "end": "00:04:30.668",
+    "start_seconds": 266.964,
+    "end_seconds": 270.668,
+    "text": "The researchers who developed it, struggled to find funding to test it"
+  },
+  {
+    "start": "00:04:30.701",
+    "end": "00:04:32.603",
+    "start_seconds": 270.701,
+    "end_seconds": 272.603,
+    "text": "at every stage of the process."
+  },
+  {
+    "start": "00:04:33.103",
+    "end": "00:04:34.905",
+    "start_seconds": 273.103,
+    "end_seconds": 274.905,
+    "text": "There was no commercial incentive."
+  },
+  {
+    "start": "00:04:35.639",
+    "end": "00:04:38.042",
+    "start_seconds": 275.639,
+    "end_seconds": 278.04200000000003,
+    "text": "It's not profitable to develop new drugs"
+  },
+  {
+    "start": "00:04:38.075",
+    "end": "00:04:40.210",
+    "start_seconds": 278.075,
+    "end_seconds": 280.21,
+    "text": "and vaccines against diseases"
+  },
+  {
+    "start": "00:04:40.244",
+    "end": "00:04:42.813",
+    "start_seconds": 280.244,
+    "end_seconds": 282.813,
+    "text": "that affect people in poverty, in poorer countries,"
+  },
+  {
+    "start": "00:04:43.213",
+    "end": "00:04:46.250",
+    "start_seconds": 283.213,
+    "end_seconds": 286.25,
+    "text": "even if millions of children might benefit."
+  },
+  {
+    "start": "00:04:46.250",
+    "end": "00:04:49.119",
+    "start_seconds": 286.25,
+    "end_seconds": 289.119,
+    "text": "Even if there’s a huge economic benefit as well."
+  },
+  {
+    "start": "00:04:50.187",
+    "end": "00:04:54.091",
+    "start_seconds": 290.187,
+    "end_seconds": 294.091,
+    "text": "It took foreign aid and philanthropy to fund the research to test it."
+  },
+  {
+    "start": "00:04:54.091",
+    "end": "00:04:57.728",
+    "start_seconds": 294.091,
+    "end_seconds": 297.728,
+    "text": "And it literally took decades to reach the children who needed it."
+  },
+  {
+    "start": "00:04:58.896",
+    "end": "00:05:01.031",
+    "start_seconds": 298.896,
+    "end_seconds": 301.031,
+    "text": "When I learned about this,"
+  },
+  {
+    "start": "00:05:01.031",
+    "end": "00:05:03.767",
+    "start_seconds": 301.031,
+    "end_seconds": 303.767,
+    "text": "I felt like there was nothing to celebrate."
+  },
+  {
+    "start": "00:05:03.801",
+    "end": "00:05:05.502",
+    "start_seconds": 303.801,
+    "end_seconds": 305.502,
+    "text": "It seemed more like a failure."
+  },
+  {
+    "start": "00:05:06.603",
+    "end": "00:05:08.005",
+    "start_seconds": 306.603,
+    "end_seconds": 308.005,
+    "text": "How could we let that happen?"
+  },
+  {
+    "start": "00:05:08.038",
+    "end": "00:05:10.841",
+    "start_seconds": 308.038,
+    "end_seconds": 310.841,
+    "text": "How could it take so long to test a vaccine"
+  },
+  {
+    "start": "00:05:10.874",
+    "end": "00:05:12.810",
+    "start_seconds": 310.874,
+    "end_seconds": 312.81,
+    "text": "that had already been developed,"
+  },
+  {
+    "start": "00:05:12.843",
+    "end": "00:05:16.814",
+    "start_seconds": 312.843,
+    "end_seconds": 316.814,
+    "text": "while half a million children were dying from malaria every year?"
+  },
+  {
+    "start": "00:05:16.847",
+    "end": "00:05:18.282",
+    "start_seconds": 316.847,
+    "end_seconds": 318.282,
+    "text": "Why wasn't that the story?"
+  },
+  {
+    "start": "00:05:20.884",
+    "end": "00:05:23.020",
+    "start_seconds": 320.884,
+    "end_seconds": 323.02,
+    "text": "Those children aren't coming back."
+  },
+  {
+    "start": "00:05:24.755",
+    "end": "00:05:29.193",
+    "start_seconds": 324.755,
+    "end_seconds": 329.193,
+    "text": "But what I wanted to know was how we could prevent that from happening again."
+  },
+  {
+    "start": "00:05:30.661",
+    "end": "00:05:33.831",
+    "start_seconds": 330.661,
+    "end_seconds": 333.831,
+    "text": "Like, what if we could change the economic incentives?"
+  },
+  {
+    "start": "00:05:35.332",
+    "end": "00:05:38.702",
+    "start_seconds": 335.332,
+    "end_seconds": 338.702,
+    "text": "Well, economists have come up with an idea to do just that."
+  },
+  {
+    "start": "00:05:39.536",
+    "end": "00:05:42.439",
+    "start_seconds": 339.536,
+    "end_seconds": 342.439,
+    "text": "It’s called an “advanced market commitment.”"
+  },
+  {
+    "start": "00:05:42.473",
+    "end": "00:05:46.844",
+    "start_seconds": 342.473,
+    "end_seconds": 346.844,
+    "text": "It's where donors commit to buying a vaccine at a certain price per dose,"
+  },
+  {
+    "start": "00:05:46.844",
+    "end": "00:05:50.180",
+    "start_seconds": 346.844,
+    "end_seconds": 350.18,
+    "text": "but only if it's developed and proven safe and effective."
+  },
+  {
+    "start": "00:05:50.814",
+    "end": "00:05:54.518",
+    "start_seconds": 350.814,
+    "end_seconds": 354.51800000000003,
+    "text": "That commitment gives companies the confidence to invest in it"
+  },
+  {
+    "start": "00:05:54.551",
+    "end": "00:05:56.220",
+    "start_seconds": 354.551,
+    "end_seconds": 356.22,
+    "text": "in the first place,"
+  },
+  {
+    "start": "00:05:56.220",
+    "end": "00:05:58.188",
+    "start_seconds": 356.22,
+    "end_seconds": 358.188,
+    "text": "and it can bring vaccines into existence"
+  },
+  {
+    "start": "00:05:58.222",
+    "end": "00:06:00.758",
+    "start_seconds": 358.222,
+    "end_seconds": 360.758,
+    "text": "that would otherwise never get made."
+  },
+  {
+    "start": "00:06:00.791",
+    "end": "00:06:01.959",
+    "start_seconds": 360.791,
+    "end_seconds": 361.959,
+    "text": "And most importantly,"
+  },
+  {
+    "start": "00:06:01.992",
+    "end": "00:06:04.495",
+    "start_seconds": 361.992,
+    "end_seconds": 364.495,
+    "text": "it makes sure that they're manufactured at scale"
+  },
+  {
+    "start": "00:06:04.528",
+    "end": "00:06:06.563",
+    "start_seconds": 364.528,
+    "end_seconds": 366.563,
+    "text": "and sold at an affordable price,"
+  },
+  {
+    "start": "00:06:06.563",
+    "end": "00:06:08.699",
+    "start_seconds": 366.563,
+    "end_seconds": 368.699,
+    "text": "so they reach children who need them."
+  },
+  {
+    "start": "00:06:10.300",
+    "end": "00:06:12.269",
+    "start_seconds": 370.3,
+    "end_seconds": 372.269,
+    "text": "That idea was used over a decade ago"
+  },
+  {
+    "start": "00:06:12.269",
+    "end": "00:06:15.005",
+    "start_seconds": 372.269,
+    "end_seconds": 375.005,
+    "text": "to help develop new vaccines against pneumococcal disease,"
+  },
+  {
+    "start": "00:06:15.038",
+    "end": "00:06:18.142",
+    "start_seconds": 375.038,
+    "end_seconds": 378.142,
+    "text": "which is a deadly bacterial infection of the lungs."
+  },
+  {
+    "start": "00:06:19.243",
+    "end": "00:06:20.978",
+    "start_seconds": 379.243,
+    "end_seconds": 380.978,
+    "text": "Vaccines already existed,"
+  },
+  {
+    "start": "00:06:21.011",
+    "end": "00:06:25.516",
+    "start_seconds": 381.011,
+    "end_seconds": 385.516,
+    "text": "but they didn't include the strains that were common in Africa and South Asia."
+  },
+  {
+    "start": "00:06:26.650",
+    "end": "00:06:30.554",
+    "start_seconds": 386.65,
+    "end_seconds": 390.554,
+    "text": "So in 2009, several countries and philanthropists came together"
+  },
+  {
+    "start": "00:06:30.587",
+    "end": "00:06:33.891",
+    "start_seconds": 390.587,
+    "end_seconds": 393.891,
+    "text": "to fund an advanced market commitment for new vaccines."
+  },
+  {
+    "start": "00:06:34.358",
+    "end": "00:06:35.559",
+    "start_seconds": 394.358,
+    "end_seconds": 395.55899999999997,
+    "text": "And it actually worked."
+  },
+  {
+    "start": "00:06:35.559",
+    "end": "00:06:37.361",
+    "start_seconds": 395.55899999999997,
+    "end_seconds": 397.361,
+    "text": "Several companies developed them,"
+  },
+  {
+    "start": "00:06:37.394",
+    "end": "00:06:40.197",
+    "start_seconds": 397.394,
+    "end_seconds": 400.197,
+    "text": "and they reached children much faster than usual."
+  },
+  {
+    "start": "00:06:40.230",
+    "end": "00:06:44.001",
+    "start_seconds": 400.23,
+    "end_seconds": 404.001,
+    "text": "It's estimated that those vaccines have saved over 700,000"
+  },
+  {
+    "start": "00:06:44.034",
+    "end": "00:06:45.936",
+    "start_seconds": 404.034,
+    "end_seconds": 405.936,
+    "text": "children's lives since then."
+  },
+  {
+    "start": "00:06:45.969",
+    "end": "00:06:50.808",
+    "start_seconds": 405.969,
+    "end_seconds": 410.808,
+    "text": "(Applause)"
+  },
+  {
+    "start": "00:06:51.141",
+    "end": "00:06:56.346",
+    "start_seconds": 411.141,
+    "end_seconds": 416.346,
+    "text": "This idea to fix market incentives is one way to speed up the process."
+  },
+  {
+    "start": "00:06:57.147",
+    "end": "00:06:59.416",
+    "start_seconds": 417.147,
+    "end_seconds": 419.416,
+    "text": "But it's not the only thing we can do."
+  },
+  {
+    "start": "00:06:59.450",
+    "end": "00:07:01.585",
+    "start_seconds": 419.45,
+    "end_seconds": 421.585,
+    "text": "Take childhood leukemia, for example."
+  },
+  {
+    "start": "00:07:02.052",
+    "end": "00:07:05.923",
+    "start_seconds": 422.052,
+    "end_seconds": 425.923,
+    "text": "It used to be very difficult to test new treatments for the disease"
+  },
+  {
+    "start": "00:07:05.956",
+    "end": "00:07:07.424",
+    "start_seconds": 425.956,
+    "end_seconds": 427.424,
+    "text": "because leukemia is rare"
+  },
+  {
+    "start": "00:07:07.458",
+    "end": "00:07:10.894",
+    "start_seconds": 427.458,
+    "end_seconds": 430.894,
+    "text": "and individual hospitals struggled to find enough patients"
+  },
+  {
+    "start": "00:07:10.928",
+    "end": "00:07:12.362",
+    "start_seconds": 430.928,
+    "end_seconds": 432.362,
+    "text": "to run clinical trials."
+  },
+  {
+    "start": "00:07:13.764",
+    "end": "00:07:15.999",
+    "start_seconds": 433.764,
+    "end_seconds": 435.999,
+    "text": "So researchers built networks"
+  },
+  {
+    "start": "00:07:16.033",
+    "end": "00:07:19.002",
+    "start_seconds": 436.033,
+    "end_seconds": 439.002,
+    "text": "across the US and later Europe and Canada"
+  },
+  {
+    "start": "00:07:19.002",
+    "end": "00:07:21.538",
+    "start_seconds": 439.002,
+    "end_seconds": 441.538,
+    "text": "to help recruit patients from all over those countries"
+  },
+  {
+    "start": "00:07:21.572",
+    "end": "00:07:23.106",
+    "start_seconds": 441.572,
+    "end_seconds": 443.106,
+    "text": "into larger clinical trials."
+  },
+  {
+    "start": "00:07:24.107",
+    "end": "00:07:26.510",
+    "start_seconds": 444.10699999999997,
+    "end_seconds": 446.51,
+    "text": "That collaboration made it possible"
+  },
+  {
+    "start": "00:07:26.543",
+    "end": "00:07:29.213",
+    "start_seconds": 446.543,
+    "end_seconds": 449.213,
+    "text": "to test treatments and learn what works faster."
+  },
+  {
+    "start": "00:07:30.581",
+    "end": "00:07:33.884",
+    "start_seconds": 450.581,
+    "end_seconds": 453.884,
+    "text": "And it's why leukemia is no longer the disease it used to be."
+  },
+  {
+    "start": "00:07:34.852",
+    "end": "00:07:36.687",
+    "start_seconds": 454.852,
+    "end_seconds": 456.687,
+    "text": "Before the 1970s,"
+  },
+  {
+    "start": "00:07:36.687",
+    "end": "00:07:40.958",
+    "start_seconds": 456.687,
+    "end_seconds": 460.95799999999997,
+    "text": "only around 15 percent of children with leukemia would survive"
+  },
+  {
+    "start": "00:07:40.991",
+    "end": "00:07:43.327",
+    "start_seconds": 460.991,
+    "end_seconds": 463.327,
+    "text": "even five years from a diagnosis."
+  },
+  {
+    "start": "00:07:43.694",
+    "end": "00:07:45.562",
+    "start_seconds": 463.694,
+    "end_seconds": 465.562,
+    "text": "That's the bottom line on these graphs."
+  },
+  {
+    "start": "00:07:45.596",
+    "end": "00:07:47.130",
+    "start_seconds": 465.596,
+    "end_seconds": 467.13,
+    "text": "Two types of leukemia."
+  },
+  {
+    "start": "00:07:47.464",
+    "end": "00:07:49.933",
+    "start_seconds": 467.464,
+    "end_seconds": 469.933,
+    "text": "Now the top line --"
+  },
+  {
+    "start": "00:07:49.967",
+    "end": "00:07:52.402",
+    "start_seconds": 469.967,
+    "end_seconds": 472.402,
+    "text": "that figure is 85 percent."
+  },
+  {
+    "start": "00:07:53.003",
+    "end": "00:07:55.906",
+    "start_seconds": 473.003,
+    "end_seconds": 475.906,
+    "text": "Most children in richer countries today survive"
+  },
+  {
+    "start": "00:07:55.906",
+    "end": "00:07:58.041",
+    "start_seconds": 475.906,
+    "end_seconds": 478.041,
+    "text": "and are effectively cured of the disease."
+  },
+  {
+    "start": "00:07:58.976",
+    "end": "00:08:01.845",
+    "start_seconds": 478.976,
+    "end_seconds": 481.845,
+    "text": "This graph is thousands of children"
+  },
+  {
+    "start": "00:08:01.845",
+    "end": "00:08:04.414",
+    "start_seconds": 481.845,
+    "end_seconds": 484.414,
+    "text": "who wouldn't have survived without that collaboration,"
+  },
+  {
+    "start": "00:08:04.414",
+    "end": "00:08:06.016",
+    "start_seconds": 484.414,
+    "end_seconds": 486.016,
+    "text": "without that progress."
+  },
+  {
+    "start": "00:08:06.049",
+    "end": "00:08:08.252",
+    "start_seconds": 486.049,
+    "end_seconds": 488.252,
+    "text": "I want to give you another example."
+  },
+  {
+    "start": "00:08:09.353",
+    "end": "00:08:11.588",
+    "start_seconds": 489.353,
+    "end_seconds": 491.588,
+    "text": "Back when I was at university,"
+  },
+  {
+    "start": "00:08:11.622",
+    "end": "00:08:15.826",
+    "start_seconds": 491.622,
+    "end_seconds": 495.826,
+    "text": "we had a substitute lecturer one day in my course on infectious diseases,"
+  },
+  {
+    "start": "00:08:15.859",
+    "end": "00:08:19.062",
+    "start_seconds": 495.859,
+    "end_seconds": 499.062,
+    "text": "and she told us that our original lecturer was away"
+  },
+  {
+    "start": "00:08:19.096",
+    "end": "00:08:21.532",
+    "start_seconds": 499.096,
+    "end_seconds": 501.532,
+    "text": "because he had gone to West Africa"
+  },
+  {
+    "start": "00:08:21.565",
+    "end": "00:08:24.368",
+    "start_seconds": 501.565,
+    "end_seconds": 504.368,
+    "text": "to do research to develop an Ebola vaccine."
+  },
+  {
+    "start": "00:08:24.935",
+    "end": "00:08:28.138",
+    "start_seconds": 504.935,
+    "end_seconds": 508.138,
+    "text": "I remember sitting in that lecture theater at the back,"
+  },
+  {
+    "start": "00:08:28.138",
+    "end": "00:08:30.908",
+    "start_seconds": 508.138,
+    "end_seconds": 510.908,
+    "text": "and I was thinking to myself,"
+  },
+  {
+    "start": "00:08:30.941",
+    "end": "00:08:32.910",
+    "start_seconds": 510.941,
+    "end_seconds": 512.91,
+    "text": "can you just do that?"
+  },
+  {
+    "start": "00:08:32.943",
+    "end": "00:08:34.912",
+    "start_seconds": 512.943,
+    "end_seconds": 514.912,
+    "text": "Can you just pack up and go?"
+  },
+  {
+    "start": "00:08:35.546",
+    "end": "00:08:38.382",
+    "start_seconds": 515.546,
+    "end_seconds": 518.382,
+    "text": "It hadn't even occurred to me,"
+  },
+  {
+    "start": "00:08:38.382",
+    "end": "00:08:41.885",
+    "start_seconds": 518.382,
+    "end_seconds": 521.885,
+    "text": "and it made me realize that all of these breakthroughs"
+  },
+  {
+    "start": "00:08:41.919",
+    "end": "00:08:43.420",
+    "start_seconds": 521.919,
+    "end_seconds": 523.42,
+    "text": "came from people like him,"
+  },
+  {
+    "start": "00:08:43.453",
+    "end": "00:08:46.723",
+    "start_seconds": 523.453,
+    "end_seconds": 526.723,
+    "text": "people who changed their lives to make them happen,"
+  },
+  {
+    "start": "00:08:46.723",
+    "end": "00:08:48.725",
+    "start_seconds": 526.723,
+    "end_seconds": 528.725,
+    "text": "or people who thought differently,"
+  },
+  {
+    "start": "00:08:48.759",
+    "end": "00:08:50.961",
+    "start_seconds": 528.759,
+    "end_seconds": 530.961,
+    "text": "whether they were scientists, economists,"
+  },
+  {
+    "start": "00:08:50.994",
+    "end": "00:08:52.629",
+    "start_seconds": 530.994,
+    "end_seconds": 532.629,
+    "text": "operators or managers."
+  },
+  {
+    "start": "00:08:53.230",
+    "end": "00:08:56.233",
+    "start_seconds": 533.23,
+    "end_seconds": 536.233,
+    "text": "They created the incentives and institutions"
+  },
+  {
+    "start": "00:08:56.266",
+    "end": "00:08:59.369",
+    "start_seconds": 536.266,
+    "end_seconds": 539.369,
+    "text": "so that generations in the future, all of us,"
+  },
+  {
+    "start": "00:08:59.369",
+    "end": "00:09:02.105",
+    "start_seconds": 539.369,
+    "end_seconds": 542.105,
+    "text": "wouldn't have to face the same problems that they did."
+  },
+  {
+    "start": "00:09:02.940",
+    "end": "00:09:05.742",
+    "start_seconds": 542.94,
+    "end_seconds": 545.742,
+    "text": "And what's amazing is that we have an Ebola vaccine now"
+  },
+  {
+    "start": "00:09:05.776",
+    "end": "00:09:07.644",
+    "start_seconds": 545.776,
+    "end_seconds": 547.644,
+    "text": "against the most common strain."
+  },
+  {
+    "start": "00:09:08.078",
+    "end": "00:09:11.448",
+    "start_seconds": 548.078,
+    "end_seconds": 551.448,
+    "text": "It wasn't made by my lecturer, but by researchers like him."
+  },
+  {
+    "start": "00:09:11.782",
+    "end": "00:09:14.785",
+    "start_seconds": 551.782,
+    "end_seconds": 554.785,
+    "text": "And it was hard to develop and test it for all the same reasons."
+  },
+  {
+    "start": "00:09:14.818",
+    "end": "00:09:16.887",
+    "start_seconds": 554.818,
+    "end_seconds": 556.887,
+    "text": "There was little commercial incentive,"
+  },
+  {
+    "start": "00:09:16.887",
+    "end": "00:09:18.722",
+    "start_seconds": 556.887,
+    "end_seconds": 558.722,
+    "text": "and it was hard to run clinical trials"
+  },
+  {
+    "start": "00:09:18.755",
+    "end": "00:09:21.792",
+    "start_seconds": 558.755,
+    "end_seconds": 561.792,
+    "text": "because it was hard to predict where Ebola outbreaks would arise"
+  },
+  {
+    "start": "00:09:21.825",
+    "end": "00:09:23.727",
+    "start_seconds": 561.825,
+    "end_seconds": 563.727,
+    "text": "and vaccinate people in advance."
+  },
+  {
+    "start": "00:09:24.361",
+    "end": "00:09:26.964",
+    "start_seconds": 564.361,
+    "end_seconds": 566.9639999999999,
+    "text": "So scientists came up with a different idea."
+  },
+  {
+    "start": "00:09:27.864",
+    "end": "00:09:31.201",
+    "start_seconds": 567.864,
+    "end_seconds": 571.201,
+    "text": "They waited for individual cases of Ebola to appear"
+  },
+  {
+    "start": "00:09:31.201",
+    "end": "00:09:33.971",
+    "start_seconds": 571.201,
+    "end_seconds": 573.971,
+    "text": "and then quickly vaccinated all of the people around them"
+  },
+  {
+    "start": "00:09:33.971",
+    "end": "00:09:35.606",
+    "start_seconds": 573.971,
+    "end_seconds": 575.606,
+    "text": "[and] tested the vaccine that way."
+  },
+  {
+    "start": "00:09:35.906",
+    "end": "00:09:38.241",
+    "start_seconds": 575.906,
+    "end_seconds": 578.241,
+    "text": "That idea, called ring vaccination,"
+  },
+  {
+    "start": "00:09:38.275",
+    "end": "00:09:41.478",
+    "start_seconds": 578.275,
+    "end_seconds": 581.478,
+    "text": "helped find a vaccine that we now know is very effective."
+  },
+  {
+    "start": "00:09:42.646",
+    "end": "00:09:47.050",
+    "start_seconds": 582.646,
+    "end_seconds": 587.05,
+    "text": "Now these are just some of the ideas that people have had so far."
+  },
+  {
+    "start": "00:09:48.285",
+    "end": "00:09:51.888",
+    "start_seconds": 588.285,
+    "end_seconds": 591.888,
+    "text": "But what I've learned from them is that breakthroughs don't just happen"
+  },
+  {
+    "start": "00:09:51.922",
+    "end": "00:09:54.057",
+    "start_seconds": 591.922,
+    "end_seconds": 594.057,
+    "text": "because we have the tools to make them."
+  },
+  {
+    "start": "00:09:54.458",
+    "end": "00:09:57.527",
+    "start_seconds": 594.458,
+    "end_seconds": 597.527,
+    "text": "They depend on how innovation happens in the real world."
+  },
+  {
+    "start": "00:09:58.762",
+    "end": "00:10:01.298",
+    "start_seconds": 598.762,
+    "end_seconds": 601.298,
+    "text": "And there's something else that I've learned from them"
+  },
+  {
+    "start": "00:10:01.298",
+    "end": "00:10:03.133",
+    "start_seconds": 601.298,
+    "end_seconds": 603.133,
+    "text": "that I find much harder to stomach."
+  },
+  {
+    "start": "00:10:04.001",
+    "end": "00:10:06.370",
+    "start_seconds": 604.001,
+    "end_seconds": 606.37,
+    "text": "Many of them might not have happened at all."
+  },
+  {
+    "start": "00:10:07.504",
+    "end": "00:10:11.708",
+    "start_seconds": 607.504,
+    "end_seconds": 611.708,
+    "text": "So when I think back to that stream of innovation,"
+  },
+  {
+    "start": "00:10:11.742",
+    "end": "00:10:15.045",
+    "start_seconds": 611.742,
+    "end_seconds": 615.045,
+    "text": "all of those breakthroughs and all of that progress that we've seen,"
+  },
+  {
+    "start": "00:10:15.078",
+    "end": "00:10:16.380",
+    "start_seconds": 615.078,
+    "end_seconds": 616.38,
+    "text": "I do find it amazing."
+  },
+  {
+    "start": "00:10:16.413",
+    "end": "00:10:17.781",
+    "start_seconds": 616.413,
+    "end_seconds": 617.781,
+    "text": "It's incredible."
+  },
+  {
+    "start": "00:10:18.248",
+    "end": "00:10:20.450",
+    "start_seconds": 618.248,
+    "end_seconds": 620.45,
+    "text": "But it also really frustrates me."
+  },
+  {
+    "start": "00:10:21.551",
+    "end": "00:10:25.389",
+    "start_seconds": 621.551,
+    "end_seconds": 625.389,
+    "text": "That's how much progress we've made despite it being so hard."
+  },
+  {
+    "start": "00:10:26.223",
+    "end": "00:10:29.960",
+    "start_seconds": 626.223,
+    "end_seconds": 629.96,
+    "text": "The good news is people have come up with ideas to change that."
+  },
+  {
+    "start": "00:10:29.960",
+    "end": "00:10:33.063",
+    "start_seconds": 629.96,
+    "end_seconds": 633.063,
+    "text": "Some of them really work, like the ones I've told you about today,"
+  },
+  {
+    "start": "00:10:33.096",
+    "end": "00:10:35.132",
+    "start_seconds": 633.096,
+    "end_seconds": 635.132,
+    "text": "and they just haven't been used enough."
+  },
+  {
+    "start": "00:10:36.199",
+    "end": "00:10:38.669",
+    "start_seconds": 636.199,
+    "end_seconds": 638.669,
+    "text": "But we also need people to come up with new ideas"
+  },
+  {
+    "start": "00:10:38.669",
+    "end": "00:10:40.604",
+    "start_seconds": 638.669,
+    "end_seconds": 640.604,
+    "text": "and test them and scale them up too."
+  },
+  {
+    "start": "00:10:41.505",
+    "end": "00:10:43.940",
+    "start_seconds": 641.505,
+    "end_seconds": 643.94,
+    "text": "I think it's more important than ever that we do it,"
+  },
+  {
+    "start": "00:10:43.974",
+    "end": "00:10:47.411",
+    "start_seconds": 643.974,
+    "end_seconds": 647.4110000000001,
+    "text": "because of cuts to science, global health and foreign aid,"
+  },
+  {
+    "start": "00:10:47.411",
+    "end": "00:10:50.514",
+    "start_seconds": 647.4110000000001,
+    "end_seconds": 650.514,
+    "text": "we have to find ways to make our resources go further."
+  },
+  {
+    "start": "00:10:51.148",
+    "end": "00:10:52.949",
+    "start_seconds": 651.148,
+    "end_seconds": 652.949,
+    "text": "Progress isn't inevitable."
+  },
+  {
+    "start": "00:10:53.950",
+    "end": "00:10:56.853",
+    "start_seconds": 653.95,
+    "end_seconds": 656.853,
+    "text": "It takes people who decide to persist despite that."
+  },
+  {
+    "start": "00:10:57.821",
+    "end": "00:10:59.523",
+    "start_seconds": 657.821,
+    "end_seconds": 659.523,
+    "text": "And I think here it takes people"
+  },
+  {
+    "start": "00:10:59.523",
+    "end": "00:11:01.892",
+    "start_seconds": 659.523,
+    "end_seconds": 661.892,
+    "text": "who recognize something quite simple."
+  },
+  {
+    "start": "00:11:02.759",
+    "end": "00:11:05.228",
+    "start_seconds": 662.759,
+    "end_seconds": 665.228,
+    "text": "That diseases are not a fact of life."
+  },
+  {
+    "start": "00:11:06.029",
+    "end": "00:11:08.398",
+    "start_seconds": 666.029,
+    "end_seconds": 668.398,
+    "text": "They're problems that we can solve."
+  },
+  {
+    "start": "00:11:08.432",
+    "end": "00:11:09.700",
+    "start_seconds": 668.432,
+    "end_seconds": 669.7,
+    "text": "Thank you."
+  },
+  {
+    "start": "00:11:09.700",
+    "end": "00:11:14.638",
+    "start_seconds": 669.7,
+    "end_seconds": 674.638,
+    "text": "(Applause)"
+  }
+]

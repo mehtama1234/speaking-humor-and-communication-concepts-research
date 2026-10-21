@@ -1,0 +1,1297 @@
+[
+  {
+    "start": "00:00:04.135",
+    "end": "00:00:06.637",
+    "start_seconds": 4.135,
+    "end_seconds": 6.637,
+    "text": "By the year 2030,"
+  },
+  {
+    "start": "00:00:06.637",
+    "end": "00:00:12.877",
+    "start_seconds": 6.637,
+    "end_seconds": 12.877,
+    "text": "nearly half of all the young people walking this earth will be African."
+  },
+  {
+    "start": "00:00:12.877",
+    "end": "00:00:17.948",
+    "start_seconds": 12.877,
+    "end_seconds": 17.948,
+    "text": "And being able to read is the scale upon which so many other skills depend."
+  },
+  {
+    "start": "00:00:18.716",
+    "end": "00:00:21.685",
+    "start_seconds": 18.716,
+    "end_seconds": 21.685,
+    "text": "Yet, more than 80 percent"
+  },
+  {
+    "start": "00:00:21.719",
+    "end": "00:00:24.121",
+    "start_seconds": 21.719,
+    "end_seconds": 24.121,
+    "text": "of 10-year-old children in sub-Saharan Africa"
+  },
+  {
+    "start": "00:00:24.121",
+    "end": "00:00:26.957",
+    "start_seconds": 24.121,
+    "end_seconds": 26.957,
+    "text": "cannot read a simple text with understanding."
+  },
+  {
+    "start": "00:00:26.991",
+    "end": "00:00:28.459",
+    "start_seconds": 26.991,
+    "end_seconds": 28.459,
+    "text": "Not because they're not smart,"
+  },
+  {
+    "start": "00:00:28.459",
+    "end": "00:00:30.561",
+    "start_seconds": 28.459,
+    "end_seconds": 30.561,
+    "text": "not because they didn't pitch up for school,"
+  },
+  {
+    "start": "00:00:30.561",
+    "end": "00:00:33.631",
+    "start_seconds": 30.561,
+    "end_seconds": 33.631,
+    "text": "but because the system is failing them."
+  },
+  {
+    "start": "00:00:34.098",
+    "end": "00:00:37.368",
+    "start_seconds": 34.098,
+    "end_seconds": 37.368,
+    "text": "The go-to solution for this learning crisis has always been the same:"
+  },
+  {
+    "start": "00:00:37.368",
+    "end": "00:00:39.403",
+    "start_seconds": 37.368,
+    "end_seconds": 39.403,
+    "text": "build more schools, build more classrooms,"
+  },
+  {
+    "start": "00:00:39.403",
+    "end": "00:00:41.739",
+    "start_seconds": 39.403,
+    "end_seconds": 41.739,
+    "text": "hire more teachers, train more teachers."
+  },
+  {
+    "start": "00:00:41.772",
+    "end": "00:00:43.207",
+    "start_seconds": 41.772,
+    "end_seconds": 43.207,
+    "text": "Sounds reasonable."
+  },
+  {
+    "start": "00:00:43.941",
+    "end": "00:00:48.446",
+    "start_seconds": 43.941,
+    "end_seconds": 48.446,
+    "text": "But here’s the uncomfortable truth no one really wants to say out loud:"
+  },
+  {
+    "start": "00:00:49.647",
+    "end": "00:00:51.816",
+    "start_seconds": 49.647,
+    "end_seconds": 51.816,
+    "text": "It's actually never going to work."
+  },
+  {
+    "start": "00:00:52.850",
+    "end": "00:00:55.519",
+    "start_seconds": 52.85,
+    "end_seconds": 55.519,
+    "text": "To meet ideal student-to-teacher ratios,"
+  },
+  {
+    "start": "00:00:55.553",
+    "end": "00:01:00.458",
+    "start_seconds": 55.553,
+    "end_seconds": 60.458,
+    "text": "sub-Saharan Africa needs 15 million more teachers"
+  },
+  {
+    "start": "00:01:00.491",
+    "end": "00:01:06.097",
+    "start_seconds": 60.491,
+    "end_seconds": 66.097,
+    "text": "at a staggering cost of almost $40 billion a year."
+  },
+  {
+    "start": "00:01:06.630",
+    "end": "00:01:08.232",
+    "start_seconds": 66.63,
+    "end_seconds": 68.232,
+    "text": "It's just nuts."
+  },
+  {
+    "start": "00:01:08.866",
+    "end": "00:01:11.802",
+    "start_seconds": 68.866,
+    "end_seconds": 71.80199999999999,
+    "text": "So why are we still holding on to a playbook"
+  },
+  {
+    "start": "00:01:11.836",
+    "end": "00:01:15.706",
+    "start_seconds": 71.836,
+    "end_seconds": 75.706,
+    "text": "that cannot possibly deliver at the cost and urgency"
+  },
+  {
+    "start": "00:01:15.739",
+    "end": "00:01:17.608",
+    "start_seconds": 75.739,
+    "end_seconds": 77.608,
+    "text": "and scale required?"
+  },
+  {
+    "start": "00:01:18.175",
+    "end": "00:01:21.011",
+    "start_seconds": 78.175,
+    "end_seconds": 81.011,
+    "text": "Well, it's because we have a weird bias."
+  },
+  {
+    "start": "00:01:21.045",
+    "end": "00:01:24.348",
+    "start_seconds": 81.045,
+    "end_seconds": 84.348,
+    "text": "Not that kind of weird, but a WEIRD bias --"
+  },
+  {
+    "start": "00:01:25.116",
+    "end": "00:01:29.086",
+    "start_seconds": 85.116,
+    "end_seconds": 89.086,
+    "text": "the idea, the assumption that solutions that work in countries"
+  },
+  {
+    "start": "00:01:29.120",
+    "end": "00:01:33.858",
+    "start_seconds": 89.12,
+    "end_seconds": 93.858,
+    "text": "that are Western, educated, industrialized, rich and democratic"
+  },
+  {
+    "start": "00:01:33.891",
+    "end": "00:01:36.894",
+    "start_seconds": 93.89099999999999,
+    "end_seconds": 96.894,
+    "text": "should somehow work everywhere else in the world."
+  },
+  {
+    "start": "00:01:37.228",
+    "end": "00:01:41.765",
+    "start_seconds": 97.22800000000001,
+    "end_seconds": 101.765,
+    "text": "(Applause)"
+  },
+  {
+    "start": "00:01:42.066",
+    "end": "00:01:46.103",
+    "start_seconds": 102.066,
+    "end_seconds": 106.10300000000001,
+    "text": "The assumption that WEIRD countries are the standard,"
+  },
+  {
+    "start": "00:01:46.137",
+    "end": "00:01:48.038",
+    "start_seconds": 106.137,
+    "end_seconds": 108.038,
+    "text": "\"the way the world works,\""
+  },
+  {
+    "start": "00:01:48.072",
+    "end": "00:01:49.907",
+    "start_seconds": 108.072,
+    "end_seconds": 109.907,
+    "text": "and somehow with more inputs,"
+  },
+  {
+    "start": "00:01:49.940",
+    "end": "00:01:53.110",
+    "start_seconds": 109.94,
+    "end_seconds": 113.11,
+    "text": "African schools should eventually look like WEIRD ones."
+  },
+  {
+    "start": "00:01:53.744",
+    "end": "00:01:56.013",
+    "start_seconds": 113.744,
+    "end_seconds": 116.013,
+    "text": "Let's pause right there,"
+  },
+  {
+    "start": "00:01:56.046",
+    "end": "00:01:58.716",
+    "start_seconds": 116.04599999999999,
+    "end_seconds": 118.71600000000001,
+    "text": "because that assumption is at the heart of the problem."
+  },
+  {
+    "start": "00:01:58.749",
+    "end": "00:02:01.385",
+    "start_seconds": 118.749,
+    "end_seconds": 121.385,
+    "text": "And God knows so many others."
+  },
+  {
+    "start": "00:02:02.520",
+    "end": "00:02:04.755",
+    "start_seconds": 122.52,
+    "end_seconds": 124.755,
+    "text": "We shouldn't have to frame our world like that."
+  },
+  {
+    "start": "00:02:04.755",
+    "end": "00:02:07.291",
+    "start_seconds": 124.755,
+    "end_seconds": 127.291,
+    "text": "And I certainly have outgrown the belief"
+  },
+  {
+    "start": "00:02:07.324",
+    "end": "00:02:09.793",
+    "start_seconds": 127.324,
+    "end_seconds": 129.793,
+    "text": "that African schools should fit a borrowed model."
+  },
+  {
+    "start": "00:02:09.793",
+    "end": "00:02:12.930",
+    "start_seconds": 129.793,
+    "end_seconds": 132.93,
+    "text": "Our goal should be to build something brilliant"
+  },
+  {
+    "start": "00:02:12.963",
+    "end": "00:02:17.501",
+    "start_seconds": 132.963,
+    "end_seconds": 137.501,
+    "text": "that actually reflects the reality that African children are living in today."
+  },
+  {
+    "start": "00:02:17.501",
+    "end": "00:02:21.539",
+    "start_seconds": 137.501,
+    "end_seconds": 141.539,
+    "text": "At the organization I lead, it’s called “Imagine Worldwide,”"
+  },
+  {
+    "start": "00:02:21.572",
+    "end": "00:02:23.774",
+    "start_seconds": 141.572,
+    "end_seconds": 143.774,
+    "text": "we are doing something different."
+  },
+  {
+    "start": "00:02:24.141",
+    "end": "00:02:29.547",
+    "start_seconds": 144.141,
+    "end_seconds": 149.547,
+    "text": "Children like Chisomo, who you will hear about shortly,"
+  },
+  {
+    "start": "00:02:29.580",
+    "end": "00:02:32.550",
+    "start_seconds": 149.57999999999998,
+    "end_seconds": 152.55,
+    "text": "are now able to experience something else."
+  },
+  {
+    "start": "00:02:33.017",
+    "end": "00:02:37.821",
+    "start_seconds": 153.017,
+    "end_seconds": 157.821,
+    "text": "Chisomo is a typical seven-year-old girl living in rural Malawi"
+  },
+  {
+    "start": "00:02:37.821",
+    "end": "00:02:41.091",
+    "start_seconds": 157.821,
+    "end_seconds": 161.091,
+    "text": "with her younger sister and parents who are farmers."
+  },
+  {
+    "start": "00:02:41.091",
+    "end": "00:02:42.693",
+    "start_seconds": 161.091,
+    "end_seconds": 162.69299999999998,
+    "text": "It's a pretty happy existence,"
+  },
+  {
+    "start": "00:02:42.726",
+    "end": "00:02:45.029",
+    "start_seconds": 162.726,
+    "end_seconds": 165.029,
+    "text": "even without iPhones and ketchup."
+  },
+  {
+    "start": "00:02:45.029",
+    "end": "00:02:46.297",
+    "start_seconds": 165.029,
+    "end_seconds": 166.297,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:02:46.297",
+    "end": "00:02:50.100",
+    "start_seconds": 166.297,
+    "end_seconds": 170.1,
+    "text": "Every morning, she walks through the green maize fields"
+  },
+  {
+    "start": "00:02:50.134",
+    "end": "00:02:53.237",
+    "start_seconds": 170.13400000000001,
+    "end_seconds": 173.237,
+    "text": "under the glory of the African sun."
+  },
+  {
+    "start": "00:02:54.104",
+    "end": "00:02:57.541",
+    "start_seconds": 174.10399999999998,
+    "end_seconds": 177.541,
+    "text": "But at school, she shares a class with a hundred other kids,"
+  },
+  {
+    "start": "00:02:57.575",
+    "end": "00:03:01.045",
+    "start_seconds": 177.575,
+    "end_seconds": 181.045,
+    "text": "sometimes 200 -- if a teacher was absent."
+  },
+  {
+    "start": "00:03:01.078",
+    "end": "00:03:04.248",
+    "start_seconds": 181.078,
+    "end_seconds": 184.248,
+    "text": "She can barely see the book that the teacher was holding up"
+  },
+  {
+    "start": "00:03:04.281",
+    "end": "00:03:07.618",
+    "start_seconds": 184.281,
+    "end_seconds": 187.618,
+    "text": "in an overcrowded, dimly lit room."
+  },
+  {
+    "start": "00:03:07.618",
+    "end": "00:03:10.588",
+    "start_seconds": 187.618,
+    "end_seconds": 190.588,
+    "text": "She rarely gets a chance to ask a question, share an answer,"
+  },
+  {
+    "start": "00:03:10.621",
+    "end": "00:03:13.123",
+    "start_seconds": 190.621,
+    "end_seconds": 193.123,
+    "text": "get feedback -- and feedback is everything."
+  },
+  {
+    "start": "00:03:14.358",
+    "end": "00:03:16.360",
+    "start_seconds": 194.358,
+    "end_seconds": 196.36,
+    "text": "I remember when I tutored high-school math,"
+  },
+  {
+    "start": "00:03:16.360",
+    "end": "00:03:19.496",
+    "start_seconds": 196.36,
+    "end_seconds": 199.496,
+    "text": "some kids didn’t even get their marked tests back --"
+  },
+  {
+    "start": "00:03:19.530",
+    "end": "00:03:21.031",
+    "start_seconds": 199.53,
+    "end_seconds": 201.031,
+    "text": "just a score."
+  },
+  {
+    "start": "00:03:21.365",
+    "end": "00:03:24.802",
+    "start_seconds": 201.365,
+    "end_seconds": 204.802,
+    "text": "So they never knew where they went wrong"
+  },
+  {
+    "start": "00:03:24.802",
+    "end": "00:03:26.604",
+    "start_seconds": 204.802,
+    "end_seconds": 206.60399999999998,
+    "text": "or right, for that matter."
+  },
+  {
+    "start": "00:03:27.171",
+    "end": "00:03:28.973",
+    "start_seconds": 207.171,
+    "end_seconds": 208.973,
+    "text": "There was no feedback loop,"
+  },
+  {
+    "start": "00:03:29.006",
+    "end": "00:03:32.810",
+    "start_seconds": 209.006,
+    "end_seconds": 212.81,
+    "text": "just this vacuum of uncertainty that makes it impossible"
+  },
+  {
+    "start": "00:03:32.810",
+    "end": "00:03:35.246",
+    "start_seconds": 212.81,
+    "end_seconds": 215.246,
+    "text": "to get better at anything."
+  },
+  {
+    "start": "00:03:36.313",
+    "end": "00:03:39.316",
+    "start_seconds": 216.313,
+    "end_seconds": 219.316,
+    "text": "And [at] Imagine, we are giving children like Chisomo"
+  },
+  {
+    "start": "00:03:39.316",
+    "end": "00:03:43.921",
+    "start_seconds": 219.316,
+    "end_seconds": 223.921,
+    "text": "up to an hour a day of high-impact learning on a tablet."
+  },
+  {
+    "start": "00:03:44.922",
+    "end": "00:03:48.425",
+    "start_seconds": 224.922,
+    "end_seconds": 228.425,
+    "text": "I know, I know, I can feel the parents in the room cringing."
+  },
+  {
+    "start": "00:03:48.459",
+    "end": "00:03:51.228",
+    "start_seconds": 228.459,
+    "end_seconds": 231.228,
+    "text": "We are so allergic to the idea of screens,"
+  },
+  {
+    "start": "00:03:51.262",
+    "end": "00:03:52.763",
+    "start_seconds": 231.262,
+    "end_seconds": 232.763,
+    "text": "they are bad for mental health,"
+  },
+  {
+    "start": "00:03:52.763",
+    "end": "00:03:54.365",
+    "start_seconds": 232.763,
+    "end_seconds": 234.365,
+    "text": "hurting attention spans."
+  },
+  {
+    "start": "00:03:54.398",
+    "end": "00:03:57.534",
+    "start_seconds": 234.398,
+    "end_seconds": 237.534,
+    "text": "Really not good for your mental and emotional development."
+  },
+  {
+    "start": "00:03:57.568",
+    "end": "00:03:59.703",
+    "start_seconds": 237.56799999999998,
+    "end_seconds": 239.703,
+    "text": "I get that, and that's all true."
+  },
+  {
+    "start": "00:04:00.371",
+    "end": "00:04:02.406",
+    "start_seconds": 240.371,
+    "end_seconds": 242.406,
+    "text": "In a few contexts."
+  },
+  {
+    "start": "00:04:02.773",
+    "end": "00:04:06.243",
+    "start_seconds": 242.773,
+    "end_seconds": 246.243,
+    "text": "And this is why context is so important."
+  },
+  {
+    "start": "00:04:06.577",
+    "end": "00:04:10.347",
+    "start_seconds": 246.577,
+    "end_seconds": 250.347,
+    "text": "Chisomo is not living the WEIRD childhood"
+  },
+  {
+    "start": "00:04:10.381",
+    "end": "00:04:13.250",
+    "start_seconds": 250.381,
+    "end_seconds": 253.25,
+    "text": "that so many of us are trying to protect our children from."
+  },
+  {
+    "start": "00:04:13.584",
+    "end": "00:04:16.620",
+    "start_seconds": 253.584,
+    "end_seconds": 256.62,
+    "text": "Her reality is not too much tech."
+  },
+  {
+    "start": "00:04:16.654",
+    "end": "00:04:21.091",
+    "start_seconds": 256.654,
+    "end_seconds": 261.091,
+    "text": "It's more closer to none at all, at school or at home."
+  },
+  {
+    "start": "00:04:22.426",
+    "end": "00:04:24.228",
+    "start_seconds": 262.426,
+    "end_seconds": 264.228,
+    "text": "The solution that we are delivering"
+  },
+  {
+    "start": "00:04:24.228",
+    "end": "00:04:27.798",
+    "start_seconds": 264.228,
+    "end_seconds": 267.798,
+    "text": "is really designed to tackle some of the hardest things"
+  },
+  {
+    "start": "00:04:27.831",
+    "end": "00:04:30.834",
+    "start_seconds": 267.831,
+    "end_seconds": 270.834,
+    "text": "that EdTech has not been able to deliver in Africa."
+  },
+  {
+    "start": "00:04:30.868",
+    "end": "00:04:32.236",
+    "start_seconds": 270.868,
+    "end_seconds": 272.236,
+    "text": "And I know that many of you"
+  },
+  {
+    "start": "00:04:32.269",
+    "end": "00:04:35.272",
+    "start_seconds": 272.269,
+    "end_seconds": 275.272,
+    "text": "are very skeptical about tech in poor countries."
+  },
+  {
+    "start": "00:04:37.007",
+    "end": "00:04:41.045",
+    "start_seconds": 277.007,
+    "end_seconds": 281.045,
+    "text": "Our solution is tackling those issues head on."
+  },
+  {
+    "start": "00:04:41.578",
+    "end": "00:04:44.515",
+    "start_seconds": 281.578,
+    "end_seconds": 284.515,
+    "text": "All those prior failures that were too hardware-focused"
+  },
+  {
+    "start": "00:04:44.548",
+    "end": "00:04:47.451",
+    "start_seconds": 284.548,
+    "end_seconds": 287.451,
+    "text": "relied on power and connectivity."
+  },
+  {
+    "start": "00:04:47.484",
+    "end": "00:04:49.553",
+    "start_seconds": 287.484,
+    "end_seconds": 289.553,
+    "text": "The ones that were cultural misfits,"
+  },
+  {
+    "start": "00:04:49.586",
+    "end": "00:04:51.422",
+    "start_seconds": 289.586,
+    "end_seconds": 291.422,
+    "text": "lacking in sound pedagogy,"
+  },
+  {
+    "start": "00:04:51.455",
+    "end": "00:04:53.357",
+    "start_seconds": 291.455,
+    "end_seconds": 293.35699999999997,
+    "text": "working outside government systems,"
+  },
+  {
+    "start": "00:04:53.390",
+    "end": "00:04:56.226",
+    "start_seconds": 293.39,
+    "end_seconds": 296.226,
+    "text": "or just plain too expensive to run."
+  },
+  {
+    "start": "00:04:56.760",
+    "end": "00:05:01.699",
+    "start_seconds": 296.76,
+    "end_seconds": 301.699,
+    "text": "All of those, we have figured out a model that works."
+  },
+  {
+    "start": "00:05:02.333",
+    "end": "00:05:03.667",
+    "start_seconds": 302.333,
+    "end_seconds": 303.667,
+    "text": "Ready to hear it?"
+  },
+  {
+    "start": "00:05:03.701",
+    "end": "00:05:07.438",
+    "start_seconds": 303.701,
+    "end_seconds": 307.438,
+    "text": "(Cheers and applause)"
+  },
+  {
+    "start": "00:05:07.738",
+    "end": "00:05:10.674",
+    "start_seconds": 307.738,
+    "end_seconds": 310.674,
+    "text": "Specially designed tablets that are solar-charged"
+  },
+  {
+    "start": "00:05:10.674",
+    "end": "00:05:12.976",
+    "start_seconds": 310.674,
+    "end_seconds": 312.976,
+    "text": "are used throughout the school day,"
+  },
+  {
+    "start": "00:05:13.010",
+    "end": "00:05:15.612",
+    "start_seconds": 313.01,
+    "end_seconds": 315.612,
+    "text": "and they're designed with a battery that can carry over"
+  },
+  {
+    "start": "00:05:15.612",
+    "end": "00:05:18.148",
+    "start_seconds": 315.612,
+    "end_seconds": 318.148,
+    "text": "and they can be rotated throughout classes."
+  },
+  {
+    "start": "00:05:18.148",
+    "end": "00:05:20.384",
+    "start_seconds": 318.148,
+    "end_seconds": 320.384,
+    "text": "The content is contextually relevant"
+  },
+  {
+    "start": "00:05:20.417",
+    "end": "00:05:23.921",
+    "start_seconds": 320.41700000000003,
+    "end_seconds": 323.921,
+    "text": "and delivered in local languages like Swahili and Chichewa,"
+  },
+  {
+    "start": "00:05:23.921",
+    "end": "00:05:27.491",
+    "start_seconds": 323.921,
+    "end_seconds": 327.491,
+    "text": "including verbal instruction via the headphones."
+  },
+  {
+    "start": "00:05:28.292",
+    "end": "00:05:30.661",
+    "start_seconds": 328.29200000000003,
+    "end_seconds": 330.661,
+    "text": "And it works entirely offline."
+  },
+  {
+    "start": "00:05:30.694",
+    "end": "00:05:33.430",
+    "start_seconds": 330.694,
+    "end_seconds": 333.43,
+    "text": "No internet, no power, no problem."
+  },
+  {
+    "start": "00:05:33.464",
+    "end": "00:05:36.567",
+    "start_seconds": 333.464,
+    "end_seconds": 336.567,
+    "text": "It's not a replacement for teachers, but an extra helping hand."
+  },
+  {
+    "start": "00:05:36.600",
+    "end": "00:05:39.837",
+    "start_seconds": 336.6,
+    "end_seconds": 339.837,
+    "text": "The kids only spend about an hour of their day on it anyway."
+  },
+  {
+    "start": "00:05:39.870",
+    "end": "00:05:41.205",
+    "start_seconds": 339.87,
+    "end_seconds": 341.205,
+    "text": "But in that hour,"
+  },
+  {
+    "start": "00:05:41.238",
+    "end": "00:05:43.640",
+    "start_seconds": 341.238,
+    "end_seconds": 343.64,
+    "text": "the tablet does something incredible:"
+  },
+  {
+    "start": "00:05:44.007",
+    "end": "00:05:47.911",
+    "start_seconds": 344.007,
+    "end_seconds": 347.911,
+    "text": "It adapts to each child's level and pace,"
+  },
+  {
+    "start": "00:05:47.945",
+    "end": "00:05:49.880",
+    "start_seconds": 347.945,
+    "end_seconds": 349.88,
+    "text": "guiding even first-time users,"
+  },
+  {
+    "start": "00:05:49.913",
+    "end": "00:05:54.785",
+    "start_seconds": 349.913,
+    "end_seconds": 354.78499999999997,
+    "text": "children who are not yet able to read and have never seen a device,"
+  },
+  {
+    "start": "00:05:54.818",
+    "end": "00:05:56.653",
+    "start_seconds": 354.818,
+    "end_seconds": 356.653,
+    "text": "from their very first tap,"
+  },
+  {
+    "start": "00:05:56.687",
+    "end": "00:06:01.358",
+    "start_seconds": 356.687,
+    "end_seconds": 361.358,
+    "text": "all the way to literacy and numeracy -- without adult intervention."
+  },
+  {
+    "start": "00:06:02.359",
+    "end": "00:06:04.328",
+    "start_seconds": 362.359,
+    "end_seconds": 364.328,
+    "text": "Imagine what that means"
+  },
+  {
+    "start": "00:06:04.361",
+    "end": "00:06:08.932",
+    "start_seconds": 364.361,
+    "end_seconds": 368.932,
+    "text": "in a classroom where individual attention is almost impossible."
+  },
+  {
+    "start": "00:06:08.966",
+    "end": "00:06:13.070",
+    "start_seconds": 368.966,
+    "end_seconds": 373.07,
+    "text": "Each child suddenly gets something incredibly rare:"
+  },
+  {
+    "start": "00:06:13.737",
+    "end": "00:06:17.174",
+    "start_seconds": 373.737,
+    "end_seconds": 377.174,
+    "text": "instruction that responds to them."
+  },
+  {
+    "start": "00:06:17.941",
+    "end": "00:06:21.011",
+    "start_seconds": 377.941,
+    "end_seconds": 381.011,
+    "text": "The child who was struggling can slow down and get more practice."
+  },
+  {
+    "start": "00:06:21.044",
+    "end": "00:06:24.114",
+    "start_seconds": 381.044,
+    "end_seconds": 384.114,
+    "text": "The child who is ready to keep going can rush ahead."
+  },
+  {
+    "start": "00:06:25.015",
+    "end": "00:06:30.020",
+    "start_seconds": 385.015,
+    "end_seconds": 390.02,
+    "text": "Imagine in a classroom where 20 kids are each on their own tablets, or 200 --"
+  },
+  {
+    "start": "00:06:30.053",
+    "end": "00:06:33.190",
+    "start_seconds": 390.053,
+    "end_seconds": 393.19,
+    "text": "there is no loss in learning quality."
+  },
+  {
+    "start": "00:06:33.891",
+    "end": "00:06:36.894",
+    "start_seconds": 393.891,
+    "end_seconds": 396.894,
+    "text": "This is all achieved without having to retrain"
+  },
+  {
+    "start": "00:06:36.927",
+    "end": "00:06:40.664",
+    "start_seconds": 396.927,
+    "end_seconds": 400.664,
+    "text": "or restructure the entire education system."
+  },
+  {
+    "start": "00:06:40.697",
+    "end": "00:06:44.134",
+    "start_seconds": 400.697,
+    "end_seconds": 404.134,
+    "text": "What we're seeing here is greater access to learning"
+  },
+  {
+    "start": "00:06:44.168",
+    "end": "00:06:47.204",
+    "start_seconds": 404.168,
+    "end_seconds": 407.204,
+    "text": "and better learning by the minute."
+  },
+  {
+    "start": "00:06:47.237",
+    "end": "00:06:49.506",
+    "start_seconds": 407.237,
+    "end_seconds": 409.506,
+    "text": "This is unheard of in education."
+  },
+  {
+    "start": "00:06:50.073",
+    "end": "00:06:52.309",
+    "start_seconds": 410.073,
+    "end_seconds": 412.30899999999997,
+    "text": "97 percent of teachers in Malawi"
+  },
+  {
+    "start": "00:06:52.342",
+    "end": "00:06:55.045",
+    "start_seconds": 412.342,
+    "end_seconds": 415.045,
+    "text": "have confirmed that the tablet program"
+  },
+  {
+    "start": "00:06:55.045",
+    "end": "00:06:57.314",
+    "start_seconds": 415.045,
+    "end_seconds": 417.314,
+    "text": "makes teaching more enjoyable."
+  },
+  {
+    "start": "00:06:59.149",
+    "end": "00:07:03.687",
+    "start_seconds": 419.149,
+    "end_seconds": 423.687,
+    "text": "(Applause)"
+  },
+  {
+    "start": "00:07:03.720",
+    "end": "00:07:08.125",
+    "start_seconds": 423.72,
+    "end_seconds": 428.125,
+    "text": "And the results speak for themselves."
+  },
+  {
+    "start": "00:07:08.492",
+    "end": "00:07:11.195",
+    "start_seconds": 428.492,
+    "end_seconds": 431.195,
+    "text": "Nine randomized controlled trials"
+  },
+  {
+    "start": "00:07:11.228",
+    "end": "00:07:15.532",
+    "start_seconds": 431.228,
+    "end_seconds": 435.532,
+    "text": "across four countries in three languages over the past decade"
+  },
+  {
+    "start": "00:07:15.566",
+    "end": "00:07:18.168",
+    "start_seconds": 435.566,
+    "end_seconds": 438.168,
+    "text": "have proven that time-bound,"
+  },
+  {
+    "start": "00:07:18.202",
+    "end": "00:07:22.272",
+    "start_seconds": 438.202,
+    "end_seconds": 442.272,
+    "text": "fit-for-context digital learning embedded in public school systems"
+  },
+  {
+    "start": "00:07:22.306",
+    "end": "00:07:26.410",
+    "start_seconds": 442.306,
+    "end_seconds": 446.41,
+    "text": "is the most scalable way to accelerate literacy"
+  },
+  {
+    "start": "00:07:26.443",
+    "end": "00:07:30.214",
+    "start_seconds": 446.443,
+    "end_seconds": 450.214,
+    "text": "and numeracy outcomes for millions of African children."
+  },
+  {
+    "start": "00:07:30.214",
+    "end": "00:07:32.216",
+    "start_seconds": 450.214,
+    "end_seconds": 452.216,
+    "text": "We are seeing learning gains"
+  },
+  {
+    "start": "00:07:32.249",
+    "end": "00:07:35.152",
+    "start_seconds": 452.249,
+    "end_seconds": 455.152,
+    "text": "that rank among the top education interventions"
+  },
+  {
+    "start": "00:07:35.152",
+    "end": "00:07:36.920",
+    "start_seconds": 455.152,
+    "end_seconds": 456.92,
+    "text": "anywhere in the world."
+  },
+  {
+    "start": "00:07:38.989",
+    "end": "00:07:44.127",
+    "start_seconds": 458.989,
+    "end_seconds": 464.127,
+    "text": "(Cheers and applause)"
+  },
+  {
+    "start": "00:07:44.161",
+    "end": "00:07:47.831",
+    "start_seconds": 464.161,
+    "end_seconds": 467.831,
+    "text": "Three years ago, we were already doubling the number of children"
+  },
+  {
+    "start": "00:07:47.831",
+    "end": "00:07:51.134",
+    "start_seconds": 467.831,
+    "end_seconds": 471.134,
+    "text": "that become literate and numerate by their fourth year in school."
+  },
+  {
+    "start": "00:07:51.168",
+    "end": "00:07:53.704",
+    "start_seconds": 471.168,
+    "end_seconds": 473.704,
+    "text": "Now we're on track to triple that."
+  },
+  {
+    "start": "00:07:54.571",
+    "end": "00:07:56.673",
+    "start_seconds": 474.571,
+    "end_seconds": 476.673,
+    "text": "(Applause and cheers)"
+  },
+  {
+    "start": "00:07:56.707",
+    "end": "00:07:57.841",
+    "start_seconds": 476.707,
+    "end_seconds": 477.841,
+    "text": "I think so, too."
+  },
+  {
+    "start": "00:07:59.510",
+    "end": "00:08:01.078",
+    "start_seconds": 479.51,
+    "end_seconds": 481.078,
+    "text": "Beyond test scores,"
+  },
+  {
+    "start": "00:08:01.111",
+    "end": "00:08:04.815",
+    "start_seconds": 481.111,
+    "end_seconds": 484.815,
+    "text": "we're seeing more children pitch up and stay in school."
+  },
+  {
+    "start": "00:08:04.848",
+    "end": "00:08:08.719",
+    "start_seconds": 484.848,
+    "end_seconds": 488.719,
+    "text": "Girls catch up and keep pace with boys."
+  },
+  {
+    "start": "00:08:08.719",
+    "end": "00:08:10.320",
+    "start_seconds": 488.719,
+    "end_seconds": 490.32,
+    "text": "And the most important thing,"
+  },
+  {
+    "start": "00:08:10.354",
+    "end": "00:08:14.091",
+    "start_seconds": 490.354,
+    "end_seconds": 494.091,
+    "text": "more children are falling in love with learning."
+  },
+  {
+    "start": "00:08:15.759",
+    "end": "00:08:17.995",
+    "start_seconds": 495.759,
+    "end_seconds": 497.995,
+    "text": "Imagine takes a system- strengthening approach,"
+  },
+  {
+    "start": "00:08:18.028",
+    "end": "00:08:21.031",
+    "start_seconds": 498.028,
+    "end_seconds": 501.031,
+    "text": "working in partnership with government from day one"
+  },
+  {
+    "start": "00:08:21.064",
+    "end": "00:08:24.535",
+    "start_seconds": 501.064,
+    "end_seconds": 504.535,
+    "text": "to embed the program within public education systems,"
+  },
+  {
+    "start": "00:08:24.568",
+    "end": "00:08:28.405",
+    "start_seconds": 504.568,
+    "end_seconds": 508.405,
+    "text": "ensuring a pathway for scale and sustainability."
+  },
+  {
+    "start": "00:08:29.172",
+    "end": "00:08:30.474",
+    "start_seconds": 509.172,
+    "end_seconds": 510.474,
+    "text": "And through that process,"
+  },
+  {
+    "start": "00:08:30.507",
+    "end": "00:08:33.677",
+    "start_seconds": 510.507,
+    "end_seconds": 513.677,
+    "text": "we're able to create road maps for others to replicate"
+  },
+  {
+    "start": "00:08:33.710",
+    "end": "00:08:35.445",
+    "start_seconds": 513.71,
+    "end_seconds": 515.445,
+    "text": "in more countries in the future."
+  },
+  {
+    "start": "00:08:36.413",
+    "end": "00:08:43.053",
+    "start_seconds": 516.413,
+    "end_seconds": 523.053,
+    "text": "The best news is this testimony from this innocent girl where she says,"
+  },
+  {
+    "start": "00:08:43.086",
+    "end": "00:08:47.958",
+    "start_seconds": 523.086,
+    "end_seconds": 527.958,
+    "text": "\"I like the tablet because when I make a mistake,"
+  },
+  {
+    "start": "00:08:47.991",
+    "end": "00:08:50.394",
+    "start_seconds": 527.991,
+    "end_seconds": 530.394,
+    "text": "it doesn't move on to the next student."
+  },
+  {
+    "start": "00:08:50.928",
+    "end": "00:08:55.499",
+    "start_seconds": 530.928,
+    "end_seconds": 535.499,
+    "text": "It asks me to try again, and then I can get it right.”"
+  },
+  {
+    "start": "00:08:56.633",
+    "end": "00:09:01.038",
+    "start_seconds": 536.633,
+    "end_seconds": 541.038,
+    "text": "Finally, a school experience where children experience success"
+  },
+  {
+    "start": "00:09:01.071",
+    "end": "00:09:04.007",
+    "start_seconds": 541.071,
+    "end_seconds": 544.007,
+    "text": "and the dignity of real learning."
+  },
+  {
+    "start": "00:09:04.741",
+    "end": "00:09:08.645",
+    "start_seconds": 544.741,
+    "end_seconds": 548.645,
+    "text": "This year, Imagine will reach one million children."
+  },
+  {
+    "start": "00:09:09.313",
+    "end": "00:09:15.085",
+    "start_seconds": 549.313,
+    "end_seconds": 555.085,
+    "text": "(Cheers and applause)"
+  },
+  {
+    "start": "00:09:15.118",
+    "end": "00:09:19.122",
+    "start_seconds": 555.118,
+    "end_seconds": 559.122,
+    "text": "And by 2030, thanks to the generosity of this community,"
+  },
+  {
+    "start": "00:09:19.156",
+    "end": "00:09:23.160",
+    "start_seconds": 559.156,
+    "end_seconds": 563.16,
+    "text": "we aim to serve over four million children a year"
+  },
+  {
+    "start": "00:09:23.193",
+    "end": "00:09:26.897",
+    "start_seconds": 563.193,
+    "end_seconds": 566.897,
+    "text": "across Malawi, Sierra Leone and Tanzania"
+  },
+  {
+    "start": "00:09:26.930",
+    "end": "00:09:29.900",
+    "start_seconds": 566.93,
+    "end_seconds": 569.9,
+    "text": "and in the process, create a pathway"
+  },
+  {
+    "start": "00:09:29.933",
+    "end": "00:09:32.169",
+    "start_seconds": 569.933,
+    "end_seconds": 572.169,
+    "text": "for many, many others to follow."
+  },
+  {
+    "start": "00:09:32.202",
+    "end": "00:09:36.840",
+    "start_seconds": 572.202,
+    "end_seconds": 576.84,
+    "text": "This, this right here is how you turn a tide."
+  },
+  {
+    "start": "00:09:37.174",
+    "end": "00:09:38.909",
+    "start_seconds": 577.174,
+    "end_seconds": 578.909,
+    "text": "With a model that can deliver"
+  },
+  {
+    "start": "00:09:38.942",
+    "end": "00:09:42.879",
+    "start_seconds": 578.942,
+    "end_seconds": 582.879,
+    "text": "at the scale, quality, cost and urgency required."
+  },
+  {
+    "start": "00:09:43.480",
+    "end": "00:09:46.883",
+    "start_seconds": 583.48,
+    "end_seconds": 586.883,
+    "text": "Imagine a future where foundational learning"
+  },
+  {
+    "start": "00:09:46.917",
+    "end": "00:09:49.753",
+    "start_seconds": 586.917,
+    "end_seconds": 589.753,
+    "text": "that is of high quality is democratized,"
+  },
+  {
+    "start": "00:09:49.753",
+    "end": "00:09:52.789",
+    "start_seconds": 589.753,
+    "end_seconds": 592.789,
+    "text": "and the majority of every country's children"
+  },
+  {
+    "start": "00:09:52.823",
+    "end": "00:09:54.658",
+    "start_seconds": 592.823,
+    "end_seconds": 594.658,
+    "text": "can learn to read"
+  },
+  {
+    "start": "00:09:54.691",
+    "end": "00:09:58.228",
+    "start_seconds": 594.691,
+    "end_seconds": 598.228,
+    "text": "so that they too can read to learn"
+  },
+  {
+    "start": "00:09:58.261",
+    "end": "00:10:02.099",
+    "start_seconds": 598.261,
+    "end_seconds": 602.099,
+    "text": "and secure a future in skilled work."
+  },
+  {
+    "start": "00:10:02.866",
+    "end": "00:10:04.067",
+    "start_seconds": 602.866,
+    "end_seconds": 604.067,
+    "text": "We don't need to wait."
+  },
+  {
+    "start": "00:10:04.101",
+    "end": "00:10:05.802",
+    "start_seconds": 604.101,
+    "end_seconds": 605.802,
+    "text": "We simply need to act and now."
+  },
+  {
+    "start": "00:10:05.802",
+    "end": "00:10:08.338",
+    "start_seconds": 605.802,
+    "end_seconds": 608.338,
+    "text": "That future is already knocking,"
+  },
+  {
+    "start": "00:10:08.338",
+    "end": "00:10:12.175",
+    "start_seconds": 608.338,
+    "end_seconds": 612.175,
+    "text": "sounding the name of every African child."
+  },
+  {
+    "start": "00:10:12.776",
+    "end": "00:10:16.680",
+    "start_seconds": 612.776,
+    "end_seconds": 616.68,
+    "text": "(Swahili, Chichewa) Thank you."
+  },
+  {
+    "start": "00:10:16.680",
+    "end": "00:10:21.018",
+    "start_seconds": 616.68,
+    "end_seconds": 621.018,
+    "text": "(Cheers and applause)"
+  }
+]

@@ -1,0 +1,401 @@
+Let's take a look at this clay tablet.
+It might not look like much,
+but it's actually some of the oldest
+mathematics we have.
+It’s a 4,000-year-old message in a bottle
+from ancient Babylon --
+a precursor to the quadratic equation.
+And for four millennia,
+people have been doing math
+basically the same way.
+Someone will have a brilliant idea,
+they’ll write it down,
+and their peers will discuss and check it.
+It’s a process built on creativity,
+communication and, most importantly,
+trust between people.
+And what might seem like a humble
+or simple process is anything but.
+It's not just been successful.
+It's been, as the physicist
+Eugene Wigner famously put it,
+unreasonably effective.
+Wigner was pondering and trying
+to unravel a deep mystery.
+Why should the abstract, creative,
+and often bizarre ideas that spring
+from a mathematician's imagination
+so often be the perfect language
+with which we understand the universe?
+Why should the strange laws
+of non-Euclidean geometry,
+which were originally conceived of
+as a thought experiment
+in the 19th century,
+turn out to be the exact mathematics
+that Einstein needed
+for general relativity?
+Why should the esoteric
+math of group theory,
+which was originally designed to study
+the abstract nature of symmetry,
+be fundamental to understanding
+everything from particle physics
+to the patterns in crystals?
+Well, there's no logical reason
+it has to be this way.
+This strange connection
+between pure mathematical
+thought and the real world
+has actually been the invisible engine
+driving human progress.
+Every piece of technology
+that defines our lives
+was ignited with a mathematical spark.
+If you take the device in your phone,
+its brain is based on the quantum
+mechanics of semiconductors.
+And that's a theory
+built on linear algebra
+and complex numbers.
+The wireless signals that get data to it,
+they're just a concrete
+manifestation of Maxwell's equations.
+And finally, the security
+that protects your data online
+is based on number theory,
+which for a long time was truly
+considered the most pure
+and least applicable
+possible branch of mathematics.
+And now it safeguards trillions of dollars
+in the global economy.
+And now we come to AI.
+Modern AI is not just built with math,
+it's forged from it.
+A neural network is just a monumental
+structure of applied mathematics.
+And when AIs learn,
+they're using the tools of calculus
+to navigate vast landscapes
+of possibilities
+with billions of dimensions.
+So AI is, in its soul,
+a mathematical idea
+that's given life through computation.
+So we agree that math is the foundation
+that modern civilization is based on.
+But that foundation is starting
+to show some signs of strain.
+The very process of human-led discovery
+that's gotten us to this point
+is nearing a breaking point,
+buckling under the weight
+of its own success.
+And now AI, which is one
+of mathematics’ greatest creations,
+is accelerating us towards
+that breaking point
+faster than the world's ready for.
+So let's just look at some evidence.
+Consider the Poincaré conjecture.
+This is a legendary problem.
+It's a fundamental question
+about the nature
+of three-dimensional shapes
+originally posed in 1904.
+And for nearly a century,
+it stood as an unconquered
+Everest of mathematics.
+Until in 2002,
+a Russian mathematician
+working in isolation
+named Grigori Perelman
+posted a series of three short,
+cryptic papers online.
+He didn’t bother submitting
+them to a journal --
+he just put them on the internet
+and walked away.
+His fellow mathematicians
+had to stop what they were doing
+and try to decipher it.
+And several teams working independently
+of the best of colleges in the world,
+took the next four years
+to try to unpack the arguments,
+fill in the logical gaps
+and eventually, at the end,
+after they really reviewed it,
+declare that yes, he did it.
+He proved the Poincaré conjecture.
+But that's interesting
+because it took one person
+to write a proof
+and a global, multi-year
+intellectual mobilization to check it.
+And that's in the best case,
+when the proof is correct.
+Consider Andrew Wiles's
+proof of Fermat's Last Theorem.
+With the electrifying announcement in 1993
+in Cambridge, the world celebrated.
+But during the peer-review
+process, deep in it,
+a single thread was found out of place
+in that magnificent tapestry of a proof,
+and when we started to pull on it,
+the proof started to unravel.
+And this wasn't a small mistake.
+Andrew Wiles and his collaborator
+Richard Taylor took two years of heroic,
+secret effort to try to fix it.
+And that effort included
+some insights that Andrew Wiles said
+were among the most important in his life.
+And that's before we throw
+AI into the mix.
+Two short years ago,
+AI could barely solve entry-level
+high school math-contest problems.
+They were very clever, but brittle.
+Now, in 2025,
+they can compete with the best of us
+at the International Math Olympiad,
+which is the premier
+precollege math competition.
+But the interesting bit is the following.
+The AI might work for four hours
+and produce a purported solution,
+which takes an expert human mathematician
+maybe up to an hour to check.
+And we all know the exponential
+trend that AI is on.
+So we can expect it’s not going
+to be one proof in an afternoon --
+it’s going to be a thousand pretty soon.
+And they're not going to be attempts
+to solve math-contest problems.
+They're going to be attacks
+on the most fundamental
+and important questions of the day,
+whether it's the Riemann hypothesis,
+Navier-Stokes or P versus NP,
+just to pick a few.
+We simply don't have the human bandwidth
+to review all these proofs.
+There's only a couple
+thousand mathematicians
+that are qualified to do it,
+and they already have day jobs.
+And it's not just
+a verification bottleneck.
+The very process
+by which we train these AIs
+is taking the data off the internet,
+which is from humans,
+post-training them with human feedback,
+and so we're essentially
+baking in the cognitive biases
+and the flawed reasoning of humans
+into these future engines of discovery.
+So the conclusion
+is in some sense obvious.
+Humans are becoming
+the bottleneck of verification for AI.
+And now the question is,
+where does that leave us?
+Is this the end of the road
+for reliable mathematical discovery?
+Are we resigned to drowning
+in a sea of unverified claims
+where we can't really tell
+truth from fiction?
+And are we about to squander
+the opportunity
+for AI to revolutionize math?
+Well, the good news is no.
+But it does mean it's time
+to upgrade the 4,000-year-old
+operating system of math,
+and move away from the imprecise
+and ambiguous nature of human language,
+and towards a language
+that computers can understand.
+The solution is formal mathematics.
+But before I tell you
+how this futuristic idea works,
+we should first recognize that it has
+a deep and fascinating history
+dating back to the 17th century,
+where a mathematician actually laid out
+the road map with stunning foresight.
+Four hundred years ago,
+in a Europe torn by religious
+and political conflict,
+a polymath named Gottfried Wilhelm Leibniz
+had a vision of breathtaking ambition.
+He was a contemporary of Newton
+and a cocreator of calculus,
+but his dreams went far beyond that.
+He dreamed of something
+called a universal characteristic,
+which was a system for perfectly
+encoding all scientific
+and philosophical thought.
+And the system had three parts.
+First, you need a perfect
+logical language.
+Second, you need a grand encyclopedia
+written in language
+that contains all verified human thought.
+And third,
+and this is the masterstroke,
+you need a so-called engine of reason,
+a system of mechanical rules
+by which you can automatically derive
+new facts from that library
+as surely as a calculator
+performs arithmetic.
+Now, Leibniz thought
+this would revolutionize humanity.
+With a system like this,
+if two people had
+an intellectual conflict,
+they would resort to logic
+and not rhetoric to resolve it.
+They would simply sit down,
+say “calculemus” -- “let us calculate,”
+and get to the bottom of it.
+In some sense, it was meant to be
+a universal calculator for truth.
+Now, Leibniz was a bit of an optimist.
+He thought this would take a small
+group of people five years to build,
+and he was off by several centuries.
+But what I think is really remarkable
+is that in 2025,
+truly for the first time in history,
+it's actually possible to realize
+this philosopher's dream.
+So what do we need?
+Well, we need a perfect, logical language.
+Turns out we've got it.
+It's called Lean.
+Lean is a programming language,
+but it's also what's known
+as a proof assistant.
+You can think of it
+as a programming environment
+for mathematical proofs,
+where it doesn't just give you feedback
+if you have a syntax error
+here or there --
+it's actually looking at the core
+of the mathematical argument
+and telling you if you have
+any problems anywhere in it.
+Great.
+What's the second thing we need?
+We need the grand encyclopedia.
+Well, the good news is we've got that too.
+It's called Mathlib.
+Mathlib is an open-source project.
+It's about two million
+lines of code in Lean,
+and it covers a lot of the undergraduate
+and graduate math curriculum.
+You can think of it like
+a Wikipedia for proven truth,
+where every edit is computationally
+certified for correctness.
+OK, we've got the language,
+we've got the encyclopedia,
+what about the engine of reason?
+Well, we could try to have humans do it,
+but you've got to write a lot of Lean code
+and the level of robotic precision
+you need to write a formal proof
+is not something that human creativity
+is so well suited for.
+And that's how we've come full-circle.
+It turns out that AI is the key
+to making this whole thing work.
+In the future, AI is not just going
+to be writing math papers in English
+for humans to read.
+They're going to be writing
+math proofs in Lean
+for computers to check.
+And that is the fundamental key
+that makes it possible
+to use Leibniz's vision
+to unlock the full potential
+of AI in mathematics.
+Because when a math AI spits out a proof
+in Lean of, let's say,
+the Riemann hypothesis,
+we're not going to need humans to go
+through every single line of the proof
+in painstaking detail,
+check every single case,
+and understand the possibly strange
+and alien logic of the proof
+just to see if it's correct.
+Instead, all we're going to do
+is we're going to take those files,
+we're going to give them
+to a Lean compiler, and if it builds,
+we can know with absolute
+certainty it's correct.
+And this is what fundamentally
+alters our relationship with AI.
+AI can now become a true collaborator,
+one whose word we don't have
+to take on blind faith.
+We get to trade in the tedium of checking
+for the creative joy of discovery.
+Humans get to use
+our intuition and judgment,
+we ask the questions,
+we chart the course,
+we propose the brilliant conjectures
+and then we delegate to AI
+to explore the vast oceans of logic,
+to find the correct answer,
+and then a computer confirms
+that we've gotten to the destination.
+And the amazing thing
+is that this isn't just some
+far-off science-fiction dream.
+It turns out that at this year’s
+International Math Olympiad,
+automated systems were able to find
+solutions to five of the six problems
+in a way that computers could check
+and require no human review whatsoever.
+And that’s enough to get a
+gold-medal-level performance.
+So the transition is already happening.
+So are humans going to be
+the bottleneck for math research?
+Well, the answer is yes,
+but only if we refuse to change.
+Only if we insist
+on being the only thinkers
+and the only checkers.
+But if we're able to realize
+this 400-year-old vision,
+we're not going to replace ourselves,
+we're going to elevate ourselves.
+We're going to put ourselves
+in the driver's seat
+as the explorers, the architects
+and the question askers.
+And that means that formal mathematics
+is the key to this new era of discovery,
+based on the powerful and essential
+partnership between human imagination
+and mathematical superintelligence.
+Thank you.
+(Applause)
