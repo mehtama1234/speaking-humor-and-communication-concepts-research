@@ -1,0 +1,2417 @@
+{
+  "schema_version": "1.0",
+  "crosswalk_id": "source-to-approach-crosswalk",
+  "generated_from": [
+    "analysis/unified-integration-manifest.json",
+    "analysis/transcript-backed-concrete-speaking-approaches.md",
+    "analysis/*-wave-1-{corpus-brief,session-briefs,session-inventory,theme-map,drill-candidates}.md"
+  ],
+  "status": "transcript_derived_mapping_not_independently_validated",
+  "claim_boundary": "Approach references show where the existing corpus notes connect a source to a named move. They do not prove semantic fit, recurrence, effectiveness, or independent review.",
+  "approach_definition_count": 27,
+  "corpus_count": 10,
+  "rows": [
+    {
+      "corpus_id": "ultraspeaking-wave-1",
+      "source": "Ultraspeaking",
+      "analysis_file_count": 5,
+      "approach_count": 10,
+      "approaches": [
+        {
+          "approach_id": "approach-01",
+          "number": 1,
+          "name": "Talking-Points Navigation Instead Of Script Recital",
+          "occurrence_count": 8,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 56
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 156
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 39
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 35
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 133
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+              "line": 46
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 30
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 123
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-03",
+          "number": 3,
+          "name": "Pause, Frame, Then Answer",
+          "occurrence_count": 8,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 75
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 156
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 67
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 22
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 133
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+              "line": 46
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 54
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 102
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-06",
+          "number": 6,
+          "name": "Compress Before You Expand",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 57
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 40
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 36
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 31
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-08",
+          "number": 8,
+          "name": "Use Curiosity To Create Better Conversations",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 125
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 185
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 145
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-10",
+          "number": 10,
+          "name": "Sound More Alive Through Musicality",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 90
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 156
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 95
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 93
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 133
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+              "line": 46
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 77
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-13",
+          "number": 13,
+          "name": "Pre-Handle Objections Before The Room Raises Them",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 23
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-15",
+          "number": 15,
+          "name": "Rehearse The Pressure Shape, Not Just The Content",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 76
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 156
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 68
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 133
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+              "line": 47
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 55
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 124
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-16",
+          "number": 16,
+          "name": "Start With Connection Before Content",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 126
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 186
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 146
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-18",
+          "number": 18,
+          "name": "Build The Story Around One Embodied Moment",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 156
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 133
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+              "line": 47
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 103
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 165
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+              "line": 91
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+              "line": 96
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+              "line": 94
+            },
+            {
+              "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+              "line": 78
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "vinh-giang-wave-1",
+      "source": "Vinh Giang",
+      "analysis_file_count": 5,
+      "approach_count": 13,
+      "approaches": [
+        {
+          "approach_id": "approach-02",
+          "number": 2,
+          "name": "Replace Fillers With Deliberate Silence",
+          "occurrence_count": 8,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 119
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 151
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 35
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 61
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 17
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 139
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+              "line": 45
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 31
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-03",
+          "number": 3,
+          "name": "Pause, Frame, Then Answer",
+          "occurrence_count": 9,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 67
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 151
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 89
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 86
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 94
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 139
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+              "line": 45
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 54
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 126
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-05",
+          "number": 5,
+          "name": "Prepare With Goal, Audience, And Constraints",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 84
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 77
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 148
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-07",
+          "number": 7,
+          "name": "Remove Low-Status Leakage",
+          "occurrence_count": 9,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 85
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 151
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 62
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 69
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 78
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 139
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+              "line": 45
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 78
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 149
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-08",
+          "number": 8,
+          "name": "Use Curiosity To Create Better Conversations",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 104
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-12",
+          "number": 12,
+          "name": "Build Respect Through Steadiness Instead Of Proving",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 70
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 79
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 127
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-13",
+          "number": 13,
+          "name": "Pre-Handle Objections Before The Room Raises Them",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 79
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 87
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 139
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-14",
+          "number": 14,
+          "name": "Simplify Complex Ideas By Layering",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 120
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 151
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 138
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+              "line": 46
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 32
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-15",
+          "number": 15,
+          "name": "Rehearse The Pressure Shape, Not Just The Content",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 68
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 90
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 95
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 55
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-19",
+          "number": 19,
+          "name": "Take A Position, Give A Reason, Then Reopen",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 151
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+              "line": 46
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 105
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-20",
+          "number": 20,
+          "name": "Lead With Warmth So Competence Can Land",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-theme-map.md",
+              "line": 80
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 3,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+              "line": 152
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+              "line": 139
+            },
+            {
+              "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+              "line": 46
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-23",
+          "number": 23,
+          "name": "Improve Intelligibility Without Accent Erasure",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+              "line": 139
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "think-fast-talk-smart-wave-1",
+      "source": "Think Fast Talk Smart",
+      "analysis_file_count": 5,
+      "approach_count": 12,
+      "approaches": [
+        {
+          "approach_id": "approach-03",
+          "number": 3,
+          "name": "Pause, Frame, Then Answer",
+          "occurrence_count": 2,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 92
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 80
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-04",
+          "number": 4,
+          "name": "Use The First Five Seconds To Establish Direction",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 57
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 158
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 63
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 59
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 125
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 42
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 33
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-05",
+          "number": 5,
+          "name": "Prepare With Goal, Audience, And Constraints",
+          "occurrence_count": 9,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 58
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 75
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 158
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 37
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 67
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 125
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 42
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 34
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 56
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-08",
+          "number": 8,
+          "name": "Use Curiosity To Create Better Conversations",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 171
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 95
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 125
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 42
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 101
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-11",
+          "number": 11,
+          "name": "Use Humor As Shared Relief, Not Performance",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 108
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 158
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 146
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 46
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 125
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 43
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 102
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-14",
+          "number": 14,
+          "name": "Simplify Complex Ideas By Layering",
+          "occurrence_count": 10,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 76
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 126
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 158
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 120
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 22
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 68
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 125
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 43
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 57
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 126
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-16",
+          "number": 16,
+          "name": "Start With Connection Before Content",
+          "occurrence_count": 2,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 172
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 96
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-17",
+          "number": 17,
+          "name": "Put The Turn Late And Leave Room For The Laugh",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 109
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 147
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 47
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 126
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 43
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 103
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-19",
+          "number": 19,
+          "name": "Take A Position, Give A Reason, Then Reopen",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 59
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 158
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 93
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 43
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 35
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 150
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 93
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 64
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 60
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 81
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-22",
+          "number": 22,
+          "name": "Aim For The Next Step, Not Immediate Conversion",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 151
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-23",
+          "number": 23,
+          "name": "Improve Intelligibility Without Accent Erasure",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 127
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+              "line": 159
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+              "line": 198
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 39
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+              "line": 126
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+              "line": 44
+            },
+            {
+              "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+              "line": 127
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "analysis_file_count": 5,
+      "approach_count": 9,
+      "approaches": [
+        {
+          "approach_id": "approach-04",
+          "number": 4,
+          "name": "Use The First Five Seconds To Establish Direction",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 134
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 199
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 40
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 126
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-07",
+          "number": 7,
+          "name": "Remove Low-Status Leakage",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 78
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 226
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 49
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 56
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 150
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-08",
+          "number": 8,
+          "name": "Use Curiosity To Create Better Conversations",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 98
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 118
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 92
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 135
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+              "line": 41
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 80
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-09",
+          "number": 9,
+          "name": "Repair Awkwardness By Naming And Redirecting",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 117
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 145
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 120
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 135
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+              "line": 41
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 104
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-11",
+          "number": 11,
+          "name": "Use Humor As Shared Relief, Not Performance",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 41
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-12",
+          "number": 12,
+          "name": "Build Respect Through Steadiness Instead Of Proving",
+          "occurrence_count": 14,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 59
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 79
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 155
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 36
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 63
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 172
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 25
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 135
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+              "line": 41
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 34
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 57
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 173
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-16",
+          "number": 16,
+          "name": "Start With Connection Before Content",
+          "occurrence_count": 8,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 99
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 89
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 119
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 93
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+              "line": 135
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+              "line": 42
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 81
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-20",
+          "number": 20,
+          "name": "Lead With Warmth So Competence Can Land",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 156
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 90
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+              "line": 42
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 174
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+              "line": 135
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+              "line": 227
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+              "line": 42
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 127
+            },
+            {
+              "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+              "line": 151
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "analysis_file_count": 5,
+      "approach_count": 1,
+      "approaches": [
+        {
+          "approach_id": "approach-18",
+          "number": 18,
+          "name": "Build The Story Around One Embodied Moment",
+          "occurrence_count": 10,
+          "evidence_refs": [
+            {
+              "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+              "line": 64
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+              "line": 87
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+              "line": 108
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+              "line": 128
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+              "line": 150
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+              "line": 176
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+              "line": 107
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+              "line": 20
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+              "line": 83
+            },
+            {
+              "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+              "line": 88
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "jefferson-fisher-wave-1",
+      "source": "Jefferson Fisher",
+      "analysis_file_count": 5,
+      "approach_count": 4,
+      "approaches": [
+        {
+          "approach_id": "approach-03",
+          "number": 3,
+          "name": "Pause, Frame, Then Answer",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 58
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 108
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 123
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 167
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+              "line": 104
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+              "line": 29
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+              "line": 88
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-14",
+          "number": 14,
+          "name": "Simplify Complex Ideas By Layering",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 59
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 76
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 168
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+              "line": 105
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+              "line": 89
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-19",
+          "number": 19,
+          "name": "Take A Position, Give A Reason, Then Reopen",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 77
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 93
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 124
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 169
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+              "line": 106
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+              "line": 47
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+              "line": 90
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 140
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+              "line": 170
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+              "line": 107
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+              "line": 110
+            },
+            {
+              "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+              "line": 91
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "analysis_file_count": 5,
+      "approach_count": 5,
+      "approaches": [
+        {
+          "approach_id": "approach-08",
+          "number": 8,
+          "name": "Use Curiosity To Create Better Conversations",
+          "occurrence_count": 8,
+          "evidence_refs": [
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 65
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 138
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 212
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+              "line": 31
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 29
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 84
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+              "line": 55
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+              "line": 109
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-09",
+          "number": 9,
+          "name": "Repair Awkwardness By Naming And Redirecting",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 112
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 213
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+              "line": 106
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 192
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 219
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+              "line": 55
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+              "line": 110
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-11",
+          "number": 11,
+          "name": "Use Humor As Shared Relief, Not Performance",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 214
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+              "line": 166
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 75
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+              "line": 55
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+              "line": 111
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-20",
+          "number": 20,
+          "name": "Lead With Warmth So Competence Can Land",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 139
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 161
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 215
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+              "line": 148
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 265
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+              "line": 56
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+              "line": 112
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-25",
+          "number": 25,
+          "name": "Reflect, Then Extend",
+          "occurrence_count": 10,
+          "evidence_refs": [
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 88
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 140
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 162
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+              "line": 216
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+              "line": 67
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 138
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 165
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+              "line": 265
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+              "line": 56
+            },
+            {
+              "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+              "line": 113
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "analysis_file_count": 5,
+      "approach_count": 8,
+      "approaches": [
+        {
+          "approach_id": "approach-03",
+          "number": 3,
+          "name": "Pause, Frame, Then Answer",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 119
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 222
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+              "line": 70
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+              "line": 39
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 111
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-05",
+          "number": 5,
+          "name": "Prepare With Goal, Audience, And Constraints",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 192
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 223
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 112
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-06",
+          "number": 6,
+          "name": "Compress Before You Expand",
+          "occurrence_count": 7,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 67
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 144
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 224
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+              "line": 89
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+              "line": 212
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 113
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-12",
+          "number": 12,
+          "name": "Build Respect Through Steadiness Instead Of Proving",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 93
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 225
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 114
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-13",
+          "number": 13,
+          "name": "Pre-Handle Objections Before The Room Raises Them",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 120
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 226
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+              "line": 70
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 115
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-20",
+          "number": 20,
+          "name": "Lead With Warmth So Competence Can Land",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 94
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 167
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 193
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 227
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 116
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-25",
+          "number": 25,
+          "name": "Reflect, Then Extend",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 168
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 228
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+              "line": 143
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+              "line": 122
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 117
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-26",
+          "number": 26,
+          "name": "State The Topic And Intent Before Details",
+          "occurrence_count": 8,
+          "evidence_refs": [
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 68
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 95
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 145
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 194
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+              "line": 229
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+              "line": 49
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+              "line": 52
+            },
+            {
+              "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+              "line": 118
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "toastmasters-wave-1",
+      "source": "Toastmasters International",
+      "analysis_file_count": 5,
+      "approach_count": 7,
+      "approaches": [
+        {
+          "approach_id": "approach-04",
+          "number": 4,
+          "name": "Use The First Five Seconds To Establish Direction",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 66
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 181
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+              "line": 31
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-theme-map.md",
+              "line": 111
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-11",
+          "number": 11,
+          "name": "Use Humor As Shared Relief, Not Performance",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 101
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 182
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+              "line": 68
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-theme-map.md",
+              "line": 112
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-17",
+          "number": 17,
+          "name": "Put The Turn Late And Leave Room For The Laugh",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 102
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 183
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+              "line": 86
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-theme-map.md",
+              "line": 113
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-18",
+          "number": 18,
+          "name": "Build The Story Around One Embodied Moment",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 84
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 120
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 184
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+              "line": 49
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-theme-map.md",
+              "line": 114
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-20",
+          "number": 20,
+          "name": "Lead With Warmth So Competence Can Land",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 121
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 103
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 154
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 185
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+              "line": 86
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-theme-map.md",
+              "line": 115
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-27",
+          "number": 27,
+          "name": "Use PREP To Stay Coherent On The Spot",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 137
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+              "line": 186
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+              "line": 124
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/toastmasters-wave-1-theme-map.md",
+              "line": 116
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "analysis_file_count": 5,
+      "approach_count": 9,
+      "approaches": [
+        {
+          "approach_id": "approach-03",
+          "number": 3,
+          "name": "Pause, Frame, Then Answer",
+          "occurrence_count": 2,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 144
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+              "line": 102
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-05",
+          "number": 5,
+          "name": "Prepare With Goal, Audience, And Constraints",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 103
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 187
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+              "line": 66
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+              "line": 106
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-11",
+          "number": 11,
+          "name": "Use Humor As Shared Relief, Not Performance",
+          "occurrence_count": 6,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 59
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 78
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 188
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+              "line": 47
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+              "line": 107
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-17",
+          "number": 17,
+          "name": "Put The Turn Late And Leave Room For The Laugh",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 126
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 189
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+              "line": 28
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+              "line": 50
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+              "line": 108
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-18",
+          "number": 18,
+          "name": "Build The Story Around One Embodied Moment",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 160
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-20",
+          "number": 20,
+          "name": "Lead With Warmth So Competence Can Land",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 161
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-21",
+          "number": 21,
+          "name": "Use Unhurried Pace To Claim Space",
+          "occurrence_count": 1,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 104
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-22",
+          "number": 22,
+          "name": "Aim For The Next Step, Not Immediate Conversion",
+          "occurrence_count": 5,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 79
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 190
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+              "line": 47
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+              "line": 51
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+              "line": 109
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        },
+        {
+          "approach_id": "approach-24",
+          "number": 24,
+          "name": "Review Missed Moments To Get Faster Next Time",
+          "occurrence_count": 4,
+          "evidence_refs": [
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 145
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+              "line": 191
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+              "line": 102
+            },
+            {
+              "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+              "line": 110
+            }
+          ],
+          "status": "transcript_derived_source_mapping"
+        }
+      ]
+    }
+  ]
+}

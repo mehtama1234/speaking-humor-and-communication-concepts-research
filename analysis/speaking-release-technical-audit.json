@@ -1,0 +1,315 @@
+{
+  "status": "technical_scope_and_identity_pass",
+  "limitation": "Does not replace the substantive editorial review, verify source claims independently, or certify accessibility or licensing.",
+  "units": [
+    {
+      "file": "writeups/speaking-practice/01-talking-points-navigation.md",
+      "title": "01 — Know the route, not every sentence",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Talking-Points Navigation Instead Of Script Recital",
+      "words": 1512,
+      "sha256": "9e0fec0f6130a52ccff35d1d1514be0a186949bb046d61cab32e499c4e1d212c"
+    },
+    {
+      "file": "writeups/speaking-practice/02-deliberate-silence.md",
+      "title": "02 — Let the pause do its job",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Replace Fillers With Deliberate Silence",
+      "words": 1223,
+      "sha256": "90026b36070db1592181dcaa9716a651446aa25f44ee9da07b2ae57d6a8abf58"
+    },
+    {
+      "file": "writeups/speaking-practice/03-pause-frame-answer.md",
+      "title": "03 — Give the answer you can stand behind",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Pause, Frame, Then Answer",
+      "words": 1236,
+      "sha256": "8853538bc4e2218b43b08e4204c8282696f770f0d6d81ce831db6a04672aa4a5"
+    },
+    {
+      "file": "writeups/speaking-practice/04-establish-direction.md",
+      "title": "04 — Give the room somewhere to go",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Use The First Five Seconds To Establish Direction",
+      "words": 1278,
+      "sha256": "f5e9877d5b30e4f75e52655095212005d1677db21714780355ede2ba3f4b0a4e"
+    },
+    {
+      "file": "writeups/speaking-practice/05-goal-audience-constraints.md",
+      "title": "05 — Prepare for a listener, not an empty page",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Prepare With Goal, Audience, And Constraints",
+      "words": 1391,
+      "sha256": "02a0a19014aeb0ef44c455affc46dff3b504165e5e6d9b02b2a83da2c4a63eb6"
+    },
+    {
+      "file": "writeups/speaking-practice/06-compress-before-expand.md",
+      "title": "06 — Give the short answer a complete job",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Compress Before You Expand",
+      "words": 1285,
+      "sha256": "6525ff20cfdb3114d5150ff891c6487a35a5cd5dc8344ac72d9fcc3cae80d31b"
+    },
+    {
+      "file": "writeups/speaking-practice/07-clear-contribution.md",
+      "title": "07 — Make your contribution clear",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Remove Low-Status Leakage",
+      "words": 1302,
+      "sha256": "13a482892f3ac11a442230a154c966df1aa7da02469d9dde2d60faadc727d786"
+    },
+    {
+      "file": "writeups/speaking-practice/08-curiosity.md",
+      "title": "08 — Follow the person, not your list of questions",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Use Curiosity To Create Better Conversations",
+      "words": 1383,
+      "sha256": "9fa18d1bf0eaeb787e7735504746e1e248e91c6641b74f119581ae94767c0593"
+    },
+    {
+      "file": "writeups/speaking-practice/09-awkwardness-repair.md",
+      "title": "09 — Repair the exchange, not your image",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Repair Awkwardness By Naming And Redirecting",
+      "words": 1346,
+      "sha256": "66a8f4aff6dc8d7605642ed9c3c3e1a19cd9d9d8417c75b07e520328f8eb2f02"
+    },
+    {
+      "file": "writeups/speaking-practice/10-musicality.md",
+      "title": "10 — Let the voice reveal the meaning",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Sound More Alive Through Musicality",
+      "words": 1315,
+      "sha256": "5a68e578d42862fca1a9c6aa86ee0f0ea72eeb063945d6d6a90faac5c5081fa6"
+    },
+    {
+      "file": "writeups/speaking-practice/11-shared-humor.md",
+      "title": "11 — Make room for a shared smile",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Use Humor As Shared Relief, Not Performance",
+      "words": 1336,
+      "sha256": "f2bd1cb51bc05c784df0348f2224a6c55521e2b80b4605fd739ba1b3a8b7d2a9"
+    },
+    {
+      "file": "writeups/speaking-practice/12-steadiness.md",
+      "title": "12 — Answer the challenge without auditioning for respect",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Build Respect Through Steadiness Instead Of Proving",
+      "words": 1323,
+      "sha256": "c9b665377edaef5e87892705115c7042aa3a55c2d97315910c0a87f62eb0d004"
+    },
+    {
+      "file": "writeups/speaking-practice/13-anticipate-objections.md",
+      "title": "13 — Put the difficult part on the table",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Pre-Handle Objections Before The Room Raises Them",
+      "words": 1354,
+      "sha256": "2350fddb5c27bbebb0490d6488a91b619f7a40ba4c7b4a574b6cdd427190f9a5"
+    },
+    {
+      "file": "writeups/speaking-practice/14-layered-explanation.md",
+      "title": "14 — Build the explanation one useful layer at a time",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Simplify Complex Ideas By Layering",
+      "words": 1348,
+      "sha256": "f7acb694974ac49aa257de84b4414411feaef001ea5820969cddf56430f0f09f"
+    },
+    {
+      "file": "writeups/speaking-practice/15-rehearse-recovery.md",
+      "title": "15 — Rehearse the return, not only the run-through",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Rehearse The Pressure Shape, Not Just The Content",
+      "words": 1427,
+      "sha256": "9ae1b0aef66b67bf6c7e076ad411a28c91282c772d44020e3a37c3bf3c6abd74"
+    },
+    {
+      "file": "writeups/speaking-practice/16-connection-before-content.md",
+      "title": "16 — Show why this belongs in their day",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Start With Connection Before Content",
+      "words": 1596,
+      "sha256": "23d671b2077bb73cd806e4388b5185d9afd90743906b6f389c994b5e4462c58f"
+    },
+    {
+      "file": "writeups/speaking-practice/17-comic-turn.md",
+      "title": "17 — Let the surprise finish the sentence",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Put The Turn Late And Leave Room For The Laugh",
+      "words": 1373,
+      "sha256": "7f280dbaa4b207e69b6ba5be95c349209ecb0393c4db1a8308ffeaa5424a6ecd"
+    },
+    {
+      "file": "writeups/speaking-practice/18-story-moment.md",
+      "title": "18 — Find the moment when something changes",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Build The Story Around One Embodied Moment",
+      "words": 1471,
+      "sha256": "596370fdae47bece3bb829d3583732c33a298f74fd9e28c5f88cc2812e374ede"
+    },
+    {
+      "file": "writeups/speaking-practice/19-position-reason-reopen.md",
+      "title": "19 — Have a view, and give it somewhere to go",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Take A Position, Give A Reason, Then Reopen",
+      "words": 1409,
+      "sha256": "baa0ef2a0d8ef1cd17670b4003e2464fb0562a67f3f6004602608b5110c7e31f"
+    },
+    {
+      "file": "writeups/speaking-practice/20-warmth.md",
+      "title": "20 — Make it possible to approach you",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Lead With Warmth So Competence Can Land",
+      "words": 1385,
+      "sha256": "dbbf7d6887e1673dff9e7c9394b374fcb58fd2d3d49b5fb72e0765e815c0dcf6"
+    },
+    {
+      "file": "writeups/speaking-practice/21-unhurried-pace.md",
+      "title": "21 — Give the idea enough time",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Use Unhurried Pace To Claim Space",
+      "words": 1436,
+      "sha256": "1f0fa7dab98f0c7ef02d926dbc207574131eed1e0d5755a6e6c1c01155ff5da4"
+    },
+    {
+      "file": "writeups/speaking-practice/22-next-step.md",
+      "title": "22 — Ask for the decision this conversation can support",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Aim For The Next Step, Not Immediate Conversion",
+      "words": 1624,
+      "sha256": "2f57699373ad42866b37a8fd6ae05d56d91194009e5a0c5422e5ee7893cacfc4"
+    },
+    {
+      "file": "writeups/speaking-practice/23-intelligibility.md",
+      "title": "23 — Make the message clear without replacing your voice",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Improve Intelligibility Without Accent Erasure",
+      "words": 1311,
+      "sha256": "f90cf7266333f80e9b73c62a393914d04bce68885a89a7e9535f407951afc474"
+    },
+    {
+      "file": "writeups/speaking-practice/24-review-missed-moments.md",
+      "title": "24 — Turn the late answer into a useful rehearsal",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Review Missed Moments To Get Faster Next Time",
+      "words": 1406,
+      "sha256": "8bc2f20d184de2acf580b53c7ead97064deec19c72ed7116720a9bdca6bf6ddb"
+    },
+    {
+      "file": "writeups/speaking-practice/25-reflect-extend.md",
+      "title": "25 — Show what you heard before adding what you think",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Reflect, Then Extend",
+      "words": 1464,
+      "sha256": "f6db262091761f462ce850870e84b47bfa303c18b27d97815682fee84a470753"
+    },
+    {
+      "file": "writeups/speaking-practice/26-topic-and-intent.md",
+      "title": "26 — Tell them what kind of conversation this is",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "State The Topic And Intent Before Details",
+      "words": 1349,
+      "sha256": "48af470b145432ac18781543e54192ab93d9eb2ab39fc408e65d8c698b8c5f65"
+    },
+    {
+      "file": "writeups/speaking-practice/27-prep-on-the-spot.md",
+      "title": "27 — Give the unexpected answer a beginning and an end",
+      "original": "analysis/transcript-backed-concrete-speaking-approaches.md",
+      "original_title": "Use PREP To Stay Coherent On The Spot",
+      "words": 1430,
+      "sha256": "99b84b33a39f3f98deed83ed2e4aee2629e9f28644038111eb7c26c1b0335d79"
+    },
+    {
+      "file": "writeups/speaking-curricula/01-starter.md",
+      "title": "Start here — Make one everyday explanation work",
+      "original": "analysis/starter-curriculum.md",
+      "original_title": "Starter Curriculum",
+      "words": 1945,
+      "sha256": "d627aa66076b7885ed3cbf017d894a7d89c8cfe226f8e942ae8e9826ff6641b7"
+    },
+    {
+      "file": "writeups/speaking-curricula/02-business.md",
+      "title": "Business communication — Move the work toward a clear decision",
+      "original": "analysis/business-communication-curriculum.md",
+      "original_title": "Business Communication Curriculum",
+      "words": 2140,
+      "sha256": "46f7e2d40dcbea058e420c8af325786c42b183841b3e8bc20c5338b9224f3dff"
+    },
+    {
+      "file": "writeups/speaking-curricula/03-clarity.md",
+      "title": "Clarity — Shorten the explanation without shrinking the truth",
+      "original": "analysis/clarity-and-anti-rambling-curriculum.md",
+      "original_title": "Clarity And Anti-Rambling Curriculum",
+      "words": 1930,
+      "sha256": "78bc219fd62608e1c5898e2a7e9f072dbdb301f9f94a321665eaf0a028095aca"
+    },
+    {
+      "file": "writeups/speaking-curricula/04-confidence.md",
+      "title": "Confidence and composure — Keep access to your next useful move",
+      "original": "analysis/confidence-and-composure-curriculum.md",
+      "original_title": "Confidence And Composure Curriculum",
+      "words": 1953,
+      "sha256": "977c2f203835a9b66e538dd04ec64a69caffb422951e39e2845fb93efe9f79f2"
+    },
+    {
+      "file": "writeups/speaking-curricula/05-delivery.md",
+      "title": "Delivery and vocal presence — Make the meaning easier to hear",
+      "original": "analysis/delivery-and-vocal-presence-curriculum.md",
+      "original_title": "Delivery And Vocal Presence Curriculum",
+      "words": 2019,
+      "sha256": "60a320942e29c6b15d7316b42948ab08ae6df4a80b76373817398c63c93bcf86"
+    },
+    {
+      "file": "writeups/speaking-curricula/06-interviews.md",
+      "title": "Interviews and hard questions — Answer what is being tested",
+      "original": "analysis/interview-and-hard-question-curriculum.md",
+      "original_title": "Interview And Hard-Question Curriculum",
+      "words": 1897,
+      "sha256": "384d7e22fb0423e014b7c832839a97a5225883e72928d2f88104c9722b19eb62"
+    },
+    {
+      "file": "writeups/speaking-curricula/07-multilingual.md",
+      "title": "Multilingual clarity — Repair the message, not your identity",
+      "original": "analysis/multilingual-clarity-and-accent-pressure-curriculum.md",
+      "original_title": "Multilingual Clarity And Accent-Pressure Curriculum",
+      "words": 1950,
+      "sha256": "fb65239f3b0919d5b91ea5c1a27862caf4975f598ceb0cb3448d081934bdff65"
+    },
+    {
+      "file": "writeups/speaking-curricula/08-presentations.md",
+      "title": "Presentations — Build a talk that survives the room",
+      "original": "analysis/presentation-and-formal-speaking-curriculum.md",
+      "original_title": "Presentation And Formal Speaking Curriculum",
+      "words": 2491,
+      "sha256": "77a78c11177243b1a719a706ab3ccbdb3fa71a304b51519b6998f1462fc5c2d2"
+    },
+    {
+      "file": "writeups/speaking-curricula/09-skeptical-rooms.md",
+      "title": "Skeptical rooms — Let the strongest concern improve the decision",
+      "original": "analysis/skeptical-room-and-objection-handling-curriculum.md",
+      "original_title": "Skeptical Room And Objection-Handling Curriculum",
+      "words": 1694,
+      "sha256": "8507f53b581076d1823b63d1f84cab15a22dd9556cbafa5ca3f9c39c61bd9bd2"
+    },
+    {
+      "file": "writeups/speaking-curricula/10-social-humor.md",
+      "title": "Social speaking and humor — Make room for the other person",
+      "original": "analysis/social-speaking-and-humor-curriculum.md",
+      "original_title": "Social Speaking And Humor Curriculum",
+      "words": 1745,
+      "sha256": "8268e10e69f9d9a56e42fa9e788e30e806e331e3b8e3c1da5305faa8e788a95f"
+    },
+    {
+      "file": "writeups/speaking-curricula/11-storytelling.md",
+      "title": "Storytelling — Let the listener encounter the change",
+      "original": "analysis/storytelling-and-memorability-curriculum.md",
+      "original_title": "Storytelling And Memorability Curriculum",
+      "words": 1819,
+      "sha256": "b22cdf5504a3b8e362279370bad15dae4c7c49e2a7d1bcbfd91fdb3104ac1658"
+    }
+  ],
+  "source_count": 30,
+  "main_manuscript_words": 58896,
+  "export_receipt_sha256": "0a226cfdf75e918135bf993498383c11f7ef4e03fbb2b2783b7cbac03d6a5b23",
+  "archive_sha256": "a8325e4443d6e8d9d2fc5b6d04e20b031ff1a7852cda45ff7f07d2496b309f26",
+  "pdf_pages": 197
+}

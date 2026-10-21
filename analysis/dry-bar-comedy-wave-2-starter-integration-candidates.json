@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "status": "wave_2_candidate_evidence_not_promoted",
+  "source": "dry-bar-comedy-wave-2-starter",
+  "channel_manifest_video_count": 2829,
+  "starter_slice_video_count": 40,
+  "transcripts_available": 37,
+  "total_words": 178691,
+  "missing_video_ids": ["NB9lsn5xPsk", "qC5NNRB5c6Q", "NFZGWw9Jgfc"],
+  "artifacts": [
+    "analysis/dry-bar-comedy-wave-2-starter-corpus-brief.md",
+    "analysis/dry-bar-comedy-wave-2-starter-theme-map.md",
+    "analysis/dry-bar-comedy-wave-2-starter-drill-candidates.md",
+    "analysis/dry-bar-comedy-wave-2-starter-session-inventory.md",
+    "analysis/dry-bar-comedy-wave-2-starter-context-review-queue.json"
+  ],
+  "candidate_patterns": [
+    "concrete_friction_before_generalization",
+    "premise_promise_turn_payoff",
+    "contrast_and_frame_replacement",
+    "character_specificity_and_point_of_view",
+    "room_awareness_and_recovery",
+    "self_inclusion_as_safety_boundary"
+  ],
+  "promotion_rule": "Do not merge this starter slice into the validated ten-corpus release until transcript quality, contextual review, identity, transfer, and outcome gates are recorded."
+}

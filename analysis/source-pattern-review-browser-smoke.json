@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "report_id": "source-pattern-review-browser-smoke",
+  "status": "source_pattern_review_browser_smoke_passed",
+  "queue_item_count": 107,
+  "checks": {
+    "queue_item_count": true,
+    "all_19_wave_2_items_rendered": true,
+    "retrieval_excerpts_rendered": true,
+    "transcript_and_cue_links_rendered": true,
+    "all_local_transcript_and_cue_targets_exist": true,
+    "source_video_links_rendered": true,
+    "dedicated_wave_2_card_count": true,
+    "dedicated_wave_2_exact_ids": true,
+    "dedicated_page_retains_107_item_denominator": true,
+    "dedicated_page_discloses_88_unreviewed": true,
+    "dedicated_context_links_and_excerpts": true,
+    "dedicated_context_targets_exist": true,
+    "wave_2_search_returns_19_items": true,
+    "browser_interactions": true,
+    "search_filter": true,
+    "local_save_reload": true,
+    "partial_wave_2_export": true,
+    "dedicated_wave_2_surface": true,
+    "dedicated_wave_2_partial_export": true,
+    "portable_context_assets_open": true,
+    "portable_wave_2_partial_export": true,
+    "export_fail_closed": true,
+    "complete_json_export": true
+  },
+  "claim_boundary": "Local runtime smoke test only; it does not create human review, recurrence, learner, listener or effectiveness evidence. Synthetic smoke decisions are discarded and are not human review records."
+}
