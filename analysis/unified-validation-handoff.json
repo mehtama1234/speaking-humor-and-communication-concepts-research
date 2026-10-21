@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "handoff_id": "unified-speaking-slices-01-04-wave-2",
+  "status": "instruments_ready_no_human_records_received",
+  "claim_boundary": "This queue organizes candidate lesson packets for independent review. It contains no reviewer, learner, listener, or effectiveness result.",
+  "source_project": "speaking-humor-and-communication-concepts-research",
+  "validation_project": "../best-speech-analysis",
+  "slice_count": 4,
+  "slices": [
+    {
+      "slice_id": "vertical-slice-01-awkwardness-repair",
+      "lesson": "Recover connection after an awkward moment",
+      "path": "analysis/vertical-slice-01-awkwardness-repair.md",
+      "corpora": ["charisma-on-command-wave-1", "chad-littlefield-wave-1", "jefferson-fisher-wave-1"],
+      "canonical_jobs": ["repair_or_self_correction", "humor_or_rapport", "question", "correction_or_reframe", "qualification_or_boundary"],
+      "candidate_move": "name the problem or ambiguity, replace the frame plainly, and continue or redirect",
+      "review_status": "not_reviewed",
+      "gates": ["corpus_identity", "corpus_function", "phrase_recurrence", "delivery", "counterexamples", "learner_teachability", "listener_stimulus_review", "listener_outcomes"]
+    },
+    {
+      "slice_id": "vertical-slice-02-embodied-story",
+      "lesson": "Make an idea memorable through one embodied moment",
+      "path": "analysis/vertical-slices-02-to-04.md#vertical-slice-02--make-an-idea-memorable-through-one-embodied-moment",
+      "corpora": ["ultraspeaking-wave-1", "matthew-dicks-wave-1", "toastmasters-wave-1"],
+      "canonical_jobs": ["story_or_personal_experience", "opening", "reflection_or_value_frame", "callback_or_repetition"],
+      "candidate_move": "choose a changing scene, make it concrete, and delay interpretation until the scene is usable",
+      "review_status": "not_reviewed",
+      "gates": ["corpus_identity", "corpus_function", "phrase_recurrence", "counterexamples", "learner_teachability", "listener_stimulus_review", "listener_outcomes"]
+    },
+    {
+      "slice_id": "vertical-slice-03-presentation-opening",
+      "lesson": "Orient a presentation before adding content",
+      "path": "analysis/vertical-slices-02-to-04.md#vertical-slice-03--orient-a-presentation-before-adding-content",
+      "corpora": ["vinh-giang-wave-1", "toastmasters-wave-1", "matthew-dicks-wave-1"],
+      "canonical_jobs": ["opening", "transition_or_structure", "definition_or_explanation", "call_to_action_or_audience_role"],
+      "candidate_move": "name the shared situation, create a concrete reason to care, state the route, and begin the first useful point",
+      "review_status": "not_reviewed",
+      "gates": ["corpus_identity", "corpus_function", "phrase_recurrence", "delivery", "counterexamples", "learner_teachability", "listener_stimulus_review", "listener_outcomes"]
+    },
+    {
+      "slice_id": "vertical-slice-04-delivery-presence",
+      "lesson": "Use pause and warmth as delivery choices, not identity",
+      "path": "analysis/vertical-slices-02-to-04.md#vertical-slice-04--use-pause-and-warmth-as-delivery-choices-not-identity",
+      "corpora": ["ultraspeaking-wave-1", "vinh-giang-wave-1", "think-fast-talk-smart-wave-1"],
+      "canonical_jobs": ["answer_or_response", "opening", "transition_or_structure", "qualification_or_boundary"],
+      "candidate_move": "make time for a thought and let observable delivery support the sentence function",
+      "review_status": "not_reviewed",
+      "gates": ["corpus_identity", "corpus_function", "delivery", "multimodal", "counterexamples", "learner_teachability", "listener_stimulus_review", "listener_outcomes"]
+    }
+  ],
+  "shared_review_rules": [
+    "Reviewers must be independent of the packet creator and original interpreter.",
+    "Use indeterminate when source identity, transcript context, delivery, or setting is insufficient.",
+    "Do not promote a transcript candidate to a validated pattern from a single reviewer or a passing validator.",
+    "Keep learner teachability separate from listener outcomes and both separate from effectiveness claims.",
+    "Preserve disagreement and missingness in the returned record."
+  ],
+  "best_speech_analysis_handoff": {
+    "validation_handoff": "../best-speech-analysis/research/validation-handoff.json",
+    "shared_evidence_model": "../best-speech-analysis/research/shared-evidence-model.json",
+    "vertical_slice_workbook": "../best-speech-analysis/research/vertical-slice-01-independent-review-workbook.json",
+    "learner_protocol": "../best-speech-analysis/research/communication-job-learner-check.json",
+    "listener_protocol": "../best-speech-analysis/research/communication-job-listener-outcome-protocol.json",
+    "external_review_launch_manifest": "../best-speech-analysis/research/external-review-launch-manifest.json"
+  },
+  "wave_2_candidate_handoff": {
+    "source": "ali-siddiq-wave-2; dry-bar-comedy-wave-2-starter; ted-wave-2-starter",
+    "source_count": 3,
+    "candidate_count": 19,
+    "status": "candidate_packets_ready_no_human_records_received",
+    "queue": "analysis/ali-siddiq-wave-2-context-review-queue.json; analysis/dry-bar-comedy-wave-2-starter-context-review-queue.json; analysis/ted-wave-2-starter-context-review-queue.json",
+    "context_packets": "analysis/ali-siddiq-wave-2-context-packets.json; analysis/dry-bar-comedy-wave-2-starter-context-packets.json; analysis/ted-wave-2-starter-context-packets.json",
+    "approach_crosswalk": "analysis/wave-2-unified-candidate-crosswalk.json",
+    "review_request": "analysis/wave-2-context-review-request.md",
+    "review_browser": "site/pattern-review-wave-2.html; site/pattern-review.html (combined 107-item queue)",
+    "reviewer_pack": "deliverables/wave-2-full-context-reviewer-pack.zip",
+    "review_scope": {
+      "target_item_count": 19,
+      "context_reference_count": 56,
+      "retrieved_excerpt_count": 108,
+      "full_transcript_and_cue_assets_verified": true,
+      "combined_browser_item_count": 107,
+      "dedicated_browser_item_count": 19,
+      "omitted_combined_queue_items": 88,
+      "reviewer_pack_unique_transcript_count": 43,
+      "reviewer_pack_unique_cue_file_count": 43,
+      "reviewer_pack_checksums_verified": true,
+      "partial_export_supported": true,
+      "omitted_items_recorded_as_unreviewed": true,
+      "validator": "scripts/validate_source_pattern_review_export.py",
+      "runtime_smoke_status": "source_pattern_review_browser_smoke_passed",
+      "human_review_status": "no_human_records_received"
+    },
+    "promotion_rule": "Do not merge these 19 candidates into the validated ten-corpus release until independent full-context review, transfer checks, and outcome gates are recorded."
+  }
+}

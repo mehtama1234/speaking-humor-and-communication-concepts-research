@@ -1,0 +1,468 @@
+{
+  "schema_version": "1.0",
+  "packet_id": "ali-siddiq-wave-2-context-packets",
+  "source": "ali-siddiq-wave-2",
+  "status": "machine_bounded_context_packets_not_human_review",
+  "item_count": 7,
+  "packets": [
+    {
+      "item_id": "ali-001",
+      "candidate_pattern": "consequence_first_orientation",
+      "review_prompt": "Does the opening create forward motion through a concrete consequence, and can the move be stated without copying stand-up persona?",
+      "references": [
+        {
+          "ref": "#47",
+          "status": "available",
+          "video_id": "MvVuM1nVSSw",
+          "title": "When I Chose to Live with My Dad | The Domino Effect (Part 1 of 14) | Ali Siddiq Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=MvVuM1nVSSw",
+          "word_count": 1433,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/047-MvVuM1nVSSw.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/047-MvVuM1nVSSw.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "when",
+              "text": "saying this. In life people um make you make a lot of mistakes in your life and you go through things and you should have went right but you went left. You know, you zig when you should have zagged. Things happen. But you don't get a chance to pinpoint a lot of times when you went wrong. And I don't know if y'all know about me but I was I used to be a street pharmaceutical rep which is very frowned upon. And I had I had enough time to think about how I got there cuz you know"
+            },
+            {
+              "matched_term": "because",
+              "text": "I don't ask and I remember my mama never asked me what I what I wanted to do. I remember when I used to hate oatmeal. I used to hate oatmeal. I love oatmeal now because me and oatmeal have had a situation. You know what oatmeal tastes like? You know, I hated it. My mama came in with some oatmeal to my \"This for breakfast.\" I'm like, \"I don't want that.\" She said, \"Well, you going to eat it?\" I said, \"No, I'm not.\" She said, \"Well, you going to sit there.\" I said, \"Well, I'll be here.\" My"
+            }
+          ]
+        },
+        {
+          "ref": "#151",
+          "status": "available",
+          "video_id": "nvofZaBh7wA",
+          "title": "THE DOMINO EFFECT part 2 LOSS   [FULL Comedy Standup Special - ALI SIDDIQ]",
+          "url": "https://www.youtube.com/watch?v=nvofZaBh7wA",
+          "word_count": 10848,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/151-nvofZaBh7wA.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/151-nvofZaBh7wA.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "when",
+              "text": "[Music] in a domino effect it's not just the actions of things tumbling it's understand what your emotions are in certain things as well and learning about loss it's a dominal effect to loss even when things are going well with you and most of the times in my community we don't talk about loss [Music] in the streets people talk about their wins they never talk about their losses and it's going to be some losses ladies and gentlemen put your hands together for Al the [Applause] hey has anybody in here ever been duct taped and thrown in"
+            },
+            {
+              "matched_term": "because",
+              "text": "in trouble or your parents split up or something I don't know what you was going through but something was wrong with you if 16 wasn't sweet for you and 16 so sweet for me because you know how when you had bad influences you hanging around the wrong people all the wrong people I was hanging around now they doing other stuff my boy ryell he in culinary school um my partner Jeff he um he in RC you know he he doing good he in RTC he in school and this dude Willie he um he probably dead"
+            }
+          ]
+        },
+        {
+          "ref": "#198",
+          "status": "available",
+          "video_id": "EsKDNZQhVX0",
+          "title": "The Domino Effect [One Hour Stand Up Comedy Special] by Ali Siddiq",
+          "url": "https://www.youtube.com/watch?v=EsKDNZQhVX0",
+          "word_count": 10814,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/198-EsKDNZQhVX0.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/198-EsKDNZQhVX0.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "when",
+              "text": "SAYING THIS. IN LIFE, people um make you make a lot of mistakes in your life, and you go through things, and you should have went right, but you went left. You know, you zig when you should have zagged. Things happen, but you don't get a chance to pinpoint a lot of times when you went wrong. And I don't know if y'all know about me, but I was I used to be a street pharmaceutical rep, which is very frowned upon. And I had I had enough time to think about how I got there, cuz you know,"
+            },
+            {
+              "matched_term": "because",
+              "text": "I don't ask. And I remember My mama never asked me what I what I wanted to do. I remember when I used to hate oatmeal. I used to hate oatmeal. I love oatmeal now because me and oatmeal have had a situation. You didn't know what it tastes like and then hate it. My mama came in with some oatmeal to me. This for breakfast. I'm like, I don't want that. She said, \"Well, you going to eat it.\" I said, \"No, I'm not.\" She said, \"Well, you going to sit there.\" I said, \"Well, I'll be here.\" My"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    },
+    {
+      "item_id": "ali-002",
+      "candidate_pattern": "scene_detail_as_compression",
+      "review_prompt": "Do concrete people, objects, and actions carry explanatory work that an ordinary presentation could reuse?",
+      "references": [
+        {
+          "ref": "#4",
+          "status": "available",
+          "video_id": "jzMXK1Kc3G8",
+          "title": "Got In Trouble For Selling Candy at School | Ali Siddiq: My Father (Part 5 of 13) | Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=jzMXK1Kc3G8",
+          "word_count": 805,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/004-jzMXK1Kc3G8.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/004-jzMXK1Kc3G8.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "school",
+              "text": "candy, right? And so, I bought some of the candy after Halloween and I separated all the stuff in the candy. They had Now and Later, Blow Pops, Jolly Rancher and I'm selling candy at school, right? So, and I'm selling candy at school for at least a month, month or two, and Miss Cunningham is the principal. Miss Cunningham confiscated my candy and my money. Okay? And and she called my father. And this is the worst thing in the world. It's like It's like this. They called him to come up to the school and he mad at"
+            }
+          ]
+        },
+        {
+          "ref": "#56",
+          "status": "available",
+          "video_id": "aC4uuA9dleQ",
+          "title": "Taking My Bougie Son Back to the Hood (Part 11 of 11) | Ali Siddiq: My Two Sons | Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=aC4uuA9dleQ",
+          "word_count": 1922,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/056-aC4uuA9dleQ.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/056-aC4uuA9dleQ.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "school",
+              "text": "How the hell you mean look at it?\" And we we we riding and I'm trying to show the boy stuff that means something to me. I say, \"Y'all know, >> you see the high school right there? >> That's a school that your daddy went to. He judging to my Did it always have bars around it? Man, look at the school. Not the bars, man. Amony Park. I take him by the park. Am park, known park. I say, Hassan, a lot of legendary players then came out this park. Moses Malone played up here. And there Rashard"
+            },
+            {
+              "matched_term": "house",
+              "text": "is I don't have no problem with Hassan's music. Nothing. Hassan is 13. He's only been to one concert. He was 11 years old. Hassan came and asked, this was his request. I'm in my house minding my own business. Son came and knocked on my bedroom door. And that man said, \"Father,\" I said, \"What's up, Hassan? I would like to attend a concert.\" I said, \"Hassan, what concert would you like to attend?\" He said, \"Father, I would like to go see the elements.\" I said, \"Wait a minute. Who are the elements, Hassan? [Applause] Is it some"
+            }
+          ]
+        },
+        {
+          "ref": "#118",
+          "status": "available",
+          "video_id": "fhS792dLXVg",
+          "title": "Parenting and the PTA | Ali Siddiq Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=fhS792dLXVg",
+          "word_count": 1161,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/118-fhS792dLXVg.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/118-fhS792dLXVg.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "school",
+              "text": "showing up you don't know how I'm showing up it don't matter to me how I show up this is about you my daughter my oldest daughter when she was in class she was in school I get a phone call from the teacher he said your daughter is at school being disruptive and I said Say It Ain't So So teach and call me and now I got to come to the school and I told that teacher I'll be up there in the morning brother just a question how old are you brother 50 50 so you remember"
+            },
+            {
+              "matched_term": "house",
+              "text": "formable opponent and I glanced and looked in her car the white man who told me to run was in her car Mr smithon set me up they must have been having problems at the house I don't know you know I win I win you know I become the press and and now I'm at school I'm at the school all the time cuz you got to volunteer I don't have no day job you know what I'm saying so I'm at the school I'm doing my my due diligence to be a part of this school and they"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    },
+    {
+      "item_id": "ali-003",
+      "candidate_pattern": "escalation_by_changed_conditions",
+      "review_prompt": "Can each story beat be described as a changed condition or choice constraint rather than mere intensity?",
+      "references": [
+        {
+          "ref": "#33",
+          "status": "available",
+          "video_id": "I4qDOF3RbCw",
+          "title": "Ali Siddiq presents Marcus D. Wiley: REHAB  {FULL COMEDY SPECIAL}",
+          "url": "https://www.youtube.com/watch?v=I4qDOF3RbCw",
+          "word_count": 9047,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/033-I4qDOF3RbCw.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/033-I4qDOF3RbCw.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "then",
+              "text": "this show on TV called Fatal Attraction. What Fatal Attraction is, for those you have never seen it, uh it's about a love that's gone bad. Um typically somebody gets possessive, somebody get jealous, and then somebody die. And so I'm watching it and and and those episodes are normally narrated by the detectives from the police department, by psychiatrists, psychologists, counselors, but this particular episode, it was narrated by a relationship expert. I looked up and I noticed the relationship expert was a guy that go to my church. So when I saw that, I said, \"Oh my god,"
+            },
+            {
+              "matched_term": "after",
+              "text": "realized we all are in rehab. If you are married, you are in rehab. The definition of rehab, which is short for rehabilitation, is the process the body goes through to regain, maintain, and improve after surgery. In my case, rehab means it's the process your marriage goes through to regain, maintain, and improve after the wedding. I told you on the last special, it's major surgery. See, most people get married think the when is the finish line. We've only just begun. First thing I look at is is regain. Do you know when you get married, you will"
+            }
+          ]
+        },
+        {
+          "ref": "#64",
+          "status": "available",
+          "video_id": "FSbE9EAHiGU",
+          "title": "ALI SIDDIQ: RUGGED [Full Stand Up Comedy Special]",
+          "url": "https://www.youtube.com/watch?v=FSbE9EAHiGU",
+          "word_count": 7540,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/064-FSbE9EAHiGU.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/064-FSbE9EAHiGU.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "then",
+              "text": "and dryer now back story my sister comes in I heard my sister come in and my sister take every opportunity to make me look bad my sister come in I'm in the back and then I notice the beeping stop I come in I'm talking to my mom say what she do my sister went in the dryer open the dry open the lint thing clean the lint thing I closed [Applause] it my sister going to say hey I am my mama's only son stop coming over [Applause] when you not hand it you you will be embarrassed"
+            },
+            {
+              "matched_term": "after",
+              "text": "I say Dre you see how I back his big ass down I sold that boy yeah yeah yeah [Applause] yeah so that got to call me for what I'm good [Applause] at so right after that happened right right after that happened I'm at a family function at a family function I told you you don't know how people feel about you till you hear them overt talking about you I'm I'm going to the restroom and I walk past you know all the young the young folk they in the little room and I walk past one of"
+            }
+          ]
+        },
+        {
+          "ref": "#82",
+          "status": "available",
+          "video_id": "1pTQCYaTlZY",
+          "title": "Ali Siddiq presents Marcus D. Wiley: Marriage is Major Surgery | FULL COMEDY SPECIAL",
+          "url": "https://www.youtube.com/watch?v=1pTQCYaTlZY",
+          "word_count": 10161,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/082-1pTQCYaTlZY.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/082-1pTQCYaTlZY.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "then",
+              "text": "line and both them lines real long so I'm on the yard you know contemplating my life things not going well I'm on the yard sitting there with no purpose I have no direction and then that's when I seen this thing walking on the yard see 5' seven with dimples potential wife credentials I mean she's A Bad Mama jamama just as fine as she can be okay she's a brick house she's mighty mighty she's once twice three times a lady yeah yeah yeah yeah yeah I'm sitting next to my boy on the yard guy by the"
+            },
+            {
+              "matched_term": "after",
+              "text": "yeah I like that yeah that was December 12th 1996 2 Days Later is December 14th I am the graduate assistant for the lady Tigers the basketball team that's how I'm paying for school so after we practice I took them to the cafeteria to eat lunch while we in there eating that thing walks in again I tell the girls I say hey y'all see that chick right there she looks like M Wy that what I said she looks like Mrs Wy this is this is very big because I don't know her uh I don't know the"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    },
+    {
+      "item_id": "ali-004",
+      "candidate_pattern": "character_contrast_and_point_of_view",
+      "review_prompt": "Does contrast clarify a tradeoff or misunderstanding without requiring caricature?",
+      "references": [
+        {
+          "ref": "#33",
+          "status": "available",
+          "video_id": "I4qDOF3RbCw",
+          "title": "Ali Siddiq presents Marcus D. Wiley: REHAB  {FULL COMEDY SPECIAL}",
+          "url": "https://www.youtube.com/watch?v=I4qDOF3RbCw",
+          "word_count": 9047,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/033-I4qDOF3RbCw.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/033-I4qDOF3RbCw.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "he",
+              "text": "I'm going to see him this Sunday. And so I got to church and when I got to church, I went up to him. I said, \"Say cuz I saw you on Fatal Attraction.\" And he was like, \"Oh yeah, you seen that?\" \"Oh yeah, that's how he talk.\" \"Oh yeah, yeah, you seen that.\" I said, \"Yeah, I saw you on there.\" I want to know how does one become a relationship expert? He said, \"Well, you know, uh, I went to school. I got my BA in this, my MA in that, my PhD in this. I said,"
+            },
+            {
+              "matched_term": "she",
+              "text": "not let the sun go down on your wrath.\" We tried it. I'm still mad. And no, I don't want to pray. Okay. But when that happens, I get on my side of the bed, she get on her side of the bed, but our feet still touch. We still in love. Ain't nobody going nowhere. But yeah, I am not a marriage counselor, but what I am is a relationship expert. That's what I am, a relationship expert. I got this title one day. I was in the bed watching this show on TV called Fatal Attraction. What Fatal"
+            }
+          ]
+        },
+        {
+          "ref": "#82",
+          "status": "available",
+          "video_id": "1pTQCYaTlZY",
+          "title": "Ali Siddiq presents Marcus D. Wiley: Marriage is Major Surgery | FULL COMEDY SPECIAL",
+          "url": "https://www.youtube.com/watch?v=1pTQCYaTlZY",
+          "word_count": 10161,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/082-1pTQCYaTlZY.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/082-1pTQCYaTlZY.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "he",
+              "text": "yeah I'm sitting next to my boy on the yard guy by the name of Cliff when she walked by Cliff said hey what's up Erica I was like hey bro you know her and he was like yeah that's E I said uh how well do you knowah uh yeah because I want to know have you seen a naked I'm just going to be honest have you seen a NE don't get me wrong if you have it's no problem but I need to know today I don't want to find out later let me know right now"
+            },
+            {
+              "matched_term": "she",
+              "text": "I'm on the yard sitting there with no purpose I have no direction and then that's when I seen this thing walking on the yard see 5' seven with dimples potential wife credentials I mean she's A Bad Mama jamama just as fine as she can be okay she's a brick house she's mighty mighty she's once twice three times a lady yeah yeah yeah yeah yeah I'm sitting next to my boy on the yard guy by the name of Cliff when she walked by Cliff said hey what's up Erica I was like hey bro you know her"
+            }
+          ]
+        },
+        {
+          "ref": "#118",
+          "status": "available",
+          "video_id": "fhS792dLXVg",
+          "title": "Parenting and the PTA | Ali Siddiq Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=fhS792dLXVg",
+          "word_count": 1161,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/118-fhS792dLXVg.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/118-fhS792dLXVg.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "he",
+              "text": "can tell your rotator CU so I just I just I just stay away from it you know for my own benefit I remember when my oldest boy was the last time I spanked him he was 13 he's 27 now I spank him at 13 that was it and I went for him and he was way faster than I thought I went for him that boy moved and I'm like why is this belt still going what's up with this belt the belt come around and wrap me around my back I said oh never again I didn't"
+            },
+            {
+              "matched_term": "she",
+              "text": "my children yeah you do something I'm showing up you don't know how I'm showing up it don't matter to me how I show up this is about you my daughter my oldest daughter when she was in class she was in school I get a phone call from the teacher he said your daughter is at school being disruptive and I said Say It Ain't So So teach and call me and now I got to come to the school and I told that teacher I'll be up there in the morning brother just a question how old are"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    },
+    {
+      "item_id": "ali-005",
+      "candidate_pattern": "public_repair_as_relationship_maintenance",
+      "review_prompt": "Is the repair brief, transparent, and thread-preserving enough to transfer to a presentation?",
+      "references": [
+        {
+          "ref": "#10",
+          "status": "available",
+          "video_id": "0jPUikpbyck",
+          "title": "ALI SIDDIQ presents THE JIVE TURKEYS Comedy Special  {Full Stand Up Special}",
+          "url": "https://www.youtube.com/watch?v=0jPUikpbyck",
+          "word_count": 14100,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/010-0jPUikpbyck.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/010-0jPUikpbyck.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "wait",
+              "text": "it. But mama ain't got to say something about nothing when something is wrong cuz mama can feel it. >> [cheering] >> When there's trouble in your way, you're on her heart all day. Mama wait for everybody to go to sleep, walk the floor all night and pray. If she can't handle it alone, she get big mama on the phone. See, mama knows how to pray, but big mama knows how to moan. Pray for her to have a safe trip and then pray till you get back home. This is say, \"Let me look at you. >>"
+            },
+            {
+              "matched_term": "hold on",
+              "text": "had on. Yeah. I went in the green room and sit on that twice. It was Boy got that gallery furniture on. I ain't mad at him. Man, I need everybody clapping, everybody clapping. Y'all hold on to y'all seats, man, for this next fella that's coming to the stage. He goes by the Grossman. Y'all give it up FOR TERRY GROSS. >> [music and cheering] >> I LIKE TO KNOW WHERE ALL MY PEOPLE AT MY AGE, 50 and up. WHERE YOU AT? COME ON, IT'S MORE THAN THAT IN HERE. ALL THEM vans outside, goddammit. It's more than"
+            }
+          ]
+        },
+        {
+          "ref": "#64",
+          "status": "available",
+          "video_id": "FSbE9EAHiGU",
+          "title": "ALI SIDDIQ: RUGGED [Full Stand Up Comedy Special]",
+          "url": "https://www.youtube.com/watch?v=FSbE9EAHiGU",
+          "word_count": 7540,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/064-FSbE9EAHiGU.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/064-FSbE9EAHiGU.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "wait",
+              "text": "was even born I'm like well things could have [Applause] changed he up there right I hear him up there he didn't click that thing like six times I heard him about I say now wait one damn minute now I raise direction that thing you supposed to click that thing once or twice and you supposed to wait it's a waiting period and then I hear him again I say now that's 12 clicks that is 12 clicks I count them that's 12 clicks man I'm thinking we all right because I don't hear no gas next thing I"
+            },
+            {
+              "matched_term": "hold on",
+              "text": "go around and there stick you in the LA and I see old boy and I know he thought them bushes hit him I came through them bushes bow you trying to do my he hold on man hold on listen to me somebody somebody just put a gun on me I said somebody pulled a gun on you not two people that pulled a gun on your ass get your ass on the ground so trying to get in my daughter house and where the person that pulled the gun on you where they at oh get on your"
+            }
+          ]
+        },
+        {
+          "ref": "#198",
+          "status": "available",
+          "video_id": "EsKDNZQhVX0",
+          "title": "The Domino Effect [One Hour Stand Up Comedy Special] by Ali Siddiq",
+          "url": "https://www.youtube.com/watch?v=EsKDNZQhVX0",
+          "word_count": 10814,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/198-EsKDNZQhVX0.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/198-EsKDNZQhVX0.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "let me",
+              "text": "HOUSTON, ARE YOU READY? PUT YOUR HANDS TOGETHER FOR ALI SIDDIQ. HEY. LET ME START BY SAYING THIS. IN LIFE, people um make you make a lot of mistakes in your life, and you go through things, and you should have went right, but you went left. You know, you zig when you should have zagged. Things happen, but you don't get a chance to pinpoint a lot of times when you went wrong. And I don't"
+            },
+            {
+              "matched_term": "you know",
+              "text": "LET ME START BY SAYING THIS. IN LIFE, people um make you make a lot of mistakes in your life, and you go through things, and you should have went right, but you went left. You know, you zig when you should have zagged. Things happen, but you don't get a chance to pinpoint a lot of times when you went wrong. And I don't know if y'all know about me, but I was I used to be a street pharmaceutical rep, which is very frowned upon. And I had I had enough time to think about how I got"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    },
+    {
+      "item_id": "ali-006",
+      "candidate_pattern": "repetition_callback_and_transformed_meaning",
+      "review_prompt": "Does a repeated image or phrase return with changed meaning, and what is the minimal presentation version?",
+      "references": [
+        {
+          "ref": "#151",
+          "status": "available",
+          "video_id": "nvofZaBh7wA",
+          "title": "THE DOMINO EFFECT part 2 LOSS   [FULL Comedy Standup Special - ALI SIDDIQ]",
+          "url": "https://www.youtube.com/watch?v=nvofZaBh7wA",
+          "word_count": 10848,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/151-nvofZaBh7wA.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/151-nvofZaBh7wA.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "again",
+              "text": "and Charles is in the penitentiary on a violation he locked up on a violation so all my bad influences are off doing other things and now I have free reign to be a kid again I can be a child now and I moved back in with my mama I was living with my dad now I'm back in the house with my momma and it's different live with my momma cuz she moved in this little fancy little neighborhood different from where my daddy was staying and these people different they they they Upper Crust these Upper Crust"
+            },
+            {
+              "matched_term": "remember",
+              "text": "would like for you to call me but don't call me at the8 cuz my mama be tripping she called she called we talk on the phone all night till we you know fell asleep remember them days you talk to somebody to y'all both all asleep and y'all both tired to about you hang up you ain't no I'm I'mma stay there you and y'all both on the phone your mama come and cuss both y'all out on the phone but it's not that I'm not dating her because we talked on the phone I got a meet this"
+            }
+          ]
+        },
+        {
+          "ref": "#198",
+          "status": "available",
+          "video_id": "EsKDNZQhVX0",
+          "title": "The Domino Effect [One Hour Stand Up Comedy Special] by Ali Siddiq",
+          "url": "https://www.youtube.com/watch?v=EsKDNZQhVX0",
+          "word_count": 10814,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/198-EsKDNZQhVX0.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/198-EsKDNZQhVX0.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "again",
+              "text": "many crab you want? Oh you don't know what you want. Oh. Let me get all Let me get 15 pounds of them crab. I'M SITTING THERE LIKE WOO WE AIN'T GOING TO NEVER EAT AGAIN. It's a lot of crab. Lot of bucks. My daddy fun. My daddy you can go outside. Live your life. Something happen to you? It happen. My mama no fun. You know if things that was supposed to be fun like going outside was supposed to be fun. You supposed to get in adventurous My mama had a lot of rules. Lot of rules"
+            },
+            {
+              "matched_term": "remember",
+              "text": "just everybody going to want something different. You're making pancakes, waffles, and omelets. You know? Look at y'all think culinary school you think I went to, Uh So, I don't I don't ask. And I remember My mama never asked me what I what I wanted to do. I remember when I used to hate oatmeal. I used to hate oatmeal. I love oatmeal now because me and oatmeal have had a situation. You didn't know what it tastes like and then hate it. My mama came in with some oatmeal to me. This for breakfast. I'm like, I don't"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    },
+    {
+      "item_id": "ali-007",
+      "candidate_pattern": "difficulty_made_discussable_through_humor",
+      "review_prompt": "What makes the humor connective rather than distracting, divisive, or disparaging in a non-performance setting?",
+      "references": [
+        {
+          "ref": "#10",
+          "status": "available",
+          "video_id": "0jPUikpbyck",
+          "title": "ALI SIDDIQ presents THE JIVE TURKEYS Comedy Special  {Full Stand Up Special}",
+          "url": "https://www.youtube.com/watch?v=0jPUikpbyck",
+          "word_count": 14100,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/010-0jPUikpbyck.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/010-0jPUikpbyck.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "funny",
+              "text": "a little strange. One, strip club. Two, funeral. Now, I don't have time to tell you about strip club, but I performed at strip club before. I just want to let you know, ain't nothing funny after somebody took their clothes off in front of you. I came up there with the best jokes. They was like, \"Hey, man, bring Cinnamon back up here.\" That's what we came to see. And the second place, weird place I performed, was a funeral. Years ago, man, my manager called me and was like, \"Hey, uh you ain't going to believe this, but"
+            },
+            {
+              "matched_term": "laugh",
+              "text": "a family just hit me. Their mom died. She used to listen to you on the radio. She was going through chemo. She lived for about 5 more years, and they credit because she would laugh with you on the radio, laugh at you on the radio. So, they want to book you for the funeral.\" I told my manager, I said, \"Oh, no, dude, I ain't doing no funeral.\" Yeah, that ain't my thing. He said they paying full price. I said, \"I'll be killing them.\" Yeah. I know what I do. Uh So, I did it. I went"
+            }
+          ]
+        },
+        {
+          "ref": "#33",
+          "status": "available",
+          "video_id": "I4qDOF3RbCw",
+          "title": "Ali Siddiq presents Marcus D. Wiley: REHAB  {FULL COMEDY SPECIAL}",
+          "url": "https://www.youtube.com/watch?v=I4qDOF3RbCw",
+          "word_count": 9047,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/033-I4qDOF3RbCw.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/033-I4qDOF3RbCw.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "funny",
+              "text": "So I didn't know how they would receive it. So, I was a little nervous and I remember being in the restroom and a black dude walked in. He was like, \"Marcus D. Wy, you funny.\" But I want to see how you going to be in front of these white folk. [laughter] And I was like, \"Hey, why you have to be right next to me at the store, you know? It's about 12 more stars. You ain't got to be next door neighbor. Slide down.\" But I needed to hear what he said because what he said it"
+            },
+            {
+              "matched_term": "marriage",
+              "text": "[music] for Marcus D. Wally. [cheering] [music and cheering] What's up? All right. [cheering] >> What's up? How everybody doing? [cheering] >> I want to jump right into it. Ever since I dropped my special marriage is major surgery, >> people think I am a marriage counselor. [laughter] I'm not. Just because I am verified on social media don't mean I'm qualified to counsel. [laughter] Me and my wife argue all the time. Uh I find it quite healthy. Uh the the Bible say iron sharpens iron. It's going to be some friction sometime. I am not a marriage counselor."
+            }
+          ]
+        },
+        {
+          "ref": "#82",
+          "status": "available",
+          "video_id": "1pTQCYaTlZY",
+          "title": "Ali Siddiq presents Marcus D. Wiley: Marriage is Major Surgery | FULL COMEDY SPECIAL",
+          "url": "https://www.youtube.com/watch?v=1pTQCYaTlZY",
+          "word_count": 10161,
+          "clean_transcript": "raw-material/youtube/transcripts/ali-siddiq-wave-2/clean/082-1pTQCYaTlZY.txt",
+          "cue_file": "raw-material/youtube/transcripts/ali-siddiq-wave-2/cues/082-1pTQCYaTlZY.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "funny",
+              "text": "top heels the trays with the coconut drinks on them and after my show I was just sitting on the couch and they just kept coming up to me ooh Poppy poppy you were so funny tonight [Applause] Poppy and I couldn't even enjoy it because I'm thinking the only person who will understand the magnitude of this moment is is not here I've been pillar talking her for 5 years telling her stick with me hang on it's going to pop for us and now it's popping and she not here I couldn't even enjoy the Coconuts [Applause] my"
+            },
+            {
+              "matched_term": "laugh",
+              "text": "trying to see if she my type of girl does she have the type of personality I like because if she my kind of girl when she get this she going to smile maybe blush laugh or something like that if she not my kind of girl when she get the nap CU she going who child is throw it all the way that ain't my type that's not my type so we passed the napkin over to her table and we was just like this she got the napkin she opened it up she smiled she put her head"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Reviewer decisions require reading the full linked transcript context and do not establish recurrence, transfer, or effectiveness."
+    }
+  ]
+}

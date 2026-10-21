@@ -1,0 +1,851 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.168 --> 00:00:09.140
+So I recently just completed
+a short film about computers,
+
+00:00:09.140 --> 00:00:12.443
+and I'm very excited to be able
+to premiere it right now at TED.
+
+00:00:12.443 --> 00:00:13.477
+(Cheers)
+
+00:00:13.511 --> 00:00:14.945
+Let's take a look. Thank you.
+
+00:00:14.945 --> 00:00:16.614
+(Soothing music)
+
+00:00:30.127 --> 00:00:31.862
+(Screaming)
+
+00:00:32.463 --> 00:00:34.198
+(Laughter)
+
+00:00:35.132 --> 00:00:36.400
+Did that scare you?
+
+00:00:36.434 --> 00:00:38.102
+(Laughter)
+
+00:00:38.135 --> 00:00:42.306
+I think that's because computers
+actually are kind of scary, aren't they?
+
+00:00:42.339 --> 00:00:45.276
+Hi, my name is Alan Resnick,
+
+00:00:45.309 --> 00:00:48.112
+and if you don’t know me,
+I’m a bit of a “tech-head.”
+
+00:00:48.112 --> 00:00:49.380
+What does that mean?
+
+00:00:49.413 --> 00:00:52.049
+It means an average day for me
+is spent surfing the web,
+
+00:00:52.083 --> 00:00:55.186
+checking my emails
+and just clicking on links.
+
+00:00:55.219 --> 00:00:57.088
+That's sort of me in a nutshell.
+
+00:00:57.121 --> 00:00:58.522
+And when I'm not doing that,
+
+00:00:58.556 --> 00:01:02.927
+I tour the country, and I teach people
+how to use computers.
+
+00:01:02.960 --> 00:01:05.729
+And the number one thing
+I've noticed all over
+
+00:01:05.763 --> 00:01:08.799
+is that people are afraid of computers.
+
+00:01:08.833 --> 00:01:10.401
+They're scared.
+
+00:01:10.434 --> 00:01:14.105
+And don't get me started
+on the internet, you guys.
+
+00:01:14.138 --> 00:01:16.006
+Has anyone here ever been online?
+
+00:01:16.040 --> 00:01:17.174
+(Laughter)
+
+00:01:17.208 --> 00:01:19.410
+Two, three hands.
+
+00:01:19.410 --> 00:01:21.045
+You guys gotta get online.
+
+00:01:21.078 --> 00:01:22.646
+It's incre --
+
+00:01:22.680 --> 00:01:23.948
+I'm telling you,
+
+00:01:23.948 --> 00:01:26.350
+there's some crazy stuff online, you guys.
+
+00:01:26.383 --> 00:01:29.320
+I don't have time
+to get into it right now,
+
+00:01:29.320 --> 00:01:32.890
+but they have photos and videos
+of people online,
+
+00:01:32.923 --> 00:01:37.294
+and they're performing a kind of love
+that I am not comfortable with.
+
+00:01:37.328 --> 00:01:38.596
+OK?
+
+00:01:38.629 --> 00:01:39.797
+(Laughter)
+
+00:01:39.830 --> 00:01:41.098
+And they have your data.
+
+00:01:42.032 --> 00:01:44.468
+They do. These sick people have your data.
+
+00:01:44.502 --> 00:01:46.504
+Are you comfortable with that? I'm not.
+
+00:01:47.338 --> 00:01:50.274
+But I have a question for you guys,
+and it is a real question.
+
+00:01:50.307 --> 00:01:52.676
+How do you use your computer?
+
+00:01:52.676 --> 00:01:54.378
+How do you guys use your computers?
+
+00:01:54.378 --> 00:01:56.247
+Just curious.
+
+00:01:56.247 --> 00:01:57.515
+Can we get her a mic?
+
+00:01:57.515 --> 00:02:00.117
+How do you use your computer?
+
+00:02:00.117 --> 00:02:01.986
+Audience Member: Well, I usually use
+
+00:02:01.986 --> 00:02:02.987
+my computer for work.
+
+00:02:02.987 --> 00:02:05.723
+So emails and, you know,
+sending messages to folks.
+
+00:02:05.756 --> 00:02:07.925
+Alan Resnick: No, stop. OK. Shut up. No.
+
+00:02:07.958 --> 00:02:09.760
+OK. This is wrong.
+
+00:02:09.793 --> 00:02:10.895
+(Laughter)
+
+00:02:10.928 --> 00:02:15.633
+This is incorrect. I hate to say this,
+but you're using your computer wrong.
+
+00:02:15.666 --> 00:02:18.435
+You know, not "use."
+I don't love that word "use."
+
+00:02:18.469 --> 00:02:20.738
+We don't "use" computers, do we?
+
+00:02:20.738 --> 00:02:24.508
+No. I think of computers
+a little like grandparents, actually.
+
+00:02:24.542 --> 00:02:26.510
+You wouldn't use your grandmother, right?
+
+00:02:26.510 --> 00:02:27.511
+(Laughter)
+
+00:02:27.545 --> 00:02:30.447
+But your grandmother can
+make your life easier
+
+00:02:30.447 --> 00:02:32.716
+if you use her properly.
+
+00:02:32.750 --> 00:02:35.486
+So what is the proper way
+to use a computer?
+
+00:02:35.486 --> 00:02:38.088
+Tonight I'm going to share with you
+my one simple trick
+
+00:02:38.122 --> 00:02:40.224
+that's going to make
+your life a lot easier,
+
+00:02:40.257 --> 00:02:43.260
+it's going to protect your data
+and it's going to calm you down.
+
+00:02:43.294 --> 00:02:44.695
+OK, here it is.
+
+00:02:44.695 --> 00:02:45.963
+(Clears throat)
+
+00:02:46.864 --> 00:02:48.132
+(Whispers) Desktops.
+
+00:02:49.366 --> 00:02:51.569
+Desktops.
+
+00:02:51.569 --> 00:02:52.836
+What is he saying?
+
+00:02:52.870 --> 00:02:54.138
+(Whispers) Desktop.
+
+00:02:54.171 --> 00:02:57.675
+I can't hear him. What are you saying?
+I'm saying save it to your desktop!
+
+00:02:57.708 --> 00:03:00.110
+It's as simple as that.
+Save it to your desktop.
+
+00:03:00.110 --> 00:03:01.812
+OK? Yeah, we can clap for that.
+
+00:03:01.845 --> 00:03:04.148
+That's pretty cool. That is pretty cool.
+
+00:03:04.181 --> 00:03:06.383
+You're going,
+"Alan, it can't be that easy."
+
+00:03:06.383 --> 00:03:07.384
+It is.
+
+00:03:07.384 --> 00:03:09.153
+But before
+we can talk about desktops,
+
+00:03:09.153 --> 00:03:11.956
+we have to talk about something else.
+
+00:03:11.956 --> 00:03:14.491
+Look at this. Check this out.
+This is pretty cool.
+
+00:03:15.059 --> 00:03:17.261
+Look at that. You see this?
+
+00:03:17.261 --> 00:03:18.329
+My skin. Look at --
+
+00:03:18.329 --> 00:03:19.363
+Whoa!
+
+00:03:19.363 --> 00:03:21.198
+My skin is vibrating.
+
+00:03:21.198 --> 00:03:24.101
+But it's vibrating --
+it's very hard to tell.
+
+00:03:24.134 --> 00:03:26.337
+It's hard to see.
+Here. This is vibrating, too.
+
+00:03:26.370 --> 00:03:29.073
+But I think you'll be able to see this.
+Can you see that?
+
+00:03:29.073 --> 00:03:30.341
+Light vibrates too.
+
+00:03:30.374 --> 00:03:32.643
+Are you -- I need a response.
+
+00:03:32.676 --> 00:03:34.278
+Can you see that? You can? OK.
+
+00:03:34.278 --> 00:03:35.613
+(Laughter)
+
+00:03:35.613 --> 00:03:38.215
+That's because of the eye-brain system.
+
+00:03:38.249 --> 00:03:40.784
+The visible spectrum.
+Rods and cones. Rods and cones.
+
+00:03:40.784 --> 00:03:42.052
+Rods and cones.
+
+00:03:42.086 --> 00:03:44.188
+But my skin is vibrating, too.
+
+00:03:44.221 --> 00:03:47.491
+But it vibrates at a rate
+that you can't see or perceive,
+
+00:03:47.491 --> 00:03:51.228
+but dogs and pets can actually hear.
+
+00:03:51.262 --> 00:03:53.364
+They hear our skin.
+
+00:03:53.364 --> 00:03:55.633
+So I know you like to touch
+a little dog's head.
+
+00:03:55.666 --> 00:03:56.900
+(Imitates barking)
+
+00:03:56.934 --> 00:04:00.738
+But that passive action is actually
+causing them extreme inner ear pain,
+
+00:04:00.738 --> 00:04:02.239
+so you shouldn't touch dogs.
+
+00:04:02.239 --> 00:04:03.941
+(Laughter)
+
+00:04:03.974 --> 00:04:05.509
+But here's what you didn't know.
+
+00:04:07.611 --> 00:04:09.113
+My computer vibrates too.
+
+00:04:09.113 --> 00:04:10.948
+Did you know that? Computers vibrate.
+
+00:04:10.948 --> 00:04:15.052
+And they happen to vibrate
+at the exact opposite rate as human skin.
+
+00:04:15.085 --> 00:04:16.387
+That's amazing.
+
+00:04:16.420 --> 00:04:20.057
+So when you're working with a computer,
+those vibrations are phasing.
+
+00:04:20.090 --> 00:04:24.028
+And when you touch a computer,
+you have a vibration rate of zero.
+
+00:04:24.028 --> 00:04:26.397
+There is only one moment
+in every person's life
+
+00:04:26.430 --> 00:04:28.399
+when they have a vibration rate of zero,
+
+00:04:28.432 --> 00:04:33.070
+and that is on their fifth birthday,
+when they blow out the candle.
+
+00:04:33.070 --> 00:04:35.005
+So you go on, "Alan, you convinced me."
+
+00:04:35.039 --> 00:04:37.408
+If working with computers
+feels even half as good
+
+00:04:37.408 --> 00:04:38.976
+as a little boy's birthday,
+
+00:04:39.009 --> 00:04:40.544
+then sign me up.
+
+00:04:40.577 --> 00:04:44.982
+The glove is off and we're ready
+to change our lives forever.
+
+00:04:45.015 --> 00:04:46.283
+But how?
+
+00:04:46.283 --> 00:04:47.551
+(Whispers) Desktops.
+
+00:04:47.584 --> 00:04:49.019
+I already told you, desktops.
+
+00:04:49.053 --> 00:04:51.221
+Save it to your desktop!
+I already said that.
+
+00:04:51.255 --> 00:04:52.823
+Save it to your desktop. OK.
+
+00:04:52.823 --> 00:04:53.924
+(Laughter)
+
+00:04:53.957 --> 00:04:55.392
+I think you're ready.
+
+00:04:57.027 --> 00:04:58.762
+Do you guys want to see my desktop?
+
+00:04:58.762 --> 00:05:01.365
+Audience: Yes. Show me your desktop.
+
+00:05:01.365 --> 00:05:02.366
+AR: I can’t hear you.
+
+00:05:02.366 --> 00:05:04.134
+Do you guys want to see my desktop?
+
+00:05:04.134 --> 00:05:06.036
+Come on! OK, let's do it!
+
+00:05:06.036 --> 00:05:08.439
+Here we go. Let's get it booted up.
+
+00:05:08.439 --> 00:05:11.008
+Here it is. It's my desktop.
+
+00:05:11.008 --> 00:05:12.443
+Whoa!
+
+00:05:12.443 --> 00:05:13.711
+That's amazing.
+
+00:05:13.744 --> 00:05:16.647
+You're going, "Alan, I could never
+have something like that."
+
+00:05:16.680 --> 00:05:19.216
+If you follow my simple rule,
+save it to your desktop,
+
+00:05:19.249 --> 00:05:21.552
+you're not only going to have
+an awesome desktop,
+
+00:05:21.585 --> 00:05:24.088
+you're actually going to have
+a wicked, awesome life.
+
+00:05:24.121 --> 00:05:25.923
+Now check this out. This is cool.
+
+00:05:25.956 --> 00:05:28.525
+The desktop --
+
+00:05:28.559 --> 00:05:33.097
+is a little like
+my desk's top surface, right?
+
+00:05:33.097 --> 00:05:35.032
+So I have file folders on the computer.
+
+00:05:35.032 --> 00:05:38.068
+And guess what? I got them here too.
+
+00:05:38.068 --> 00:05:40.904
+What kind of things can you save
+to your desktop? Anything.
+
+00:05:40.904 --> 00:05:45.275
+You can have photos, emails, PDFs.
+
+00:05:45.309 --> 00:05:46.643
+Those are like packets.
+
+00:05:46.677 --> 00:05:50.214
+You can have movies, video games,
+
+00:05:50.247 --> 00:05:54.318
+key codes, MP3s, zip disks.
+
+00:05:54.318 --> 00:05:57.821
+These are all useful things
+that you can save to your desktop.
+
+00:05:57.821 --> 00:05:59.990
+So it's sort of
+an organizational technique.
+
+00:05:59.990 --> 00:06:01.658
+So I'll give you an example.
+
+00:06:01.658 --> 00:06:05.396
+Let's say your dad emails you
+some pics of the lawn.
+
+00:06:05.429 --> 00:06:07.898
+All you have to do is ...
+
+00:06:07.931 --> 00:06:12.002
+OK. Yeah, you got to just
+save them to the desktop.
+
+00:06:13.337 --> 00:06:15.606
+Just save those right to the desktop.
+
+00:06:15.639 --> 00:06:16.974
+(Laughter)
+
+00:06:17.007 --> 00:06:20.644
+And after you do that, you're going
+to want to print out a copy for yourself,
+
+00:06:20.677 --> 00:06:22.880
+which you're going to place
+on your desk's top.
+
+00:06:22.913 --> 00:06:25.616
+Can I get those photos?
+Where the heck are those photos?
+
+00:06:25.616 --> 00:06:26.884
+Oh, thank you so much.
+
+00:06:26.917 --> 00:06:28.919
+So --
+
+00:06:28.952 --> 00:06:30.421
+This is cool.
+
+00:06:30.454 --> 00:06:32.523
+So now you always know
+where everything is.
+
+00:06:32.556 --> 00:06:34.358
+You're not going to lose anything.
+
+00:06:34.391 --> 00:06:37.728
+I'll give you another example.
+I'm just going to pick a file at random.
+
+00:06:37.761 --> 00:06:39.897
+Let's just pick a random file.
+
+00:06:39.930 --> 00:06:42.032
+OK? Eeny meeny miny moe.
+
+00:06:42.032 --> 00:06:43.967
+Catch a tiger by the t --
+
+00:06:44.001 --> 00:06:45.235
+Oh.
+
+00:06:47.004 --> 00:06:49.239
+This is a little embarrassing.
+
+00:06:49.239 --> 00:06:51.675
+This is actually an old poem I wrote.
+
+00:06:51.708 --> 00:06:53.310
+Egg on my face. It says,
+
+00:06:53.343 --> 00:06:57.681
+"Why whisper when a yell
+can travel just as far?
+
+00:06:57.714 --> 00:07:00.984
+A whisper yelled is a whisper heard."
+
+00:07:00.984 --> 00:07:02.586
+Hmm.
+
+00:07:02.619 --> 00:07:04.788
+(Laughter)
+
+00:07:06.757 --> 00:07:10.928
+So where did I save that?
+Let's see. Where did I save that?
+
+00:07:11.495 --> 00:07:13.730
+It looks like I put that on...
+
+00:07:13.764 --> 00:07:19.269
+OK, that's C5, that's the bottom
+right corner of my desk.
+
+00:07:19.303 --> 00:07:20.804
+(Laughter)
+
+00:07:20.838 --> 00:07:22.072
+So it should be here.
+
+00:07:23.540 --> 00:07:24.808
+Oh, Goddamn it!
+
+00:07:25.375 --> 00:07:26.677
+Oh! Boom! Here it is!
+
+00:07:26.710 --> 00:07:29.146
+Wow! You can clap for that. That's cool!
+
+00:07:29.179 --> 00:07:30.781
+This is amazing. This is amazing.
+
+00:07:30.781 --> 00:07:31.882
+(Applause)
+
+00:07:31.915 --> 00:07:35.185
+Now I'm noticing there's a couple
+eagle-eyed viewers in the audience,
+
+00:07:35.219 --> 00:07:36.887
+and they're looking at my computer
+
+00:07:36.920 --> 00:07:39.523
+and they're going,
+"Something's up, something's up."
+
+00:07:39.556 --> 00:07:43.594
+You're going, "Alan,
+where the heck is your toolbar?"
+
+00:07:43.627 --> 00:07:46.263
+Or dock. Some people call it dock.
+I call it a toolbar.
+
+00:07:46.296 --> 00:07:48.966
+"Where's your toolbar?" Well, guess what.
+
+00:07:48.999 --> 00:07:51.768
+My computer doesn't have a toolbar.
+
+00:07:51.802 --> 00:07:55.272
+Why? I'm not addicted to my toolbar.
+
+00:07:55.305 --> 00:07:58.108
+You think America's
+got an obesity problem?
+
+00:07:58.141 --> 00:08:01.712
+You think we have a fentanyl problem?
+Folks, we have a toolbar problem.
+
+00:08:01.745 --> 00:08:03.714
+Stop using your toolbar.
+
+00:08:03.747 --> 00:08:06.817
+There is room for everything you need
+right here on the desktop.
+
+00:08:06.850 --> 00:08:08.085
+(Laughter)
+
+00:08:15.993 --> 00:08:17.261
+This is silly.
+
+00:08:18.495 --> 00:08:20.464
+This is my --
+
+00:08:20.497 --> 00:08:22.132
+My girlfriend,
+
+00:08:22.165 --> 00:08:24.434
+my ex-girlfriend, actually,
+made this for me.
+
+00:08:24.468 --> 00:08:25.469
+(Laughter)
+
+00:08:25.502 --> 00:08:26.737
+And, uh...
+
+00:08:27.504 --> 00:08:30.407
+I don't know, it's silly,
+but I like to look at it.
+
+00:08:30.407 --> 00:08:31.942
+It makes me happy to see this,
+
+00:08:31.975 --> 00:08:33.410
+so I --
+
+00:08:33.410 --> 00:08:34.511
+(Sighs)
+
+00:08:34.545 --> 00:08:36.980
+I keep it on my desk while I work.
+
+00:08:37.014 --> 00:08:38.248
+But, uh --
+
+00:08:39.583 --> 00:08:40.817
+Yeah.
+
+00:08:41.618 --> 00:08:44.054
+No, no, it's, um --
+
+00:08:44.955 --> 00:08:46.456
+It's not in the computer.
+
+00:08:48.292 --> 00:08:51.261
+Yet! But literally anything
+can be saved to your desktop.
+
+00:08:51.295 --> 00:08:56.033
+All you have to do is rig up a camera
+around a bucket at 90 degrees.
+
+00:08:56.033 --> 00:08:58.669
+You're going to want
+to fill the bucket with black water
+
+00:08:58.702 --> 00:09:00.470
+and paint your beloved object white.
+
+00:09:00.504 --> 00:09:02.472
+And here's what you do. It's really easy.
+
+00:09:02.506 --> 00:09:06.009
+You submerge the object in the water
+and film yourself as you pull it up,
+
+00:09:06.043 --> 00:09:07.811
+recording its topology through time.
+
+00:09:07.844 --> 00:09:10.948
+You're going to get the topology
+of every axis, axes, axi.
+
+00:09:10.948 --> 00:09:14.351
+And once you have the axis data,
+all you have to do is boolean the axis.
+
+00:09:14.384 --> 00:09:17.521
+You’re going to end up with an OBJ file
+that’s super high quality,
+
+00:09:17.554 --> 00:09:20.490
+you can render in an infinite quality
+of lighting conditions.
+
+00:09:20.490 --> 00:09:22.559
+And then there's only
+one thing left to do.
+
+00:09:22.593 --> 00:09:23.894
+What are we going to do?
+
+00:09:23.894 --> 00:09:25.596
+(Audience) Save it to your desktop.
+
+00:09:25.596 --> 00:09:27.664
+AR: Yes. Oh my God.
+Save it to your desktop!
+
+00:09:27.664 --> 00:09:29.833
+Yes! Woo! If you do this,
+
+00:09:29.833 --> 00:09:32.636
+you will always have the things
+you want and need and love,
+
+00:09:32.669 --> 00:09:34.805
+and you will know
+exactly where to find them.
+
+00:09:34.838 --> 00:09:36.506
+You never have to be lonely again.
+
+00:09:36.540 --> 00:09:38.609
+You will be happy
+and people will love you.
+
+00:09:38.642 --> 00:09:42.212
+Listen, if you don't have
+organizational skills and desktop skills,
+
+00:09:42.245 --> 00:09:45.315
+I'm sorry, folks,
+you're not going to get that job.
+
+00:09:45.349 --> 00:09:48.385
+Your data, it's going to be
+leaking on the floor.
+
+00:09:48.418 --> 00:09:52.022
+People are going to be slipping.
+They're going to be slipping on your data.
+
+00:09:52.055 --> 00:09:53.757
+You can say "bye-bye" to your kids.
+
+00:09:53.790 --> 00:09:56.360
+They're going to be living
+on their desktops.
+
+00:09:56.360 --> 00:10:00.297
+Mark my words, in one year's time,
+people will literally be,
+
+00:10:00.330 --> 00:10:02.799
+blah, blah, blah, blah,
+talking to their computers.
+
+00:10:02.799 --> 00:10:05.502
+Whoa. In two years,
+people are going to be walking around
+
+00:10:05.535 --> 00:10:08.672
+with glasses so powerful
+they're never going to need to come home.
+
+00:10:08.705 --> 00:10:11.174
+And in three years' time,
+
+00:10:11.208 --> 00:10:12.943
+computers will have gotten so small
+
+00:10:12.943 --> 00:10:16.546
+they will literally fit
+on a piece of breakable glass.
+
+00:10:18.448 --> 00:10:20.183
+(Groans)
+
+00:10:21.451 --> 00:10:22.519
+(Crack)
+
+00:10:22.552 --> 00:10:24.721
+Whew! OK. Thank you so much.
+
+00:10:24.755 --> 00:10:26.023
+My name is Alan Resnick.
+
+00:10:26.056 --> 00:10:28.392
+I really hope that helped.
+You've been incredible.
+
+00:10:28.392 --> 00:10:30.894
+I love you so much. Good night.
+Thank you, thank you.
+
+00:10:30.927 --> 00:10:32.562
+Thank you, thank you, thank you.
+
+00:10:32.596 --> 00:10:34.131
+(Applause and cheers)
+

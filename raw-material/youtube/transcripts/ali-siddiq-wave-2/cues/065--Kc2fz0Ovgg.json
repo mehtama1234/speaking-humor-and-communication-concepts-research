@@ -1,0 +1,646 @@
+[
+  {
+    "start": "00:00:00.080",
+    "end": "00:00:02.710",
+    "start_seconds": 0.08,
+    "end_seconds": 2.71,
+    "text": "I wanna I want to start by doing this."
+  },
+  {
+    "start": "00:00:02.710",
+    "end": "00:00:02.720",
+    "start_seconds": 2.71,
+    "end_seconds": 2.72,
+    "text": "I wanna I want to start by doing this."
+  },
+  {
+    "start": "00:00:02.720",
+    "end": "00:00:04.510",
+    "start_seconds": 2.72,
+    "end_seconds": 4.51,
+    "text": "I wanna I want to start by doing this. If you are not"
+  },
+  {
+    "start": "00:00:04.510",
+    "end": "00:00:04.520",
+    "start_seconds": 4.51,
+    "end_seconds": 4.52,
+    "text": "If you are not"
+  },
+  {
+    "start": "00:00:04.520",
+    "end": "00:00:07.629",
+    "start_seconds": 4.52,
+    "end_seconds": 7.629,
+    "text": "If you are not handy, you might want to learn to fix"
+  },
+  {
+    "start": "00:00:07.629",
+    "end": "00:00:07.639",
+    "start_seconds": 7.629,
+    "end_seconds": 7.639,
+    "text": "handy, you might want to learn to fix"
+  },
+  {
+    "start": "00:00:07.639",
+    "end": "00:00:10.549",
+    "start_seconds": 7.639,
+    "end_seconds": 10.549,
+    "text": "handy, you might want to learn to fix something cuz for some reason when you"
+  },
+  {
+    "start": "00:00:10.549",
+    "end": "00:00:10.559",
+    "start_seconds": 10.549,
+    "end_seconds": 10.559,
+    "text": "something cuz for some reason when you"
+  },
+  {
+    "start": "00:00:10.559",
+    "end": "00:00:12.310",
+    "start_seconds": 10.559,
+    "end_seconds": 12.31,
+    "text": "something cuz for some reason when you not handy, you get totally disrespected."
+  },
+  {
+    "start": "00:00:12.310",
+    "end": "00:00:12.320",
+    "start_seconds": 12.31,
+    "end_seconds": 12.32,
+    "text": "not handy, you get totally disrespected."
+  },
+  {
+    "start": "00:00:12.320",
+    "end": "00:00:14.390",
+    "start_seconds": 12.32,
+    "end_seconds": 14.39,
+    "text": "not handy, you get totally disrespected. Many people don't love me in my house"
+  },
+  {
+    "start": "00:00:14.390",
+    "end": "00:00:14.400",
+    "start_seconds": 14.39,
+    "end_seconds": 14.4,
+    "text": "Many people don't love me in my house"
+  },
+  {
+    "start": "00:00:14.400",
+    "end": "00:00:17.390",
+    "start_seconds": 14.4,
+    "end_seconds": 17.39,
+    "text": "Many people don't love me in my house cuz I can't fix"
+  },
+  {
+    "start": "00:00:17.400",
+    "end": "00:00:19.990",
+    "start_seconds": 17.4,
+    "end_seconds": 19.99,
+    "text": "stuff. I heard something crawling around"
+  },
+  {
+    "start": "00:00:19.990",
+    "end": "00:00:20.000",
+    "start_seconds": 19.99,
+    "end_seconds": 20.0,
+    "text": "stuff. I heard something crawling around"
+  },
+  {
+    "start": "00:00:20.000",
+    "end": "00:00:21.830",
+    "start_seconds": 20.0,
+    "end_seconds": 21.83,
+    "text": "stuff. I heard something crawling around in my attic the other day and I turned"
+  },
+  {
+    "start": "00:00:21.830",
+    "end": "00:00:21.840",
+    "start_seconds": 21.83,
+    "end_seconds": 21.84,
+    "text": "in my attic the other day and I turned"
+  },
+  {
+    "start": "00:00:21.840",
+    "end": "00:00:25.349",
+    "start_seconds": 21.84,
+    "end_seconds": 25.349,
+    "text": "in my attic the other day and I turned the heat up to 96. Whatever's up there"
+  },
+  {
+    "start": "00:00:25.349",
+    "end": "00:00:25.359",
+    "start_seconds": 25.349,
+    "end_seconds": 25.359,
+    "text": "the heat up to 96. Whatever's up there"
+  },
+  {
+    "start": "00:00:25.359",
+    "end": "00:00:27.990",
+    "start_seconds": 25.359,
+    "end_seconds": 27.99,
+    "text": "the heat up to 96. Whatever's up there is going to suffocate. is going to die"
+  },
+  {
+    "start": "00:00:27.990",
+    "end": "00:00:28.000",
+    "start_seconds": 27.99,
+    "end_seconds": 28.0,
+    "text": "is going to suffocate. is going to die"
+  },
+  {
+    "start": "00:00:28.000",
+    "end": "00:00:29.429",
+    "start_seconds": 28.0,
+    "end_seconds": 29.429,
+    "text": "is going to suffocate. is going to die and the housekeeper going to go up there"
+  },
+  {
+    "start": "00:00:29.429",
+    "end": "00:00:29.439",
+    "start_seconds": 29.429,
+    "end_seconds": 29.439,
+    "text": "and the housekeeper going to go up there"
+  },
+  {
+    "start": "00:00:29.439",
+    "end": "00:00:33.389",
+    "start_seconds": 29.439,
+    "end_seconds": 33.389,
+    "text": "and the housekeeper going to go up there and get it. I'm not messing with"
+  },
+  {
+    "start": "00:00:33.399",
+    "end": "00:00:42.990",
+    "start_seconds": 33.399,
+    "end_seconds": 42.99,
+    "text": "it. It's the thing that makes the water"
+  },
+  {
+    "start": "00:00:43.000",
+    "end": "00:00:45.830",
+    "start_seconds": 43.0,
+    "end_seconds": 45.83,
+    "text": "hot. He said the hot water heater. I say"
+  },
+  {
+    "start": "00:00:45.830",
+    "end": "00:00:45.840",
+    "start_seconds": 45.83,
+    "end_seconds": 45.84,
+    "text": "hot. He said the hot water heater. I say"
+  },
+  {
+    "start": "00:00:45.840",
+    "end": "00:00:48.150",
+    "start_seconds": 45.84,
+    "end_seconds": 48.15,
+    "text": "hot. He said the hot water heater. I say if that's the technical name of it."
+  },
+  {
+    "start": "00:00:48.150",
+    "end": "00:00:48.160",
+    "start_seconds": 48.15,
+    "end_seconds": 48.16,
+    "text": "if that's the technical name of it."
+  },
+  {
+    "start": "00:00:48.160",
+    "end": "00:00:50.950",
+    "start_seconds": 48.16,
+    "end_seconds": 50.95,
+    "text": "if that's the technical name of it. Grass just high on safari out there."
+  },
+  {
+    "start": "00:00:50.950",
+    "end": "00:00:50.960",
+    "start_seconds": 50.95,
+    "end_seconds": 50.96,
+    "text": "Grass just high on safari out there."
+  },
+  {
+    "start": "00:00:50.960",
+    "end": "00:00:53.670",
+    "start_seconds": 50.96,
+    "end_seconds": 53.67,
+    "text": "Grass just high on safari out there. Grass just high. So I decide I'm going"
+  },
+  {
+    "start": "00:00:53.670",
+    "end": "00:00:53.680",
+    "start_seconds": 53.67,
+    "end_seconds": 53.68,
+    "text": "Grass just high. So I decide I'm going"
+  },
+  {
+    "start": "00:00:53.680",
+    "end": "00:00:56.670",
+    "start_seconds": 53.68,
+    "end_seconds": 56.67,
+    "text": "Grass just high. So I decide I'm going to go get a lawnmower. I'mma cut it"
+  },
+  {
+    "start": "00:00:56.670",
+    "end": "00:00:56.680",
+    "start_seconds": 56.67,
+    "end_seconds": 56.68,
+    "text": "to go get a lawnmower. I'mma cut it"
+  },
+  {
+    "start": "00:00:56.680",
+    "end": "00:00:59.229",
+    "start_seconds": 56.68,
+    "end_seconds": 59.229,
+    "text": "to go get a lawnmower. I'mma cut it myself. Man, let me let me tell y'all"
+  },
+  {
+    "start": "00:00:59.229",
+    "end": "00:00:59.239",
+    "start_seconds": 59.229,
+    "end_seconds": 59.239,
+    "text": "myself. Man, let me let me tell y'all"
+  },
+  {
+    "start": "00:00:59.239",
+    "end": "00:01:01.430",
+    "start_seconds": 59.239,
+    "end_seconds": 61.43,
+    "text": "myself. Man, let me let me tell y'all something. I didn't know that a"
+  },
+  {
+    "start": "00:01:01.430",
+    "end": "00:01:01.440",
+    "start_seconds": 61.43,
+    "end_seconds": 61.44,
+    "text": "something. I didn't know that a"
+  },
+  {
+    "start": "00:01:01.440",
+    "end": "00:01:03.349",
+    "start_seconds": 61.44,
+    "end_seconds": 63.349000000000004,
+    "text": "something. I didn't know that a lawnmower didn't come already assembled."
+  },
+  {
+    "start": "00:01:03.349",
+    "end": "00:01:03.359",
+    "start_seconds": 63.349000000000004,
+    "end_seconds": 63.359,
+    "text": "lawnmower didn't come already assembled."
+  },
+  {
+    "start": "00:01:03.359",
+    "end": "00:01:05.670",
+    "start_seconds": 63.359,
+    "end_seconds": 65.67,
+    "text": "lawnmower didn't come already assembled. You got to assemble it. Oh, I said I"
+  },
+  {
+    "start": "00:01:05.670",
+    "end": "00:01:05.680",
+    "start_seconds": 65.67,
+    "end_seconds": 65.68,
+    "text": "You got to assemble it. Oh, I said I"
+  },
+  {
+    "start": "00:01:05.680",
+    "end": "00:01:07.429",
+    "start_seconds": 65.68,
+    "end_seconds": 67.429,
+    "text": "You got to assemble it. Oh, I said I wasn't handed. Don't do Don't Don't lean"
+  },
+  {
+    "start": "00:01:07.429",
+    "end": "00:01:07.439",
+    "start_seconds": 67.429,
+    "end_seconds": 67.439,
+    "text": "wasn't handed. Don't do Don't Don't lean"
+  },
+  {
+    "start": "00:01:07.439",
+    "end": "00:01:09.350",
+    "start_seconds": 67.439,
+    "end_seconds": 69.35,
+    "text": "wasn't handed. Don't do Don't Don't lean back on me, dog. I told you I wasn't"
+  },
+  {
+    "start": "00:01:09.350",
+    "end": "00:01:09.360",
+    "start_seconds": 69.35,
+    "end_seconds": 69.36,
+    "text": "back on me, dog. I told you I wasn't"
+  },
+  {
+    "start": "00:01:09.360",
+    "end": "00:01:11.350",
+    "start_seconds": 69.36,
+    "end_seconds": 71.35,
+    "text": "back on me, dog. I told you I wasn't handed, boy. They always try to make you"
+  },
+  {
+    "start": "00:01:11.350",
+    "end": "00:01:11.360",
+    "start_seconds": 71.35,
+    "end_seconds": 71.36,
+    "text": "handed, boy. They always try to make you"
+  },
+  {
+    "start": "00:01:11.360",
+    "end": "00:01:14.190",
+    "start_seconds": 71.36,
+    "end_seconds": 74.19,
+    "text": "handed, boy. They always try to make you feel bad. I tell you,"
+  },
+  {
+    "start": "00:01:14.190",
+    "end": "00:01:14.200",
+    "start_seconds": 74.19,
+    "end_seconds": 74.2,
+    "text": "feel bad. I tell you,"
+  },
+  {
+    "start": "00:01:14.200",
+    "end": "00:01:16.789",
+    "start_seconds": 74.2,
+    "end_seconds": 76.789,
+    "text": "feel bad. I tell you, boy. And y'all, I'm I'm a I'm a trained"
+  },
+  {
+    "start": "00:01:16.789",
+    "end": "00:01:16.799",
+    "start_seconds": 76.789,
+    "end_seconds": 76.799,
+    "text": "boy. And y'all, I'm I'm a I'm a trained"
+  },
+  {
+    "start": "00:01:16.799",
+    "end": "00:01:18.710",
+    "start_seconds": 76.799,
+    "end_seconds": 78.71000000000001,
+    "text": "boy. And y'all, I'm I'm a I'm a trained fighter. When something come in my head,"
+  },
+  {
+    "start": "00:01:18.710",
+    "end": "00:01:18.720",
+    "start_seconds": 78.71000000000001,
+    "end_seconds": 78.72,
+    "text": "fighter. When something come in my head,"
+  },
+  {
+    "start": "00:01:18.720",
+    "end": "00:01:21.350",
+    "start_seconds": 78.72,
+    "end_seconds": 81.35,
+    "text": "fighter. When something come in my head, I'm boom. Now, what you can't do is do"
+  },
+  {
+    "start": "00:01:21.350",
+    "end": "00:01:21.360",
+    "start_seconds": 81.35,
+    "end_seconds": 81.36,
+    "text": "I'm boom. Now, what you can't do is do"
+  },
+  {
+    "start": "00:01:21.360",
+    "end": "00:01:22.710",
+    "start_seconds": 81.36,
+    "end_seconds": 82.71000000000001,
+    "text": "I'm boom. Now, what you can't do is do that on a ladder. I'm going just say you"
+  },
+  {
+    "start": "00:01:22.710",
+    "end": "00:01:22.720",
+    "start_seconds": 82.71000000000001,
+    "end_seconds": 82.72,
+    "text": "that on a ladder. I'm going just say you"
+  },
+  {
+    "start": "00:01:22.720",
+    "end": "00:01:25.190",
+    "start_seconds": 82.72,
+    "end_seconds": 85.19,
+    "text": "that on a ladder. I'm going just say you can't do that on a ladder. I hard step."
+  },
+  {
+    "start": "00:01:25.190",
+    "end": "00:01:25.200",
+    "start_seconds": 85.19,
+    "end_seconds": 85.2,
+    "text": "can't do that on a ladder. I hard step."
+  },
+  {
+    "start": "00:01:25.200",
+    "end": "00:01:26.710",
+    "start_seconds": 85.2,
+    "end_seconds": 86.71000000000001,
+    "text": "can't do that on a ladder. I hard step. I'm off the ladder. Let me tell y'all"
+  },
+  {
+    "start": "00:01:26.710",
+    "end": "00:01:26.720",
+    "start_seconds": 86.71000000000001,
+    "end_seconds": 86.72,
+    "text": "I'm off the ladder. Let me tell y'all"
+  },
+  {
+    "start": "00:01:26.720",
+    "end": "00:01:29.749",
+    "start_seconds": 86.72,
+    "end_seconds": 89.749,
+    "text": "I'm off the ladder. Let me tell y'all something, man. I hit my head on the top"
+  },
+  {
+    "start": "00:01:29.749",
+    "end": "00:01:29.759",
+    "start_seconds": 89.749,
+    "end_seconds": 89.759,
+    "text": "something, man. I hit my head on the top"
+  },
+  {
+    "start": "00:01:29.759",
+    "end": "00:01:30.990",
+    "start_seconds": 89.759,
+    "end_seconds": 90.99,
+    "text": "something, man. I hit my head on the top of the door."
+  },
+  {
+    "start": "00:01:30.990",
+    "end": "00:01:31.000",
+    "start_seconds": 90.99,
+    "end_seconds": 91.0,
+    "text": "of the door."
+  },
+  {
+    "start": "00:01:31.000",
+    "end": "00:01:34.910",
+    "start_seconds": 91.0,
+    "end_seconds": 94.91,
+    "text": "of the door. Okay, I'm out. I'm"
+  },
+  {
+    "start": "00:01:34.910",
+    "end": "00:01:34.920",
+    "start_seconds": 94.91,
+    "end_seconds": 94.92,
+    "text": "Okay, I'm out. I'm"
+  },
+  {
+    "start": "00:01:34.920",
+    "end": "00:01:37.590",
+    "start_seconds": 94.92,
+    "end_seconds": 97.59,
+    "text": "Okay, I'm out. I'm out. I never took my truck to the"
+  },
+  {
+    "start": "00:01:37.590",
+    "end": "00:01:37.600",
+    "start_seconds": 97.59,
+    "end_seconds": 97.6,
+    "text": "out. I never took my truck to the"
+  },
+  {
+    "start": "00:01:37.600",
+    "end": "00:01:39.590",
+    "start_seconds": 97.6,
+    "end_seconds": 99.59,
+    "text": "out. I never took my truck to the mechanic. I would just go outside and"
+  },
+  {
+    "start": "00:01:39.590",
+    "end": "00:01:39.600",
+    "start_seconds": 99.59,
+    "end_seconds": 99.6,
+    "text": "mechanic. I would just go outside and"
+  },
+  {
+    "start": "00:01:39.600",
+    "end": "00:01:45.310",
+    "start_seconds": 99.6,
+    "end_seconds": 105.31,
+    "text": "mechanic. I would just go outside and lift my hood"
+  },
+  {
+    "start": "00:01:45.320",
+    "end": "00:01:47.990",
+    "start_seconds": 105.32,
+    "end_seconds": 107.99000000000001,
+    "text": "up and be waiting for my neighbor Jose"
+  },
+  {
+    "start": "00:01:47.990",
+    "end": "00:01:48.000",
+    "start_seconds": 107.99000000000001,
+    "end_seconds": 108.0,
+    "text": "up and be waiting for my neighbor Jose"
+  },
+  {
+    "start": "00:01:48.000",
+    "end": "00:01:49.469",
+    "start_seconds": 108.0,
+    "end_seconds": 109.469,
+    "text": "up and be waiting for my neighbor Jose to come"
+  },
+  {
+    "start": "00:01:49.469",
+    "end": "00:01:49.479",
+    "start_seconds": 109.469,
+    "end_seconds": 109.479,
+    "text": "to come"
+  },
+  {
+    "start": "00:01:49.479",
+    "end": "00:01:51.590",
+    "start_seconds": 109.479,
+    "end_seconds": 111.59,
+    "text": "to come outside. Jose, come out. My friend,"
+  },
+  {
+    "start": "00:01:51.590",
+    "end": "00:01:51.600",
+    "start_seconds": 111.59,
+    "end_seconds": 111.6,
+    "text": "outside. Jose, come out. My friend,"
+  },
+  {
+    "start": "00:01:51.600",
+    "end": "00:01:54.830",
+    "start_seconds": 111.6,
+    "end_seconds": 114.83,
+    "text": "outside. Jose, come out. My friend, what's wrong, my friend? I don't"
+  },
+  {
+    "start": "00:01:54.830",
+    "end": "00:01:54.840",
+    "start_seconds": 114.83,
+    "end_seconds": 114.84,
+    "text": "what's wrong, my friend? I don't"
+  },
+  {
+    "start": "00:01:54.840",
+    "end": "00:01:57.670",
+    "start_seconds": 114.84,
+    "end_seconds": 117.67,
+    "text": "what's wrong, my friend? I don't know. Once Jose come over there and call"
+  },
+  {
+    "start": "00:01:57.670",
+    "end": "00:01:57.680",
+    "start_seconds": 117.67,
+    "end_seconds": 117.68,
+    "text": "know. Once Jose come over there and call"
+  },
+  {
+    "start": "00:01:57.680",
+    "end": "00:01:59.670",
+    "start_seconds": 117.68,
+    "end_seconds": 119.67,
+    "text": "know. Once Jose come over there and call Manuel and call I just go in the"
+  },
+  {
+    "start": "00:01:59.670",
+    "end": "00:01:59.680",
+    "start_seconds": 119.67,
+    "end_seconds": 119.68,
+    "text": "Manuel and call I just go in the"
+  },
+  {
+    "start": "00:01:59.680",
+    "end": "00:02:01.830",
+    "start_seconds": 119.68,
+    "end_seconds": 121.83,
+    "text": "Manuel and call I just go in the house with the ladies. Well, you"
+  },
+  {
+    "start": "00:02:01.830",
+    "end": "00:02:01.840",
+    "start_seconds": 121.83,
+    "end_seconds": 121.84,
+    "text": "house with the ladies. Well, you"
+  },
+  {
+    "start": "00:02:01.840",
+    "end": "00:02:03.749",
+    "start_seconds": 121.84,
+    "end_seconds": 123.749,
+    "text": "house with the ladies. Well, you electrocute yourself one time and all of"
+  },
+  {
+    "start": "00:02:03.749",
+    "end": "00:02:03.759",
+    "start_seconds": 123.749,
+    "end_seconds": 123.759,
+    "text": "electrocute yourself one time and all of"
+  },
+  {
+    "start": "00:02:03.759",
+    "end": "00:02:08.909",
+    "start_seconds": 123.759,
+    "end_seconds": 128.909,
+    "text": "electrocute yourself one time and all of a sudden somebody watching over you."
+  },
+  {
+    "start": "00:02:08.919",
+    "end": "00:02:19.740",
+    "start_seconds": 128.919,
+    "end_seconds": 139.74,
+    "text": "[Music]"
+  }
+]

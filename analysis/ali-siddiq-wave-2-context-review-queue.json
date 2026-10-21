@@ -1,0 +1,57 @@
+{
+  "queue_id": "ali-siddiq-wave-2-context-review",
+  "source": "ali-siddiq-wave-2",
+  "status": "unreviewed_contextual_review_queue",
+  "review_boundary": "Keyword and title retrieval have selected candidates; no item is accepted as a transferable presentation rule until a reviewer reads the linked transcript context and records a decision.",
+  "items": [
+    {
+      "item_id": "ali-001",
+      "candidate_pattern": "consequence_first_orientation",
+      "transcript_refs": ["#47", "#151", "#198"],
+      "review_prompt": "Does the opening create forward motion through a concrete consequence, and can the move be stated without copying stand-up persona?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "ali-002",
+      "candidate_pattern": "scene_detail_as_compression",
+      "transcript_refs": ["#4", "#56", "#118"],
+      "review_prompt": "Do concrete people, objects, and actions carry explanatory work that an ordinary presentation could reuse?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "ali-003",
+      "candidate_pattern": "escalation_by_changed_conditions",
+      "transcript_refs": ["#33", "#64", "#82"],
+      "review_prompt": "Can each story beat be described as a changed condition or choice constraint rather than mere intensity?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "ali-004",
+      "candidate_pattern": "character_contrast_and_point_of_view",
+      "transcript_refs": ["#33", "#82", "#118"],
+      "review_prompt": "Does contrast clarify a tradeoff or misunderstanding without requiring caricature?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "ali-005",
+      "candidate_pattern": "public_repair_as_relationship_maintenance",
+      "transcript_refs": ["#10", "#64", "#198"],
+      "review_prompt": "Is the repair brief, transparent, and thread-preserving enough to transfer to a presentation?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "ali-006",
+      "candidate_pattern": "repetition_callback_and_transformed_meaning",
+      "transcript_refs": ["#151", "#198"],
+      "review_prompt": "Does a repeated image or phrase return with changed meaning, and what is the minimal presentation version?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "ali-007",
+      "candidate_pattern": "difficulty_made_discussable_through_humor",
+      "transcript_refs": ["#10", "#33", "#82"],
+      "review_prompt": "What makes the humor connective rather than distracting, divisive, or disparaging in a non-performance setting?",
+      "decision": "unreviewed"
+    }
+  ]
+}

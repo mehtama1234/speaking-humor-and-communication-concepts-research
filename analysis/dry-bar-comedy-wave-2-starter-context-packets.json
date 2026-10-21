@@ -1,0 +1,423 @@
+{
+  "schema_version": "1.0",
+  "packet_id": "dry-bar-comedy-wave-2-starter-context-packets",
+  "source": "dry-bar-comedy-wave-2-starter",
+  "status": "machine_bounded_context_packets_not_human_review",
+  "item_count": 6,
+  "packets": [
+    {
+      "item_id": "drybar-001",
+      "candidate_pattern": "concrete_friction_before_generalization",
+      "review_prompt": "Does a concrete everyday friction carry the explanatory or comic premise before any generalized claim?",
+      "references": [
+        {
+          "ref": "#1",
+          "status": "available",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=gso4P8Zi2x8",
+          "word_count": 6853,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/001-gso4P8Zi2x8.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/001-gso4P8Zi2x8.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "school",
+              "text": "then. Please, not the handkerchief. Then you hear him open it. Oh, no. [cheering] Come here, boy. Yeah. Oh, that hurt. Oh my goodness, my eyebrows. I don't have any eyebrows. [laughter] For an entire school year, my mother drew my eyebrows in every morning. [laughter] For an entire semester, I was surprised every morning. [laughter] You tell yourself as a parent when they get older it'll be better. That's what you tell yourself. [laughter] Teenagers. I believe teenagers are God's revenge on mankind. I really do. I think I think one day the good Lord was looking down over"
+            },
+            {
+              "matched_term": "house",
+              "text": "sickles cuz he's going on a diet. That's what he [laughter] said. Yeah. Yeah. I don't know. I don't know if the army fed him for 6 years. She was literally eating us out of house and my wife and I started hiding food in our bedroom to keep it from our son. [laughter] I'm not lying. That's pathetic. It really is. We had a stash of brownies and muffins in the nightstand next to our bedroom. [laughter] So late at night, we get all excited, run down the hall, hold hands, lock the bedroom door. I'm sure he thought"
+            }
+          ]
+        },
+        {
+          "ref": "#2",
+          "status": "available",
+          "video_id": "HL0kkIQUNDo",
+          "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+          "url": "https://www.youtube.com/watch?v=HL0kkIQUNDo",
+          "word_count": 11854,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/002-HL0kkIQUNDo.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/002-HL0kkIQUNDo.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "school",
+              "text": "don't know what he's talking about. [laughter] Bill Clinton is known for a lot more than just being Hillary's wife. Okay. [laughter] Just always that awkward dude, man. I wanted to be cool. In high school, I thought first day of high school, I'm going to change everything. I'm going to turn over a new leaf. So, I got a skateboard. I was like, I'm going to skateboard. That'll make me cool. And first day of high school, I ate it on my skateboard and broke my clavicle bone, which they can't set that bone. They just give you a"
+            },
+            {
+              "matched_term": "house",
+              "text": "what he's talking about anymore. I think my cousin's a hemophiliac. [laughter] Yep. He told us at Thanksgiving, his dad is like, \"Ain't no son of mine going to be a heeliac. Not in my house, you he short shorts and whatnot. I ain't standing for it.\" And Trump's going to get rid OF ALL YOU HEOS ANYWAY. [laughter] That dude was hemophobic and that is ignorant. [laughter] My sister uses the waltsing expression. You can't just waltz right in here. Tell me how to live my life. Walt around like you do. When were people doing that? Were people"
+            }
+          ]
+        },
+        {
+          "ref": "#39",
+          "status": "available",
+          "video_id": "bmsA5dw9OMQ",
+          "title": "It's Not Easy Being a Step-Parent | Andy Woodhull FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=bmsA5dw9OMQ",
+          "word_count": 6813,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/039-bmsA5dw9OMQ.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/039-bmsA5dw9OMQ.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "school",
+              "text": "really telling me you've never talked about someone behind their back, they never found out about it and everyone just had a positive experience? It came up cuz one of my girls came home from school and she was upset cuz people were talking about her behind her back. And I felt bad for her cuz she was upset and I want to help and I have some skills that could be helpful in this situation. So I said if you want I'll go to school with you and I'll roast those girls that are talking about you. I'm a"
+            },
+            {
+              "matched_term": "house",
+              "text": "the form for step dad. That's a writing candidate on the back of the form. I'm third in line to be in charge of these kids. >> [laughter] >> I'm like the speaker of the house. If it's me, some big stuff has happened. My girls are teenagers now, 14, 16. Got a couple teenagers at home and they're really embracing it. And every time I tell people I have teenage daughters at home, they're always like, \"Oh, good luck with that. It's really tough.\" Even just somebody said it just now. No one can resist from letting you know"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "drybar-002",
+      "candidate_pattern": "premise_promise_turn_payoff",
+      "review_prompt": "Does the opening premise create an accurate promise that later beats fulfil, complicate, or reverse?",
+      "references": [
+        {
+          "ref": "#6",
+          "status": "available",
+          "video_id": "yzP_ygRu4VM",
+          "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+          "url": "https://www.youtube.com/watch?v=yzP_ygRu4VM",
+          "word_count": 9990,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/006-yzP_ygRu4VM.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/006-yzP_ygRu4VM.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "why",
+              "text": "not going to remember any of that, right? But that's in there. That's deep in his subconscious somewhere. Like I'm worried he's going to be in therapy 20 years from now trying to figure out why he hates weed whackers or something like that. >> [laughter] >> I'd like to talk about MY BAPTISM NOW. >> [laughter] >> THAT'S MY FAVORITE LINE IN MY ACT, JUST SO YOU KNOW. Because of how uncomfortable it makes everybody. It's the one thing that unites all of us. Cuz if you believe in God, you're like, \"Oh, no. What's he going to say?\""
+            },
+            {
+              "matched_term": "but",
+              "text": "like, LET'S GO GET HER. WE'RE LEGALLY AN ANGRY MOB at this point. We have pitchforks and torches. We're singing, \"Through the mist, through the woods, through the darkness and the shadows. It's a nightmare, but it's one exciting ride.\" >> [applause] >> Say a prayer, then we're there at the drawbridge of a castle AND THERE'S SOMETHING TRULY TERRIBLE INSIDE. >> [laughter] [applause] >> IT'S A BEAST. HE'S GOT I SANG THE WHOLE SONG. >> [laughter] >> I WENT UP TO HER. I DID THE JOKE. SHE ASKED me every question except for who. I've no clue how she"
+            }
+          ]
+        },
+        {
+          "ref": "#18",
+          "status": "available",
+          "video_id": "r4cg-6qy70Q",
+          "title": "A Comedy Special for Nerds | Don McMillan Double Feature",
+          "url": "https://www.youtube.com/watch?v=r4cg-6qy70Q",
+          "word_count": 9124,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/018-r4cg-6qy70Q.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/018-r4cg-6qy70Q.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "why",
+              "text": "for at least a week. [laughter] That is the experience. And that window of edible popcorn, that is a one nancond. [laughter] You do not stand a chance. Some of my charts, I don't know why they're true. I just know from experience that this is what happens. This is my gym, the locker room of my gym. Okay? I walk in, I am that blue dot right there. I start to get changed. Pretty much the minute I get all my clothes off, 12 guys walk in and this is where their lockers are. [laughter] Does that not happen"
+            },
+            {
+              "matched_term": "but",
+              "text": "news. I'm one of the the few comedians who works in uh PowerPoint. [laughter] If you think I'm kidding, I'm not. And uh [laughter] I actually have some bad news. Uh that's me right there. But this actually this is not a comedy show. You've been lured here. I actually want to talk to you about a time share here at the dry bar. You could own your seat one week a year. [laughter] I'm just kidding. I wouldn't really do that. But I used to be an engineer. Any engineers in the crowd? >> That was so pathetic >>"
+            }
+          ]
+        },
+        {
+          "ref": "#24",
+          "status": "available",
+          "video_id": "H644TyD_i3k",
+          "title": "Getting Heckled By an Old Lady Named Nancy | Zoltan Kaszas Double Feature",
+          "url": "https://www.youtube.com/watch?v=H644TyD_i3k",
+          "word_count": 14365,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/024-H644TyD_i3k.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/024-H644TyD_i3k.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "why",
+              "text": "of like 400 people. I'm like, \"Hey, so good to be here in Louisville.\" I had 400 PEOPLE IMMEDIATELY. IT'S PRONOUNCED WOOL. [screaming] [laughter] It's wool. [laughter] And it was not a polite like, \"Hey, why don't you try it this way?\" It was a very angry. IT'S WOOL. AND I WAS JUST THERE LIKE, I am so sorry, Louis Vile. I apologize. [applause and laughter] They're like, it's wool. And I'm like, WOOL WOOL WOOL WOOL. And then finally, I'm like, I can't. All right. I can't say it. [laughter] I I think I have too many teeth. I"
+            },
+            {
+              "matched_term": "but",
+              "text": "and she had her microphone on, but I don't think she meant to cuz like 2 minutes into my act, I hit a punchline and everybody laughed. And for a second, I'm like, \"All right, this feels good. This feels like the real thing.\" And as soon as the laughter died down, Nancy, who doesn't realize her microphone's on, goes, \"I don't KNOW HOW MUCH MORE OF THIS I CAN TAKE.\""
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "drybar-003",
+      "candidate_pattern": "contrast_and_frame_replacement",
+      "review_prompt": "Does the turn replace a real initial frame with a more specific one without relying on a false binary or caricature?",
+      "references": [
+        {
+          "ref": "#12",
+          "status": "available",
+          "video_id": "Z8I9eJ62itc",
+          "title": "I Look Like Jim Carrey and Ryan Reynolds had a Kid | Myles Weber Double Feature",
+          "url": "https://www.youtube.com/watch?v=Z8I9eJ62itc",
+          "word_count": 8914,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/012-Z8I9eJ62itc.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/012-Z8I9eJ62itc.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "but",
+              "text": "Reynolds gave birth to Johnny BRAVO and Jimmy Neutron was a midwife. I came out here and y'all were looking at me like Vanilla Ice is making this comeback. >> I knew you got tattoos, but oh my goodness. It's good to be here, man. I'm originally from a hooded little town in Northern California, which is actually inside the 707 area code. That's why I have this tattoo right here. Yeah. I'm just proud to be from a hood where the area code is also lol upside down. That's my favorite part cuz this is how I maintain my"
+            },
+            {
+              "matched_term": "different",
+              "text": "like it. It's not shiverous. There's nothing exciting about that. So, what I like to do is I like to mess with people. Folks ask me what happened to his leg. I give them a different answer every single time. Kids are the best. Oh my goodness. I love it when kids come up. This little boy come up to me one time. I was I had my dog at the park. He's like, \"Hey, mister. What happened to your dog's leg?\" And I just went, \"We lost it.\" And I kept walking. We were playing fetch and I threw"
+            }
+          ]
+        },
+        {
+          "ref": "#15",
+          "status": "available",
+          "video_id": "m304E8ulWK4",
+          "title": "Republicans Will Snatch Up your Kid and Force them to Get a Job | Brandon Vestal FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=m304E8ulWK4",
+          "word_count": 5950,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/015-m304E8ulWK4.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/015-m304E8ulWK4.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "but",
+              "text": "and said, \"So your bag is over 50 lb. And for safety reasons we can't put bags in excess of 50 lb onto the flight.\" So I started to grab the bag she goes, \"But if you give us a hundred more dollars >> [laughter] >> we'll go ahead and throw it on the plane for you.\" >> [laughter] >> I was like, \"Well, that's great, but how does that fix the safety issue? That you were just so concerned about. Let me get this straight. If I give you a hundred more dollars, you're going to turn on the"
+            },
+            {
+              "matched_term": "than",
+              "text": "is like, \"Nah.\" Yeah. Mhm. I am exhausted right now. >> [laughter] >> America is big, man. And then the tow showed up. It was the size of a golf cart. The one that's smaller than a big plane, towed it like 20 ft and then like had golf clubs on the back of it. >> [laughter] >> I don't like turbulence. That scares me. I don't understand how the plane doesn't crash. Getting knocked around like that, you think I'd be used to it, but I'm not. Which I The worst flight I was ever on was like almost"
+            }
+          ]
+        },
+        {
+          "ref": "#30",
+          "status": "available",
+          "video_id": "im8bJSwOI_E",
+          "title": "If You Don't Think I'm Canadian Then You're Racist | Son Tran FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=im8bJSwOI_E",
+          "word_count": 8927,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/030-im8bJSwOI_E.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/030-im8bJSwOI_E.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "but",
+              "text": "Exactly. I'm Canadian. Thank you. Thank you. If you guess Canada, you are correct. If you guess anywhere else, a little bit racist. Little bit [laughter] I'm kidding. I'm kidding. I like leaving down here. But there are differences between our two countries, you know, Canada and the US, right? Like healthcare, that's a good example, right? Like for instance, in Canada, we have healthcare. So there's that. We got that. You know what I mean? That's different, [laughter] right? It's called the Canadian Medicaid System. And uh down here, you guys got that program. I always forget the name"
+            },
+            {
+              "matched_term": "instead",
+              "text": "for that. If I stayed in Vietnam, like who knows what would have happened, right? I might have ended up working in a sweat shop, you know, working horrible hours for terrible, terrible people. But instead, when my parents love and support, I got a chance to go to law school and then I got a job in a big law firm afterwards where I work horrible hours for terrible, terrible people. So, [laughter] yeah, I couldn't really escape my fate on that one, guys. Uh, fighting my destiny too hard there. Too hard. I uh [laughter] but speaking of"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "drybar-004",
+      "candidate_pattern": "character_specificity_and_point_of_view",
+      "review_prompt": "Do character details and point of view materially change how the same everyday subject is understood?",
+      "references": [
+        {
+          "ref": "#4",
+          "status": "available",
+          "video_id": "gfkJ7IyyRog",
+          "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=gfkJ7IyyRog",
+          "word_count": 6377,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/004-gfkJ7IyyRog.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/004-gfkJ7IyyRog.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "he",
+              "text": ">> So, now I have to stand over to the side and like calculate all the lies that everybody else is telling. I'm 140. No, you're not 140. >> [laughter] >> Guy walk up there he's like, \"Ah, I probably weighed 175.\" Yeah, in high school you weighed 175. So, finally it's my turn. She's like, \"Mr. Thornburg, how much do you weigh?\" Apparently, 844 lb. >> [laughter] >> I don't come from a big city like this. I grew up in a trailer park as by now you've guessed. I had somebody ask me the other day if this"
+            },
+            {
+              "matched_term": "she",
+              "text": "the road the other day and I stopped and I got a soda at McDonald's. $1.08, okay? Pull up to the window and the girl said, \"Did you have the soda?\" Yes, I did and she said, \"Well, the guy in front of you paid for you.\" Now, I know how this is supposed to work. I'm supposed to pay for the people behind me, they pay for the people behind them and somehow that makes us a better world somehow. Except I look in the rearview mirror and I've got a SUV behind me with about eight kids. >>"
+            }
+          ]
+        },
+        {
+          "ref": "#9",
+          "status": "available",
+          "video_id": "pk-R-DoPRFo",
+          "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=pk-R-DoPRFo",
+          "word_count": 6543,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/009-pk-R-DoPRFo.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/009-pk-R-DoPRFo.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "he",
+              "text": "got my coat on and I got my my gloves and I got my stock cap. I got a scarf on. I'm waiting for my Uber. Uber driver shows up. Dodge Ram 1200. Windows down. He's got a t-shirt on. I was like, \"This is a man.\" He rolled up. I felt like I was his date. I go, \"Hey, Boo Boo. Where we going?\" >> [laughter] >> Roll the windows up, Boo Boo. It's cold. Roll the windows up. >> [laughter] >> I am not happy here at all, man. >> [laughter] >> Serious, man. But well, and true"
+            },
+            {
+              "matched_term": "she",
+              "text": "I'm all like kind of like drugged up from the anesthesia. I'm right about to go out and the nurse she was messing with me. She goes, \"Okay, you ready for your new breasts?\" And I go, And when I woke up I went, >> [laughter] >> Which really WOULDN'T HAVE BEEN THAT bad if you think about it. I woke up like, Man, my hip hurts but I won't be able to pay for a drink for the rest of my life. This is"
+            }
+          ]
+        },
+        {
+          "ref": "#34",
+          "status": "available",
+          "video_id": "BKWCBEH6o-c",
+          "title": "The Funniest Thing I've Said In My Entire Life | Josh Sneed FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=BKWCBEH6o-c",
+          "word_count": 6772,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/034-BKWCBEH6o-c.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/034-BKWCBEH6o-c.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "he",
+              "text": "The last Valentine's Day, I was at my local grocery store. That was the only one around and he was talking pretty loud. This is what he says. He goes, \"Man, it's crazy how much money you got to spend on something that's just going to die.\" And I was like, \"I know. And you got to buy them flowers.\" Now, listen, people. I love my wife, but that may be the funniest thing I have ever said in my entire life. Okay?"
+            },
+            {
+              "matched_term": "she",
+              "text": "with me. Easy girl. Easy girl. I'm not going to hurt you. I got close enough. I pressed the button. Nothing happened. I just pressed it again. DEAD BATTERY SIGN. WHAT? NO. I scared her. She ran back into Ripley's Believe It or Not. Believe it or not. And I just sat down on the bench right there in between the Pancake Pantry and Fanny Farkle's Arcade. I was so mad. All this time I tracked her. I just let her get away. Wish I could pass my phone around and let you guys see how awesome she was, but"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "drybar-005",
+      "candidate_pattern": "room_awareness_and_recovery",
+      "review_prompt": "Is the apparent acknowledgment or recovery supported by full audio/video context and transferable without copying stand-up persona?",
+      "references": [
+        {
+          "ref": "#24",
+          "status": "available",
+          "video_id": "H644TyD_i3k",
+          "title": "Getting Heckled By an Old Lady Named Nancy | Zoltan Kaszas Double Feature",
+          "url": "https://www.youtube.com/watch?v=H644TyD_i3k",
+          "word_count": 14365,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/024-H644TyD_i3k.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/024-H644TyD_i3k.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "you",
+              "text": "to go viral. I had no idea 60 million people would watch me talk about my chubby cat Jessica [laughter] and that I would have cat people fans like that. That was the weirdest thing. You just went I know. I didn't plan on it either. [laughter] I didn't even realize that it happened. Like Dry Bar didn't hit me up to go, hey, by the way, your video is going bananas. You are a cat comedian now. >> [laughter] >> I found out organically by performing. I was in Spokane, Washington, working at a comedy club all weekend, right"
+            },
+            {
+              "matched_term": "audience",
+              "text": "that's what comedy is meant to be. But I was doing comedy at 1:00 in the afternoon and uh I asked everyone to put their microphones on and there was an older lady in the audience. I could tell by her voice. She didn't have her video on. It just said Nancy on the screen. And she had her microphone on, but I don't think she meant to cuz like two minutes into my act, I hit a punchline and everybody laughed. And for a second, I'm like, \"All right, this feels good. This feels like the real thing.\" And"
+            }
+          ]
+        },
+        {
+          "ref": "#31",
+          "status": "available",
+          "video_id": "If1rFRKSwY0",
+          "title": "People Are Faking Disabilities to Skip the Line at Disneyland | Kellen Erksine Stand-Up Comedy",
+          "url": "https://www.youtube.com/watch?v=If1rFRKSwY0",
+          "word_count": 1179,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/031-If1rFRKSwY0.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/031-If1rFRKSwY0.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "you",
+              "text": "has to be exclusively with animals. Like even the pilot is a dog. >> [laughter] >> Just enjoy that one-way trip with Air Bud. By the way, the hypocrisy >> [laughter] >> of that person. You claim to love animals. There's no way your cat enjoys that flight. If cats could talk, every cat on every plane would be like, \"How dare you? You're pretending to have anxiety and then give it to me? >> [laughter] >> Do you think I want to fly in a jet? I'm afraid of the vacuum.\" >> [laughter] >> But I think we need"
+            },
+            {
+              "matched_term": "room",
+              "text": "I don't have a good name for a show business. It's Kellen Erskine. I was doing a show in Los Angeles recently. Uh the opener was late, so I'm just hanging out in the green room, and he bursts in out of breath, and he goes, \"Sorry, what's your name again?\" And I said, \"Kellen Erskine.\" And he goes, \"Got it.\" I was like, \"There's no way you got it.\" >> [laughter] >> He gets on stage, does his set, and when he's done, he introduces me. \"Ladies and gentlemen, welcome to the stage Calvin Erskine!\" >> [laughter] >> I"
+            }
+          ]
+        },
+        {
+          "ref": "#32",
+          "status": "available",
+          "video_id": "sUnH-nU-2VA",
+          "title": "Every Move is a Pulled Muscle When You're Old | James Gregory FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=sUnH-nU-2VA",
+          "word_count": 4274,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/032-sUnH-nU-2VA.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/032-sUnH-nU-2VA.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "you",
+              "text": "So, I went to an urgent care center. They did x-rays. And the doctor told me, he said, \"You have pulled a groin muscle.\" I said, \"Are you sure?\" He said, \"Well, somebody pulled it.\" I said, \"Well, it had to be me, so Before I get started, I'm I'm walking slow because you know what vertigo is? Oh, damn. I was suffering from vertigo and I've only fallen one time. That was a few weeks ago when I was in Talladega, Alabama. And"
+            },
+            {
+              "matched_term": "audience",
+              "text": "know what vertigo is? Oh, damn. I was suffering from vertigo and I've only fallen one time. That was a few weeks ago when I was in Talladega, Alabama. And I just fell. And the audience thought it was part of the show. >> [laughter] >> I almost got a standing ovation. And when I fell I made a mistake by saying, \"I've fallen and I can't get up.\" >> [laughter] >> And they thought it was a skit. They kept laughing and I was just laying there. So, if you folks on the front row, if I fall and"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "drybar-006",
+      "candidate_pattern": "self_inclusion_as_safety_boundary",
+      "review_prompt": "Does self-inclusion change the risk or relationship of the observation, and where would the move fail because of power or topic?",
+      "references": [
+        {
+          "ref": "#1",
+          "status": "available",
+          "video_id": "gso4P8Zi2x8",
+          "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=gso4P8Zi2x8",
+          "word_count": 6853,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/001-gso4P8Zi2x8.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/001-gso4P8Zi2x8.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "I",
+              "text": "I want you to understand something, young man. Your mother and I want grandchildren. And we worship a God of miracles. We believe out of three billion women on this planet. God has chosen one of those women for you to breathe with. [laughter] We just don't think she's going to fall through our vent and land in your lap down here in the basement."
+            },
+            {
+              "matched_term": "my",
+              "text": "women for you to breathe with. [laughter] We just don't think she's going to fall through our vent and land in your lap down here in the basement. [laughter] About eight or nine years ago, my wife and I picked up my oldest boy at the uh Fort Campbell. Uh he did six years. He served six years with the 101st Airborne. And uh thank [cheering] you. [applause] So we pick him up and we're driving back. We live in Nashville. It's about an hour and a half drive. So we're driving back and I asked my uh son, now"
+            }
+          ]
+        },
+        {
+          "ref": "#11",
+          "status": "available",
+          "video_id": "nVbjxVypJL0",
+          "title": "The New Generation Ruined Weddings | Karen Morgan Stand-Up Comedy",
+          "url": "https://www.youtube.com/watch?v=nVbjxVypJL0",
+          "word_count": 1456,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/011-nVbjxVypJL0.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/011-nVbjxVypJL0.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "I",
+              "text": "a terrifying rain forest. >> [laughter] >> We got one this summer that says you're cordially invited to the wedding of Tiffany and Matt. Gentlemen should wear tuxedos or dark suits. Ladies should wear, and I'm going to quote this, elegant dresses in muted colors. >> [laughter] >> Dang, Tiffany. I was going to wear my blaze orange NASCAR t-shirt to your wedding. >> [laughter] >> But now you've ruined that for me. Now I got to go buy an elegant dress in a shade I like to call puke. How's that? >> [laughter] >> Tiffany. And oh, by the"
+            },
+            {
+              "matched_term": "my",
+              "text": "of Tiffany and Matt. Gentlemen should wear tuxedos or dark suits. Ladies should wear, and I'm going to quote this, elegant dresses in muted colors. >> [laughter] >> Dang, Tiffany. I was going to wear my blaze orange NASCAR t-shirt to your wedding. >> [laughter] >> But now you've ruined that for me. Now I got to go buy an elegant dress in a shade I like to call puke. How's that? >> [laughter] >> Tiffany. And oh, by the way, this is Tiffany. This isn't Matt. Matt doesn't care what I wear to his wedding. He would love it"
+            }
+          ]
+        },
+        {
+          "ref": "#39",
+          "status": "available",
+          "video_id": "bmsA5dw9OMQ",
+          "title": "It's Not Easy Being a Step-Parent | Andy Woodhull FULL SPECIAL",
+          "url": "https://www.youtube.com/watch?v=bmsA5dw9OMQ",
+          "word_count": 6813,
+          "clean_transcript": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/clean/039-bmsA5dw9OMQ.txt",
+          "cue_file": "raw-material/youtube/transcripts/dry-bar-comedy-wave-2-starter/cues/039-bmsA5dw9OMQ.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "I",
+              "text": "left a note for the kids that said, \"Put it in the oven at 350 for 20 minutes.\" My wife got home from work and my kids had ordered a pizza. She said, \"What do I do? How do I punish them?\" And I said, \"Did they use their own money?\" And she goes, \"Yeah.\" All right. I don't I don't know. I think they won this round. I don't know how to punish them. I was walking from the hotel to over here and there was a red light and no cars, so I walked across the street and"
+            },
+            {
+              "matched_term": "my",
+              "text": "My wife had to work at night, so she prepared a dinner and she left a note for the kids that said, \"Put it in the oven at 350 for 20 minutes.\" My wife got home from work and my kids had ordered a pizza. She said, \"What do I do? How do I punish them?\" And I said, \"Did they use their own money?\""
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    }
+  ]
+}

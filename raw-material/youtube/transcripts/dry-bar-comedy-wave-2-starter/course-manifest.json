@@ -1,0 +1,251 @@
+{
+  "slug": "dry-bar-comedy-wave-2-starter",
+  "title": "Dry Bar Comedy — Wave 2 Starter Slice",
+  "url": "https://www.youtube.com/@DryBarComedy/videos",
+  "category": "humor-exemplars",
+  "source_manifest": "raw-material/youtube/manifests/dry-bar-comedy-wave-2.json",
+  "selection_rule": "First 40 title-qualified exemplars with distinct performer keys; channel-level manifest remains 2,829 videos.",
+  "notes": "Transcript-backed starter slice only. It is not a representative sample of the full channel and is not promotion validated.",
+  "videos": [
+    {
+      "index": 1,
+      "id": "gso4P8Zi2x8",
+      "title": "Life Get's Pathetic When You're 50 | Jeff Allen FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=gso4P8Zi2x8"
+    },
+    {
+      "index": 2,
+      "id": "HL0kkIQUNDo",
+      "title": "The Most Awkward Bank Robbery | Collin Moulton Double Feature",
+      "url": "https://www.youtube.com/watch?v=HL0kkIQUNDo"
+    },
+    {
+      "index": 3,
+      "id": "dykBd5NUc2M",
+      "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=dykBd5NUc2M"
+    },
+    {
+      "index": 4,
+      "id": "gfkJ7IyyRog",
+      "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=gfkJ7IyyRog"
+    },
+    {
+      "index": 5,
+      "id": "JIcmdlbGy7w",
+      "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=JIcmdlbGy7w"
+    },
+    {
+      "index": 6,
+      "id": "yzP_ygRu4VM",
+      "title": "The Best Joke Ever Written | Matt Falk Double Feature",
+      "url": "https://www.youtube.com/watch?v=yzP_ygRu4VM"
+    },
+    {
+      "index": 7,
+      "id": "NB9lsn5xPsk",
+      "title": "Rabbit Hole | Andy Hendrickson FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=NB9lsn5xPsk"
+    },
+    {
+      "index": 8,
+      "id": "2ocpXt91UIM",
+      "title": "It's Hard to Give Me Compliments But My Wife Tries | Rosco Nash Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=2ocpXt91UIM"
+    },
+    {
+      "index": 9,
+      "id": "pk-R-DoPRFo",
+      "title": "White Stereotypes Aren't Racist IF They Are True | BT FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=pk-R-DoPRFo"
+    },
+    {
+      "index": 10,
+      "id": "GXHijJg7usE",
+      "title": "I Don't Fit the Usual Black People Stereotype | Mike Goodwin FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=GXHijJg7usE"
+    },
+    {
+      "index": 11,
+      "id": "nVbjxVypJL0",
+      "title": "The New Generation Ruined Weddings | Karen Morgan Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=nVbjxVypJL0"
+    },
+    {
+      "index": 12,
+      "id": "Z8I9eJ62itc",
+      "title": "I Look Like Jim Carrey and Ryan Reynolds had a Kid | Myles Weber Double Feature",
+      "url": "https://www.youtube.com/watch?v=Z8I9eJ62itc"
+    },
+    {
+      "index": 13,
+      "id": "TpYa9kHKDPg",
+      "title": "Old People Should Not be Allowed on Social Media | Byron Trimble FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=TpYa9kHKDPg"
+    },
+    {
+      "index": 14,
+      "id": "vZbVHkNMYyc",
+      "title": "I Hate Doing Stand-Up with Clinical Anxiety | Joseph Anthony Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=vZbVHkNMYyc"
+    },
+    {
+      "index": 15,
+      "id": "m304E8ulWK4",
+      "title": "Republicans Will Snatch Up your Kid and Force them to Get a Job | Brandon Vestal FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=m304E8ulWK4"
+    },
+    {
+      "index": 16,
+      "id": "5JCTQjJfYIo",
+      "title": "I Wore The Most White Folk Friendly Outfit for This Show | Willie Macc Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=5JCTQjJfYIo"
+    },
+    {
+      "index": 17,
+      "id": "qC5NNRB5c6Q",
+      "title": "Never Call her Crazy | Andrew Packer FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=qC5NNRB5c6Q"
+    },
+    {
+      "index": 18,
+      "id": "r4cg-6qy70Q",
+      "title": "A Comedy Special for Nerds | Don McMillan Double Feature",
+      "url": "https://www.youtube.com/watch?v=r4cg-6qy70Q"
+    },
+    {
+      "index": 19,
+      "id": "d5ssnIZonwA",
+      "title": "Nothing Can Prepare you for Parenting a Teenager | Jerry Garcia FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=d5ssnIZonwA"
+    },
+    {
+      "index": 20,
+      "id": "13wHqcPyX_E",
+      "title": "I Came Out As Lonely to My Parents | Alex Velutto Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=13wHqcPyX_E"
+    },
+    {
+      "index": 21,
+      "id": "sD4XI_CtWPU",
+      "title": "Growing Up Jewish in Kentucky | Raanan Hershberg Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=sD4XI_CtWPU"
+    },
+    {
+      "index": 22,
+      "id": "4IH741GJxg0",
+      "title": "Having Four Kids is Not Good for Your Fupa | Jenna Kim Jones Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=4IH741GJxg0"
+    },
+    {
+      "index": 23,
+      "id": "feMWNUCPfVk",
+      "title": "My Dentist Gave Me a Panic Attack | Jason Love FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=feMWNUCPfVk"
+    },
+    {
+      "index": 24,
+      "id": "H644TyD_i3k",
+      "title": "Getting Heckled By an Old Lady Named Nancy | Zoltan Kaszas Double Feature",
+      "url": "https://www.youtube.com/watch?v=H644TyD_i3k"
+    },
+    {
+      "index": 25,
+      "id": "tJLhhCCgxfM",
+      "title": "My Kids are Half Canadian & Half British which is...Interesting | Rory Gardiner Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=tJLhhCCgxfM"
+    },
+    {
+      "index": 26,
+      "id": "8BCzz8xlVJY",
+      "title": "The Best Way to Lie About Your Weight | Travis Tate FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=8BCzz8xlVJY"
+    },
+    {
+      "index": 27,
+      "id": "NFZGWw9Jgfc",
+      "title": "The Reason Why You Look Ugly In Photos | Rodney Laney FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=NFZGWw9Jgfc"
+    },
+    {
+      "index": 28,
+      "id": "xEdVgUoNOmg",
+      "title": "The Secret To Looking Younger When You Get Old | Kellen Erskine Double Feature",
+      "url": "https://www.youtube.com/watch?v=xEdVgUoNOmg"
+    },
+    {
+      "index": 29,
+      "id": "4FbGDT84p8I",
+      "title": "Americans Are Getting Dumber | Alonzo Bodden Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=4FbGDT84p8I"
+    },
+    {
+      "index": 30,
+      "id": "im8bJSwOI_E",
+      "title": "If You Don't Think I'm Canadian Then You're Racist | Son Tran FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=im8bJSwOI_E"
+    },
+    {
+      "index": 31,
+      "id": "If1rFRKSwY0",
+      "title": "People Are Faking Disabilities to Skip the Line at Disneyland | Kellen Erksine Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=If1rFRKSwY0"
+    },
+    {
+      "index": 32,
+      "id": "sUnH-nU-2VA",
+      "title": "Every Move is a Pulled Muscle When You're Old | James Gregory FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=sUnH-nU-2VA"
+    },
+    {
+      "index": 33,
+      "id": "8NXCYmNqH18",
+      "title": "You Know You're Old When... | Steve Shaffer Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=8NXCYmNqH18"
+    },
+    {
+      "index": 34,
+      "id": "BKWCBEH6o-c",
+      "title": "The Funniest Thing I've Said In My Entire Life | Josh Sneed FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=BKWCBEH6o-c"
+    },
+    {
+      "index": 35,
+      "id": "bmpvFA6OYfM",
+      "title": "The New Generation Is Just So Soft | John Branyan FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=bmpvFA6OYfM"
+    },
+    {
+      "index": 36,
+      "id": "hQIA7TGSAes",
+      "title": "Being On a Diet Will Make You Do Unthinkable Things | Jonnie W. Double Feature",
+      "url": "https://www.youtube.com/watch?v=hQIA7TGSAes"
+    },
+    {
+      "index": 37,
+      "id": "caanw5Y4xCo",
+      "title": "My Dad Had a Permanent Mean Face | Chris Clarke Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=caanw5Y4xCo"
+    },
+    {
+      "index": 38,
+      "id": "0Am_1AVVPcE",
+      "title": "My Wife Thinks I Need a Therapist | Jeff Norris Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=0Am_1AVVPcE"
+    },
+    {
+      "index": 39,
+      "id": "bmsA5dw9OMQ",
+      "title": "It's Not Easy Being a Step-Parent | Andy Woodhull FULL SPECIAL",
+      "url": "https://www.youtube.com/watch?v=bmsA5dw9OMQ"
+    },
+    {
+      "index": 40,
+      "id": "QOX9nT-laHk",
+      "title": "You Can't Follow in Your Dad's Footsteps if You Can't Find Him | Andrew Rudick Stand-Up Comedy",
+      "url": "https://www.youtube.com/watch?v=QOX9nT-laHk"
+    }
+  ]
+}

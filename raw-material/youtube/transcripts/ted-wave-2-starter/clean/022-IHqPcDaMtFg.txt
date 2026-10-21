@@ -1,0 +1,359 @@
+How many algorithms are part of your
+daily life?
+How many sensors? How many screens? In
+fact, interacting with screens and other
+digital interfaces has become the main
+daily activity of almost all of us.
+But how many of those interactions are
+actually really of our choosing?
+Our lives are uh and our societies are
+increasingly structured around and by
+algorithms and digital networks. And
+this algorithmization of life I think is
+a problem for different reasons. And I
+want to uh touch upon two of them
+tonight.
+The first one is the nature of these
+technologies. We think they are products
+and we buy them and once we own them, we
+can do with them as we please. But in
+the last couple of decades,
+digital technologies have actually
+become platforms,
+invisible digital architectures within
+which we live and that changes
+absolutely everything.
+Almost all important software and
+digital services. Think of office and uh
+industrial applications,
+information and entertainment feeds,
+payments, artificial intelligence,
+chatbots, they all now run on the cloud
+as we say, which means that the data and
+the processing
+are not in our machines controlled by us
+locally, but they are on distant
+machines on remote servers to which we
+buy access and which are controlled by
+the providers
+and that gives them an immense power
+over our lives. [snorts] It allows them
+to decide what we can and cannot do.
+what ideas get visibility and what
+don't, what information we can access
+and also to influence our public
+debates. Of course, these technologies
+are efficient, useful, practical, well
+integrated, easy to use, often even
+free.
+Their utility is real and that's why we
+have adopted them and that's why it's so
+difficult to imagine doing without them.
+But all that comes at a price and
+finally we are starting to understand
+it. Data extraction, privacy loss,
+fragmentation of attention, dependency,
+mental health, we can do a very long
+list.
+And now for the past 3 years, a little
+bit more, generative artificial
+intelligence is infiltrating itself
+everywhere. It's popping up on all sorts
+of applications and programs, talking to
+us like friends, giving us sometimes the
+impression that we have superpowers.
+And indeed, AI chatbots can seem magical
+because they offer something almost
+irresistible.
+The opportunity to delegate to a machine
+the effort of thinking, learning,
+writing, even deciding.
+They are like
+cognitive baby bottles.
+And uh every day tens of millions of
+people rush to the nipple. But the more
+we delegate thinking [snorts] and
+deciding, the less we will be able to
+think and decide by ourselves.
+[snorts] And indeed, we are increasingly
+surrounded by machines that under the
+cover of optimization and practicality
+diminish our ability to understand
+reality and to act upon it.
+And they algorithmically reprogram
+change our societies. We think we
+control them, but actually is they who
+hypnotize us and domesticate us.
+And I know that's not a happy profile of
+our current situation that I just
+described.
+And for us Europeans, and that's the
+second point, for us Europeans, this
+problem is compounded by the fact that
+almost all these digital technologies
+are American.
+for a long time for a mix of uh
+economic opportunism and uh strategic
+naive and comfort and lack of
+imagination. We have accumulated a
+substantial technological lag. We have
+given up on our digital autonomy and it
+didn't seem such a huge deal because
+these technologies were coming from a
+country that was a friend and an ally.
+But now the United States are undergoing
+an internal revolution with fascist
+tendencies and they are engaging in a
+rogue and destabilizing external
+activism.
+Old established friendships are being
+replaced by openly hostile postures, by
+brazen interferences
+and force threats are becoming tools of
+foreign policy.
+And we must not fool ourselves. This is
+not just temporary. This is a profound
+systemic transformation.
+And the big tech tech companies, the big
+American tech companies, the one that we
+carry in our pockets, the one that are
+on our desk on whose digital services we
+depend,
+they are aligned with the priorities or
+of their government. We actually seeing
+a convergence of military and political
+power and of cloud power. When
+the CEOs are invited to accompany the
+president to a dinner, for example, with
+the king of England, that's not so that
+they can take a selfie with the king,
+right? That's a signal. It's a signal
+that digital technology is today central
+to American power projection. In fact,
+we should start looking at their data
+centers in the same way we look at the
+military bases that the US is
+maintaining around the world. And in
+this context, the fact that uh large
+parts of Europe
+run on American servers and software
+owned by American companies, encoding
+American values and worldviews and
+subject to American law of course
+creates a huge systemic vulnerability.
+[clears throat]
+You cannot build a healthy economy and a
+strong society on somebody else's
+digital infrastructure.
+And our dependence
+is actually substantial. We may not
+realize it uh in our daily daily use,
+but somewhere between 2/3 and 3/4 of all
+digital technologies we use are
+American.
+And tech dependence is both a political
+and an economic risk. Should our access
+[snorts] to American digital
+infrastructure be cut off for technical
+reasons, for an accident, for economic
+reasons or for political reasons, it
+would cause a nearly immediate paralysis
+of nearly everything. administration,
+hospitals, energy systems, businesses,
+of course, the military, payments,
+social networks, all our messaging apps.
+And yet we continue to transfer segments
+of our companies, of our governments,
+and our social and private lives onto
+American clouds every day, deepening our
+dependence.
+And
+dependencies,
+every dependence can be turned into
+coercion and into submission.
+And so I think it's urgent, very urgent,
+to find another way
+to demericanize
+as much as possible our digital uses and
+infrastructures.
+Now,
+don't take me for an anti-American.
+I've spent the last 30 years building
+bridges between the two sides of the
+Atlantic. There is nothing anti-American
+in what I'm saying here tonight. But
+there is everything anti-technological
+submission.
+So how do we go about it? Obviously I'm
+not advocating for shifting to the other
+technological track of the world, the
+Chinese,
+nor for anarchic approach which in
+today's technological reality would be
+impossible.
+I'm talking about taking back control,
+about reestablishing, restoring a level
+of choice, of autonomy, of digital
+sovereignty.
+Some will say, "But we don't really have
+alternatives [snorts] to the American
+tech giants."
+We hear that all the time.
+But it's only half true because yes, we
+don't have giants. We don't have a
+European Google or a European Microsoft,
+but we do have alternatives, not for
+everything, but for many things.
+[snorts]
+They may be small, national, perhaps not
+perfect, [snorts] but they are rather
+good. And there are really many. And
+what we need to do is to make them grow
+to make them scale in a deliberate way.
+And there are many ways of doing that.
+One for example is to prioritize them in
+public procurement. We cannot go to
+private companies and dictate what kind
+of technology they should use to run
+their business. Although
+companies should wake up and realize
+that uh every time they store data on an
+American cloud, every time they
+integrate an American AI, every time
+they make their business model
+contingent upon accessing American
+digital technology, they're putting
+themselves in a position of dependence
+and weakening their operational
+robustness and resilience.
+But public procurement, we can decide
+where we direct taxpayers money. And I'm
+talking about tens, many tens of
+billions of euros that every year
+European public administrations send to
+the other side of the Atlantic to buy
+digital technology.
+And so we should start to take into
+account not only economic criteria but
+uh also strategic considerations when we
+choose technology and at least partially
+favoring national and European providers
+which would help them grow and note that
+that's exactly what the Americans and
+the Chinese do with their companies. And
+note also that I'm not talking about
+subsidies. I'm talking about markets,
+about purchases, about bids, about offer
+and supply. And if we help them grow,
+then there are cascading effects. They
+will have resources to invest in assets
+and capabilities. They will have a
+capacity to build new technologies, to
+retain talent, to dynamize the market,
+to become themselves internationally
+competitive.
+Further, we also need to establish
+distinct European model, a new kind of
+industrial policy that can foster a
+different kind of technological
+innovation and relaunch the European
+tech industry. An approach, for example,
+that favors transparency,
+interoperability,
+respect for essential values.
+A business model that does not rely on
+the often abusive exploitation of
+personal data, but favors technology
+that does not spy on people.
+A regime of competition rather than
+monopoly, federated rather than
+centralized,
+diverse, and above all democratic
+because the big tech tech platforms we
+use today by nature are authoritarian
+based as they are on surveillance and
+control.
+It seems to me that
+technology that does not spy on you,
+that should be Europe's digital
+difference.
+And it also needs to be an approach that
+is not only defensive but is competitive
+that builds technology, not only
+integrates or regulates it.
+Of course, emancipating ourselves even
+just partially won't be easy. There is
+no quick fix. There is no one for one
+replacement. It will take time but many
+have already done it. The city of Leon
+in France, cities in Denmark, the state
+of Schlesstein in Germany, ministries in
+Austria, the French National Police, the
+Swiss Supreme Court of Justice, both of
+those run on open-source software. The
+German government just a couple of days
+ago uh put forward a policy framework
+for a German tech stack
+and there are many many others [snorts]
+which shows that it is possible.
+And then there is us, each and every one
+of us here tonight, who hand over entire
+parts of our private and social lives to
+American platforms every day, including
+today,
+without asking enough questions.
+Sometimes we do have a moment of doubt.
+We feel uneasy when we realize that our
+messages are read and our images are
+viewed by AIS.
+That the information we receive is
+filtered and often invented by
+algorithms that the machines we used we
+use are programmed to manipulate us.
+But then the apps are so convenient,
+free, easy. Our friends are there, our
+followers are there, the chat bots
+present themselves as friends. And so we
+convince ourselves that it's okay and
+continue to use them.
+But it's not okay. In fact, I believe
+that the existence
+of big tech given their size, their
+concentration of capital, their growing
+technological grip into our lives, their
+almost direct access to our minds and to
+our emotions. The existence of big tech
+is no longer compatible with our
+freedoms and with democracy.
+The control they have over the
+development of artificial intelligence,
+one of the most astounding technologies
+ever created further entrenches that
+power, projects it into the future.
+However, that power, algorithmic power,
+cloud power rests at [snorts] least in
+part on our consent,
+on our compliance, on our passive and
+silent acceptance. And there is where we
+have a choice.
+We can of course decide that autonomy
+and digital sovereignty are too
+expensive or too complicated or that it
+is too late and accept technological
+submission. And that seems to be the
+path we are on right now.
+Or we can resist.
+We can decide that we want to remain
+free and democratic and make and do
+everything we can gradually but
+aggressively and with urgency to regain
+control of our cloud and our data. It's
+possible. It will be difficult. It may
+hurt. It will require a surge of pride
+and of will.
+collaborative effort, pulled resources,
+courage, imagination. But to me, the
+path is absolutely clear. We need to
+deamemericanize our technological uses
+and infrastructure and we need to start
+now. Thank you. [applause]
