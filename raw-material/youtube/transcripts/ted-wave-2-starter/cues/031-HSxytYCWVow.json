@@ -1,0 +1,1836 @@
+[
+  {
+    "start": "00:00:04.135",
+    "end": "00:00:06.437",
+    "start_seconds": 4.135,
+    "end_seconds": 6.437,
+    "text": "Let's take a look at this clay tablet."
+  },
+  {
+    "start": "00:00:06.904",
+    "end": "00:00:08.506",
+    "start_seconds": 6.904,
+    "end_seconds": 8.506,
+    "text": "It might not look like much,"
+  },
+  {
+    "start": "00:00:08.539",
+    "end": "00:00:11.542",
+    "start_seconds": 8.539,
+    "end_seconds": 11.542,
+    "text": "but it's actually some of the oldest mathematics we have."
+  },
+  {
+    "start": "00:00:11.575",
+    "end": "00:00:15.613",
+    "start_seconds": 11.575,
+    "end_seconds": 15.613,
+    "text": "It’s a 4,000-year-old message in a bottle from ancient Babylon --"
+  },
+  {
+    "start": "00:00:15.646",
+    "end": "00:00:18.182",
+    "start_seconds": 15.646,
+    "end_seconds": 18.182,
+    "text": "a precursor to the quadratic equation."
+  },
+  {
+    "start": "00:00:18.682",
+    "end": "00:00:20.217",
+    "start_seconds": 18.682,
+    "end_seconds": 20.217,
+    "text": "And for four millennia,"
+  },
+  {
+    "start": "00:00:20.217",
+    "end": "00:00:23.120",
+    "start_seconds": 20.217,
+    "end_seconds": 23.12,
+    "text": "people have been doing math basically the same way."
+  },
+  {
+    "start": "00:00:23.687",
+    "end": "00:00:25.856",
+    "start_seconds": 23.687,
+    "end_seconds": 25.856,
+    "text": "Someone will have a brilliant idea,"
+  },
+  {
+    "start": "00:00:25.890",
+    "end": "00:00:29.527",
+    "start_seconds": 25.89,
+    "end_seconds": 29.527,
+    "text": "they’ll write it down, and their peers will discuss and check it."
+  },
+  {
+    "start": "00:00:30.261",
+    "end": "00:00:35.833",
+    "start_seconds": 30.261,
+    "end_seconds": 35.833,
+    "text": "It’s a process built on creativity, communication and, most importantly,"
+  },
+  {
+    "start": "00:00:35.866",
+    "end": "00:00:37.468",
+    "start_seconds": 35.866,
+    "end_seconds": 37.468,
+    "text": "trust between people."
+  },
+  {
+    "start": "00:00:37.835",
+    "end": "00:00:42.673",
+    "start_seconds": 37.835,
+    "end_seconds": 42.673,
+    "text": "And what might seem like a humble or simple process is anything but."
+  },
+  {
+    "start": "00:00:42.706",
+    "end": "00:00:44.542",
+    "start_seconds": 42.706,
+    "end_seconds": 44.542,
+    "text": "It's not just been successful."
+  },
+  {
+    "start": "00:00:44.575",
+    "end": "00:00:48.746",
+    "start_seconds": 44.575,
+    "end_seconds": 48.746,
+    "text": "It's been, as the physicist Eugene Wigner famously put it,"
+  },
+  {
+    "start": "00:00:48.746",
+    "end": "00:00:50.614",
+    "start_seconds": 48.746,
+    "end_seconds": 50.614,
+    "text": "unreasonably effective."
+  },
+  {
+    "start": "00:00:50.648",
+    "end": "00:00:54.585",
+    "start_seconds": 50.648,
+    "end_seconds": 54.585,
+    "text": "Wigner was pondering and trying to unravel a deep mystery."
+  },
+  {
+    "start": "00:00:54.585",
+    "end": "00:00:57.922",
+    "start_seconds": 54.585,
+    "end_seconds": 57.922,
+    "text": "Why should the abstract, creative,"
+  },
+  {
+    "start": "00:00:57.955",
+    "end": "00:01:01.892",
+    "start_seconds": 57.955,
+    "end_seconds": 61.892,
+    "text": "and often bizarre ideas that spring from a mathematician's imagination"
+  },
+  {
+    "start": "00:01:01.926",
+    "end": "00:01:06.297",
+    "start_seconds": 61.926,
+    "end_seconds": 66.297,
+    "text": "so often be the perfect language with which we understand the universe?"
+  },
+  {
+    "start": "00:01:06.330",
+    "end": "00:01:09.333",
+    "start_seconds": 66.33,
+    "end_seconds": 69.333,
+    "text": "Why should the strange laws of non-Euclidean geometry,"
+  },
+  {
+    "start": "00:01:09.366",
+    "end": "00:01:12.103",
+    "start_seconds": 69.366,
+    "end_seconds": 72.103,
+    "text": "which were originally conceived of as a thought experiment"
+  },
+  {
+    "start": "00:01:12.103",
+    "end": "00:01:13.504",
+    "start_seconds": 72.103,
+    "end_seconds": 73.504,
+    "text": "in the 19th century,"
+  },
+  {
+    "start": "00:01:13.537",
+    "end": "00:01:15.306",
+    "start_seconds": 73.537,
+    "end_seconds": 75.306,
+    "text": "turn out to be the exact mathematics"
+  },
+  {
+    "start": "00:01:15.339",
+    "end": "00:01:17.675",
+    "start_seconds": 75.339,
+    "end_seconds": 77.675,
+    "text": "that Einstein needed for general relativity?"
+  },
+  {
+    "start": "00:01:17.708",
+    "end": "00:01:20.411",
+    "start_seconds": 77.708,
+    "end_seconds": 80.411,
+    "text": "Why should the esoteric math of group theory,"
+  },
+  {
+    "start": "00:01:20.444",
+    "end": "00:01:24.281",
+    "start_seconds": 80.444,
+    "end_seconds": 84.281,
+    "text": "which was originally designed to study the abstract nature of symmetry,"
+  },
+  {
+    "start": "00:01:24.315",
+    "end": "00:01:28.252",
+    "start_seconds": 84.315,
+    "end_seconds": 88.252,
+    "text": "be fundamental to understanding everything from particle physics"
+  },
+  {
+    "start": "00:01:28.285",
+    "end": "00:01:29.920",
+    "start_seconds": 88.285,
+    "end_seconds": 89.92,
+    "text": "to the patterns in crystals?"
+  },
+  {
+    "start": "00:01:30.554",
+    "end": "00:01:34.225",
+    "start_seconds": 90.554,
+    "end_seconds": 94.225,
+    "text": "Well, there's no logical reason it has to be this way."
+  },
+  {
+    "start": "00:01:34.825",
+    "end": "00:01:37.094",
+    "start_seconds": 94.825,
+    "end_seconds": 97.094,
+    "text": "This strange connection"
+  },
+  {
+    "start": "00:01:37.128",
+    "end": "00:01:41.165",
+    "start_seconds": 97.128,
+    "end_seconds": 101.16499999999999,
+    "text": "between pure mathematical thought and the real world"
+  },
+  {
+    "start": "00:01:41.198",
+    "end": "00:01:44.768",
+    "start_seconds": 101.19800000000001,
+    "end_seconds": 104.768,
+    "text": "has actually been the invisible engine driving human progress."
+  },
+  {
+    "start": "00:01:45.970",
+    "end": "00:01:49.807",
+    "start_seconds": 105.97,
+    "end_seconds": 109.807,
+    "text": "Every piece of technology that defines our lives"
+  },
+  {
+    "start": "00:01:49.840",
+    "end": "00:01:52.009",
+    "start_seconds": 109.84,
+    "end_seconds": 112.009,
+    "text": "was ignited with a mathematical spark."
+  },
+  {
+    "start": "00:01:52.443",
+    "end": "00:01:54.612",
+    "start_seconds": 112.443,
+    "end_seconds": 114.612,
+    "text": "If you take the device in your phone,"
+  },
+  {
+    "start": "00:01:54.645",
+    "end": "00:01:57.882",
+    "start_seconds": 114.64500000000001,
+    "end_seconds": 117.882,
+    "text": "its brain is based on the quantum mechanics of semiconductors."
+  },
+  {
+    "start": "00:01:57.915",
+    "end": "00:02:00.451",
+    "start_seconds": 117.91499999999999,
+    "end_seconds": 120.451,
+    "text": "And that's a theory built on linear algebra"
+  },
+  {
+    "start": "00:02:00.484",
+    "end": "00:02:02.219",
+    "start_seconds": 120.484,
+    "end_seconds": 122.219,
+    "text": "and complex numbers."
+  },
+  {
+    "start": "00:02:02.253",
+    "end": "00:02:04.788",
+    "start_seconds": 122.253,
+    "end_seconds": 124.788,
+    "text": "The wireless signals that get data to it,"
+  },
+  {
+    "start": "00:02:04.788",
+    "end": "00:02:08.259",
+    "start_seconds": 124.788,
+    "end_seconds": 128.25900000000001,
+    "text": "they're just a concrete manifestation of Maxwell's equations."
+  },
+  {
+    "start": "00:02:08.592",
+    "end": "00:02:13.197",
+    "start_seconds": 128.592,
+    "end_seconds": 133.197,
+    "text": "And finally, the security that protects your data online"
+  },
+  {
+    "start": "00:02:13.230",
+    "end": "00:02:15.099",
+    "start_seconds": 133.23,
+    "end_seconds": 135.099,
+    "text": "is based on number theory,"
+  },
+  {
+    "start": "00:02:15.132",
+    "end": "00:02:18.669",
+    "start_seconds": 135.132,
+    "end_seconds": 138.669,
+    "text": "which for a long time was truly considered the most pure"
+  },
+  {
+    "start": "00:02:18.702",
+    "end": "00:02:22.072",
+    "start_seconds": 138.702,
+    "end_seconds": 142.072,
+    "text": "and least applicable possible branch of mathematics."
+  },
+  {
+    "start": "00:02:22.806",
+    "end": "00:02:26.410",
+    "start_seconds": 142.806,
+    "end_seconds": 146.41,
+    "text": "And now it safeguards trillions of dollars in the global economy."
+  },
+  {
+    "start": "00:02:27.011",
+    "end": "00:02:28.612",
+    "start_seconds": 147.011,
+    "end_seconds": 148.612,
+    "text": "And now we come to AI."
+  },
+  {
+    "start": "00:02:29.580",
+    "end": "00:02:33.751",
+    "start_seconds": 149.57999999999998,
+    "end_seconds": 153.751,
+    "text": "Modern AI is not just built with math, it's forged from it."
+  },
+  {
+    "start": "00:02:34.218",
+    "end": "00:02:38.289",
+    "start_seconds": 154.21800000000002,
+    "end_seconds": 158.289,
+    "text": "A neural network is just a monumental structure of applied mathematics."
+  },
+  {
+    "start": "00:02:38.322",
+    "end": "00:02:40.024",
+    "start_seconds": 158.322,
+    "end_seconds": 160.024,
+    "text": "And when AIs learn,"
+  },
+  {
+    "start": "00:02:40.057",
+    "end": "00:02:42.326",
+    "start_seconds": 160.05700000000002,
+    "end_seconds": 162.326,
+    "text": "they're using the tools of calculus"
+  },
+  {
+    "start": "00:02:42.359",
+    "end": "00:02:44.662",
+    "start_seconds": 162.359,
+    "end_seconds": 164.662,
+    "text": "to navigate vast landscapes of possibilities"
+  },
+  {
+    "start": "00:02:44.695",
+    "end": "00:02:46.430",
+    "start_seconds": 164.695,
+    "end_seconds": 166.43,
+    "text": "with billions of dimensions."
+  },
+  {
+    "start": "00:02:46.931",
+    "end": "00:02:49.066",
+    "start_seconds": 166.93099999999998,
+    "end_seconds": 169.066,
+    "text": "So AI is, in its soul,"
+  },
+  {
+    "start": "00:02:49.099",
+    "end": "00:02:52.503",
+    "start_seconds": 169.099,
+    "end_seconds": 172.503,
+    "text": "a mathematical idea that's given life through computation."
+  },
+  {
+    "start": "00:02:53.737",
+    "end": "00:02:58.776",
+    "start_seconds": 173.737,
+    "end_seconds": 178.776,
+    "text": "So we agree that math is the foundation that modern civilization is based on."
+  },
+  {
+    "start": "00:02:59.610",
+    "end": "00:03:02.813",
+    "start_seconds": 179.61,
+    "end_seconds": 182.813,
+    "text": "But that foundation is starting to show some signs of strain."
+  },
+  {
+    "start": "00:03:03.214",
+    "end": "00:03:06.016",
+    "start_seconds": 183.214,
+    "end_seconds": 186.016,
+    "text": "The very process of human-led discovery"
+  },
+  {
+    "start": "00:03:06.050",
+    "end": "00:03:09.220",
+    "start_seconds": 186.05,
+    "end_seconds": 189.22,
+    "text": "that's gotten us to this point is nearing a breaking point,"
+  },
+  {
+    "start": "00:03:09.253",
+    "end": "00:03:11.388",
+    "start_seconds": 189.253,
+    "end_seconds": 191.388,
+    "text": "buckling under the weight of its own success."
+  },
+  {
+    "start": "00:03:11.422",
+    "end": "00:03:15.226",
+    "start_seconds": 191.422,
+    "end_seconds": 195.226,
+    "text": "And now AI, which is one of mathematics’ greatest creations,"
+  },
+  {
+    "start": "00:03:15.259",
+    "end": "00:03:17.428",
+    "start_seconds": 195.25900000000001,
+    "end_seconds": 197.428,
+    "text": "is accelerating us towards that breaking point"
+  },
+  {
+    "start": "00:03:17.461",
+    "end": "00:03:19.363",
+    "start_seconds": 197.461,
+    "end_seconds": 199.363,
+    "text": "faster than the world's ready for."
+  },
+  {
+    "start": "00:03:19.396",
+    "end": "00:03:21.398",
+    "start_seconds": 199.39600000000002,
+    "end_seconds": 201.398,
+    "text": "So let's just look at some evidence."
+  },
+  {
+    "start": "00:03:21.966",
+    "end": "00:03:23.867",
+    "start_seconds": 201.966,
+    "end_seconds": 203.867,
+    "text": "Consider the Poincaré conjecture."
+  },
+  {
+    "start": "00:03:24.335",
+    "end": "00:03:26.103",
+    "start_seconds": 204.335,
+    "end_seconds": 206.103,
+    "text": "This is a legendary problem."
+  },
+  {
+    "start": "00:03:26.136",
+    "end": "00:03:27.438",
+    "start_seconds": 206.136,
+    "end_seconds": 207.438,
+    "text": "It's a fundamental question"
+  },
+  {
+    "start": "00:03:27.471",
+    "end": "00:03:30.107",
+    "start_seconds": 207.471,
+    "end_seconds": 210.107,
+    "text": "about the nature of three-dimensional shapes"
+  },
+  {
+    "start": "00:03:30.140",
+    "end": "00:03:32.876",
+    "start_seconds": 210.14,
+    "end_seconds": 212.876,
+    "text": "originally posed in 1904."
+  },
+  {
+    "start": "00:03:32.910",
+    "end": "00:03:34.878",
+    "start_seconds": 212.91,
+    "end_seconds": 214.878,
+    "text": "And for nearly a century,"
+  },
+  {
+    "start": "00:03:34.912",
+    "end": "00:03:38.249",
+    "start_seconds": 214.912,
+    "end_seconds": 218.249,
+    "text": "it stood as an unconquered Everest of mathematics."
+  },
+  {
+    "start": "00:03:38.849",
+    "end": "00:03:40.851",
+    "start_seconds": 218.849,
+    "end_seconds": 220.851,
+    "text": "Until in 2002,"
+  },
+  {
+    "start": "00:03:40.884",
+    "end": "00:03:42.987",
+    "start_seconds": 220.88400000000001,
+    "end_seconds": 222.987,
+    "text": "a Russian mathematician working in isolation"
+  },
+  {
+    "start": "00:03:42.987",
+    "end": "00:03:44.688",
+    "start_seconds": 222.987,
+    "end_seconds": 224.688,
+    "text": "named Grigori Perelman"
+  },
+  {
+    "start": "00:03:44.722",
+    "end": "00:03:48.325",
+    "start_seconds": 224.722,
+    "end_seconds": 228.325,
+    "text": "posted a series of three short, cryptic papers online."
+  },
+  {
+    "start": "00:03:48.325",
+    "end": "00:03:50.628",
+    "start_seconds": 228.325,
+    "end_seconds": 230.628,
+    "text": "He didn’t bother submitting them to a journal --"
+  },
+  {
+    "start": "00:03:50.628",
+    "end": "00:03:52.930",
+    "start_seconds": 230.628,
+    "end_seconds": 232.93,
+    "text": "he just put them on the internet and walked away."
+  },
+  {
+    "start": "00:03:52.930",
+    "end": "00:03:55.666",
+    "start_seconds": 232.93,
+    "end_seconds": 235.666,
+    "text": "His fellow mathematicians had to stop what they were doing"
+  },
+  {
+    "start": "00:03:55.699",
+    "end": "00:03:57.434",
+    "start_seconds": 235.699,
+    "end_seconds": 237.434,
+    "text": "and try to decipher it."
+  },
+  {
+    "start": "00:03:57.434",
+    "end": "00:04:02.506",
+    "start_seconds": 237.434,
+    "end_seconds": 242.506,
+    "text": "And several teams working independently of the best of colleges in the world,"
+  },
+  {
+    "start": "00:04:02.506",
+    "end": "00:04:05.776",
+    "start_seconds": 242.506,
+    "end_seconds": 245.776,
+    "text": "took the next four years to try to unpack the arguments,"
+  },
+  {
+    "start": "00:04:05.809",
+    "end": "00:04:07.778",
+    "start_seconds": 245.809,
+    "end_seconds": 247.778,
+    "text": "fill in the logical gaps"
+  },
+  {
+    "start": "00:04:07.811",
+    "end": "00:04:10.581",
+    "start_seconds": 247.811,
+    "end_seconds": 250.581,
+    "text": "and eventually, at the end, after they really reviewed it,"
+  },
+  {
+    "start": "00:04:10.581",
+    "end": "00:04:11.949",
+    "start_seconds": 250.581,
+    "end_seconds": 251.949,
+    "text": "declare that yes, he did it."
+  },
+  {
+    "start": "00:04:11.982",
+    "end": "00:04:13.951",
+    "start_seconds": 251.982,
+    "end_seconds": 253.951,
+    "text": "He proved the Poincaré conjecture."
+  },
+  {
+    "start": "00:04:14.385",
+    "end": "00:04:15.653",
+    "start_seconds": 254.385,
+    "end_seconds": 255.653,
+    "text": "But that's interesting"
+  },
+  {
+    "start": "00:04:15.686",
+    "end": "00:04:19.990",
+    "start_seconds": 255.686,
+    "end_seconds": 259.99,
+    "text": "because it took one person to write a proof"
+  },
+  {
+    "start": "00:04:20.024",
+    "end": "00:04:24.395",
+    "start_seconds": 260.024,
+    "end_seconds": 264.395,
+    "text": "and a global, multi-year intellectual mobilization to check it."
+  },
+  {
+    "start": "00:04:25.429",
+    "end": "00:04:28.332",
+    "start_seconds": 265.429,
+    "end_seconds": 268.332,
+    "text": "And that's in the best case, when the proof is correct."
+  },
+  {
+    "start": "00:04:29.033",
+    "end": "00:04:32.169",
+    "start_seconds": 269.033,
+    "end_seconds": 272.169,
+    "text": "Consider Andrew Wiles's proof of Fermat's Last Theorem."
+  },
+  {
+    "start": "00:04:32.202",
+    "end": "00:04:36.907",
+    "start_seconds": 272.202,
+    "end_seconds": 276.907,
+    "text": "With the electrifying announcement in 1993 in Cambridge, the world celebrated."
+  },
+  {
+    "start": "00:04:36.940",
+    "end": "00:04:40.210",
+    "start_seconds": 276.94,
+    "end_seconds": 280.21,
+    "text": "But during the peer-review process, deep in it,"
+  },
+  {
+    "start": "00:04:40.210",
+    "end": "00:04:42.579",
+    "start_seconds": 280.21,
+    "end_seconds": 282.579,
+    "text": "a single thread was found out of place"
+  },
+  {
+    "start": "00:04:42.613",
+    "end": "00:04:45.182",
+    "start_seconds": 282.613,
+    "end_seconds": 285.182,
+    "text": "in that magnificent tapestry of a proof,"
+  },
+  {
+    "start": "00:04:45.215",
+    "end": "00:04:46.850",
+    "start_seconds": 285.21500000000003,
+    "end_seconds": 286.85,
+    "text": "and when we started to pull on it,"
+  },
+  {
+    "start": "00:04:46.884",
+    "end": "00:04:48.285",
+    "start_seconds": 286.884,
+    "end_seconds": 288.28499999999997,
+    "text": "the proof started to unravel."
+  },
+  {
+    "start": "00:04:48.285",
+    "end": "00:04:50.020",
+    "start_seconds": 288.28499999999997,
+    "end_seconds": 290.02,
+    "text": "And this wasn't a small mistake."
+  },
+  {
+    "start": "00:04:50.587",
+    "end": "00:04:55.993",
+    "start_seconds": 290.587,
+    "end_seconds": 295.993,
+    "text": "Andrew Wiles and his collaborator Richard Taylor took two years of heroic,"
+  },
+  {
+    "start": "00:04:56.026",
+    "end": "00:04:58.162",
+    "start_seconds": 296.026,
+    "end_seconds": 298.162,
+    "text": "secret effort to try to fix it."
+  },
+  {
+    "start": "00:04:58.495",
+    "end": "00:05:02.433",
+    "start_seconds": 298.495,
+    "end_seconds": 302.433,
+    "text": "And that effort included some insights that Andrew Wiles said"
+  },
+  {
+    "start": "00:05:02.466",
+    "end": "00:05:04.501",
+    "start_seconds": 302.466,
+    "end_seconds": 304.501,
+    "text": "were among the most important in his life."
+  },
+  {
+    "start": "00:05:05.069",
+    "end": "00:05:07.571",
+    "start_seconds": 305.069,
+    "end_seconds": 307.571,
+    "text": "And that's before we throw AI into the mix."
+  },
+  {
+    "start": "00:05:08.706",
+    "end": "00:05:10.140",
+    "start_seconds": 308.706,
+    "end_seconds": 310.14,
+    "text": "Two short years ago,"
+  },
+  {
+    "start": "00:05:10.174",
+    "end": "00:05:15.212",
+    "start_seconds": 310.174,
+    "end_seconds": 315.212,
+    "text": "AI could barely solve entry-level high school math-contest problems."
+  },
+  {
+    "start": "00:05:15.245",
+    "end": "00:05:17.681",
+    "start_seconds": 315.245,
+    "end_seconds": 317.681,
+    "text": "They were very clever, but brittle."
+  },
+  {
+    "start": "00:05:18.582",
+    "end": "00:05:20.751",
+    "start_seconds": 318.582,
+    "end_seconds": 320.751,
+    "text": "Now, in 2025,"
+  },
+  {
+    "start": "00:05:20.751",
+    "end": "00:05:22.486",
+    "start_seconds": 320.751,
+    "end_seconds": 322.486,
+    "text": "they can compete with the best of us"
+  },
+  {
+    "start": "00:05:22.519",
+    "end": "00:05:24.588",
+    "start_seconds": 322.519,
+    "end_seconds": 324.588,
+    "text": "at the International Math Olympiad,"
+  },
+  {
+    "start": "00:05:24.621",
+    "end": "00:05:27.424",
+    "start_seconds": 324.621,
+    "end_seconds": 327.424,
+    "text": "which is the premier precollege math competition."
+  },
+  {
+    "start": "00:05:28.258",
+    "end": "00:05:30.461",
+    "start_seconds": 328.258,
+    "end_seconds": 330.461,
+    "text": "But the interesting bit is the following."
+  },
+  {
+    "start": "00:05:30.894",
+    "end": "00:05:35.999",
+    "start_seconds": 330.894,
+    "end_seconds": 335.999,
+    "text": "The AI might work for four hours and produce a purported solution,"
+  },
+  {
+    "start": "00:05:36.033",
+    "end": "00:05:40.304",
+    "start_seconds": 336.033,
+    "end_seconds": 340.304,
+    "text": "which takes an expert human mathematician maybe up to an hour to check."
+  },
+  {
+    "start": "00:05:41.338",
+    "end": "00:05:44.308",
+    "start_seconds": 341.338,
+    "end_seconds": 344.308,
+    "text": "And we all know the exponential trend that AI is on."
+  },
+  {
+    "start": "00:05:44.341",
+    "end": "00:05:49.079",
+    "start_seconds": 344.341,
+    "end_seconds": 349.079,
+    "text": "So we can expect it’s not going to be one proof in an afternoon --"
+  },
+  {
+    "start": "00:05:49.113",
+    "end": "00:05:51.248",
+    "start_seconds": 349.113,
+    "end_seconds": 351.248,
+    "text": "it’s going to be a thousand pretty soon."
+  },
+  {
+    "start": "00:05:51.815",
+    "end": "00:05:55.185",
+    "start_seconds": 351.815,
+    "end_seconds": 355.185,
+    "text": "And they're not going to be attempts to solve math-contest problems."
+  },
+  {
+    "start": "00:05:55.219",
+    "end": "00:05:57.621",
+    "start_seconds": 355.219,
+    "end_seconds": 357.621,
+    "text": "They're going to be attacks on the most fundamental"
+  },
+  {
+    "start": "00:05:57.654",
+    "end": "00:05:59.690",
+    "start_seconds": 357.654,
+    "end_seconds": 359.69,
+    "text": "and important questions of the day,"
+  },
+  {
+    "start": "00:05:59.723",
+    "end": "00:06:01.492",
+    "start_seconds": 359.723,
+    "end_seconds": 361.492,
+    "text": "whether it's the Riemann hypothesis,"
+  },
+  {
+    "start": "00:06:01.492",
+    "end": "00:06:04.161",
+    "start_seconds": 361.492,
+    "end_seconds": 364.161,
+    "text": "Navier-Stokes or P versus NP,"
+  },
+  {
+    "start": "00:06:04.161",
+    "end": "00:06:05.729",
+    "start_seconds": 364.161,
+    "end_seconds": 365.729,
+    "text": "just to pick a few."
+  },
+  {
+    "start": "00:06:05.763",
+    "end": "00:06:08.665",
+    "start_seconds": 365.763,
+    "end_seconds": 368.665,
+    "text": "We simply don't have the human bandwidth"
+  },
+  {
+    "start": "00:06:08.699",
+    "end": "00:06:10.401",
+    "start_seconds": 368.699,
+    "end_seconds": 370.401,
+    "text": "to review all these proofs."
+  },
+  {
+    "start": "00:06:10.434",
+    "end": "00:06:12.536",
+    "start_seconds": 370.434,
+    "end_seconds": 372.536,
+    "text": "There's only a couple thousand mathematicians"
+  },
+  {
+    "start": "00:06:12.569",
+    "end": "00:06:15.506",
+    "start_seconds": 372.569,
+    "end_seconds": 375.506,
+    "text": "that are qualified to do it, and they already have day jobs."
+  },
+  {
+    "start": "00:06:15.539",
+    "end": "00:06:17.808",
+    "start_seconds": 375.539,
+    "end_seconds": 377.808,
+    "text": "And it's not just a verification bottleneck."
+  },
+  {
+    "start": "00:06:17.841",
+    "end": "00:06:20.144",
+    "start_seconds": 377.841,
+    "end_seconds": 380.144,
+    "text": "The very process by which we train these AIs"
+  },
+  {
+    "start": "00:06:20.177",
+    "end": "00:06:22.146",
+    "start_seconds": 380.177,
+    "end_seconds": 382.146,
+    "text": "is taking the data off the internet,"
+  },
+  {
+    "start": "00:06:22.179",
+    "end": "00:06:23.547",
+    "start_seconds": 382.179,
+    "end_seconds": 383.547,
+    "text": "which is from humans,"
+  },
+  {
+    "start": "00:06:23.547",
+    "end": "00:06:25.849",
+    "start_seconds": 383.547,
+    "end_seconds": 385.849,
+    "text": "post-training them with human feedback,"
+  },
+  {
+    "start": "00:06:25.883",
+    "end": "00:06:28.519",
+    "start_seconds": 385.883,
+    "end_seconds": 388.519,
+    "text": "and so we're essentially baking in the cognitive biases"
+  },
+  {
+    "start": "00:06:28.552",
+    "end": "00:06:32.956",
+    "start_seconds": 388.552,
+    "end_seconds": 392.956,
+    "text": "and the flawed reasoning of humans into these future engines of discovery."
+  },
+  {
+    "start": "00:06:32.990",
+    "end": "00:06:36.160",
+    "start_seconds": 392.99,
+    "end_seconds": 396.15999999999997,
+    "text": "So the conclusion is in some sense obvious."
+  },
+  {
+    "start": "00:06:36.193",
+    "end": "00:06:39.596",
+    "start_seconds": 396.193,
+    "end_seconds": 399.596,
+    "text": "Humans are becoming the bottleneck of verification for AI."
+  },
+  {
+    "start": "00:06:40.097",
+    "end": "00:06:42.633",
+    "start_seconds": 400.097,
+    "end_seconds": 402.633,
+    "text": "And now the question is, where does that leave us?"
+  },
+  {
+    "start": "00:06:42.666",
+    "end": "00:06:46.270",
+    "start_seconds": 402.666,
+    "end_seconds": 406.27,
+    "text": "Is this the end of the road for reliable mathematical discovery?"
+  },
+  {
+    "start": "00:06:46.303",
+    "end": "00:06:49.173",
+    "start_seconds": 406.303,
+    "end_seconds": 409.173,
+    "text": "Are we resigned to drowning in a sea of unverified claims"
+  },
+  {
+    "start": "00:06:49.206",
+    "end": "00:06:51.575",
+    "start_seconds": 409.206,
+    "end_seconds": 411.575,
+    "text": "where we can't really tell truth from fiction?"
+  },
+  {
+    "start": "00:06:51.608",
+    "end": "00:06:53.710",
+    "start_seconds": 411.608,
+    "end_seconds": 413.71,
+    "text": "And are we about to squander the opportunity"
+  },
+  {
+    "start": "00:06:53.744",
+    "end": "00:06:55.679",
+    "start_seconds": 413.744,
+    "end_seconds": 415.679,
+    "text": "for AI to revolutionize math?"
+  },
+  {
+    "start": "00:06:55.979",
+    "end": "00:06:57.848",
+    "start_seconds": 415.979,
+    "end_seconds": 417.848,
+    "text": "Well, the good news is no."
+  },
+  {
+    "start": "00:06:58.315",
+    "end": "00:06:59.583",
+    "start_seconds": 418.315,
+    "end_seconds": 419.58299999999997,
+    "text": "But it does mean it's time"
+  },
+  {
+    "start": "00:06:59.616",
+    "end": "00:07:02.920",
+    "start_seconds": 419.616,
+    "end_seconds": 422.92,
+    "text": "to upgrade the 4,000-year-old operating system of math,"
+  },
+  {
+    "start": "00:07:02.920",
+    "end": "00:07:08.592",
+    "start_seconds": 422.92,
+    "end_seconds": 428.592,
+    "text": "and move away from the imprecise and ambiguous nature of human language,"
+  },
+  {
+    "start": "00:07:08.592",
+    "end": "00:07:11.728",
+    "start_seconds": 428.592,
+    "end_seconds": 431.728,
+    "text": "and towards a language that computers can understand."
+  },
+  {
+    "start": "00:07:12.496",
+    "end": "00:07:15.466",
+    "start_seconds": 432.496,
+    "end_seconds": 435.466,
+    "text": "The solution is formal mathematics."
+  },
+  {
+    "start": "00:07:16.834",
+    "end": "00:07:19.336",
+    "start_seconds": 436.834,
+    "end_seconds": 439.336,
+    "text": "But before I tell you how this futuristic idea works,"
+  },
+  {
+    "start": "00:07:19.369",
+    "end": "00:07:23.140",
+    "start_seconds": 439.369,
+    "end_seconds": 443.14,
+    "text": "we should first recognize that it has a deep and fascinating history"
+  },
+  {
+    "start": "00:07:23.173",
+    "end": "00:07:25.976",
+    "start_seconds": 443.173,
+    "end_seconds": 445.976,
+    "text": "dating back to the 17th century,"
+  },
+  {
+    "start": "00:07:26.009",
+    "end": "00:07:29.913",
+    "start_seconds": 446.009,
+    "end_seconds": 449.913,
+    "text": "where a mathematician actually laid out the road map with stunning foresight."
+  },
+  {
+    "start": "00:07:30.314",
+    "end": "00:07:31.982",
+    "start_seconds": 450.314,
+    "end_seconds": 451.98199999999997,
+    "text": "Four hundred years ago,"
+  },
+  {
+    "start": "00:07:32.015",
+    "end": "00:07:35.853",
+    "start_seconds": 452.015,
+    "end_seconds": 455.853,
+    "text": "in a Europe torn by religious and political conflict,"
+  },
+  {
+    "start": "00:07:35.886",
+    "end": "00:07:39.456",
+    "start_seconds": 455.886,
+    "end_seconds": 459.456,
+    "text": "a polymath named Gottfried Wilhelm Leibniz"
+  },
+  {
+    "start": "00:07:39.456",
+    "end": "00:07:41.792",
+    "start_seconds": 459.456,
+    "end_seconds": 461.79200000000003,
+    "text": "had a vision of breathtaking ambition."
+  },
+  {
+    "start": "00:07:42.626",
+    "end": "00:07:46.597",
+    "start_seconds": 462.626,
+    "end_seconds": 466.597,
+    "text": "He was a contemporary of Newton and a cocreator of calculus,"
+  },
+  {
+    "start": "00:07:46.630",
+    "end": "00:07:48.465",
+    "start_seconds": 466.63,
+    "end_seconds": 468.46500000000003,
+    "text": "but his dreams went far beyond that."
+  },
+  {
+    "start": "00:07:49.233",
+    "end": "00:07:52.836",
+    "start_seconds": 469.233,
+    "end_seconds": 472.836,
+    "text": "He dreamed of something called a universal characteristic,"
+  },
+  {
+    "start": "00:07:52.870",
+    "end": "00:07:56.440",
+    "start_seconds": 472.87,
+    "end_seconds": 476.44,
+    "text": "which was a system for perfectly encoding all scientific"
+  },
+  {
+    "start": "00:07:56.473",
+    "end": "00:07:58.075",
+    "start_seconds": 476.473,
+    "end_seconds": 478.075,
+    "text": "and philosophical thought."
+  },
+  {
+    "start": "00:07:58.675",
+    "end": "00:08:00.944",
+    "start_seconds": 478.675,
+    "end_seconds": 480.944,
+    "text": "And the system had three parts."
+  },
+  {
+    "start": "00:08:01.578",
+    "end": "00:08:04.848",
+    "start_seconds": 481.578,
+    "end_seconds": 484.848,
+    "text": "First, you need a perfect logical language."
+  },
+  {
+    "start": "00:08:05.749",
+    "end": "00:08:09.920",
+    "start_seconds": 485.749,
+    "end_seconds": 489.92,
+    "text": "Second, you need a grand encyclopedia written in language"
+  },
+  {
+    "start": "00:08:09.953",
+    "end": "00:08:12.489",
+    "start_seconds": 489.953,
+    "end_seconds": 492.489,
+    "text": "that contains all verified human thought."
+  },
+  {
+    "start": "00:08:13.190",
+    "end": "00:08:14.424",
+    "start_seconds": 493.19,
+    "end_seconds": 494.424,
+    "text": "And third,"
+  },
+  {
+    "start": "00:08:14.458",
+    "end": "00:08:16.193",
+    "start_seconds": 494.458,
+    "end_seconds": 496.193,
+    "text": "and this is the masterstroke,"
+  },
+  {
+    "start": "00:08:16.226",
+    "end": "00:08:18.896",
+    "start_seconds": 496.226,
+    "end_seconds": 498.896,
+    "text": "you need a so-called engine of reason,"
+  },
+  {
+    "start": "00:08:18.929",
+    "end": "00:08:20.364",
+    "start_seconds": 498.929,
+    "end_seconds": 500.364,
+    "text": "a system of mechanical rules"
+  },
+  {
+    "start": "00:08:20.364",
+    "end": "00:08:24.601",
+    "start_seconds": 500.364,
+    "end_seconds": 504.601,
+    "text": "by which you can automatically derive new facts from that library"
+  },
+  {
+    "start": "00:08:24.635",
+    "end": "00:08:27.638",
+    "start_seconds": 504.635,
+    "end_seconds": 507.638,
+    "text": "as surely as a calculator performs arithmetic."
+  },
+  {
+    "start": "00:08:27.671",
+    "end": "00:08:31.408",
+    "start_seconds": 507.671,
+    "end_seconds": 511.408,
+    "text": "Now, Leibniz thought this would revolutionize humanity."
+  },
+  {
+    "start": "00:08:31.742",
+    "end": "00:08:33.343",
+    "start_seconds": 511.742,
+    "end_seconds": 513.343,
+    "text": "With a system like this,"
+  },
+  {
+    "start": "00:08:33.377",
+    "end": "00:08:35.445",
+    "start_seconds": 513.377,
+    "end_seconds": 515.445,
+    "text": "if two people had an intellectual conflict,"
+  },
+  {
+    "start": "00:08:35.479",
+    "end": "00:08:38.215",
+    "start_seconds": 515.479,
+    "end_seconds": 518.215,
+    "text": "they would resort to logic and not rhetoric to resolve it."
+  },
+  {
+    "start": "00:08:38.215",
+    "end": "00:08:39.616",
+    "start_seconds": 518.215,
+    "end_seconds": 519.616,
+    "text": "They would simply sit down,"
+  },
+  {
+    "start": "00:08:39.650",
+    "end": "00:08:42.619",
+    "start_seconds": 519.65,
+    "end_seconds": 522.619,
+    "text": "say “calculemus” -- “let us calculate,”"
+  },
+  {
+    "start": "00:08:42.619",
+    "end": "00:08:44.321",
+    "start_seconds": 522.619,
+    "end_seconds": 524.321,
+    "text": "and get to the bottom of it."
+  },
+  {
+    "start": "00:08:44.354",
+    "end": "00:08:48.258",
+    "start_seconds": 524.354,
+    "end_seconds": 528.258,
+    "text": "In some sense, it was meant to be a universal calculator for truth."
+  },
+  {
+    "start": "00:08:48.859",
+    "end": "00:08:51.395",
+    "start_seconds": 528.859,
+    "end_seconds": 531.395,
+    "text": "Now, Leibniz was a bit of an optimist."
+  },
+  {
+    "start": "00:08:51.395",
+    "end": "00:08:55.098",
+    "start_seconds": 531.395,
+    "end_seconds": 535.098,
+    "text": "He thought this would take a small group of people five years to build,"
+  },
+  {
+    "start": "00:08:55.132",
+    "end": "00:08:57.935",
+    "start_seconds": 535.132,
+    "end_seconds": 537.935,
+    "text": "and he was off by several centuries."
+  },
+  {
+    "start": "00:08:58.468",
+    "end": "00:09:00.671",
+    "start_seconds": 538.468,
+    "end_seconds": 540.671,
+    "text": "But what I think is really remarkable"
+  },
+  {
+    "start": "00:09:00.671",
+    "end": "00:09:02.406",
+    "start_seconds": 540.671,
+    "end_seconds": 542.406,
+    "text": "is that in 2025,"
+  },
+  {
+    "start": "00:09:02.406",
+    "end": "00:09:04.775",
+    "start_seconds": 542.406,
+    "end_seconds": 544.775,
+    "text": "truly for the first time in history,"
+  },
+  {
+    "start": "00:09:04.808",
+    "end": "00:09:08.445",
+    "start_seconds": 544.808,
+    "end_seconds": 548.445,
+    "text": "it's actually possible to realize this philosopher's dream."
+  },
+  {
+    "start": "00:09:08.478",
+    "end": "00:09:09.646",
+    "start_seconds": 548.478,
+    "end_seconds": 549.646,
+    "text": "So what do we need?"
+  },
+  {
+    "start": "00:09:09.680",
+    "end": "00:09:12.716",
+    "start_seconds": 549.68,
+    "end_seconds": 552.716,
+    "text": "Well, we need a perfect, logical language."
+  },
+  {
+    "start": "00:09:12.749",
+    "end": "00:09:14.151",
+    "start_seconds": 552.749,
+    "end_seconds": 554.151,
+    "text": "Turns out we've got it."
+  },
+  {
+    "start": "00:09:14.184",
+    "end": "00:09:15.752",
+    "start_seconds": 554.184,
+    "end_seconds": 555.752,
+    "text": "It's called Lean."
+  },
+  {
+    "start": "00:09:15.786",
+    "end": "00:09:17.854",
+    "start_seconds": 555.786,
+    "end_seconds": 557.854,
+    "text": "Lean is a programming language,"
+  },
+  {
+    "start": "00:09:17.888",
+    "end": "00:09:20.691",
+    "start_seconds": 557.888,
+    "end_seconds": 560.691,
+    "text": "but it's also what's known as a proof assistant."
+  },
+  {
+    "start": "00:09:20.724",
+    "end": "00:09:23.126",
+    "start_seconds": 560.724,
+    "end_seconds": 563.126,
+    "text": "You can think of it as a programming environment"
+  },
+  {
+    "start": "00:09:23.160",
+    "end": "00:09:25.028",
+    "start_seconds": 563.16,
+    "end_seconds": 565.028,
+    "text": "for mathematical proofs,"
+  },
+  {
+    "start": "00:09:25.028",
+    "end": "00:09:26.930",
+    "start_seconds": 565.028,
+    "end_seconds": 566.93,
+    "text": "where it doesn't just give you feedback"
+  },
+  {
+    "start": "00:09:26.964",
+    "end": "00:09:28.966",
+    "start_seconds": 566.9639999999999,
+    "end_seconds": 568.966,
+    "text": "if you have a syntax error here or there --"
+  },
+  {
+    "start": "00:09:28.966",
+    "end": "00:09:31.935",
+    "start_seconds": 568.966,
+    "end_seconds": 571.935,
+    "text": "it's actually looking at the core of the mathematical argument"
+  },
+  {
+    "start": "00:09:31.969",
+    "end": "00:09:34.705",
+    "start_seconds": 571.969,
+    "end_seconds": 574.705,
+    "text": "and telling you if you have any problems anywhere in it."
+  },
+  {
+    "start": "00:09:34.738",
+    "end": "00:09:35.973",
+    "start_seconds": 574.738,
+    "end_seconds": 575.973,
+    "text": "Great."
+  },
+  {
+    "start": "00:09:35.973",
+    "end": "00:09:37.541",
+    "start_seconds": 575.973,
+    "end_seconds": 577.5409999999999,
+    "text": "What's the second thing we need?"
+  },
+  {
+    "start": "00:09:37.574",
+    "end": "00:09:39.176",
+    "start_seconds": 577.574,
+    "end_seconds": 579.176,
+    "text": "We need the grand encyclopedia."
+  },
+  {
+    "start": "00:09:39.509",
+    "end": "00:09:41.511",
+    "start_seconds": 579.509,
+    "end_seconds": 581.511,
+    "text": "Well, the good news is we've got that too."
+  },
+  {
+    "start": "00:09:41.545",
+    "end": "00:09:43.246",
+    "start_seconds": 581.545,
+    "end_seconds": 583.246,
+    "text": "It's called Mathlib."
+  },
+  {
+    "start": "00:09:43.280",
+    "end": "00:09:45.415",
+    "start_seconds": 583.28,
+    "end_seconds": 585.415,
+    "text": "Mathlib is an open-source project."
+  },
+  {
+    "start": "00:09:45.449",
+    "end": "00:09:48.719",
+    "start_seconds": 585.449,
+    "end_seconds": 588.719,
+    "text": "It's about two million lines of code in Lean,"
+  },
+  {
+    "start": "00:09:48.719",
+    "end": "00:09:52.756",
+    "start_seconds": 588.719,
+    "end_seconds": 592.756,
+    "text": "and it covers a lot of the undergraduate and graduate math curriculum."
+  },
+  {
+    "start": "00:09:53.357",
+    "end": "00:09:57.461",
+    "start_seconds": 593.357,
+    "end_seconds": 597.461,
+    "text": "You can think of it like a Wikipedia for proven truth,"
+  },
+  {
+    "start": "00:09:57.494",
+    "end": "00:10:01.498",
+    "start_seconds": 597.494,
+    "end_seconds": 601.498,
+    "text": "where every edit is computationally certified for correctness."
+  },
+  {
+    "start": "00:10:02.332",
+    "end": "00:10:04.134",
+    "start_seconds": 602.332,
+    "end_seconds": 604.134,
+    "text": "OK, we've got the language,"
+  },
+  {
+    "start": "00:10:04.134",
+    "end": "00:10:05.836",
+    "start_seconds": 604.134,
+    "end_seconds": 605.836,
+    "text": "we've got the encyclopedia,"
+  },
+  {
+    "start": "00:10:05.836",
+    "end": "00:10:07.771",
+    "start_seconds": 605.836,
+    "end_seconds": 607.771,
+    "text": "what about the engine of reason?"
+  },
+  {
+    "start": "00:10:08.138",
+    "end": "00:10:10.607",
+    "start_seconds": 608.138,
+    "end_seconds": 610.607,
+    "text": "Well, we could try to have humans do it,"
+  },
+  {
+    "start": "00:10:10.641",
+    "end": "00:10:12.776",
+    "start_seconds": 610.641,
+    "end_seconds": 612.776,
+    "text": "but you've got to write a lot of Lean code"
+  },
+  {
+    "start": "00:10:12.809",
+    "end": "00:10:16.079",
+    "start_seconds": 612.809,
+    "end_seconds": 616.079,
+    "text": "and the level of robotic precision you need to write a formal proof"
+  },
+  {
+    "start": "00:10:16.113",
+    "end": "00:10:19.716",
+    "start_seconds": 616.113,
+    "end_seconds": 619.716,
+    "text": "is not something that human creativity is so well suited for."
+  },
+  {
+    "start": "00:10:19.750",
+    "end": "00:10:22.152",
+    "start_seconds": 619.75,
+    "end_seconds": 622.152,
+    "text": "And that's how we've come full-circle."
+  },
+  {
+    "start": "00:10:22.152",
+    "end": "00:10:26.256",
+    "start_seconds": 622.152,
+    "end_seconds": 626.256,
+    "text": "It turns out that AI is the key to making this whole thing work."
+  },
+  {
+    "start": "00:10:26.690",
+    "end": "00:10:30.093",
+    "start_seconds": 626.69,
+    "end_seconds": 630.093,
+    "text": "In the future, AI is not just going to be writing math papers in English"
+  },
+  {
+    "start": "00:10:30.127",
+    "end": "00:10:31.662",
+    "start_seconds": 630.127,
+    "end_seconds": 631.662,
+    "text": "for humans to read."
+  },
+  {
+    "start": "00:10:31.695",
+    "end": "00:10:34.331",
+    "start_seconds": 631.695,
+    "end_seconds": 634.331,
+    "text": "They're going to be writing math proofs in Lean"
+  },
+  {
+    "start": "00:10:34.364",
+    "end": "00:10:35.932",
+    "start_seconds": 634.364,
+    "end_seconds": 635.932,
+    "text": "for computers to check."
+  },
+  {
+    "start": "00:10:37.000",
+    "end": "00:10:39.770",
+    "start_seconds": 637.0,
+    "end_seconds": 639.77,
+    "text": "And that is the fundamental key"
+  },
+  {
+    "start": "00:10:39.803",
+    "end": "00:10:42.806",
+    "start_seconds": 639.803,
+    "end_seconds": 642.806,
+    "text": "that makes it possible to use Leibniz's vision"
+  },
+  {
+    "start": "00:10:42.839",
+    "end": "00:10:45.909",
+    "start_seconds": 642.8389999999999,
+    "end_seconds": 645.909,
+    "text": "to unlock the full potential of AI in mathematics."
+  },
+  {
+    "start": "00:10:46.777",
+    "end": "00:10:50.580",
+    "start_seconds": 646.777,
+    "end_seconds": 650.58,
+    "text": "Because when a math AI spits out a proof in Lean of, let's say,"
+  },
+  {
+    "start": "00:10:50.580",
+    "end": "00:10:52.315",
+    "start_seconds": 650.58,
+    "end_seconds": 652.315,
+    "text": "the Riemann hypothesis,"
+  },
+  {
+    "start": "00:10:52.349",
+    "end": "00:10:56.286",
+    "start_seconds": 652.349,
+    "end_seconds": 656.2860000000001,
+    "text": "we're not going to need humans to go through every single line of the proof"
+  },
+  {
+    "start": "00:10:56.319",
+    "end": "00:10:57.654",
+    "start_seconds": 656.319,
+    "end_seconds": 657.654,
+    "text": "in painstaking detail,"
+  },
+  {
+    "start": "00:10:57.688",
+    "end": "00:10:58.922",
+    "start_seconds": 657.688,
+    "end_seconds": 658.922,
+    "text": "check every single case,"
+  },
+  {
+    "start": "00:10:58.955",
+    "end": "00:11:03.193",
+    "start_seconds": 658.955,
+    "end_seconds": 663.193,
+    "text": "and understand the possibly strange and alien logic of the proof"
+  },
+  {
+    "start": "00:11:03.226",
+    "end": "00:11:04.628",
+    "start_seconds": 663.226,
+    "end_seconds": 664.628,
+    "text": "just to see if it's correct."
+  },
+  {
+    "start": "00:11:04.628",
+    "end": "00:11:07.798",
+    "start_seconds": 664.628,
+    "end_seconds": 667.798,
+    "text": "Instead, all we're going to do is we're going to take those files,"
+  },
+  {
+    "start": "00:11:07.798",
+    "end": "00:11:10.734",
+    "start_seconds": 667.798,
+    "end_seconds": 670.734,
+    "text": "we're going to give them to a Lean compiler, and if it builds,"
+  },
+  {
+    "start": "00:11:10.767",
+    "end": "00:11:13.070",
+    "start_seconds": 670.767,
+    "end_seconds": 673.07,
+    "text": "we can know with absolute certainty it's correct."
+  },
+  {
+    "start": "00:11:13.070",
+    "end": "00:11:17.441",
+    "start_seconds": 673.07,
+    "end_seconds": 677.441,
+    "text": "And this is what fundamentally alters our relationship with AI."
+  },
+  {
+    "start": "00:11:18.041",
+    "end": "00:11:20.410",
+    "start_seconds": 678.041,
+    "end_seconds": 680.41,
+    "text": "AI can now become a true collaborator,"
+  },
+  {
+    "start": "00:11:20.444",
+    "end": "00:11:24.147",
+    "start_seconds": 680.444,
+    "end_seconds": 684.147,
+    "text": "one whose word we don't have to take on blind faith."
+  },
+  {
+    "start": "00:11:24.581",
+    "end": "00:11:29.553",
+    "start_seconds": 684.581,
+    "end_seconds": 689.553,
+    "text": "We get to trade in the tedium of checking for the creative joy of discovery."
+  },
+  {
+    "start": "00:11:30.420",
+    "end": "00:11:33.590",
+    "start_seconds": 690.42,
+    "end_seconds": 693.59,
+    "text": "Humans get to use our intuition and judgment,"
+  },
+  {
+    "start": "00:11:33.623",
+    "end": "00:11:35.058",
+    "start_seconds": 693.623,
+    "end_seconds": 695.058,
+    "text": "we ask the questions,"
+  },
+  {
+    "start": "00:11:35.092",
+    "end": "00:11:38.662",
+    "start_seconds": 695.092,
+    "end_seconds": 698.662,
+    "text": "we chart the course, we propose the brilliant conjectures"
+  },
+  {
+    "start": "00:11:38.695",
+    "end": "00:11:43.300",
+    "start_seconds": 698.695,
+    "end_seconds": 703.3,
+    "text": "and then we delegate to AI to explore the vast oceans of logic,"
+  },
+  {
+    "start": "00:11:43.333",
+    "end": "00:11:44.634",
+    "start_seconds": 703.333,
+    "end_seconds": 704.634,
+    "text": "to find the correct answer,"
+  },
+  {
+    "start": "00:11:44.668",
+    "end": "00:11:47.804",
+    "start_seconds": 704.668,
+    "end_seconds": 707.804,
+    "text": "and then a computer confirms that we've gotten to the destination."
+  },
+  {
+    "start": "00:11:48.572",
+    "end": "00:11:49.740",
+    "start_seconds": 708.572,
+    "end_seconds": 709.74,
+    "text": "And the amazing thing"
+  },
+  {
+    "start": "00:11:49.773",
+    "end": "00:11:52.609",
+    "start_seconds": 709.773,
+    "end_seconds": 712.609,
+    "text": "is that this isn't just some far-off science-fiction dream."
+  },
+  {
+    "start": "00:11:52.642",
+    "end": "00:11:55.679",
+    "start_seconds": 712.642,
+    "end_seconds": 715.679,
+    "text": "It turns out that at this year’s International Math Olympiad,"
+  },
+  {
+    "start": "00:11:55.712",
+    "end": "00:11:59.583",
+    "start_seconds": 715.712,
+    "end_seconds": 719.583,
+    "text": "automated systems were able to find solutions to five of the six problems"
+  },
+  {
+    "start": "00:11:59.616",
+    "end": "00:12:03.487",
+    "start_seconds": 719.616,
+    "end_seconds": 723.487,
+    "text": "in a way that computers could check and require no human review whatsoever."
+  },
+  {
+    "start": "00:12:03.487",
+    "end": "00:12:06.490",
+    "start_seconds": 723.487,
+    "end_seconds": 726.49,
+    "text": "And that’s enough to get a gold-medal-level performance."
+  },
+  {
+    "start": "00:12:06.490",
+    "end": "00:12:08.759",
+    "start_seconds": 726.49,
+    "end_seconds": 728.759,
+    "text": "So the transition is already happening."
+  },
+  {
+    "start": "00:12:09.860",
+    "end": "00:12:14.464",
+    "start_seconds": 729.86,
+    "end_seconds": 734.464,
+    "text": "So are humans going to be the bottleneck for math research?"
+  },
+  {
+    "start": "00:12:15.031",
+    "end": "00:12:18.769",
+    "start_seconds": 735.031,
+    "end_seconds": 738.769,
+    "text": "Well, the answer is yes, but only if we refuse to change."
+  },
+  {
+    "start": "00:12:18.769",
+    "end": "00:12:21.671",
+    "start_seconds": 738.769,
+    "end_seconds": 741.671,
+    "text": "Only if we insist on being the only thinkers"
+  },
+  {
+    "start": "00:12:21.705",
+    "end": "00:12:23.507",
+    "start_seconds": 741.705,
+    "end_seconds": 743.507,
+    "text": "and the only checkers."
+  },
+  {
+    "start": "00:12:23.540",
+    "end": "00:12:26.676",
+    "start_seconds": 743.54,
+    "end_seconds": 746.676,
+    "text": "But if we're able to realize this 400-year-old vision,"
+  },
+  {
+    "start": "00:12:26.676",
+    "end": "00:12:28.478",
+    "start_seconds": 746.676,
+    "end_seconds": 748.478,
+    "text": "we're not going to replace ourselves,"
+  },
+  {
+    "start": "00:12:28.478",
+    "end": "00:12:30.080",
+    "start_seconds": 748.478,
+    "end_seconds": 750.08,
+    "text": "we're going to elevate ourselves."
+  },
+  {
+    "start": "00:12:30.080",
+    "end": "00:12:32.382",
+    "start_seconds": 750.08,
+    "end_seconds": 752.382,
+    "text": "We're going to put ourselves in the driver's seat"
+  },
+  {
+    "start": "00:12:32.415",
+    "end": "00:12:35.152",
+    "start_seconds": 752.415,
+    "end_seconds": 755.152,
+    "text": "as the explorers, the architects and the question askers."
+  },
+  {
+    "start": "00:12:35.152",
+    "end": "00:12:39.256",
+    "start_seconds": 755.152,
+    "end_seconds": 759.256,
+    "text": "And that means that formal mathematics is the key to this new era of discovery,"
+  },
+  {
+    "start": "00:12:39.289",
+    "end": "00:12:43.593",
+    "start_seconds": 759.289,
+    "end_seconds": 763.593,
+    "text": "based on the powerful and essential partnership between human imagination"
+  },
+  {
+    "start": "00:12:43.627",
+    "end": "00:12:45.796",
+    "start_seconds": 763.627,
+    "end_seconds": 765.796,
+    "text": "and mathematical superintelligence."
+  },
+  {
+    "start": "00:12:47.097",
+    "end": "00:12:48.265",
+    "start_seconds": 767.097,
+    "end_seconds": 768.265,
+    "text": "Thank you."
+  },
+  {
+    "start": "00:12:48.298",
+    "end": "00:12:51.334",
+    "start_seconds": 768.298,
+    "end_seconds": 771.3340000000001,
+    "text": "(Applause)"
+  }
+]

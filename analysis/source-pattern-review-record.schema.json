@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source Pattern Context Review Export",
+  "type": "object",
+  "required": ["schema_version", "queue_id", "queue_item_count", "review_status", "unreviewed_item_ids", "reviewer_code", "independence_confirmed", "records", "claim_boundary"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "queue_id": {"const": "source-pattern-context-review-queue"},
+    "queue_item_count": {"const": 107},
+    "review_status": {"enum": ["partial", "complete"]},
+    "unreviewed_item_ids": {"type": "array", "uniqueItems": true, "maxItems": 107, "items": {"type": "string", "minLength": 1}},
+    "reviewer_code": {"type": "string", "minLength": 1},
+    "independence_confirmed": {"const": true},
+    "claim_boundary": {"type": "string", "minLength": 1},
+    "records": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 107,
+      "items": {
+        "type": "object",
+        "required": ["review_item_id", "decision", "context_inspected"],
+        "properties": {
+          "review_item_id": {"type": "string", "minLength": 1},
+          "decision": {"enum": ["supports_candidate", "does_not_support", "indeterminate"]},
+          "context_inspected": {"const": true},
+          "note": {"type": "string"}
+        }
+      }
+    }
+  }
+}

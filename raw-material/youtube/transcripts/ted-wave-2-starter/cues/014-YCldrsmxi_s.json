@@ -1,0 +1,2074 @@
+[
+  {
+    "start": "00:00:04.135",
+    "end": "00:00:07.405",
+    "start_seconds": 4.135,
+    "end_seconds": 7.405,
+    "text": "The internet is an absolute miracle."
+  },
+  {
+    "start": "00:00:07.872",
+    "end": "00:00:09.940",
+    "start_seconds": 7.872,
+    "end_seconds": 9.94,
+    "text": "And for the last 30 years,"
+  },
+  {
+    "start": "00:00:09.940",
+    "end": "00:00:13.177",
+    "start_seconds": 9.94,
+    "end_seconds": 13.177,
+    "text": "it has been driven by [a] very consistent"
+  },
+  {
+    "start": "00:00:13.210",
+    "end": "00:00:15.146",
+    "start_seconds": 13.21,
+    "end_seconds": 15.146,
+    "text": "and fundamental business model"
+  },
+  {
+    "start": "00:00:15.146",
+    "end": "00:00:18.516",
+    "start_seconds": 15.146,
+    "end_seconds": 18.516,
+    "text": "that has given us everything amazing about the internet"
+  },
+  {
+    "start": "00:00:18.549",
+    "end": "00:00:21.218",
+    "start_seconds": 18.549,
+    "end_seconds": 21.218,
+    "text": "and everything not so amazing as well."
+  },
+  {
+    "start": "00:00:21.252",
+    "end": "00:00:25.122",
+    "start_seconds": 21.252,
+    "end_seconds": 25.122,
+    "text": "I run a company that provides a lot of the internet's infrastructure"
+  },
+  {
+    "start": "00:00:25.156",
+    "end": "00:00:27.458",
+    "start_seconds": 25.156,
+    "end_seconds": 27.458,
+    "text": "and as a result, means three things."
+  },
+  {
+    "start": "00:00:27.491",
+    "end": "00:00:33.831",
+    "start_seconds": 27.491,
+    "end_seconds": 33.831,
+    "text": "One, we've had this unique view into what is going on online."
+  },
+  {
+    "start": "00:00:34.598",
+    "end": "00:00:39.336",
+    "start_seconds": 34.598,
+    "end_seconds": 39.336,
+    "text": "Two, we care enormously about the success of the internet."
+  },
+  {
+    "start": "00:00:39.703",
+    "end": "00:00:42.173",
+    "start_seconds": 39.703,
+    "end_seconds": 42.173,
+    "text": "And three, I can share with you"
+  },
+  {
+    "start": "00:00:42.206",
+    "end": "00:00:45.342",
+    "start_seconds": 42.206,
+    "end_seconds": 45.342,
+    "text": "some of how that underlying business model is changing"
+  },
+  {
+    "start": "00:00:45.376",
+    "end": "00:00:47.044",
+    "start_seconds": 45.376,
+    "end_seconds": 47.044,
+    "text": "and why it's important."
+  },
+  {
+    "start": "00:00:47.078",
+    "end": "00:00:49.447",
+    "start_seconds": 47.078,
+    "end_seconds": 49.447,
+    "text": "Because as that business model changes,"
+  },
+  {
+    "start": "00:00:49.480",
+    "end": "00:00:53.117",
+    "start_seconds": 49.48,
+    "end_seconds": 53.117,
+    "text": "it's going to have a dramatic impact on what the internet is,"
+  },
+  {
+    "start": "00:00:53.150",
+    "end": "00:00:56.654",
+    "start_seconds": 53.15,
+    "end_seconds": 56.654,
+    "text": "but beyond that, on what content is created,"
+  },
+  {
+    "start": "00:00:56.654",
+    "end": "00:00:58.589",
+    "start_seconds": 56.654,
+    "end_seconds": 58.589,
+    "text": "on what journalists get compensated for,"
+  },
+  {
+    "start": "00:00:58.622",
+    "end": "00:01:01.258",
+    "start_seconds": 58.622,
+    "end_seconds": 61.258,
+    "text": "on how researchers are able to do their research."
+  },
+  {
+    "start": "00:01:01.292",
+    "end": "00:01:02.760",
+    "start_seconds": 61.292,
+    "end_seconds": 62.76,
+    "text": "And so it's up to all of us"
+  },
+  {
+    "start": "00:01:02.793",
+    "end": "00:01:05.729",
+    "start_seconds": 62.793,
+    "end_seconds": 65.729,
+    "text": "as that business model of the internet changes,"
+  },
+  {
+    "start": "00:01:05.763",
+    "end": "00:01:08.999",
+    "start_seconds": 65.763,
+    "end_seconds": 68.999,
+    "text": "to make sure it changes for something we want"
+  },
+  {
+    "start": "00:01:09.033",
+    "end": "00:01:12.069",
+    "start_seconds": 69.033,
+    "end_seconds": 72.069,
+    "text": "and can learn from the mistakes that we had in the past."
+  },
+  {
+    "start": "00:01:12.069",
+    "end": "00:01:15.372",
+    "start_seconds": 72.069,
+    "end_seconds": 75.372,
+    "text": "So to review the past, let's look at what that business model was."
+  },
+  {
+    "start": "00:01:15.406",
+    "end": "00:01:18.976",
+    "start_seconds": 75.406,
+    "end_seconds": 78.976,
+    "text": "And we all know it basically, which was: the internet was built on"
+  },
+  {
+    "start": "00:01:19.009",
+    "end": "00:01:21.745",
+    "start_seconds": 79.009,
+    "end_seconds": 81.745,
+    "text": "we took an idea, and we put it online,"
+  },
+  {
+    "start": "00:01:21.779",
+    "end": "00:01:25.349",
+    "start_seconds": 81.779,
+    "end_seconds": 85.349,
+    "text": "and then we drove traffic to that idea."
+  },
+  {
+    "start": "00:01:25.716",
+    "end": "00:01:28.752",
+    "start_seconds": 85.71600000000001,
+    "end_seconds": 88.752,
+    "text": "And then from that traffic, we either sold things,"
+  },
+  {
+    "start": "00:01:28.786",
+    "end": "00:01:31.055",
+    "start_seconds": 88.786,
+    "end_seconds": 91.055,
+    "text": "subscriptions or ads."
+  },
+  {
+    "start": "00:01:31.522",
+    "end": "00:01:34.058",
+    "start_seconds": 91.52199999999999,
+    "end_seconds": 94.05799999999999,
+    "text": "And it's been pretty amazing to watch"
+  },
+  {
+    "start": "00:01:34.058",
+    "end": "00:01:38.062",
+    "start_seconds": 94.05799999999999,
+    "end_seconds": 98.062,
+    "text": "how that has very much driven the growth of the web"
+  },
+  {
+    "start": "00:01:38.095",
+    "end": "00:01:40.064",
+    "start_seconds": 98.095,
+    "end_seconds": 100.064,
+    "text": "and the growth of the internet over time."
+  },
+  {
+    "start": "00:01:40.064",
+    "end": "00:01:43.000",
+    "start_seconds": 100.064,
+    "end_seconds": 103.0,
+    "text": "And it survived a number of dramatic platform shifts."
+  },
+  {
+    "start": "00:01:43.000",
+    "end": "00:01:45.336",
+    "start_seconds": 103.0,
+    "end_seconds": 105.336,
+    "text": "We all started browsing the internet on browsers,"
+  },
+  {
+    "start": "00:01:45.336",
+    "end": "00:01:46.871",
+    "start_seconds": 105.336,
+    "end_seconds": 106.87100000000001,
+    "text": "on our desktop or laptop."
+  },
+  {
+    "start": "00:01:46.904",
+    "end": "00:01:49.807",
+    "start_seconds": 106.904,
+    "end_seconds": 109.807,
+    "text": "That transitioned to be increasingly social media,"
+  },
+  {
+    "start": "00:01:49.840",
+    "end": "00:01:52.977",
+    "start_seconds": 109.84,
+    "end_seconds": 112.977,
+    "text": "which was the interface through which we consumed content."
+  },
+  {
+    "start": "00:01:53.444",
+    "end": "00:01:56.280",
+    "start_seconds": 113.444,
+    "end_seconds": 116.28,
+    "text": "And then we went to consuming it through our mobile devices."
+  },
+  {
+    "start": "00:01:56.280",
+    "end": "00:01:58.315",
+    "start_seconds": 116.28,
+    "end_seconds": 118.315,
+    "text": "And yet, through all of this,"
+  },
+  {
+    "start": "00:01:58.315",
+    "end": "00:02:01.785",
+    "start_seconds": 118.315,
+    "end_seconds": 121.785,
+    "text": "the humble banner ad has basically financed it all."
+  },
+  {
+    "start": "00:02:01.819",
+    "end": "00:02:04.788",
+    "start_seconds": 121.819,
+    "end_seconds": 124.788,
+    "text": "Traffic has been the currency of the internet,"
+  },
+  {
+    "start": "00:02:04.788",
+    "end": "00:02:09.426",
+    "start_seconds": 124.788,
+    "end_seconds": 129.426,
+    "text": "and that's what everyone has built their content to try to achieve."
+  },
+  {
+    "start": "00:02:09.460",
+    "end": "00:02:12.096",
+    "start_seconds": 129.46,
+    "end_seconds": 132.096,
+    "text": "And if we want to look for who's the Superman,"
+  },
+  {
+    "start": "00:02:12.096",
+    "end": "00:02:15.232",
+    "start_seconds": 132.096,
+    "end_seconds": 135.232,
+    "text": "who's the superhero that has driven this"
+  },
+  {
+    "start": "00:02:15.266",
+    "end": "00:02:17.535",
+    "start_seconds": 135.266,
+    "end_seconds": 137.535,
+    "text": "for the last 27 years,"
+  },
+  {
+    "start": "00:02:17.535",
+    "end": "00:02:19.670",
+    "start_seconds": 137.535,
+    "end_seconds": 139.67000000000002,
+    "text": "that has been Google."
+  },
+  {
+    "start": "00:02:19.703",
+    "end": "00:02:23.741",
+    "start_seconds": 139.703,
+    "end_seconds": 143.74099999999999,
+    "text": "Google built not only the search engine to index how the internet works,"
+  },
+  {
+    "start": "00:02:23.741",
+    "end": "00:02:26.710",
+    "start_seconds": 143.74099999999999,
+    "end_seconds": 146.71,
+    "text": "but then they built the monetization system"
+  },
+  {
+    "start": "00:02:26.710",
+    "end": "00:02:31.048",
+    "start_seconds": 146.71,
+    "end_seconds": 151.048,
+    "text": "to actually ensure that content creators got paid"
+  },
+  {
+    "start": "00:02:31.081",
+    "end": "00:02:33.484",
+    "start_seconds": 151.081,
+    "end_seconds": 153.484,
+    "text": "for the traffic that they generated."
+  },
+  {
+    "start": "00:02:33.517",
+    "end": "00:02:37.221",
+    "start_seconds": 153.517,
+    "end_seconds": 157.221,
+    "text": "The internet owes a ton to Google in the last 27 years."
+  },
+  {
+    "start": "00:02:37.721",
+    "end": "00:02:39.023",
+    "start_seconds": 157.721,
+    "end_seconds": 159.023,
+    "text": "But the world is changing."
+  },
+  {
+    "start": "00:02:39.056",
+    "end": "00:02:41.592",
+    "start_seconds": 159.05599999999998,
+    "end_seconds": 161.59199999999998,
+    "text": "AI is the topic du jour,"
+  },
+  {
+    "start": "00:02:41.625",
+    "end": "00:02:43.928",
+    "start_seconds": 161.625,
+    "end_seconds": 163.928,
+    "text": "and what I think a lot of people don't understand"
+  },
+  {
+    "start": "00:02:43.961",
+    "end": "00:02:46.430",
+    "start_seconds": 163.961,
+    "end_seconds": 166.43,
+    "text": "is that AI is yet another platform shift."
+  },
+  {
+    "start": "00:02:46.463",
+    "end": "00:02:50.267",
+    "start_seconds": 166.463,
+    "end_seconds": 170.267,
+    "text": "Think about how much more of the way that you consume information already"
+  },
+  {
+    "start": "00:02:50.301",
+    "end": "00:02:52.069",
+    "start_seconds": 170.301,
+    "end_seconds": 172.06900000000002,
+    "text": "is looking at your AI chatbot,"
+  },
+  {
+    "start": "00:02:52.102",
+    "end": "00:02:55.406",
+    "start_seconds": 172.102,
+    "end_seconds": 175.406,
+    "text": "and how much more of that will be the case in the future."
+  },
+  {
+    "start": "00:02:55.439",
+    "end": "00:02:58.509",
+    "start_seconds": 175.439,
+    "end_seconds": 178.50900000000001,
+    "text": "We can see it in a lot of things we do kind of normally,"
+  },
+  {
+    "start": "00:02:58.542",
+    "end": "00:03:02.680",
+    "start_seconds": 178.542,
+    "end_seconds": 182.68,
+    "text": "like, this is a Google search from the early days of Google."
+  },
+  {
+    "start": "00:03:02.713",
+    "end": "00:03:03.881",
+    "start_seconds": 182.713,
+    "end_seconds": 183.881,
+    "text": "Not even that long ago,"
+  },
+  {
+    "start": "00:03:03.914",
+    "end": "00:03:07.351",
+    "start_seconds": 183.914,
+    "end_seconds": 187.351,
+    "text": "where I would type something in, like, when was the first TED conference?"
+  },
+  {
+    "start": "00:03:07.384",
+    "end": "00:03:10.321",
+    "start_seconds": 187.38400000000001,
+    "end_seconds": 190.321,
+    "text": "And then I would get back basically a treasure map"
+  },
+  {
+    "start": "00:03:10.354",
+    "end": "00:03:12.456",
+    "start_seconds": 190.35399999999998,
+    "end_seconds": 192.456,
+    "text": "where I would have to continue to do the work"
+  },
+  {
+    "start": "00:03:12.489",
+    "end": "00:03:14.525",
+    "start_seconds": 192.489,
+    "end_seconds": 194.525,
+    "text": "and click on the links, generating traffic"
+  },
+  {
+    "start": "00:03:14.525",
+    "end": "00:03:16.193",
+    "start_seconds": 194.525,
+    "end_seconds": 196.193,
+    "text": "to find what my answer was."
+  },
+  {
+    "start": "00:03:16.227",
+    "end": "00:03:19.496",
+    "start_seconds": 196.227,
+    "end_seconds": 199.496,
+    "text": "The search wasn't over when the results returned."
+  },
+  {
+    "start": "00:03:19.530",
+    "end": "00:03:22.733",
+    "start_seconds": 199.53,
+    "end_seconds": 202.733,
+    "text": "That was just the beginning, and you had to follow the treasure map."
+  },
+  {
+    "start": "00:03:22.766",
+    "end": "00:03:24.435",
+    "start_seconds": 202.766,
+    "end_seconds": 204.435,
+    "text": "That's what a search engine is."
+  },
+  {
+    "start": "00:03:24.468",
+    "end": "00:03:26.337",
+    "start_seconds": 204.468,
+    "end_seconds": 206.337,
+    "text": "Today we have something very different."
+  },
+  {
+    "start": "00:03:26.337",
+    "end": "00:03:29.640",
+    "start_seconds": 206.337,
+    "end_seconds": 209.64,
+    "text": "We have something that's closer to what I would call an answer engine,"
+  },
+  {
+    "start": "00:03:29.673",
+    "end": "00:03:32.176",
+    "start_seconds": 209.673,
+    "end_seconds": 212.176,
+    "text": "where you're getting the answer directly on the page."
+  },
+  {
+    "start": "00:03:32.176",
+    "end": "00:03:34.645",
+    "start_seconds": 212.176,
+    "end_seconds": 214.645,
+    "text": "And what's amazing about that is that as a consumer,"
+  },
+  {
+    "start": "00:03:34.678",
+    "end": "00:03:36.180",
+    "start_seconds": 214.678,
+    "end_seconds": 216.18,
+    "text": "it's better for you."
+  },
+  {
+    "start": "00:03:36.213",
+    "end": "00:03:38.315",
+    "start_seconds": 216.213,
+    "end_seconds": 218.315,
+    "text": "But what's terrifying about it"
+  },
+  {
+    "start": "00:03:38.349",
+    "end": "00:03:42.152",
+    "start_seconds": 218.349,
+    "end_seconds": 222.152,
+    "text": "is that it means traffic isn't going to the publishers' sites,"
+  },
+  {
+    "start": "00:03:42.186",
+    "end": "00:03:44.755",
+    "start_seconds": 222.186,
+    "end_seconds": 224.755,
+    "text": "and traffic is the currency of the internet."
+  },
+  {
+    "start": "00:03:45.055",
+    "end": "00:03:49.126",
+    "start_seconds": 225.055,
+    "end_seconds": 229.126,
+    "text": "And so 18 months ago, publishers called us and said, “Are you seeing this, too?”"
+  },
+  {
+    "start": "00:03:49.126",
+    "end": "00:03:50.894",
+    "start_seconds": 229.126,
+    "end_seconds": 230.894,
+    "text": "And I have to confess,"
+  },
+  {
+    "start": "00:03:50.894",
+    "end": "00:03:52.963",
+    "start_seconds": 230.894,
+    "end_seconds": 232.963,
+    "text": "we weren't really paying a ton of attention,"
+  },
+  {
+    "start": "00:03:52.997",
+    "end": "00:03:55.299",
+    "start_seconds": 232.997,
+    "end_seconds": 235.299,
+    "text": "but we went into our logs, we went into our data,"
+  },
+  {
+    "start": "00:03:55.332",
+    "end": "00:03:57.268",
+    "start_seconds": 235.332,
+    "end_seconds": 237.268,
+    "text": "we pulled out that information and said,"
+  },
+  {
+    "start": "00:03:57.268",
+    "end": "00:03:59.803",
+    "start_seconds": 237.268,
+    "end_seconds": 239.803,
+    "text": "“How much harder is it to get traffic"
+  },
+  {
+    "start": "00:03:59.837",
+    "end": "00:04:02.339",
+    "start_seconds": 239.837,
+    "end_seconds": 242.339,
+    "text": "based on the same amount of content today"
+  },
+  {
+    "start": "00:04:02.373",
+    "end": "00:04:04.475",
+    "start_seconds": 242.373,
+    "end_seconds": 244.475,
+    "text": "than it was with the Google of old?”"
+  },
+  {
+    "start": "00:04:04.508",
+    "end": "00:04:07.344",
+    "start_seconds": 244.508,
+    "end_seconds": 247.344,
+    "text": "And the answer is, it's 5.2 times harder"
+  },
+  {
+    "start": "00:04:07.344",
+    "end": "00:04:10.414",
+    "start_seconds": 247.344,
+    "end_seconds": 250.414,
+    "text": "to get traffic for the same amount of content that was out there."
+  },
+  {
+    "start": "00:04:10.447",
+    "end": "00:04:11.649",
+    "start_seconds": 250.447,
+    "end_seconds": 251.649,
+    "text": "But that's the good news."
+  },
+  {
+    "start": "00:04:11.682",
+    "end": "00:04:12.850",
+    "start_seconds": 251.682,
+    "end_seconds": 252.85,
+    "text": "That's with Google."
+  },
+  {
+    "start": "00:04:12.883",
+    "end": "00:04:14.818",
+    "start_seconds": 252.883,
+    "end_seconds": 254.818,
+    "text": "What is it with OpenAI?"
+  },
+  {
+    "start": "00:04:14.852",
+    "end": "00:04:16.520",
+    "start_seconds": 254.852,
+    "end_seconds": 256.52,
+    "text": "750 times harder."
+  },
+  {
+    "start": "00:04:16.553",
+    "end": "00:04:17.888",
+    "start_seconds": 256.553,
+    "end_seconds": 257.888,
+    "text": "What is it with Anthropic?"
+  },
+  {
+    "start": "00:04:17.888",
+    "end": "00:04:20.257",
+    "start_seconds": 257.888,
+    "end_seconds": 260.257,
+    "text": "32,000 times harder."
+  },
+  {
+    "start": "00:04:20.658",
+    "end": "00:04:22.626",
+    "start_seconds": 260.658,
+    "end_seconds": 262.626,
+    "text": "The answer engines are giving the answers"
+  },
+  {
+    "start": "00:04:22.660",
+    "end": "00:04:24.728",
+    "start_seconds": 262.66,
+    "end_seconds": 264.728,
+    "text": "and people aren't following the footnotes."
+  },
+  {
+    "start": "00:04:24.762",
+    "end": "00:04:26.297",
+    "start_seconds": 264.762,
+    "end_seconds": 266.297,
+    "text": "And this was 18 months ago."
+  },
+  {
+    "start": "00:04:26.297",
+    "end": "00:04:28.799",
+    "start_seconds": 266.297,
+    "end_seconds": 268.799,
+    "text": "What’s happened since, has it gotten better or worse?"
+  },
+  {
+    "start": "00:04:28.799",
+    "end": "00:04:32.536",
+    "start_seconds": 268.799,
+    "end_seconds": 272.536,
+    "text": "Do you trust AI more today than you did 18 months ago?"
+  },
+  {
+    "start": "00:04:32.536",
+    "end": "00:04:35.973",
+    "start_seconds": 272.536,
+    "end_seconds": 275.973,
+    "text": "The answer is most people do, and as a result,"
+  },
+  {
+    "start": "00:04:36.006",
+    "end": "00:04:39.977",
+    "start_seconds": 276.006,
+    "end_seconds": 279.977,
+    "text": "it's actually gotten twice as hard to get traffic to content that's there."
+  },
+  {
+    "start": "00:04:40.010",
+    "end": "00:04:42.012",
+    "start_seconds": 280.01,
+    "end_seconds": 282.012,
+    "text": "You're not following the footnotes anymore."
+  },
+  {
+    "start": "00:04:42.046",
+    "end": "00:04:45.482",
+    "start_seconds": 282.046,
+    "end_seconds": 285.48199999999997,
+    "text": "You're actually trusting that AI systems are giving you the right answer,"
+  },
+  {
+    "start": "00:04:45.482",
+    "end": "00:04:46.850",
+    "start_seconds": 285.48199999999997,
+    "end_seconds": 286.85,
+    "text": "and that's destroying media."
+  },
+  {
+    "start": "00:04:46.850",
+    "end": "00:04:49.086",
+    "start_seconds": 286.85,
+    "end_seconds": 289.086,
+    "text": "Across the board, we're seeing reported numbers"
+  },
+  {
+    "start": "00:04:49.086",
+    "end": "00:04:52.723",
+    "start_seconds": 289.086,
+    "end_seconds": 292.723,
+    "text": "... of between a 90 and 30 percent decline"
+  },
+  {
+    "start": "00:04:52.723",
+    "end": "00:04:54.358",
+    "start_seconds": 292.723,
+    "end_seconds": 294.358,
+    "text": "in the traffic to their sites,"
+  },
+  {
+    "start": "00:04:54.391",
+    "end": "00:04:56.960",
+    "start_seconds": 294.391,
+    "end_seconds": 296.96,
+    "text": "and this is extremely problematic"
+  },
+  {
+    "start": "00:04:56.994",
+    "end": "00:04:59.963",
+    "start_seconds": 296.994,
+    "end_seconds": 299.963,
+    "text": "because I think journalists deserve to be able to eat."
+  },
+  {
+    "start": "00:04:59.997",
+    "end": "00:05:01.799",
+    "start_seconds": 299.997,
+    "end_seconds": 301.799,
+    "text": "(Applause)"
+  },
+  {
+    "start": "00:05:01.799",
+    "end": "00:05:05.469",
+    "start_seconds": 301.799,
+    "end_seconds": 305.469,
+    "text": "And fundamentally, if the internet is built on traffic"
+  },
+  {
+    "start": "00:05:05.502",
+    "end": "00:05:09.540",
+    "start_seconds": 305.502,
+    "end_seconds": 309.54,
+    "text": "and this new business model isn't delivering traffic,"
+  },
+  {
+    "start": "00:05:09.540",
+    "end": "00:05:12.109",
+    "start_seconds": 309.54,
+    "end_seconds": 312.109,
+    "text": "then I'm not sure how media is going to survive"
+  },
+  {
+    "start": "00:05:12.142",
+    "end": "00:05:14.845",
+    "start_seconds": 312.142,
+    "end_seconds": 314.845,
+    "text": "unless we create a new business model."
+  },
+  {
+    "start": "00:05:14.878",
+    "end": "00:05:18.282",
+    "start_seconds": 314.878,
+    "end_seconds": 318.282,
+    "text": "And the good news is the AI companies want journalism."
+  },
+  {
+    "start": "00:05:18.315",
+    "end": "00:05:20.317",
+    "start_seconds": 318.315,
+    "end_seconds": 320.317,
+    "text": "They want people out there doing research."
+  },
+  {
+    "start": "00:05:20.317",
+    "end": "00:05:21.719",
+    "start_seconds": 320.317,
+    "end_seconds": 321.719,
+    "text": "We all want journalism."
+  },
+  {
+    "start": "00:05:21.719",
+    "end": "00:05:23.654",
+    "start_seconds": 321.719,
+    "end_seconds": 323.654,
+    "text": "We want people out there doing research."
+  },
+  {
+    "start": "00:05:23.687",
+    "end": "00:05:26.890",
+    "start_seconds": 323.687,
+    "end_seconds": 326.89,
+    "text": "And so I think, I'm actually kind of optimistic"
+  },
+  {
+    "start": "00:05:26.924",
+    "end": "00:05:29.126",
+    "start_seconds": 326.924,
+    "end_seconds": 329.126,
+    "text": "that there might be a solution to this problem."
+  },
+  {
+    "start": "00:05:29.126",
+    "end": "00:05:30.861",
+    "start_seconds": 329.126,
+    "end_seconds": 330.861,
+    "text": "And here's the way I think about it."
+  },
+  {
+    "start": "00:05:30.894",
+    "end": "00:05:32.629",
+    "start_seconds": 330.894,
+    "end_seconds": 332.629,
+    "text": "For the first time in human history,"
+  },
+  {
+    "start": "00:05:32.663",
+    "end": "00:05:35.532",
+    "start_seconds": 332.663,
+    "end_seconds": 335.532,
+    "text": "we have a mathematical model of all of human knowledge."
+  },
+  {
+    "start": "00:05:35.566",
+    "end": "00:05:39.203",
+    "start_seconds": 335.56600000000003,
+    "end_seconds": 339.203,
+    "text": "It's not perfect, but that's essentially what all of the LLMs are."
+  },
+  {
+    "start": "00:05:39.203",
+    "end": "00:05:41.705",
+    "start_seconds": 339.203,
+    "end_seconds": 341.705,
+    "text": "And I think of it like a giant block of Swiss cheese."
+  },
+  {
+    "start": "00:05:41.739",
+    "end": "00:05:43.841",
+    "start_seconds": 341.739,
+    "end_seconds": 343.841,
+    "text": "There's a lot of cheese, that's what we know."
+  },
+  {
+    "start": "00:05:43.874",
+    "end": "00:05:46.043",
+    "start_seconds": 343.874,
+    "end_seconds": 346.043,
+    "text": "But we also have a lot of holes in the cheese."
+  },
+  {
+    "start": "00:05:46.043",
+    "end": "00:05:47.745",
+    "start_seconds": 346.043,
+    "end_seconds": 347.745,
+    "text": "Those are the things we don't know."
+  },
+  {
+    "start": "00:05:47.778",
+    "end": "00:05:49.346",
+    "start_seconds": 347.778,
+    "end_seconds": 349.346,
+    "text": "And the thing that is incredible"
+  },
+  {
+    "start": "00:05:49.346",
+    "end": "00:05:51.982",
+    "start_seconds": 349.346,
+    "end_seconds": 351.98199999999997,
+    "text": "is that what all of you want, what I want,"
+  },
+  {
+    "start": "00:05:51.982",
+    "end": "00:05:53.684",
+    "start_seconds": 351.98199999999997,
+    "end_seconds": 353.68399999999997,
+    "text": "what the AI companies want"
+  },
+  {
+    "start": "00:05:53.684",
+    "end": "00:05:57.654",
+    "start_seconds": 353.68399999999997,
+    "end_seconds": 357.654,
+    "text": "is they want people out there filling in the holes in the cheese."
+  },
+  {
+    "start": "00:05:58.088",
+    "end": "00:06:01.058",
+    "start_seconds": 358.088,
+    "end_seconds": 361.058,
+    "text": "They don’t want you writing stories that already exist --"
+  },
+  {
+    "start": "00:06:01.058",
+    "end": "00:06:03.227",
+    "start_seconds": 361.058,
+    "end_seconds": 363.227,
+    "text": "they want you actually creating new knowledge."
+  },
+  {
+    "start": "00:06:03.227",
+    "end": "00:06:05.829",
+    "start_seconds": 363.227,
+    "end_seconds": 365.829,
+    "text": "And the AI companies, I've talked to every one of them,"
+  },
+  {
+    "start": "00:06:05.829",
+    "end": "00:06:09.566",
+    "start_seconds": 365.829,
+    "end_seconds": 369.566,
+    "text": "they're all willing to actually pay for people who are creating new knowledge,"
+  },
+  {
+    "start": "00:06:09.566",
+    "end": "00:06:12.436",
+    "start_seconds": 369.566,
+    "end_seconds": 372.436,
+    "text": "creating new ideas, ideas worth spreading."
+  },
+  {
+    "start": "00:06:12.436",
+    "end": "00:06:14.738",
+    "start_seconds": 372.436,
+    "end_seconds": 374.738,
+    "text": "That's what this new system would reward."
+  },
+  {
+    "start": "00:06:14.772",
+    "end": "00:06:20.177",
+    "start_seconds": 374.772,
+    "end_seconds": 380.177,
+    "text": "Compare that to what the business model of media is for the last 10 years,"
+  },
+  {
+    "start": "00:06:20.177",
+    "end": "00:06:22.946",
+    "start_seconds": 380.177,
+    "end_seconds": 382.946,
+    "text": "which is not filling in the holes in the cheese,"
+  },
+  {
+    "start": "00:06:22.980",
+    "end": "00:06:27.818",
+    "start_seconds": 382.98,
+    "end_seconds": 387.818,
+    "text": "but instead, basically, lighting the cheese on fire, right?"
+  },
+  {
+    "start": "00:06:27.851",
+    "end": "00:06:29.853",
+    "start_seconds": 387.851,
+    "end_seconds": 389.853,
+    "text": "Incendiary cheese, right?"
+  },
+  {
+    "start": "00:06:29.887",
+    "end": "00:06:32.990",
+    "start_seconds": 389.887,
+    "end_seconds": 392.99,
+    "text": "Yet another story about what happened at 1600 Pennsylvania Avenue,"
+  },
+  {
+    "start": "00:06:33.023",
+    "end": "00:06:35.025",
+    "start_seconds": 393.023,
+    "end_seconds": 395.025,
+    "text": "told in the most inflammatory way possible."
+  },
+  {
+    "start": "00:06:35.058",
+    "end": "00:06:36.860",
+    "start_seconds": 395.058,
+    "end_seconds": 396.86,
+    "text": "I've sat with media executives"
+  },
+  {
+    "start": "00:06:36.894",
+    "end": "00:06:41.565",
+    "start_seconds": 396.894,
+    "end_seconds": 401.565,
+    "text": "who brag about the fact that they create content for as little as possible,"
+  },
+  {
+    "start": "00:06:41.598",
+    "end": "00:06:45.502",
+    "start_seconds": 401.598,
+    "end_seconds": 405.502,
+    "text": "and then write headlines that create the largest cortisol response"
+  },
+  {
+    "start": "00:06:45.536",
+    "end": "00:06:47.438",
+    "start_seconds": 405.536,
+    "end_seconds": 407.438,
+    "text": "so that you will click on them."
+  },
+  {
+    "start": "00:06:47.471",
+    "end": "00:06:49.573",
+    "start_seconds": 407.471,
+    "end_seconds": 409.573,
+    "text": "That's not a world we should be celebrating."
+  },
+  {
+    "start": "00:06:49.606",
+    "end": "00:06:51.942",
+    "start_seconds": 409.606,
+    "end_seconds": 411.942,
+    "text": "That's not a world that's making the world better."
+  },
+  {
+    "start": "00:06:51.975",
+    "end": "00:06:54.077",
+    "start_seconds": 411.975,
+    "end_seconds": 414.077,
+    "text": "If, on the other hand, we actually celebrated"
+  },
+  {
+    "start": "00:06:54.111",
+    "end": "00:06:55.946",
+    "start_seconds": 414.111,
+    "end_seconds": 415.946,
+    "text": "who is making the cheese bigger,"
+  },
+  {
+    "start": "00:06:55.979",
+    "end": "00:06:57.147",
+    "start_seconds": 415.979,
+    "end_seconds": 417.147,
+    "text": "who's filling in that --"
+  },
+  {
+    "start": "00:06:57.147",
+    "end": "00:07:00.451",
+    "start_seconds": 417.147,
+    "end_seconds": 420.451,
+    "text": "Imagine in the future that you actually had AI companies"
+  },
+  {
+    "start": "00:07:00.451",
+    "end": "00:07:01.618",
+    "start_seconds": 420.451,
+    "end_seconds": 421.618,
+    "text": "that were measuring"
+  },
+  {
+    "start": "00:07:01.652",
+    "end": "00:07:04.822",
+    "start_seconds": 421.652,
+    "end_seconds": 424.822,
+    "text": "who actually advanced human knowledge mathematically"
+  },
+  {
+    "start": "00:07:04.855",
+    "end": "00:07:06.857",
+    "start_seconds": 424.855,
+    "end_seconds": 426.857,
+    "text": "over the course of the last year the most,"
+  },
+  {
+    "start": "00:07:06.857",
+    "end": "00:07:08.125",
+    "start_seconds": 426.857,
+    "end_seconds": 428.125,
+    "text": "and we gave them an award."
+  },
+  {
+    "start": "00:07:08.125",
+    "end": "00:07:09.960",
+    "start_seconds": 428.125,
+    "end_seconds": 429.96,
+    "text": "We could call it the Big Cheese award."
+  },
+  {
+    "start": "00:07:09.993",
+    "end": "00:07:10.994",
+    "start_seconds": 429.993,
+    "end_seconds": 430.994,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:07:11.028",
+    "end": "00:07:12.196",
+    "start_seconds": 431.028,
+    "end_seconds": 432.196,
+    "text": "I'm not kidding."
+  },
+  {
+    "start": "00:07:12.229",
+    "end": "00:07:13.764",
+    "start_seconds": 432.229,
+    "end_seconds": 433.764,
+    "text": "Like, how amazing would that be?"
+  },
+  {
+    "start": "00:07:13.797",
+    "end": "00:07:16.567",
+    "start_seconds": 433.797,
+    "end_seconds": 436.567,
+    "text": "And you might be thinking, OK, Matthew, you're crazy."
+  },
+  {
+    "start": "00:07:16.567",
+    "end": "00:07:19.603",
+    "start_seconds": 436.567,
+    "end_seconds": 439.603,
+    "text": "Like, I'm the person who thinks AI is just destroying the world,"
+  },
+  {
+    "start": "00:07:19.636",
+    "end": "00:07:21.672",
+    "start_seconds": 439.636,
+    "end_seconds": 441.672,
+    "text": "and technology always makes things worse."
+  },
+  {
+    "start": "00:07:21.672",
+    "end": "00:07:24.741",
+    "start_seconds": 441.672,
+    "end_seconds": 444.741,
+    "text": "I'm going to share just two anecdotes that make me have some hope"
+  },
+  {
+    "start": "00:07:24.775",
+    "end": "00:07:26.543",
+    "start_seconds": 444.775,
+    "end_seconds": 446.543,
+    "text": "that this might actually be the case."
+  },
+  {
+    "start": "00:07:26.543",
+    "end": "00:07:27.978",
+    "start_seconds": 446.543,
+    "end_seconds": 447.978,
+    "text": "The first starts 23 years ago."
+  },
+  {
+    "start": "00:07:28.011",
+    "end": "00:07:30.981",
+    "start_seconds": 448.011,
+    "end_seconds": 450.981,
+    "text": "23 years ago, the music industry had a huge problem:"
+  },
+  {
+    "start": "00:07:30.981",
+    "end": "00:07:33.617",
+    "start_seconds": 450.981,
+    "end_seconds": 453.617,
+    "text": "Napster, Kazaa -- everyone was stealing music."
+  },
+  {
+    "start": "00:07:33.650",
+    "end": "00:07:37.254",
+    "start_seconds": 453.65,
+    "end_seconds": 457.254,
+    "text": "And then Steve Jobs stepped on stage, almost 23 years ago to this day,"
+  },
+  {
+    "start": "00:07:37.254",
+    "end": "00:07:39.690",
+    "start_seconds": 457.254,
+    "end_seconds": 459.69,
+    "text": "and he said, “We’re going to do something different."
+  },
+  {
+    "start": "00:07:39.690",
+    "end": "00:07:41.725",
+    "start_seconds": 459.69,
+    "end_seconds": 461.725,
+    "text": "We're going to charge 99 cents per song."
+  },
+  {
+    "start": "00:07:41.758",
+    "end": "00:07:44.261",
+    "start_seconds": 461.758,
+    "end_seconds": 464.261,
+    "text": "We're going to actually say that you should be paying"
+  },
+  {
+    "start": "00:07:44.261",
+    "end": "00:07:45.796",
+    "start_seconds": 464.261,
+    "end_seconds": 465.796,
+    "text": "for the music that you consume.”"
+  },
+  {
+    "start": "00:07:45.796",
+    "end": "00:07:47.865",
+    "start_seconds": 465.796,
+    "end_seconds": 467.865,
+    "text": "Now that’s not the business model that won,"
+  },
+  {
+    "start": "00:07:47.898",
+    "end": "00:07:51.268",
+    "start_seconds": 467.898,
+    "end_seconds": 471.26800000000003,
+    "text": "but it was the start, and it turned into what is today Spotify"
+  },
+  {
+    "start": "00:07:51.301",
+    "end": "00:07:53.403",
+    "start_seconds": 471.301,
+    "end_seconds": 473.403,
+    "text": "and all the other systems that are out there,"
+  },
+  {
+    "start": "00:07:53.437",
+    "end": "00:07:56.306",
+    "start_seconds": 473.437,
+    "end_seconds": 476.306,
+    "text": "which is basically $10 a month, all-you-can-eat music,"
+  },
+  {
+    "start": "00:07:56.340",
+    "end": "00:07:57.508",
+    "start_seconds": 476.34000000000003,
+    "end_seconds": 477.508,
+    "text": "and it's pretty amazing."
+  },
+  {
+    "start": "00:07:57.541",
+    "end": "00:08:03.647",
+    "start_seconds": 477.541,
+    "end_seconds": 483.647,
+    "text": "Last year, Spotify alone sent over $10 billion to music creators"
+  },
+  {
+    "start": "00:08:03.647",
+    "end": "00:08:05.182",
+    "start_seconds": 483.647,
+    "end_seconds": 485.182,
+    "text": "in revenue."
+  },
+  {
+    "start": "00:08:05.682",
+    "end": "00:08:09.887",
+    "start_seconds": 485.682,
+    "end_seconds": 489.887,
+    "text": "And again, that's in addition to titles, TikToks, YouTube,"
+  },
+  {
+    "start": "00:08:09.887",
+    "end": "00:08:12.256",
+    "start_seconds": 489.887,
+    "end_seconds": 492.256,
+    "text": "Apple Music, everybody else,"
+  },
+  {
+    "start": "00:08:12.256",
+    "end": "00:08:15.526",
+    "start_seconds": 492.256,
+    "end_seconds": 495.526,
+    "text": "more money is going to music creation than any time in human history."
+  },
+  {
+    "start": "00:08:15.526",
+    "end": "00:08:18.161",
+    "start_seconds": 495.526,
+    "end_seconds": 498.161,
+    "text": "So technology can be pie-expanding."
+  },
+  {
+    "start": "00:08:18.795",
+    "end": "00:08:20.631",
+    "start_seconds": 498.795,
+    "end_seconds": 500.631,
+    "text": "In fact, I thought it was so important"
+  },
+  {
+    "start": "00:08:20.631",
+    "end": "00:08:23.033",
+    "start_seconds": 500.631,
+    "end_seconds": 503.033,
+    "text": "that I flew up to Stockholm to meet with Daniel Ek,"
+  },
+  {
+    "start": "00:08:23.066",
+    "end": "00:08:26.303",
+    "start_seconds": 503.066,
+    "end_seconds": 506.303,
+    "text": "the founder of Spotify, and he said, \"You know, it's pretty amazing."
+  },
+  {
+    "start": "00:08:26.303",
+    "end": "00:08:30.140",
+    "start_seconds": 506.303,
+    "end_seconds": 510.14,
+    "text": "We know when someone goes to Spotify and they type in Taylor Swift,"
+  },
+  {
+    "start": "00:08:30.173",
+    "end": "00:08:31.408",
+    "start_seconds": 510.173,
+    "end_seconds": 511.408,
+    "text": "\"Shake It Off\""
+  },
+  {
+    "start": "00:08:31.441",
+    "end": "00:08:33.710",
+    "start_seconds": 511.441,
+    "end_seconds": 513.71,
+    "text": "that we can give them what they're looking for.\""
+  },
+  {
+    "start": "00:08:33.744",
+    "end": "00:08:35.779",
+    "start_seconds": 513.744,
+    "end_seconds": 515.779,
+    "text": "But every once in a while, someone comes in"
+  },
+  {
+    "start": "00:08:35.779",
+    "end": "00:08:37.147",
+    "start_seconds": 515.779,
+    "end_seconds": 517.147,
+    "text": "and types in something like,"
+  },
+  {
+    "start": "00:08:37.180",
+    "end": "00:08:40.517",
+    "start_seconds": 517.18,
+    "end_seconds": 520.517,
+    "text": "'I want a song about how much fun it is to dance disco with your cat.'"
+  },
+  {
+    "start": "00:08:40.551",
+    "end": "00:08:41.752",
+    "start_seconds": 520.551,
+    "end_seconds": 521.752,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:08:41.785",
+    "end": "00:08:44.021",
+    "start_seconds": 521.785,
+    "end_seconds": 524.021,
+    "text": "And nobody's written that."
+  },
+  {
+    "start": "00:08:44.054",
+    "end": "00:08:46.023",
+    "start_seconds": 524.054,
+    "end_seconds": 526.023,
+    "text": "But they know that nobody's written that."
+  },
+  {
+    "start": "00:08:46.056",
+    "end": "00:08:48.692",
+    "start_seconds": 526.056,
+    "end_seconds": 528.692,
+    "text": "And so they actually go back and take those queries"
+  },
+  {
+    "start": "00:08:48.725",
+    "end": "00:08:50.827",
+    "start_seconds": 528.725,
+    "end_seconds": 530.827,
+    "text": "and then publish them back to music creators."
+  },
+  {
+    "start": "00:08:50.861",
+    "end": "00:08:54.298",
+    "start_seconds": 530.861,
+    "end_seconds": 534.298,
+    "text": "And this is the moment you're all going to think you're doing life wrong."
+  },
+  {
+    "start": "00:08:54.298",
+    "end": "00:08:56.133",
+    "start_seconds": 534.298,
+    "end_seconds": 536.133,
+    "text": "But there's a guy who lives in Denmark"
+  },
+  {
+    "start": "00:08:56.166",
+    "end": "00:08:57.768",
+    "start_seconds": 536.1659999999999,
+    "end_seconds": 537.768,
+    "text": "who makes €40 million a year"
+  },
+  {
+    "start": "00:08:57.801",
+    "end": "00:09:00.037",
+    "start_seconds": 537.801,
+    "end_seconds": 540.037,
+    "text": "writing songs for unfulfilled Spotify queries."
+  },
+  {
+    "start": "00:09:00.070",
+    "end": "00:09:02.072",
+    "start_seconds": 540.07,
+    "end_seconds": 542.072,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:09:02.105",
+    "end": "00:09:04.207",
+    "start_seconds": 542.105,
+    "end_seconds": 544.207,
+    "text": "And I think that's beautiful."
+  },
+  {
+    "start": "00:09:04.241",
+    "end": "00:09:06.109",
+    "start_seconds": 544.241,
+    "end_seconds": 546.109,
+    "text": "That's filling the holes in the cheese."
+  },
+  {
+    "start": "00:09:06.109",
+    "end": "00:09:07.611",
+    "start_seconds": 546.109,
+    "end_seconds": 547.611,
+    "text": "Because when I look for a song,"
+  },
+  {
+    "start": "00:09:07.644",
+    "end": "00:09:09.446",
+    "start_seconds": 547.644,
+    "end_seconds": 549.446,
+    "text": "what I'm looking for is an emotion."
+  },
+  {
+    "start": "00:09:09.479",
+    "end": "00:09:12.649",
+    "start_seconds": 549.479,
+    "end_seconds": 552.649,
+    "text": "And this person is helping me find a song to resonate that way."
+  },
+  {
+    "start": "00:09:12.649",
+    "end": "00:09:15.352",
+    "start_seconds": 552.649,
+    "end_seconds": 555.352,
+    "text": "And I think that's a model for what could happen as well."
+  },
+  {
+    "start": "00:09:15.385",
+    "end": "00:09:17.821",
+    "start_seconds": 555.385,
+    "end_seconds": 557.821,
+    "text": "Another story starts a little bit closer to home."
+  },
+  {
+    "start": "00:09:17.854",
+    "end": "00:09:21.892",
+    "start_seconds": 557.854,
+    "end_seconds": 561.892,
+    "text": "So this is the Park Record newspaper."
+  },
+  {
+    "start": "00:09:22.993",
+    "end": "00:09:25.228",
+    "start_seconds": 562.993,
+    "end_seconds": 565.228,
+    "text": "The first place I ever saw my name in print --"
+  },
+  {
+    "start": "00:09:25.228",
+    "end": "00:09:27.464",
+    "start_seconds": 565.228,
+    "end_seconds": 567.4639999999999,
+    "text": "my hometown newspaper from Park City, Utah."
+  },
+  {
+    "start": "00:09:27.464",
+    "end": "00:09:28.799",
+    "start_seconds": 567.4639999999999,
+    "end_seconds": 568.799,
+    "text": "It was dying."
+  },
+  {
+    "start": "00:09:28.799",
+    "end": "00:09:31.568",
+    "start_seconds": 568.799,
+    "end_seconds": 571.568,
+    "text": "So three years ago, my wife and I bought it."
+  },
+  {
+    "start": "00:09:31.602",
+    "end": "00:09:35.038",
+    "start_seconds": 571.602,
+    "end_seconds": 575.038,
+    "text": "We did not buy it because we thought it was going to be a great business."
+  },
+  {
+    "start": "00:09:35.072",
+    "end": "00:09:37.808",
+    "start_seconds": 575.072,
+    "end_seconds": 577.808,
+    "text": "We bought it because we thought local news was important."
+  },
+  {
+    "start": "00:09:37.808",
+    "end": "00:09:39.576",
+    "start_seconds": 577.808,
+    "end_seconds": 579.576,
+    "text": "In fact, we had no financial KPIs --"
+  },
+  {
+    "start": "00:09:39.576",
+    "end": "00:09:43.480",
+    "start_seconds": 579.576,
+    "end_seconds": 583.48,
+    "text": "the only KPI we focused on was how much could we increase voter turnout."
+  },
+  {
+    "start": "00:09:43.480",
+    "end": "00:09:46.984",
+    "start_seconds": 583.48,
+    "end_seconds": 586.984,
+    "text": "And the answer was, we got it from the low 20 percent to over 60 percent"
+  },
+  {
+    "start": "00:09:46.984",
+    "end": "00:09:48.719",
+    "start_seconds": 586.984,
+    "end_seconds": 588.719,
+    "text": "in the last election in three years,"
+  },
+  {
+    "start": "00:09:48.752",
+    "end": "00:09:49.920",
+    "start_seconds": 588.752,
+    "end_seconds": 589.92,
+    "text": "which is amazing, right?"
+  },
+  {
+    "start": "00:09:49.953",
+    "end": "00:09:51.088",
+    "start_seconds": 589.953,
+    "end_seconds": 591.088,
+    "text": "(Applause)"
+  },
+  {
+    "start": "00:09:51.121",
+    "end": "00:09:52.823",
+    "start_seconds": 591.121,
+    "end_seconds": 592.823,
+    "text": "Local news matters."
+  },
+  {
+    "start": "00:09:52.856",
+    "end": "00:09:54.591",
+    "start_seconds": 592.856,
+    "end_seconds": 594.591,
+    "text": "But here's the crazy part."
+  },
+  {
+    "start": "00:09:55.225",
+    "end": "00:09:56.994",
+    "start_seconds": 595.225,
+    "end_seconds": 596.994,
+    "text": "Terrible business, right?"
+  },
+  {
+    "start": "00:09:57.361",
+    "end": "00:09:58.795",
+    "start_seconds": 597.361,
+    "end_seconds": 598.795,
+    "text": "Except it's not."
+  },
+  {
+    "start": "00:09:58.829",
+    "end": "00:10:02.032",
+    "start_seconds": 598.829,
+    "end_seconds": 602.032,
+    "text": "We're likely going to make more in 2026"
+  },
+  {
+    "start": "00:10:02.065",
+    "end": "00:10:04.167",
+    "start_seconds": 602.065,
+    "end_seconds": 604.167,
+    "text": "off licensing our content to AI companies"
+  },
+  {
+    "start": "00:10:04.201",
+    "end": "00:10:06.637",
+    "start_seconds": 604.201,
+    "end_seconds": 606.637,
+    "text": "than we do off digital advertising. Why?"
+  },
+  {
+    "start": "00:10:06.670",
+    "end": "00:10:08.872",
+    "start_seconds": 606.67,
+    "end_seconds": 608.872,
+    "text": "Because if you're traveling to Park City, Utah,"
+  },
+  {
+    "start": "00:10:08.872",
+    "end": "00:10:11.375",
+    "start_seconds": 608.872,
+    "end_seconds": 611.375,
+    "text": "and you want to know what's the great new restaurant,"
+  },
+  {
+    "start": "00:10:11.408",
+    "end": "00:10:13.410",
+    "start_seconds": 611.408,
+    "end_seconds": 613.41,
+    "text": "what's the cool band that's coming to town,"
+  },
+  {
+    "start": "00:10:13.410",
+    "end": "00:10:15.012",
+    "start_seconds": 613.41,
+    "end_seconds": 615.012,
+    "text": "we're the only ones that have it."
+  },
+  {
+    "start": "00:10:15.045",
+    "end": "00:10:17.014",
+    "start_seconds": 615.045,
+    "end_seconds": 617.014,
+    "text": "So think about how amazing that would be."
+  },
+  {
+    "start": "00:10:17.014",
+    "end": "00:10:18.615",
+    "start_seconds": 617.014,
+    "end_seconds": 618.615,
+    "text": "Think about how if in the future,"
+  },
+  {
+    "start": "00:10:18.649",
+    "end": "00:10:21.418",
+    "start_seconds": 618.649,
+    "end_seconds": 621.418,
+    "text": "the business model of the new AI-driven internet"
+  },
+  {
+    "start": "00:10:21.418",
+    "end": "00:10:24.154",
+    "start_seconds": 621.418,
+    "end_seconds": 624.154,
+    "text": "actually rewards the media we're all craving,"
+  },
+  {
+    "start": "00:10:24.187",
+    "end": "00:10:26.823",
+    "start_seconds": 624.187,
+    "end_seconds": 626.823,
+    "text": "local, unique, original content."
+  },
+  {
+    "start": "00:10:27.257",
+    "end": "00:10:29.259",
+    "start_seconds": 627.257,
+    "end_seconds": 629.259,
+    "text": "That's what I'm super excited about."
+  },
+  {
+    "start": "00:10:29.893",
+    "end": "00:10:31.161",
+    "start_seconds": 629.893,
+    "end_seconds": 631.1610000000001,
+    "text": "But there are problems."
+  },
+  {
+    "start": "00:10:31.561",
+    "end": "00:10:32.796",
+    "start_seconds": 631.561,
+    "end_seconds": 632.796,
+    "text": "Challenges."
+  },
+  {
+    "start": "00:10:32.829",
+    "end": "00:10:35.065",
+    "start_seconds": 632.829,
+    "end_seconds": 635.065,
+    "text": "It's kind of like in the superhero films,"
+  },
+  {
+    "start": "00:10:35.098",
+    "end": "00:10:39.102",
+    "start_seconds": 635.098,
+    "end_seconds": 639.102,
+    "text": "where the hero of the last movie becomes the villain of the next."
+  },
+  {
+    "start": "00:10:39.102",
+    "end": "00:10:42.239",
+    "start_seconds": 639.102,
+    "end_seconds": 642.239,
+    "text": "And so our good friends at Google ..."
+  },
+  {
+    "start": "00:10:42.272",
+    "end": "00:10:43.440",
+    "start_seconds": 642.272,
+    "end_seconds": 643.44,
+    "text": "Ugh."
+  },
+  {
+    "start": "00:10:43.440",
+    "end": "00:10:44.741",
+    "start_seconds": 643.44,
+    "end_seconds": 644.741,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:10:44.775",
+    "end": "00:10:46.076",
+    "start_seconds": 644.775,
+    "end_seconds": 646.076,
+    "text": "They are holding this back."
+  },
+  {
+    "start": "00:10:46.109",
+    "end": "00:10:49.112",
+    "start_seconds": 646.109,
+    "end_seconds": 649.112,
+    "text": "They believe that they have a God-given right"
+  },
+  {
+    "start": "00:10:49.146",
+    "end": "00:10:50.580",
+    "start_seconds": 649.146,
+    "end_seconds": 650.58,
+    "text": "to all of the content online."
+  },
+  {
+    "start": "00:10:50.580",
+    "end": "00:10:52.582",
+    "start_seconds": 650.58,
+    "end_seconds": 652.582,
+    "text": "They shouldn't have to pay for any of it."
+  },
+  {
+    "start": "00:10:52.616",
+    "end": "00:10:54.117",
+    "start_seconds": 652.616,
+    "end_seconds": 654.117,
+    "text": "And they have a huge advantage."
+  },
+  {
+    "start": "00:10:54.117",
+    "end": "00:10:55.819",
+    "start_seconds": 654.117,
+    "end_seconds": 655.819,
+    "text": "In fact, it's hard to believe this,"
+  },
+  {
+    "start": "00:10:55.852",
+    "end": "00:10:58.055",
+    "start_seconds": 655.852,
+    "end_seconds": 658.055,
+    "text": "but every other AI company was actually started"
+  },
+  {
+    "start": "00:10:58.055",
+    "end": "00:10:59.690",
+    "start_seconds": 658.055,
+    "end_seconds": 659.69,
+    "text": "to oppose Google, right?"
+  },
+  {
+    "start": "00:10:59.690",
+    "end": "00:11:01.258",
+    "start_seconds": 659.69,
+    "end_seconds": 661.258,
+    "text": "That’s what OpenAI started with."
+  },
+  {
+    "start": "00:11:01.291",
+    "end": "00:11:03.393",
+    "start_seconds": 661.291,
+    "end_seconds": 663.393,
+    "text": "Anthropic was just a spinoff of OpenAI, xAI."
+  },
+  {
+    "start": "00:11:03.427",
+    "end": "00:11:07.030",
+    "start_seconds": 663.427,
+    "end_seconds": 667.03,
+    "text": "All of this was all to say, we can't let Google win this entire game."
+  },
+  {
+    "start": "00:11:07.030",
+    "end": "00:11:08.865",
+    "start_seconds": 667.03,
+    "end_seconds": 668.865,
+    "text": "How much of an advantage do they have?"
+  },
+  {
+    "start": "00:11:08.899",
+    "end": "00:11:10.333",
+    "start_seconds": 668.899,
+    "end_seconds": 670.333,
+    "text": "Well we looked at this again,"
+  },
+  {
+    "start": "00:11:10.367",
+    "end": "00:11:13.503",
+    "start_seconds": 670.367,
+    "end_seconds": 673.503,
+    "text": "and we found that every single page that OpenAI sees,"
+  },
+  {
+    "start": "00:11:13.537",
+    "end": "00:11:15.272",
+    "start_seconds": 673.537,
+    "end_seconds": 675.272,
+    "text": "Google sees three."
+  },
+  {
+    "start": "00:11:15.305",
+    "end": "00:11:18.241",
+    "start_seconds": 675.305,
+    "end_seconds": 678.241,
+    "text": "Four in Microsoft’s case,"
+  },
+  {
+    "start": "00:11:18.275",
+    "end": "00:11:19.743",
+    "start_seconds": 678.275,
+    "end_seconds": 679.743,
+    "text": "five in Anthropic's case,"
+  },
+  {
+    "start": "00:11:19.743",
+    "end": "00:11:22.846",
+    "start_seconds": 679.743,
+    "end_seconds": 682.846,
+    "text": "21 or 22 in xAI's case."
+  },
+  {
+    "start": "00:11:22.879",
+    "end": "00:11:25.382",
+    "start_seconds": 682.879,
+    "end_seconds": 685.382,
+    "text": "An enormous advantage that Google has,"
+  },
+  {
+    "start": "00:11:25.382",
+    "end": "00:11:27.417",
+    "start_seconds": 685.382,
+    "end_seconds": 687.417,
+    "text": "and they want to hold on to that advantage."
+  },
+  {
+    "start": "00:11:27.451",
+    "end": "00:11:29.453",
+    "start_seconds": 687.451,
+    "end_seconds": 689.453,
+    "text": "In fact, they're playing incredibly dirty."
+  },
+  {
+    "start": "00:11:29.453",
+    "end": "00:11:31.154",
+    "start_seconds": 689.453,
+    "end_seconds": 691.154,
+    "text": "They're saying to content creators,"
+  },
+  {
+    "start": "00:11:31.188",
+    "end": "00:11:34.024",
+    "start_seconds": 691.188,
+    "end_seconds": 694.024,
+    "text": "\"You can't stop us from training on your content"
+  },
+  {
+    "start": "00:11:34.057",
+    "end": "00:11:36.393",
+    "start_seconds": 694.057,
+    "end_seconds": 696.393,
+    "text": "or we will take you out of search.\""
+  },
+  {
+    "start": "00:11:37.360",
+    "end": "00:11:38.562",
+    "start_seconds": 697.36,
+    "end_seconds": 698.562,
+    "text": "Horrible."
+  },
+  {
+    "start": "00:11:38.595",
+    "end": "00:11:40.664",
+    "start_seconds": 698.595,
+    "end_seconds": 700.664,
+    "text": "Superman, how far you’ve fallen!"
+  },
+  {
+    "start": "00:11:40.697",
+    "end": "00:11:42.466",
+    "start_seconds": 700.697,
+    "end_seconds": 702.466,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:11:42.899",
+    "end": "00:11:45.569",
+    "start_seconds": 702.899,
+    "end_seconds": 705.569,
+    "text": "And so I was pretty depressed, I have to confess,"
+  },
+  {
+    "start": "00:11:45.602",
+    "end": "00:11:48.371",
+    "start_seconds": 705.602,
+    "end_seconds": 708.371,
+    "text": "thinking we were on the cusp of creating something amazing:"
+  },
+  {
+    "start": "00:11:48.405",
+    "end": "00:11:51.141",
+    "start_seconds": 708.405,
+    "end_seconds": 711.141,
+    "text": "a better internet."
+  },
+  {
+    "start": "00:11:51.575",
+    "end": "00:11:56.446",
+    "start_seconds": 711.575,
+    "end_seconds": 716.446,
+    "text": "And yet, I have to just realize that no AI company's top priority"
+  },
+  {
+    "start": "00:11:56.480",
+    "end": "00:11:58.081",
+    "start_seconds": 716.48,
+    "end_seconds": 718.081,
+    "text": "is paying content creators."
+  },
+  {
+    "start": "00:11:58.648",
+    "end": "00:12:00.283",
+    "start_seconds": 718.648,
+    "end_seconds": 720.283,
+    "text": "What's their top priority?"
+  },
+  {
+    "start": "00:12:01.318",
+    "end": "00:12:02.719",
+    "start_seconds": 721.318,
+    "end_seconds": 722.719,
+    "text": "Beating Google."
+  },
+  {
+    "start": "00:12:03.153",
+    "end": "00:12:04.855",
+    "start_seconds": 723.153,
+    "end_seconds": 724.855,
+    "text": "Which gave me an idea."
+  },
+  {
+    "start": "00:12:05.655",
+    "end": "00:12:07.557",
+    "start_seconds": 725.655,
+    "end_seconds": 727.557,
+    "text": "Kind of a wonderful idea."
+  },
+  {
+    "start": "00:12:08.125",
+    "end": "00:12:10.794",
+    "start_seconds": 728.125,
+    "end_seconds": 730.794,
+    "text": "An idea which is going on right now, and it's working."
+  },
+  {
+    "start": "00:12:10.827",
+    "end": "00:12:12.562",
+    "start_seconds": 730.827,
+    "end_seconds": 732.562,
+    "text": "Which is:"
+  },
+  {
+    "start": "00:12:12.596",
+    "end": "00:12:14.931",
+    "start_seconds": 732.596,
+    "end_seconds": 734.931,
+    "text": "don’t charge for all the content that’s out there,"
+  },
+  {
+    "start": "00:12:14.965",
+    "end": "00:12:18.769",
+    "start_seconds": 734.965,
+    "end_seconds": 738.769,
+    "text": "just charge the AI companies for the ability to catch Google."
+  },
+  {
+    "start": "00:12:19.269",
+    "end": "00:12:21.104",
+    "start_seconds": 739.269,
+    "end_seconds": 741.104,
+    "text": "And I don't think that's the end game,"
+  },
+  {
+    "start": "00:12:21.138",
+    "end": "00:12:23.373",
+    "start_seconds": 741.138,
+    "end_seconds": 743.373,
+    "text": "but I think it might be the iTunes moment."
+  },
+  {
+    "start": "00:12:23.373",
+    "end": "00:12:27.244",
+    "start_seconds": 743.373,
+    "end_seconds": 747.244,
+    "text": "It might be the point that shows us content is worth paying for."
+  },
+  {
+    "start": "00:12:27.277",
+    "end": "00:12:28.678",
+    "start_seconds": 747.277,
+    "end_seconds": 748.678,
+    "text": "Everyone should be out there,"
+  },
+  {
+    "start": "00:12:28.678",
+    "end": "00:12:31.548",
+    "start_seconds": 748.678,
+    "end_seconds": 751.548,
+    "text": "and we can create a better business model for the internet."
+  },
+  {
+    "start": "00:12:31.548",
+    "end": "00:12:35.085",
+    "start_seconds": 751.548,
+    "end_seconds": 755.085,
+    "text": "And so I'm hopeful that on this stage, not too long from now,"
+  },
+  {
+    "start": "00:12:35.118",
+    "end": "00:12:37.621",
+    "start_seconds": 755.118,
+    "end_seconds": 757.621,
+    "text": "I get to hand out one of the first Big Cheese awards,"
+  },
+  {
+    "start": "00:12:37.621",
+    "end": "00:12:38.922",
+    "start_seconds": 757.621,
+    "end_seconds": 758.922,
+    "text": "and I really appreciate it."
+  },
+  {
+    "start": "00:12:38.955",
+    "end": "00:12:40.157",
+    "start_seconds": 758.955,
+    "end_seconds": 760.157,
+    "text": "Thank you."
+  }
+]

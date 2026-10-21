@@ -1,0 +1,411 @@
+{
+  "schema_version": "1.0",
+  "packet_id": "ted-wave-2-starter-context-packets",
+  "source": "ted-wave-2-starter",
+  "status": "machine_bounded_context_packets_not_human_review",
+  "item_count": 6,
+  "packets": [
+    {
+      "item_id": "ted-001",
+      "candidate_pattern": "concrete_opening_before_abstraction",
+      "review_prompt": "Does a concrete situation or story give the audience a handle before the speaker generalizes?",
+      "references": [
+        {
+          "ref": "#1",
+          "status": "available",
+          "video_id": "SD1MypHgAwc",
+          "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+          "url": "https://www.youtube.com/watch?v=SD1MypHgAwc",
+          "word_count": 8356,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/001-SD1MypHgAwc.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/001-SD1MypHgAwc.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "when",
+              "text": "for an upcoming podcast interview on \"A Slight Change of Plans.\" And this woman cited a study. She's a physician. And she was talking about how people are way more stressed during that intervening period when they're not sure what the medical result is when they're waiting on a test result than they are when they actually find out what the disease is. And that was really interesting to me because when I reflect back on my life at the moments when I felt the most deeply anxious, the most unsure, my life and my -- and when my well-being"
+            },
+            {
+              "matched_term": "one day",
+              "text": "a little kid. I was an aspiring concert violinist. I started playing when I was six and I studied at the “Juilliard School of Music” under Itzhak Perlman. And I had really big dreams of one day becoming a professional. And then my \"slight change of plans\" was that I had a career-ending injury. And I remember that there was something so curious about my grief when it came to the loss of the violin, which is that I found myself grieving not just the loss of the instrument, but also the loss of myself in this much deeper way."
+            }
+          ]
+        },
+        {
+          "ref": "#3",
+          "status": "available",
+          "video_id": "X6hstmAa0cg",
+          "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+          "url": "https://www.youtube.com/watch?v=X6hstmAa0cg",
+          "word_count": 650,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/003-X6hstmAa0cg.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/003-X6hstmAa0cg.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "when",
+              "text": "gift. So this was not like others’ problem; this was our problem. Finally, they (came to) understand why we needed to change. They changed their opinion because they understood the process. During cherry blossom season, when cherry blossoms bloom beautifully, local shops wanted to close the street to enjoy food under the cherry blossoms. But for local residents, that proposal was simply inconvenient, so it was controversial. But when local citizens and local shops actually joined the process and citizens proposed the plan, the proposal was a success. So citizens actually created the vision of (our) town, not the government."
+            }
+          ]
+        },
+        {
+          "ref": "#24",
+          "status": "available",
+          "video_id": "rTubAg019-A",
+          "title": "Why Countries Should Measure Dreams and Ambitions (Just like GDP) | Lance Katigbak | TED",
+          "url": "https://www.youtube.com/watch?v=rTubAg019-A",
+          "word_count": 1625,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/024-rTubAg019-A.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/024-rTubAg019-A.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "when",
+              "text": "What do you want to be when you grow up? At age four, I wanted to become a computer scientist. At five, a vacuum cleaner salesman. At six, a priest. At 17, an award-winning filmmaker. And at 22, when it was finally time to decide on my first job, I became a management consultant. (Laughter) What do you want to be when you grow up? I'm sure everyone here has been"
+            },
+            {
+              "matched_term": "today",
+              "text": "child, she decided to stay home and start a children's clothing business from her garage, believing that making and selling children's clothes online would be a better way of creating financial stability for her family. Today, she dreams of opening up a flagship store in a mall for her business, and of buying a second home in the mountains for her family. Tidri, Joey, Sweden and 1,500 other Filipinos we've interviewed all still want to be something when they grow up and their dreams seem so achievable. But somehow to them, they still feel out of reach. We shared this"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "ted-002",
+      "candidate_pattern": "question_to_thesis_orientation",
+      "review_prompt": "Does an opening question orient attention and lead to a clearly bounded thesis?",
+      "references": [
+        {
+          "ref": "#9",
+          "status": "available",
+          "video_id": "1r2fqbD0KZ4",
+          "title": "The Secret to Deeper Conversations | TED Intersections",
+          "url": "https://www.youtube.com/watch?v=1r2fqbD0KZ4",
+          "word_count": 5078,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/009-1r2fqbD0KZ4.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/009-1r2fqbD0KZ4.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "what if",
+              "text": "on your mind and not bite your tongue because, well, it might be uncomfortable, well, what are they going to say? Let that be their problem. [Intersections] [Joshua Johnson, Journalist] [Blake Mycoskie, Social entrepreneur] JJ: What if we shuffle the deck? BM: I'm fine with that. JJ: Alright. OK, deck duly shuffled. BM: OK, you go first now. JJ: Alright, so I can own what I've done? BM: Yeah, yeah, exactly. JJ: Alright, first question. Are we losing the ability to have real conversations? BM: Hmm. I don't think so, actually. I think that with everything that's going on from"
+            },
+            {
+              "matched_term": "why",
+              "text": "that mean to me? What would a perfect day in my life look like if I had the connections I wanted? Rather than just, “Well you should reach out more. You should be more connected.\" Why? To what end? I think a lot of guys, that I know anyway, rebel against that because they're not sure like, when you're done, like, when do I know if this works? Just kind of sitting in the discomfort and like, \"OK, am I social now?\" Like, \"Am I human now?\" It just feels too fuzzy. So maybe the first thing they need to"
+            }
+          ]
+        },
+        {
+          "ref": "#14",
+          "status": "available",
+          "video_id": "YCldrsmxi_s",
+          "title": "How AI Is Breaking the Internet (and What to Do About It) | Matthew Prince | TED",
+          "url": "https://www.youtube.com/watch?v=YCldrsmxi_s",
+          "word_count": 2319,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/014-YCldrsmxi_s.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/014-YCldrsmxi_s.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "why",
+              "text": "unique view into what is going on online. Two, we care enormously about the success of the internet. And three, I can share with you some of how that underlying business model is changing and why it's important. Because as that business model changes, it's going to have a dramatic impact on what the internet is, but beyond that, on what content is created, on what journalists get compensated for, on how researchers are able to do their research. And so it's up to all of us as that business model of the internet changes, to make sure it changes"
+            },
+            {
+              "matched_term": "how",
+              "text": "result, means three things. One, we've had this unique view into what is going on online. Two, we care enormously about the success of the internet. And three, I can share with you some of how that underlying business model is changing and why it's important. Because as that business model changes, it's going to have a dramatic impact on what the internet is, but beyond that, on what content is created, on what journalists get compensated for, on how researchers are able to do their research. And so it's up to all of us as that business model of"
+            }
+          ]
+        },
+        {
+          "ref": "#21",
+          "status": "available",
+          "video_id": "GRQlIAWVO_E",
+          "title": "A Cosmologist’s Guide to the End of the Universe | Katie Mack and Debbie Millman | TED",
+          "url": "https://www.youtube.com/watch?v=GRQlIAWVO_E",
+          "word_count": 3670,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/021-GRQlIAWVO_E.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/021-GRQlIAWVO_E.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "why",
+              "text": "ripped the parachutes right off the capsule as it was coming in. And so, he managed to convince NASA to move the splashdown site just 72 hours before the splashdown, and he couldn't tell them why because NASA's a civilian agency, they couldn't know about these secret satellites. And so, he had to just use the weight of his expertise and his reputation to tell them, \"You have to move the splashdown. I cannot tell you why. Here's an alternative.\" And so, they moved it a few hundred kilometers uh in some direction, and it was fine. But, >> So,"
+            },
+            {
+              "matched_term": "how",
+              "text": "but never aerobatic training. >> Mhm. >> Tell us what that is. >> Yeah, so aerobatics is flying the airplane in unusual ways. So, things like loops and uh spins and rolls and really learning how to control the airplane at all areas of the envelope. You know, really beyond the normal straight and level flying. And it's super fun because it's like creating your own roller coaster in the sky. >> And it's not scary? >> It's It can be scary sometimes. >> a daredevil. >> No, I I enjoy it because it's it's challenging, it's interesting, it's a"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "ted-003",
+      "candidate_pattern": "analogy_or_explanation_bridge",
+      "review_prompt": "Does an analogy or explanation bridge make a difficult idea more graspable without overstating the comparison?",
+      "references": [
+        {
+          "ref": "#2",
+          "status": "available",
+          "video_id": "e0Q_TcQUCks",
+          "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+          "url": "https://www.youtube.com/watch?v=e0Q_TcQUCks",
+          "word_count": 1017,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/002-e0Q_TcQUCks.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/002-e0Q_TcQUCks.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "like",
+              "text": "name for this feeling. I call it the wiggle. (Laughter) Now what’s the difference between a wiggle and a straight line? Well we all know how a straight line feels, right? Rigid, unyielding, inflexible, linear. Like a Roman road or the hand of a clock. It's set, it's certain. But the wiggle, on the other hand, is soft and flexible and fluid. The wiggle is smooth and constantly in motion, right? So where the straight line is firm and brittle, the wiggle is supple and resilient -- like water -- constantly changing shape, but stronger than almost anything. As the"
+            }
+          ]
+        },
+        {
+          "ref": "#4",
+          "status": "available",
+          "video_id": "zc_eKn13GQU",
+          "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+          "url": "https://www.youtube.com/watch?v=zc_eKn13GQU",
+          "word_count": 1515,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/004-zc_eKn13GQU.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/004-zc_eKn13GQU.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "like",
+              "text": "the young universe, then the microwave radiation comes to us from all directions, and for many years, its brightness was thought to be extremely uniform, around the full spherical dome of the sky, [a] bit like this image here. But as microwave telescopes became more sensitive, they began to see slight variations in brightness from place to place, so more recent images of the microwave sky appear completely covered in very slight patches. You can see them more clearly in this blowup of a region that's about the size of your fist, held at arm's length. It spans eight million"
+            }
+          ]
+        },
+        {
+          "ref": "#29",
+          "status": "available",
+          "video_id": "LGb0_ed_euA",
+          "title": "How Play Boosts Your Creativity and Resilience | Katina Bajaj | TED",
+          "url": "https://www.youtube.com/watch?v=LGb0_ed_euA",
+          "word_count": 1880,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/029-LGb0_ed_euA.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/029-LGb0_ed_euA.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "like",
+              "text": "in every color, and then I'd wait. And I'd wait. And I'd wait until something felt worthy enough, perfect enough to make. That moment barely ever came. Ever since I was a kid, play felt like something that I had to earn. And when I finally did do it, I took it seriously. My favorite game growing up was emergency-room doctor. I’d force my younger brother to scrub in, robes on, Beanie Babies fully prepped, and I was head surgeon, of course, so there was no room for mistakes in my OR. Most people don't become play skeptics until they're"
+            },
+            {
+              "matched_term": "imagine",
+              "text": "parts of adult life and replaced it with efficiency and achievement. And in doing so, we're losing the very survival skills that we need the most right now. Things like our capacity to adapt and imagine and even feel alive. Play deprivation is tricky, though, because at first we barely notice it's happening. We just feel endlessly busy. But over time, without play, stress can compound and then burnout can become chronic. And then we walk around as playless adults, which ultimately creates a playless society, one where our institutions can grow rigid and lonely and polarized. But we can"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "ted-004",
+      "candidate_pattern": "contrast_before_after_reframe",
+      "review_prompt": "Does a real contrast change the audience's frame while preserving nuance and boundary conditions?",
+      "references": [
+        {
+          "ref": "#10",
+          "status": "available",
+          "video_id": "5vwbbLB3Uww",
+          "title": "How I’m Helping Thousands Rebuild Their Lives After Prison | Susan Burton | TED",
+          "url": "https://www.youtube.com/watch?v=5vwbbLB3Uww",
+          "word_count": 1107,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/010-5vwbbLB3Uww.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/010-5vwbbLB3Uww.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "but",
+              "text": "from me. My life became a downward spiral. I began to drink. Drinking led to substance use. For the substance use, I was imprisoned. Every time I left prison, I swore I wouldn't go back. But I did. Over and over and over again. I remember one day, standing in front of a judge and asking that judge, \"Is there any help for me?\" And the judge sentenced me to prison one more time. No one cared. No one was listening. But when I walked into that room in 1997, I was ready to be heard. In the rooms of"
+            },
+            {
+              "matched_term": "before",
+              "text": "On October 4, 1997, I walked into a room unlike any room I'd ever entered before. People were standing up, sharing their stories. A wave of relief washed over me. I got a cup of coffee and just took everything in. At that point, I was at the lowest point in my life. I was out of ideas, and I didn't know how I was going to make it out of the condition I was in. Before that date, my"
+            }
+          ]
+        },
+        {
+          "ref": "#18",
+          "status": "available",
+          "video_id": "E-Se-_A4o-Y",
+          "title": "The Creative Genius of Sneaker Design | Salehe Bembury and Cloe Shasha Brooks | TED",
+          "url": "https://www.youtube.com/watch?v=E-Se-_A4o-Y",
+          "word_count": 2691,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/018-E-Se-_A4o-Y.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/018-E-Se-_A4o-Y.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "but",
+              "text": "the sneaker industry is a multibillion-dollar business, and traditionally, that consumer isn't paying attention to fashion brands or traditionally paying attention to the sneaker brands that we're all used to and probably wearing right now. But then there was this mass education that happened that Raf Simons, Adidas, Nike, Comme des Garçons, and now this massive consumer was aware of the fact that fashion houses can make sneakers. And so I reached out to them, a few days later, Donatella herself responded. She said she loved my ideas. Perfect timing for that photo. She said that she wanted me to"
+            },
+            {
+              "matched_term": "instead",
+              "text": "Pollex clog, based on your own fingerprint mold. And what I love is that Crocs reach out to you asking if they could send you some shoes. And you said, \"How about we actually collaborate instead?\" And they said yes. So once they said yes, how did you decide to do this specifically? SB: It was a great honor because they first wanted to collaborate. And then when I sent them what I didn’t know was a kid’s Croc shoe, they let me know that they loved that I was thinking of the form of the Croc, which a lot"
+            }
+          ]
+        },
+        {
+          "ref": "#30",
+          "status": "available",
+          "video_id": "wqOY7Y0w7pA",
+          "title": "How I Turn Joy into Art | Yinka Ilori | TED",
+          "url": "https://www.youtube.com/watch?v=wqOY7Y0w7pA",
+          "word_count": 1022,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/030-wqOY7Y0w7pA.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/030-wqOY7Y0w7pA.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "but",
+              "text": "me joy?\" Looking back now, I realize this question has followed me my whole life. While joy was always present in my life and always around me, I just didn't have the language for it. But what I did have was a world rich of color, symbols, dreams and affirmation. I grew up in London in 27 Ashby House, on a council estate. I was raised by Nigerian parents who moved to London in the 1980s. My mother from Ondo State, coined the Sunshine State. It's known for its majestic rock landscapes and warm weather. The people there are warm,"
+            },
+            {
+              "matched_term": "before",
+              "text": "place known for its nature and famous for its warm and cold springs, a place called Ikogosi, and known as the Fountain of Knowledge because of its reputation for academic excellence and intellectual achievement. Even before I'd been to these places, I could picture myself growing up there, being raised there. But I was born and raised in London. I felt a strong sense of connection and a strong sense of belonging to a place I'd call home. In the UK, my beloved mother did many things. She bought and sold Swiss voile lace. She catered for weddings and birthdays."
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "ted-005",
+      "candidate_pattern": "story_to_principle_transition",
+      "review_prompt": "Does a personal or observed story transition into a transferable principle, and is the transition explicit?",
+      "references": [
+        {
+          "ref": "#11",
+          "status": "available",
+          "video_id": "rUhllpnYWR8",
+          "title": "How to Make Learning Impossibly Fun | Mark Rober | TED",
+          "url": "https://www.youtube.com/watch?v=rUhllpnYWR8",
+          "word_count": 7705,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/011-rUhllpnYWR8.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/011-rUhllpnYWR8.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "so",
+              "text": "Hello, TED members. I am Whitney Pennington Rogers. I'm a curator here at TED and I am so excited to be here with you today for this live member event. All right. Now, I want to think for a moment about your favorite teacher. Maybe some of you are students right now and you don't have to pull back into the far reaches of your memory like I do, but I want you to think about this person and the things that"
+            },
+            {
+              "matched_term": "because",
+              "text": "rule. And when it comes to science, maybe even more so. But what if that didn't have to be the case? What if science could be the class that kids cannot wait to get to because it makes them laugh and beg to try everything out there for themselves? Our guest today has spent a lot of time trying to make science lessons just like that. He's a former NASA engineer, a YouTube phenom with tens of millions of subscribers and is undoubtedly one of the most beloved science communicators of our time. There is no question about this. Earlier"
+            }
+          ]
+        },
+        {
+          "ref": "#25",
+          "status": "available",
+          "video_id": "fd_TsNUpPWw",
+          "title": "How Satellites and AI Can Protect the Planet | Robbie Schingler | TED",
+          "url": "https://www.youtube.com/watch?v=fd_TsNUpPWw",
+          "word_count": 1743,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/025-fd_TsNUpPWw.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/025-fd_TsNUpPWw.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "so",
+              "text": "need it to speak the language of the planetary systems to which we're all embedded. It must understand our infrastructure and human activity, but also the impacts on the water, the trees and the soil. So let me show you what this looks like. So when you combine all of this Earth data with AI and large language models, we are allowing for global change to happen in near real time. You can see change in just about everywhere over vast distances and time. It's helping to close that gap between awareness and action. A farmer can understand how healthy"
+            },
+            {
+              "matched_term": "because",
+              "text": "and the same possibility, at least in theory, of seeing clearly enough to respond together. And with that shared view of reality, we’re no longer arguing if something is there but deciding what to do because it is there. In the days that followed that Valentine's Day bridge, Western nations coordinated for severe sanctions against Russia and unified in their support for Ukraine. But for months beforehand, we saw an increase of military activity and tanks amassing at the border. The signals were there. Perhaps the allies stopped the worst from happening, but they didn't stop the war. And I"
+            }
+          ]
+        },
+        {
+          "ref": "#38",
+          "status": "available",
+          "video_id": "-Z-Miko0nrQ",
+          "title": "How I Built a Machine That Feeds Millions | Felix Brooks-church | TED",
+          "url": "https://www.youtube.com/watch?v=-Z-Miko0nrQ",
+          "word_count": 1889,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/038--Z-Miko0nrQ.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/038--Z-Miko0nrQ.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "so",
+              "text": "these ingredients. Salt, edible oil, flour. No matter where you live in the world, you're cooking with that. That's the foundation of everything we eat. That's why it's called staple foods, and that's why they're so important. If you want to get nutrients into people, the most efficient way isn't to change the food that they eat, but instead to improve the daily food that they already rely on. That's the idea, and that's the idea behind food fortification, something I know a lot about. We probably all benefited from this already this morning and didn't even realize it. If"
+            },
+            {
+              "matched_term": "because",
+              "text": "banging out devices until I had something that could be installed. I covered hundreds of mills across East Africa, literally dragging that machine across borders, meeting hundreds of millers, and learning from them and co-designing. Because we knew if it could work here, in a village in Nepal, in a village in Malawi, in Tanzania, in Kenya, it could work anywhere. And by 2015, we had our machine. We commercialized it. We called it the Sanku Dosifier because it doses. And it's super simple, super lightweight, attaches to that grain mill, that's the same one I showed earlier, and automates"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    },
+    {
+      "item_id": "ted-006",
+      "candidate_pattern": "audience_orientation_and_close",
+      "review_prompt": "Does the ending orient the audience toward a specific implication, action, or remembered image?",
+      "references": [
+        {
+          "ref": "#8",
+          "status": "available",
+          "video_id": "u3qlbHrB7KI",
+          "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+          "url": "https://www.youtube.com/watch?v=u3qlbHrB7KI",
+          "word_count": 1347,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/008-u3qlbHrB7KI.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/008-u3qlbHrB7KI.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "you",
+              "text": "be to build something brilliant that actually reflects the reality that African children are living in today. At the organization I lead, it’s called “Imagine Worldwide,” we are doing something different. Children like Chisomo, who you will hear about shortly, are now able to experience something else. Chisomo is a typical seven-year-old girl living in rural Malawi with her younger sister and parents who are farmers. It's a pretty happy existence, even without iPhones and ketchup. (Laughter) Every morning, she walks through the green maize fields under the glory of the African sun. But at school, she shares a class"
+            },
+            {
+              "matched_term": "we",
+              "text": "loud: It's actually never going to work. To meet ideal student-to-teacher ratios, sub-Saharan Africa needs 15 million more teachers at a staggering cost of almost $40 billion a year. It's just nuts. So why are we still holding on to a playbook that cannot possibly deliver at the cost and urgency and scale required? Well, it's because we have a weird bias. Not that kind of weird, but a WEIRD bias -- the idea, the assumption that solutions that work in countries that are Western, educated, industrialized, rich and democratic should somehow work everywhere else in the world. (Applause) The"
+            }
+          ]
+        },
+        {
+          "ref": "#17",
+          "status": "available",
+          "video_id": "rIRon8zJyps",
+          "title": "How Doodling Unlocks Your Imagination | Joe Whale | TED",
+          "url": "https://www.youtube.com/watch?v=rIRon8zJyps",
+          "word_count": 690,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/017-rIRon8zJyps.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/017-rIRon8zJyps.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "you",
+              "text": "prompts into AI, make anything and feel creative. But I believe there will always be value in letting our imaginations be the true driver of our creations. Because imagination is like a muscle. The more you use it, the stronger it becomes. But if you don't use it, it gets weaker and your body will rely on something else to do it for you. Creativity is not encouraged today. It's not given value, so it's easy to turn to the tools right in front of us and get an instant result. But you don't learn by going straight to the"
+            },
+            {
+              "matched_term": "we",
+              "text": "direction flows through the creation. You're letting yourself literally wander wherever you wish. The freedom to go anywhere. Because that first step is coming from you and not something else. What I can see is we'll be reliant to replace something we all need and all have. We'll be handing it off just because it's easier. And that worries me because for everyone growing up around AI, they'll see it as normal to sacrifice their unique perspective, becoming more and more shaped, even defined, by what they can't control. I'm just going to show you something visually now. I often"
+            }
+          ]
+        },
+        {
+          "ref": "#40",
+          "status": "available",
+          "video_id": "EUKbVj2iiSE",
+          "title": "Inside Dubai’s Mission to Build the City of the Future | His Excellency Khalfan Belhoul | TED",
+          "url": "https://www.youtube.com/watch?v=EUKbVj2iiSE",
+          "word_count": 2081,
+          "clean_transcript": "raw-material/youtube/transcripts/ted-wave-2-starter/clean/040-EUKbVj2iiSE.txt",
+          "cue_file": "raw-material/youtube/transcripts/ted-wave-2-starter/cues/040-EUKbVj2iiSE.json",
+          "bounded_retrieval_excerpts": [
+            {
+              "matched_term": "you",
+              "text": "Whitney Pennington Rodgers: You run the Dubai Future Foundation. For those of us who are not initiated, what is a future foundation? His Excellency Khalfan Belhoul: So imagine you run a lab, and the owner of the lab comes to you and says, \"You can do whatever you want, and you have my full backing and you have a solid amount of financial resources. If rules are an"
+            },
+            {
+              "matched_term": "we",
+              "text": "owner of the lab comes to you and says, \"You can do whatever you want, and you have my full backing and you have a solid amount of financial resources. If rules are an issue, we can change them for you. We can connect you with any relevant decision maker to break those rules. We will not be upset if you make mistakes, and we will support you on every winning bet you make.\" And in summary, will you take that? WPR: I would take that deal. HEKB: OK, so the owner of the lab is Sheikh Mohammad bin Rashid,"
+            }
+          ]
+        }
+      ],
+      "review_status": "unreviewed",
+      "claim_boundary": "Excerpts are retrieval aids. Full linked transcript context and, where relevant, audio/video review are required; no transfer or effectiveness claim is established."
+    }
+  ]
+}

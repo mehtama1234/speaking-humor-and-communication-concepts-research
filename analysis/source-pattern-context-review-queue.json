@@ -1,0 +1,4545 @@
+{
+  "schema_version": "1.0",
+  "queue_id": "source-pattern-context-review-queue",
+  "generated_from": [
+    "analysis/source-to-presentation-pattern-leads.json"
+  ],
+  "status": "unreviewed_contextual_review_queue",
+  "claim_boundary": "This queue selects source-diverse review leads. It contains no reviewer judgment and does not validate any pattern.",
+  "selection_rule": "Select up to 2 distinct corpora per pattern, prioritizing distinct matched-term count.",
+  "pattern_count_with_leads": 46,
+  "item_count": 88,
+  "review_status_counts": {
+    "unreviewed": 88
+  },
+  "items": [
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Introduce an anchor, develop the reasoning, and return with changed application.",
+      "category": "core_theme",
+      "matched_terms": [
+        "analogy",
+        "metaphor",
+        "repetition"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "metaphor"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "metaphor"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "analogy"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "metaphor",
+            "repetition"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-analogy_metaphor_and_callback-01",
+      "pattern_id": "analogy_metaphor_and_callback",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "name the source image \u2192 map the relevant relation \u2192 state where the analogy stops",
+      "category": "structural_relation",
+      "matched_terms": [
+        "analogy",
+        "map",
+        "name",
+        "relevant",
+        "source"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "source"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "relevant"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "analogy",
+            "source"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "map",
+            "source"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "map"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-analogy_transfer-01",
+      "pattern_id": "analogy_transfer",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "jefferson-fisher-wave-1",
+      "source": "Jefferson Fisher",
+      "candidate_form": "name the source image \u2192 map the relevant relation \u2192 state where the analogy stops",
+      "category": "structural_relation",
+      "matched_terms": [
+        "map",
+        "source",
+        "state",
+        "stops"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "source",
+            "stops"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "stops"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+          "matched_terms": [
+            "stops"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-inventory.md",
+          "matched_terms": [
+            "map",
+            "source",
+            "stops"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+          "matched_terms": [
+            "map",
+            "state",
+            "stops"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-analogy_transfer-02",
+      "pattern_id": "analogy_transfer",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Make the next turn specific, answerable, and safe to decline.",
+      "category": "core_theme",
+      "matched_terms": [
+        "ask",
+        "call",
+        "invite",
+        "question",
+        "release"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "ask",
+            "call",
+            "invite",
+            "question",
+            "release"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "release"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "release"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "ask",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "release"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-audience_invitation_and_next_turn-01",
+      "pattern_id": "audience_invitation_and_next_turn",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "Make the next turn specific, answerable, and safe to decline.",
+      "category": "core_theme",
+      "matched_terms": [
+        "ask",
+        "question",
+        "release"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "release"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-audience_invitation_and_next_turn-02",
+      "pattern_id": "audience_invitation_and_next_turn",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "locate who is being addressed \u2192 change the level of explanation \u2192 make the new role explicit",
+      "category": "structural_relation",
+      "matched_terms": [
+        "being",
+        "change",
+        "explanation",
+        "explicit",
+        "new",
+        "role",
+        "who"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "being",
+            "change",
+            "explicit",
+            "who"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "being",
+            "change",
+            "new",
+            "who"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "being",
+            "change",
+            "explanation",
+            "explicit",
+            "role",
+            "who"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "being",
+            "change",
+            "who"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "being",
+            "change",
+            "who"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-audience_shift-01",
+      "pattern_id": "audience_shift",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "locate who is being addressed \u2192 change the level of explanation \u2192 make the new role explicit",
+      "category": "structural_relation",
+      "matched_terms": [
+        "being",
+        "explanation",
+        "explicit",
+        "level",
+        "new",
+        "role",
+        "who"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "being",
+            "explicit",
+            "new",
+            "role"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "being",
+            "explanation",
+            "new"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "being",
+            "new",
+            "role",
+            "who"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+          "matched_terms": [
+            "being",
+            "new"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "being",
+            "explicit",
+            "level",
+            "new",
+            "role"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-audience_shift-02",
+      "pattern_id": "audience_shift",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "ultraspeaking-wave-1",
+      "source": "Ultraspeaking",
+      "candidate_form": "separate performed form from lived claim \u2192 explain the choice \u2192 mark what remains constructed",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "authenticity",
+        "performance",
+        "script",
+        "versus"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "script",
+            "versus"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "script"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+          "matched_terms": [
+            "authenticity",
+            "performance",
+            "script",
+            "versus"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+          "matched_terms": [
+            "script"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+          "matched_terms": [
+            "script",
+            "versus"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-authenticity_vs_performance-01",
+      "pattern_id": "authenticity_vs_performance",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "separate performed form from lived claim \u2192 explain the choice \u2192 mark what remains constructed",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "inspiration",
+        "performance",
+        "versus"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "inspiration",
+            "performance"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "versus"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-authenticity_vs_performance-02",
+      "pattern_id": "authenticity_vs_performance",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "name the authority or role \u2192 show its responsibility \u2192 return agency to the people affected",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "authority",
+        "leadership",
+        "role",
+        "status"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "authority",
+            "leadership",
+            "role",
+            "status"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "authority"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "authority",
+            "leadership",
+            "role",
+            "status"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "leadership",
+            "role"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-authority_to_service-01",
+      "pattern_id": "authority_to_service",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "name the authority or role \u2192 show its responsibility \u2192 return agency to the people affected",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "leadership",
+        "role",
+        "status"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "leadership",
+            "status"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "leadership",
+            "role"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "leadership"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-authority_to_service-02",
+      "pattern_id": "authority_to_service",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "Connect claim to mechanism, and distinguish explanation from proof.",
+      "category": "core_theme",
+      "matched_terms": [
+        "because",
+        "how",
+        "process",
+        "why"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "because",
+            "how",
+            "process",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "how",
+            "process",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "how",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+          "matched_terms": [
+            "how"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "how"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-cause_and_mechanism-01",
+      "pattern_id": "cause_and_mechanism",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "jefferson-fisher-wave-1",
+      "source": "Jefferson Fisher",
+      "candidate_form": "Connect claim to mechanism, and distinguish explanation from proof.",
+      "category": "core_theme",
+      "matched_terms": [
+        "because",
+        "how",
+        "pathway",
+        "why"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "because",
+            "how",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "how",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+          "matched_terms": [
+            "how",
+            "pathway",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-inventory.md",
+          "matched_terms": [
+            "how",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+          "matched_terms": [
+            "how",
+            "why"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-cause_and_mechanism-02",
+      "pattern_id": "cause_and_mechanism",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "Make the earlier frame and the changed frame visible without a false binary.",
+      "category": "core_theme",
+      "matched_terms": [
+        "but",
+        "contrast",
+        "instead",
+        "rather",
+        "reverse",
+        "than"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "but",
+            "contrast",
+            "rather",
+            "than"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "but",
+            "instead",
+            "reverse"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+          "matched_terms": [
+            "contrast"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+          "matched_terms": [
+            "but",
+            "instead",
+            "than"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-contrast_and_reversal-01",
+      "pattern_id": "contrast_and_reversal",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Make the earlier frame and the changed frame visible without a false binary.",
+      "category": "core_theme",
+      "matched_terms": [
+        "but",
+        "contrast",
+        "instead",
+        "rather",
+        "than"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "instead",
+            "rather",
+            "than"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "instead",
+            "rather",
+            "than"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "but",
+            "contrast",
+            "rather",
+            "than"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "than"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "instead",
+            "rather",
+            "than"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-contrast_and_reversal-02",
+      "pattern_id": "contrast_and_reversal",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "show the process and choices \u2192 explain the constraint \u2192 separate craft from the final outcome",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "craft",
+        "versus",
+        "writing"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "craft"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "writing"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "versus"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-craft_process_over_outcome-01",
+      "pattern_id": "craft_process_over_outcome",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "show the process and choices \u2192 explain the constraint \u2192 separate craft from the final outcome",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "craft",
+        "versus",
+        "writing"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "craft",
+            "versus"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+          "matched_terms": [
+            "writing"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+          "matched_terms": [
+            "versus"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-craft_process_over_outcome-02",
+      "pattern_id": "craft_process_over_outcome",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Name contributors, connect credit to the result, and assign agency precisely.",
+      "category": "core_theme",
+      "matched_terms": [
+        "partner",
+        "support",
+        "team"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "partner"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "support",
+            "team"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "support"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-credit_and_collective_agency-01",
+      "pattern_id": "credit_and_collective_agency",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "Name contributors, connect credit to the result, and assign agency precisely.",
+      "category": "core_theme",
+      "matched_terms": [
+        "contribution",
+        "support",
+        "team"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "support",
+            "team"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "contribution",
+            "team"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "support",
+            "team"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+          "matched_terms": [
+            "team"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "team"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-credit_and_collective_agency-02",
+      "pattern_id": "credit_and_collective_agency",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "receive or name praise \u2192 widen the causal chain \u2192 identify the people and conditions that made it possible",
+      "category": "structural_relation",
+      "matched_terms": [
+        "made",
+        "people",
+        "possible"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "made",
+            "people"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "possible"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+          "matched_terms": [
+            "people"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+          "matched_terms": [
+            "people"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+          "matched_terms": [
+            "people"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-credit_redirection-01",
+      "pattern_id": "credit_redirection",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "receive or name praise \u2192 widen the causal chain \u2192 identify the people and conditions that made it possible",
+      "category": "structural_relation",
+      "matched_terms": [
+        "made",
+        "name"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "made"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-credit_redirection-02",
+      "pattern_id": "credit_redirection",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "ultraspeaking-wave-1",
+      "source": "Ultraspeaking",
+      "candidate_form": "Give a plain definition, example, and boundary.",
+      "category": "core_theme",
+      "matched_terms": [
+        "define",
+        "distinction",
+        "explain",
+        "meaning"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "define"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "explain",
+            "meaning"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+          "matched_terms": [
+            "distinction"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-definition_and_explanation-01",
+      "pattern_id": "definition_and_explanation",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "vinh-giang-wave-1",
+      "source": "Vinh Giang",
+      "candidate_form": "Give a plain definition, example, and boundary.",
+      "category": "core_theme",
+      "matched_terms": [
+        "distinction",
+        "explain",
+        "meaning"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "distinction",
+            "explain"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "explain"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+          "matched_terms": [
+            "explain",
+            "meaning"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+          "matched_terms": [
+            "explain"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-theme-map.md",
+          "matched_terms": [
+            "explain"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-definition_and_explanation-02",
+      "pattern_id": "definition_and_explanation",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "let the difficulty remain visible \u2192 identify a live possibility \u2192 name the next bounded action",
+      "category": "structural_relation",
+      "matched_terms": [
+        "let",
+        "live",
+        "name",
+        "next",
+        "visible"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "let",
+            "live",
+            "next",
+            "visible"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "name",
+            "next"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-despair_to_hope-01",
+      "pattern_id": "despair_to_hope",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "let the difficulty remain visible \u2192 identify a live possibility \u2192 name the next bounded action",
+      "category": "structural_relation",
+      "matched_terms": [
+        "let",
+        "live",
+        "next",
+        "visible"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "let",
+            "live",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "let",
+            "next",
+            "visible"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "visible"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+          "matched_terms": [
+            "next"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-despair_to_hope-02",
+      "pattern_id": "despair_to_hope",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "name the difficulty \u2192 show the response or support \u2192 identify the capability being built",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "pressure",
+        "under"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "pressure",
+            "under"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-difficulty_to_capability-01",
+      "pattern_id": "difficulty_to_capability",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "name the difficulty \u2192 show the response or support \u2192 identify the capability being built",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "pressure",
+        "under"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "under"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "under"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "pressure",
+            "under"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-difficulty_to_capability-02",
+      "pattern_id": "difficulty_to_capability",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "name the felt difficulty \u2192 choose a controllable response \u2192 continue without pretending the feeling vanished",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "craft",
+        "stage"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "craft"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "stage"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "craft",
+            "stage"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "craft"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "craft"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-emotion_to_composure-01",
+      "pattern_id": "emotion_to_composure",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "name the felt difficulty \u2192 choose a controllable response \u2192 continue without pretending the feeling vanished",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "craft",
+        "stage"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "craft",
+            "stage"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "stage"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-emotion_to_composure-02",
+      "pattern_id": "emotion_to_composure",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "state the claim \u2192 name the missing evidence \u2192 specify the next test",
+      "category": "structural_relation",
+      "matched_terms": [
+        "evidence",
+        "name",
+        "next",
+        "test"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "next",
+            "test"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "test"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "evidence"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "evidence",
+            "next"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-evidence_gap-01",
+      "pattern_id": "evidence_gap",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "state the claim \u2192 name the missing evidence \u2192 specify the next test",
+      "category": "structural_relation",
+      "matched_terms": [
+        "claim",
+        "name",
+        "next",
+        "test"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "claim",
+            "name",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "next",
+            "test"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "name",
+            "next"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-evidence_gap-02",
+      "pattern_id": "evidence_gap",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "name what the audience expects \u2192 show the observed turn \u2192 explain the consequence",
+      "category": "structural_relation",
+      "matched_terms": [
+        "explain",
+        "name",
+        "show"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "show"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "explain"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-expectation_reversal-01",
+      "pattern_id": "expectation_reversal",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "name what the audience expects \u2192 show the observed turn \u2192 explain the consequence",
+      "category": "structural_relation",
+      "matched_terms": [
+        "name",
+        "turn"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "turn"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "turn"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "name",
+            "turn"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-expectation_reversal-02",
+      "pattern_id": "expectation_reversal",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "vinh-giang-wave-1",
+      "source": "Vinh Giang",
+      "candidate_form": "state the failed outcome \u2192 distinguish it from identity \u2192 choose the next experiment",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "alternative",
+        "career"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "career"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "alternative"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-failure_to_reframe-01",
+      "pattern_id": "failure_to_reframe",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "start with a familiar setting \u2192 widen the scope carefully \u2192 state where the analogy stops",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "connection",
+        "settings",
+        "shared"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "connection",
+            "settings",
+            "shared"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "connection",
+            "settings"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "connection",
+            "settings"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "connection",
+            "shared"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-familiarity_to_scope-01",
+      "pattern_id": "familiarity_to_scope",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "think-fast-talk-smart-wave-1",
+      "source": "Think Fast Talk Smart",
+      "candidate_form": "start with a familiar setting \u2192 widen the scope carefully \u2192 state where the analogy stops",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "connection",
+        "settings",
+        "shared"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "connection",
+            "settings",
+            "shared"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "connection",
+            "shared"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-session-briefs.md",
+          "matched_terms": [
+            "connection"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+          "matched_terms": [
+            "connection"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+          "matched_terms": [
+            "connection",
+            "shared"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-familiarity_to_scope-02",
+      "pattern_id": "familiarity_to_scope",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "ultraspeaking-wave-1",
+      "source": "Ultraspeaking",
+      "candidate_form": "Turn aspiration into a bounded next action and name its limit.",
+      "category": "core_theme",
+      "matched_terms": [
+        "build",
+        "change",
+        "create",
+        "future",
+        "mission",
+        "next"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "build",
+            "create",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "build",
+            "create",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+          "matched_terms": [
+            "change",
+            "future",
+            "mission",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+          "matched_terms": [
+            "change",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+          "matched_terms": [
+            "build",
+            "create"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-future_hope_and_action-01",
+      "pattern_id": "future_hope_and_action",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "Turn aspiration into a bounded next action and name its limit.",
+      "category": "core_theme",
+      "matched_terms": [
+        "action",
+        "build",
+        "change",
+        "create",
+        "next"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "build",
+            "change",
+            "next"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "action",
+            "change",
+            "create"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+          "matched_terms": [
+            "create"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-future_hope_and_action-02",
+      "pattern_id": "future_hope_and_action",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "state what you cannot control \u2192 identify the decision owner \u2192 offer the information or support you can provide",
+      "category": "structural_relation",
+      "matched_terms": [
+        "cannot",
+        "control",
+        "information",
+        "offer",
+        "support",
+        "you"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "control",
+            "information",
+            "support",
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "cannot",
+            "offer",
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "control",
+            "support",
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-inventory.md",
+          "matched_terms": [
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "control",
+            "information",
+            "you"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-hands_off-01",
+      "pattern_id": "hands_off",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "state what you cannot control \u2192 identify the decision owner \u2192 offer the information or support you can provide",
+      "category": "structural_relation",
+      "matched_terms": [
+        "control",
+        "information",
+        "offer",
+        "support",
+        "you"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "information",
+            "offer",
+            "support",
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "control",
+            "support",
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "you"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "you"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-hands_off-02",
+      "pattern_id": "hands_off",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Use lightness to open room, then return clearly to the substantive point.",
+      "category": "core_theme",
+      "matched_terms": [
+        "comic",
+        "direct",
+        "humor",
+        "laugh"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "comic",
+            "humor",
+            "laugh"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "comic",
+            "humor"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "comic",
+            "direct",
+            "humor",
+            "laugh"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "comic",
+            "humor",
+            "laugh"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "comic",
+            "humor",
+            "laugh"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-humor_rapport_and_self_undercut-01",
+      "pattern_id": "humor_rapport_and_self_undercut",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "toastmasters-wave-1",
+      "source": "Toastmasters International",
+      "candidate_form": "Use lightness to open room, then return clearly to the substantive point.",
+      "category": "core_theme",
+      "matched_terms": [
+        "direct",
+        "humor",
+        "joke",
+        "laugh"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "direct",
+            "humor"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "humor",
+            "joke",
+            "laugh"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-session-briefs.md",
+          "matched_terms": [
+            "direct",
+            "humor"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-session-inventory.md",
+          "matched_terms": [
+            "humor"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-theme-map.md",
+          "matched_terms": [
+            "humor"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-humor_rapport_and_self_undercut-02",
+      "pattern_id": "humor_rapport_and_self_undercut",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Make identity or status relevant to the claim without using it as proof.",
+      "category": "core_theme",
+      "matched_terms": [
+        "class",
+        "identity",
+        "name",
+        "role",
+        "status"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "identity",
+            "name",
+            "status"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "class"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "role"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "name"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-identity_status_and_belonging-01",
+      "pattern_id": "identity_status_and_belonging",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Make identity or status relevant to the claim without using it as proof.",
+      "category": "core_theme",
+      "matched_terms": [
+        "name",
+        "role",
+        "status"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "status"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "role"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-identity_status_and_belonging-02",
+      "pattern_id": "identity_status_and_belonging",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Move from individual experience to the system that shapes the option set.",
+      "category": "core_theme",
+      "matched_terms": [
+        "architecture",
+        "system"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "architecture",
+            "system"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-institution_system_and_policy-01",
+      "pattern_id": "institution_system_and_policy",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "Move from individual experience to the system that shapes the option set.",
+      "category": "core_theme",
+      "matched_terms": [
+        "architecture",
+        "system"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "architecture",
+            "system"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-institution_system_and_policy-02",
+      "pattern_id": "institution_system_and_policy",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "show the familiar measure \u2192 expose what it misses \u2192 propose the human-relevant measure",
+      "category": "structural_relation",
+      "matched_terms": [
+        "familiar",
+        "show"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "show"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "familiar"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-metric_revaluation-01",
+      "pattern_id": "metric_revaluation",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "Show what the metric captures, what it misses, and why the measure matters.",
+      "category": "core_theme",
+      "matched_terms": [
+        "checklist",
+        "worth"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "worth"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "worth"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+          "matched_terms": [
+            "checklist",
+            "worth"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-inventory.md",
+          "matched_terms": [
+            "worth"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+          "matched_terms": [
+            "worth"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-metrics_and_revaluation-01",
+      "pattern_id": "metrics_and_revaluation",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "move from a disputed judgment \u2192 mark the human significance \u2192 avoid treating tribute as proof",
+      "category": "structural_relation",
+      "matched_terms": [
+        "avoid",
+        "mark",
+        "move",
+        "treating"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "move"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "avoid",
+            "mark"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "move",
+            "treating"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "move"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-moral_to_memorial-01",
+      "pattern_id": "moral_to_memorial",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "move from a disputed judgment \u2192 mark the human significance \u2192 avoid treating tribute as proof",
+      "category": "structural_relation",
+      "matched_terms": [
+        "avoid",
+        "mark",
+        "move",
+        "proof"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "avoid",
+            "proof"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "mark",
+            "move"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+          "matched_terms": [
+            "proof"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+          "matched_terms": [
+            "move"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-moral_to_memorial-02",
+      "pattern_id": "moral_to_memorial",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "jefferson-fisher-wave-1",
+      "source": "Jefferson Fisher",
+      "candidate_form": "State the objection fairly, answer it, and preserve the remaining uncertainty.",
+      "category": "core_theme",
+      "matched_terms": [
+        "criticism",
+        "objection",
+        "response"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "criticism",
+            "objection",
+            "response"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "response"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+          "matched_terms": [
+            "criticism",
+            "objection",
+            "response"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-inventory.md",
+          "matched_terms": [
+            "criticism"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+          "matched_terms": [
+            "criticism",
+            "response"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-objection_and_response-01",
+      "pattern_id": "objection_and_response",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "State the objection fairly, answer it, and preserve the remaining uncertainty.",
+      "category": "core_theme",
+      "matched_terms": [
+        "answer",
+        "response"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "answer"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "answer",
+            "response"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "answer"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-objection_and_response-02",
+      "pattern_id": "objection_and_response",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "name the need \u2192 offer a support choice \u2192 preserve agency and an opt-out",
+      "category": "structural_relation",
+      "matched_terms": [
+        "name",
+        "need",
+        "offer",
+        "support"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "offer",
+            "support"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "need",
+            "support"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "name"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-optional_support-01",
+      "pattern_id": "optional_support",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "name the need \u2192 offer a support choice \u2192 preserve agency and an opt-out",
+      "category": "structural_relation",
+      "matched_terms": [
+        "need",
+        "offer",
+        "preserve",
+        "support"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "need",
+            "preserve",
+            "support"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "offer"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "support"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-optional_support-02",
+      "pattern_id": "optional_support",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Orient the listener before detail: situation \u2192 stake \u2192 route.",
+      "category": "core_theme",
+      "matched_terms": [
+        "opening",
+        "route",
+        "structure",
+        "welcome"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "route",
+            "structure",
+            "welcome"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "opening",
+            "structure"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "structure",
+            "welcome"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "structure",
+            "welcome"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "welcome"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-orientation_and_roadmap-01",
+      "pattern_id": "orientation_and_roadmap",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "toastmasters-wave-1",
+      "source": "Toastmasters International",
+      "candidate_form": "Orient the listener before detail: situation \u2192 stake \u2192 route.",
+      "category": "core_theme",
+      "matched_terms": [
+        "introduction",
+        "opening",
+        "route",
+        "structure"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "structure"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "introduction",
+            "route"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-session-briefs.md",
+          "matched_terms": [
+            "opening"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-theme-map.md",
+          "matched_terms": [
+            "opening",
+            "structure"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-orientation_and_roadmap-02",
+      "pattern_id": "orientation_and_roadmap",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "acknowledge the starting premise \u2192 identify the missing distinction \u2192 answer the corrected question",
+      "category": "structural_relation",
+      "matched_terms": [
+        "answer",
+        "distinction",
+        "question",
+        "starting"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "answer"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "answer",
+            "question",
+            "starting"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "distinction",
+            "starting"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-theme-map.md",
+          "matched_terms": [
+            "answer"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-premise_correction-01",
+      "pattern_id": "premise_correction",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "vinh-giang-wave-1",
+      "source": "Vinh Giang",
+      "candidate_form": "acknowledge the starting premise \u2192 identify the missing distinction \u2192 answer the corrected question",
+      "category": "structural_relation",
+      "matched_terms": [
+        "answer",
+        "distinction",
+        "identify",
+        "question"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "answer",
+            "distinction",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "answer",
+            "identify",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+          "matched_terms": [
+            "answer",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-session-inventory.md",
+          "matched_terms": [
+            "answer",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-theme-map.md",
+          "matched_terms": [
+            "answer",
+            "identify",
+            "question"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-premise_correction-02",
+      "pattern_id": "premise_correction",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "think-fast-talk-smart-wave-1",
+      "source": "Think Fast Talk Smart",
+      "candidate_form": "state why the exchange matters \u2192 select one concrete example \u2192 return to the purpose",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "attention",
+        "examples",
+        "purpose",
+        "selection"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "attention",
+            "purpose",
+            "selection"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-session-inventory.md",
+          "matched_terms": [
+            "examples"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-purpose_attention_example-01",
+      "pattern_id": "purpose_attention_example",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "state why the exchange matters \u2192 select one concrete example \u2192 return to the purpose",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "attention",
+        "examples",
+        "purpose"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "attention"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "attention",
+            "purpose"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+          "matched_terms": [
+            "attention",
+            "examples"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-inventory.md",
+          "matched_terms": [
+            "examples"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+          "matched_terms": [
+            "attention",
+            "purpose"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-purpose_attention_example-02",
+      "pattern_id": "purpose_attention_example",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Name the question, answer its useful version, and show what changed.",
+      "category": "core_theme",
+      "matched_terms": [
+        "ask",
+        "matters",
+        "prompt",
+        "question",
+        "useful"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "ask",
+            "matters",
+            "question",
+            "useful"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "ask",
+            "matters",
+            "prompt",
+            "question",
+            "useful"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "ask",
+            "matters",
+            "question",
+            "useful"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "ask",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "ask",
+            "question"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-question_and_reframe-01",
+      "pattern_id": "question_and_reframe",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "toastmasters-wave-1",
+      "source": "Toastmasters International",
+      "candidate_form": "Name the question, answer its useful version, and show what changed.",
+      "category": "core_theme",
+      "matched_terms": [
+        "ask",
+        "matters",
+        "prompt",
+        "question",
+        "useful"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "ask",
+            "matters",
+            "prompt",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-session-briefs.md",
+          "matched_terms": [
+            "matters",
+            "useful"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-question_and_reframe-02",
+      "pattern_id": "question_and_reframe",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "repeat the surface question \u2192 explain why it is insufficient \u2192 ask the decision-relevant question",
+      "category": "structural_relation",
+      "matched_terms": [
+        "ask",
+        "question",
+        "repeat",
+        "surface",
+        "why"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "surface"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "repeat",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "ask",
+            "question",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "ask",
+            "question"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "ask",
+            "question"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-question_redefinition-01",
+      "pattern_id": "question_redefinition",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "ultraspeaking-wave-1",
+      "source": "Ultraspeaking",
+      "candidate_form": "repeat the surface question \u2192 explain why it is insufficient \u2192 ask the decision-relevant question",
+      "category": "structural_relation",
+      "matched_terms": [
+        "ask",
+        "explain",
+        "repeat",
+        "surface",
+        "why"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/ultraspeaking-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "ask",
+            "explain",
+            "repeat"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-briefs.md",
+          "matched_terms": [
+            "surface",
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-session-inventory.md",
+          "matched_terms": [
+            "why"
+          ]
+        },
+        {
+          "file": "analysis/ultraspeaking-wave-1-theme-map.md",
+          "matched_terms": [
+            "why"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-question_redefinition-02",
+      "pattern_id": "question_redefinition",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "share an observation \u2192 invite the other person\u2019s correction \u2192 update the shared account",
+      "category": "structural_relation",
+      "matched_terms": [
+        "invite",
+        "person",
+        "share",
+        "shared"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "invite",
+            "person",
+            "shared"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "share"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "shared"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-reciprocal_learning-01",
+      "pattern_id": "reciprocal_learning",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "share an observation \u2192 invite the other person\u2019s correction \u2192 update the shared account",
+      "category": "structural_relation",
+      "matched_terms": [
+        "other",
+        "person",
+        "shared"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "other",
+            "person"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "other",
+            "person"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+          "matched_terms": [
+            "other",
+            "person",
+            "shared"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-reciprocal_learning-02",
+      "pattern_id": "reciprocal_learning",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "signal the shift in audience or tone \u2192 keep the underlying point stable \u2192 return to the shared frame",
+      "category": "structural_relation",
+      "matched_terms": [
+        "keep",
+        "point",
+        "shared",
+        "shift",
+        "signal",
+        "tone"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "signal"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "keep",
+            "point",
+            "signal",
+            "tone"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+          "matched_terms": [
+            "shared",
+            "shift",
+            "signal"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+          "matched_terms": [
+            "signal"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-register_shift-01",
+      "pattern_id": "register_shift",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "signal the shift in audience or tone \u2192 keep the underlying point stable \u2192 return to the shared frame",
+      "category": "structural_relation",
+      "matched_terms": [
+        "keep",
+        "point",
+        "shared",
+        "shift",
+        "signal"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "keep",
+            "shared",
+            "shift",
+            "signal"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "shift"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "keep",
+            "point"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "keep",
+            "point"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "keep",
+            "shared",
+            "shift"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-register_shift-02",
+      "pattern_id": "register_shift",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Name the risk or failure mode before asking for trust or action.",
+      "category": "core_theme",
+      "matched_terms": [
+        "failure",
+        "risk"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "failure"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "failure"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "risk"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-risk_safety_and_limit-01",
+      "pattern_id": "risk_safety_and_limit",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Name the risk or failure mode before asking for trust or action.",
+      "category": "core_theme",
+      "matched_terms": [
+        "failure",
+        "safety"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "safety"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "safety"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "failure"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "safety"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-risk_safety_and_limit-02",
+      "pattern_id": "risk_safety_and_limit",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "vinh-giang-wave-1",
+      "source": "Vinh Giang",
+      "candidate_form": "identify where the claim was too broad \u2192 narrow it \u2192 preserve the valid core",
+      "category": "structural_relation",
+      "matched_terms": [
+        "broad",
+        "core",
+        "identify",
+        "too",
+        "was"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/vinh-giang-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "core"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "identify"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-session-briefs.md",
+          "matched_terms": [
+            "broad",
+            "too",
+            "was"
+          ]
+        },
+        {
+          "file": "analysis/vinh-giang-wave-1-theme-map.md",
+          "matched_terms": [
+            "broad",
+            "core",
+            "identify"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-scope_repair-01",
+      "pattern_id": "scope_repair",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "jefferson-fisher-wave-1",
+      "source": "Jefferson Fisher",
+      "candidate_form": "identify where the claim was too broad \u2192 narrow it \u2192 preserve the valid core",
+      "category": "structural_relation",
+      "matched_terms": [
+        "broad",
+        "core",
+        "preserve",
+        "too"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/jefferson-fisher-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "core",
+            "too"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "core",
+            "too"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-session-briefs.md",
+          "matched_terms": [
+            "broad",
+            "core"
+          ]
+        },
+        {
+          "file": "analysis/jefferson-fisher-wave-1-theme-map.md",
+          "matched_terms": [
+            "preserve"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-scope_repair-02",
+      "pattern_id": "scope_repair",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "state the selection criterion \u2192 show the choice \u2192 name what the incentive changes",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "choice",
+        "ranking"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "choice"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "choice"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "choice",
+            "ranking"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "choice"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "choice"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-selection_and_incentive-01",
+      "pattern_id": "selection_and_incentive",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "state the selection criterion \u2192 show the choice \u2192 name what the incentive changes",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "choice",
+        "selection"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "choice",
+            "selection"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "choice"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+          "matched_terms": [
+            "choice",
+            "selection"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-inventory.md",
+          "matched_terms": [
+            "choice"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+          "matched_terms": [
+            "choice",
+            "selection"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-selection_and_incentive-02",
+      "pattern_id": "selection_and_incentive",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "acknowledge your own stake or limitation \u2192 state the claim anyway \u2192 give the listener a way to check it",
+      "category": "structural_relation",
+      "matched_terms": [
+        "claim",
+        "own",
+        "way"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "claim",
+            "own"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "claim",
+            "own"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+          "matched_terms": [
+            "way"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-theme-map.md",
+          "matched_terms": [
+            "claim",
+            "own"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-self_undercut-01",
+      "pattern_id": "self_undercut",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "acknowledge your own stake or limitation \u2192 state the claim anyway \u2192 give the listener a way to check it",
+      "category": "structural_relation",
+      "matched_terms": [
+        "listener",
+        "own",
+        "state"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "listener",
+            "own",
+            "state"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "listener",
+            "own"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-self_undercut-02",
+      "pattern_id": "self_undercut",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "name the loss \u2192 refuse false resolution \u2192 identify what care or work continues",
+      "category": "structural_relation",
+      "matched_terms": [
+        "care",
+        "name",
+        "work"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "care",
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-inventory.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-theme-map.md",
+          "matched_terms": [
+            "name",
+            "work"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-sorrow_and_continuation-01",
+      "pattern_id": "sorrow_and_continuation",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "name the loss \u2192 refuse false resolution \u2192 identify what care or work continues",
+      "category": "structural_relation",
+      "matched_terms": [
+        "name",
+        "work"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "name",
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "work"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-sorrow_and_continuation-02",
+      "pattern_id": "sorrow_and_continuation",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Use a bounded scene, then say what it illustrates and cannot establish.",
+      "category": "core_theme",
+      "matched_terms": [
+        "experience",
+        "memory",
+        "remember",
+        "story"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "experience",
+            "memory"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "remember",
+            "story"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "experience",
+            "story"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "experience"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "experience",
+            "memory",
+            "story"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-story_memory_and_scene-01",
+      "pattern_id": "story_memory_and_scene",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "matthew-dicks-wave-1",
+      "source": "Matthew Dicks",
+      "candidate_form": "Use a bounded scene, then say what it illustrates and cannot establish.",
+      "category": "core_theme",
+      "matched_terms": [
+        "experience",
+        "memory",
+        "scene",
+        "story"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/matthew-dicks-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "experience",
+            "scene",
+            "story"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "scene",
+            "story"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-briefs.md",
+          "matched_terms": [
+            "scene",
+            "story"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-session-inventory.md",
+          "matched_terms": [
+            "story"
+          ]
+        },
+        {
+          "file": "analysis/matthew-dicks-wave-1-theme-map.md",
+          "matched_terms": [
+            "memory",
+            "scene",
+            "story"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-story_memory_and_scene-02",
+      "pattern_id": "story_memory_and_scene",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "toastmasters-wave-1",
+      "source": "Toastmasters International",
+      "candidate_form": "bounded scene \u2192 explicit lesson \u2192 what the scene cannot prove",
+      "category": "structural_relation",
+      "matched_terms": [
+        "explicit",
+        "lesson",
+        "scene"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/toastmasters-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "explicit",
+            "scene"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "lesson",
+            "scene"
+          ]
+        },
+        {
+          "file": "analysis/toastmasters-wave-1-theme-map.md",
+          "matched_terms": [
+            "scene"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-story_to_thesis-01",
+      "pattern_id": "story_to_thesis",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "charisma-on-command-wave-1",
+      "source": "Charisma on Command",
+      "candidate_form": "bounded scene \u2192 explicit lesson \u2192 what the scene cannot prove",
+      "category": "structural_relation",
+      "matched_terms": [
+        "explicit",
+        "prove"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/charisma-on-command-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "explicit"
+          ]
+        },
+        {
+          "file": "analysis/charisma-on-command-wave-1-session-briefs.md",
+          "matched_terms": [
+            "explicit",
+            "prove"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-story_to_thesis-02",
+      "pattern_id": "story_to_thesis",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "pause the technical thread \u2192 translate the key point \u2192 answer the interruption before continuing",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "diagnosis",
+        "explanation"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "explanation"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "diagnosis"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-technical_explanation_and_interruption-01",
+      "pattern_id": "technical_explanation_and_interruption",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "think-fast-talk-smart-wave-1",
+      "source": "Think Fast Talk Smart",
+      "candidate_form": "pause the technical thread \u2192 translate the key point \u2192 answer the interruption before continuing",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "explanation",
+        "technical"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "explanation",
+            "technical"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "explanation",
+            "technical"
+          ]
+        },
+        {
+          "file": "analysis/think-fast-talk-smart-wave-1-theme-map.md",
+          "matched_terms": [
+            "explanation"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-technical_explanation_and_interruption-02",
+      "pattern_id": "technical_explanation_and_interruption",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "alexander-lyon-wave-1",
+      "source": "Communication Coach Alexander Lyon",
+      "candidate_form": "acknowledge what is unfinished \u2192 name the commitment \u2192 state the next accountable step",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "offer",
+        "still",
+        "work"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/alexander-lyon-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "offer",
+            "still",
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/alexander-lyon-wave-1-session-briefs.md",
+          "matched_terms": [
+            "work"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-unfinished_work_to_commitment-01",
+      "pattern_id": "unfinished_work_to_commitment",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "acknowledge what is unfinished \u2192 name the commitment \u2192 state the next accountable step",
+      "category": "additional_cluster",
+      "matched_terms": [
+        "still",
+        "work"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-corpus-brief.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-inventory.md",
+          "matched_terms": [
+            "work"
+          ]
+        },
+        {
+          "file": "analysis/andrew-tarvin-wave-1-theme-map.md",
+          "matched_terms": [
+            "still",
+            "work"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-unfinished_work_to_commitment-02",
+      "pattern_id": "unfinished_work_to_commitment",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "andrew-tarvin-wave-1",
+      "source": "Andrew Tarvin",
+      "candidate_form": "Separate the value interpretation from the factual claim it accompanies.",
+      "category": "core_theme",
+      "matched_terms": [
+        "principle",
+        "value"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/andrew-tarvin-wave-1-session-briefs.md",
+          "matched_terms": [
+            "principle",
+            "value"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-value_and_moral_frame-01",
+      "pattern_id": "value_and_moral_frame",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    },
+    {
+      "corpus_id": "chad-littlefield-wave-1",
+      "source": "Chad Littlefield",
+      "candidate_form": "Separate the value interpretation from the factual claim it accompanies.",
+      "category": "core_theme",
+      "matched_terms": [
+        "belief",
+        "principle"
+      ],
+      "source_files": [
+        {
+          "file": "analysis/chad-littlefield-wave-1-drill-candidates.md",
+          "matched_terms": [
+            "belief"
+          ]
+        },
+        {
+          "file": "analysis/chad-littlefield-wave-1-session-briefs.md",
+          "matched_terms": [
+            "principle"
+          ]
+        }
+      ],
+      "review_item_id": "source-pattern-value_and_moral_frame-02",
+      "pattern_id": "value_and_moral_frame",
+      "review_status": "unreviewed",
+      "review_instruction": "Read the cited analysis note, locate the underlying transcript/session evidence, and decide whether the source actually demonstrates the candidate form in context. Use indeterminate when the note or source context is insufficient.",
+      "does_not_establish": [
+        "semantic pattern validity",
+        "cross-speaker recurrence",
+        "delivery meaning",
+        "learner transfer",
+        "listener outcome",
+        "effectiveness"
+      ]
+    }
+  ]
+}

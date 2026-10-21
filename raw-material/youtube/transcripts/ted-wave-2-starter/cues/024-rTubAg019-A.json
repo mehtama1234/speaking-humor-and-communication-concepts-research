@@ -1,0 +1,1423 @@
+[
+  {
+    "start": "00:00:03.860",
+    "end": "00:00:06.140",
+    "start_seconds": 3.86,
+    "end_seconds": 6.14,
+    "text": "What do you want to be when you grow up?"
+  },
+  {
+    "start": "00:00:06.580",
+    "end": "00:00:09.860",
+    "start_seconds": 6.58,
+    "end_seconds": 9.86,
+    "text": "At age four, I wanted to become a computer scientist."
+  },
+  {
+    "start": "00:00:10.500",
+    "end": "00:00:13.020",
+    "start_seconds": 10.5,
+    "end_seconds": 13.02,
+    "text": "At five, a vacuum cleaner salesman."
+  },
+  {
+    "start": "00:00:13.660",
+    "end": "00:00:15.340",
+    "start_seconds": 13.66,
+    "end_seconds": 15.34,
+    "text": "At six, a priest."
+  },
+  {
+    "start": "00:00:16.300",
+    "end": "00:00:18.940",
+    "start_seconds": 16.3,
+    "end_seconds": 18.94,
+    "text": "At 17, an award-winning filmmaker."
+  },
+  {
+    "start": "00:00:19.500",
+    "end": "00:00:23.900",
+    "start_seconds": 19.5,
+    "end_seconds": 23.9,
+    "text": "And at 22, when it was finally time to decide on my first job,"
+  },
+  {
+    "start": "00:00:23.940",
+    "end": "00:00:26.500",
+    "start_seconds": 23.94,
+    "end_seconds": 26.5,
+    "text": "I became a management consultant."
+  },
+  {
+    "start": "00:00:26.500",
+    "end": "00:00:27.660",
+    "start_seconds": 26.5,
+    "end_seconds": 27.66,
+    "text": "(Laughter)"
+  },
+  {
+    "start": "00:00:28.100",
+    "end": "00:00:30.060",
+    "start_seconds": 28.1,
+    "end_seconds": 30.06,
+    "text": "What do you want to be when you grow up?"
+  },
+  {
+    "start": "00:00:30.420",
+    "end": "00:00:33.620",
+    "start_seconds": 30.42,
+    "end_seconds": 33.62,
+    "text": "I'm sure everyone here has been asked some version of that question,"
+  },
+  {
+    "start": "00:00:33.620",
+    "end": "00:00:35.500",
+    "start_seconds": 33.62,
+    "end_seconds": 35.5,
+    "text": "but perhaps not recently."
+  },
+  {
+    "start": "00:00:35.980",
+    "end": "00:00:38.140",
+    "start_seconds": 35.98,
+    "end_seconds": 38.14,
+    "text": "Somehow, the questions have changed."
+  },
+  {
+    "start": "00:00:38.540",
+    "end": "00:00:39.940",
+    "start_seconds": 38.54,
+    "end_seconds": 39.94,
+    "text": "\"What do you do for work?\""
+  },
+  {
+    "start": "00:00:39.980",
+    "end": "00:00:41.420",
+    "start_seconds": 39.98,
+    "end_seconds": 41.42,
+    "text": "\"How much money do you make?\""
+  },
+  {
+    "start": "00:00:41.460",
+    "end": "00:00:43.580",
+    "start_seconds": 41.46,
+    "end_seconds": 43.58,
+    "text": "\"Where are you going on your next vacation?\""
+  },
+  {
+    "start": "00:00:44.300",
+    "end": "00:00:47.220",
+    "start_seconds": 44.3,
+    "end_seconds": 47.22,
+    "text": "We've become obsessed with asking these types of questions"
+  },
+  {
+    "start": "00:00:47.260",
+    "end": "00:00:49.780",
+    "start_seconds": 47.26,
+    "end_seconds": 49.78,
+    "text": "to measure even our nation's productivity."
+  },
+  {
+    "start": "00:00:49.780",
+    "end": "00:00:53.020",
+    "start_seconds": 49.78,
+    "end_seconds": 53.02,
+    "text": "We track growth rates, remittances and exports"
+  },
+  {
+    "start": "00:00:53.060",
+    "end": "00:00:55.700",
+    "start_seconds": 53.06,
+    "end_seconds": 55.7,
+    "text": "without really asking if these numbers reflect the lives"
+  },
+  {
+    "start": "00:00:55.740",
+    "end": "00:00:57.260",
+    "start_seconds": 55.74,
+    "end_seconds": 57.26,
+    "text": "that people are trying to live."
+  },
+  {
+    "start": "00:00:57.660",
+    "end": "00:01:00.700",
+    "start_seconds": 57.66,
+    "end_seconds": 60.7,
+    "text": "I see the problems with this system at home in the Philippines."
+  },
+  {
+    "start": "00:01:00.740",
+    "end": "00:01:03.300",
+    "start_seconds": 60.74,
+    "end_seconds": 63.3,
+    "text": "Our GDP is soaring,"
+  },
+  {
+    "start": "00:01:03.340",
+    "end": "00:01:05.780",
+    "start_seconds": 63.34,
+    "end_seconds": 65.78,
+    "text": "but we're doing it in a way that doesn't quite align"
+  },
+  {
+    "start": "00:01:05.820",
+    "end": "00:01:08.220",
+    "start_seconds": 65.82,
+    "end_seconds": 68.22,
+    "text": "with the kind of lives that people want to live."
+  },
+  {
+    "start": "00:01:08.220",
+    "end": "00:01:10.660",
+    "start_seconds": 68.22,
+    "end_seconds": 70.66,
+    "text": "For one, we send millions of people abroad"
+  },
+  {
+    "start": "00:01:10.660",
+    "end": "00:01:13.460",
+    "start_seconds": 70.66,
+    "end_seconds": 73.46000000000001,
+    "text": "to take care of other people's parents and children,"
+  },
+  {
+    "start": "00:01:13.500",
+    "end": "00:01:16.900",
+    "start_seconds": 73.5,
+    "end_seconds": 76.9,
+    "text": "and we train millions more to stay awake while their families are asleep"
+  },
+  {
+    "start": "00:01:16.900",
+    "end": "00:01:19.220",
+    "start_seconds": 76.9,
+    "end_seconds": 79.22,
+    "text": "so they can be up all night answering phone calls"
+  },
+  {
+    "start": "00:01:19.260",
+    "end": "00:01:20.660",
+    "start_seconds": 79.26,
+    "end_seconds": 80.66,
+    "text": "from halfway across the world"
+  },
+  {
+    "start": "00:01:20.660",
+    "end": "00:01:22.820",
+    "start_seconds": 80.66,
+    "end_seconds": 82.82,
+    "text": "about how much money is in their bank account."
+  },
+  {
+    "start": "00:01:22.860",
+    "end": "00:01:24.540",
+    "start_seconds": 82.86,
+    "end_seconds": 84.53999999999999,
+    "text": "And somehow, we're rewarded for it."
+  },
+  {
+    "start": "00:01:24.580",
+    "end": "00:01:27.860",
+    "start_seconds": 84.58,
+    "end_seconds": 87.86,
+    "text": "We’re told that we’re Southeast Asia’s second-fastest-growing economy,"
+  },
+  {
+    "start": "00:01:27.900",
+    "end": "00:01:29.060",
+    "start_seconds": 87.9,
+    "end_seconds": 89.06,
+    "text": "and in a few years,"
+  },
+  {
+    "start": "00:01:29.100",
+    "end": "00:01:32.100",
+    "start_seconds": 89.1,
+    "end_seconds": 92.1,
+    "text": "we'll be upgraded to an upper middle-income country."
+  },
+  {
+    "start": "00:01:32.860",
+    "end": "00:01:34.100",
+    "start_seconds": 92.86,
+    "end_seconds": 94.1,
+    "text": "As a nation,"
+  },
+  {
+    "start": "00:01:34.140",
+    "end": "00:01:36.900",
+    "start_seconds": 94.14,
+    "end_seconds": 96.9,
+    "text": "we've become really good at hitting metrics"
+  },
+  {
+    "start": "00:01:36.940",
+    "end": "00:01:39.020",
+    "start_seconds": 96.94,
+    "end_seconds": 99.02000000000001,
+    "text": "that were never ours to begin with"
+  },
+  {
+    "start": "00:01:39.060",
+    "end": "00:01:41.780",
+    "start_seconds": 99.06,
+    "end_seconds": 101.78,
+    "text": "and climbing a ladder that was designed by those"
+  },
+  {
+    "start": "00:01:41.820",
+    "end": "00:01:43.900",
+    "start_seconds": 101.82,
+    "end_seconds": 103.9,
+    "text": "who were already sitting on top of it."
+  },
+  {
+    "start": "00:01:44.940",
+    "end": "00:01:49.660",
+    "start_seconds": 104.94,
+    "end_seconds": 109.66,
+    "text": "But what would happen if you asked Filipinos what metrics mattered to them?"
+  },
+  {
+    "start": "00:01:50.300",
+    "end": "00:01:53.540",
+    "start_seconds": 110.3,
+    "end_seconds": 113.53999999999999,
+    "text": "What would happen if you tried to measure dreams?"
+  },
+  {
+    "start": "00:01:54.300",
+    "end": "00:01:57.500",
+    "start_seconds": 114.3,
+    "end_seconds": 117.5,
+    "text": "Last year, my colleagues and I at BCG ran a nationwide,"
+  },
+  {
+    "start": "00:01:57.540",
+    "end": "00:02:01.300",
+    "start_seconds": 117.53999999999999,
+    "end_seconds": 121.3,
+    "text": "nationally representative survey to answer this very question."
+  },
+  {
+    "start": "00:02:02.100",
+    "end": "00:02:05.020",
+    "start_seconds": 122.1,
+    "end_seconds": 125.02,
+    "text": "Now look, no client had ever asked us about dreams,"
+  },
+  {
+    "start": "00:02:05.060",
+    "end": "00:02:07.620",
+    "start_seconds": 125.06,
+    "end_seconds": 127.62,
+    "text": "but if you look at the websites and mission statements"
+  },
+  {
+    "start": "00:02:07.660",
+    "end": "00:02:09.700",
+    "start_seconds": 127.66,
+    "end_seconds": 129.7,
+    "text": "of the country's largest businesses,"
+  },
+  {
+    "start": "00:02:09.740",
+    "end": "00:02:11.820",
+    "start_seconds": 129.74,
+    "end_seconds": 131.82,
+    "text": "all of them are trying to connect their work"
+  },
+  {
+    "start": "00:02:11.860",
+    "end": "00:02:13.740",
+    "start_seconds": 131.86,
+    "end_seconds": 133.74,
+    "text": "to national development in some way."
+  },
+  {
+    "start": "00:02:13.740",
+    "end": "00:02:17.140",
+    "start_seconds": 133.74,
+    "end_seconds": 137.14,
+    "text": "And so we knew that even if nobody was asking the question,"
+  },
+  {
+    "start": "00:02:17.180",
+    "end": "00:02:20.380",
+    "start_seconds": 137.18,
+    "end_seconds": 140.38,
+    "text": "the answer was one that many people would be interested in."
+  },
+  {
+    "start": "00:02:20.980",
+    "end": "00:02:22.820",
+    "start_seconds": 140.98,
+    "end_seconds": 142.82,
+    "text": "We discovered three things."
+  },
+  {
+    "start": "00:02:22.860",
+    "end": "00:02:25.940",
+    "start_seconds": 142.86,
+    "end_seconds": 145.94,
+    "text": "First, we discovered what the Filipino dream was."
+  },
+  {
+    "start": "00:02:26.460",
+    "end": "00:02:30.100",
+    "start_seconds": 146.46,
+    "end_seconds": 150.1,
+    "text": "The number-one ranked dream across all socioeconomic segments"
+  },
+  {
+    "start": "00:02:30.100",
+    "end": "00:02:33.340",
+    "start_seconds": 150.1,
+    "end_seconds": 153.34,
+    "text": "was to achieve financial security to absorb health scares."
+  },
+  {
+    "start": "00:02:34.220",
+    "end": "00:02:36.820",
+    "start_seconds": 154.22,
+    "end_seconds": 156.82,
+    "text": "But we learned more than that -- we also heard stories."
+  },
+  {
+    "start": "00:02:36.820",
+    "end": "00:02:40.380",
+    "start_seconds": 156.82,
+    "end_seconds": 160.38,
+    "text": "We heard stories like that of Tidri, [a] 26-year-old preschool teacher"
+  },
+  {
+    "start": "00:02:40.380",
+    "end": "00:02:42.860",
+    "start_seconds": 160.38,
+    "end_seconds": 162.86,
+    "text": "who dreams of becoming a beauty queen, a host,"
+  },
+  {
+    "start": "00:02:42.900",
+    "end": "00:02:47.220",
+    "start_seconds": 162.9,
+    "end_seconds": 167.22,
+    "text": "a politician, opening a hair salon just like her grandmother."
+  },
+  {
+    "start": "00:02:48.300",
+    "end": "00:02:50.980",
+    "start_seconds": 168.3,
+    "end_seconds": 170.98,
+    "text": "But right now, Tidri can't afford to do that"
+  },
+  {
+    "start": "00:02:50.980",
+    "end": "00:02:54.380",
+    "start_seconds": 170.98,
+    "end_seconds": 174.38,
+    "text": "because she still has to help pay for her grandfather's healthcare bills"
+  },
+  {
+    "start": "00:02:54.420",
+    "end": "00:02:56.020",
+    "start_seconds": 174.42000000000002,
+    "end_seconds": 176.02,
+    "text": "because he just had a stroke."
+  },
+  {
+    "start": "00:02:57.020",
+    "end": "00:03:00.620",
+    "start_seconds": 177.02,
+    "end_seconds": 180.62,
+    "text": "Second, we learned who those dreams are for."
+  },
+  {
+    "start": "00:03:01.100",
+    "end": "00:03:03.900",
+    "start_seconds": 181.1,
+    "end_seconds": 183.9,
+    "text": "Most Filipinos don't actually dream for themselves."
+  },
+  {
+    "start": "00:03:03.940",
+    "end": "00:03:06.220",
+    "start_seconds": 183.94,
+    "end_seconds": 186.22,
+    "text": "They dream for their extended family."
+  },
+  {
+    "start": "00:03:06.260",
+    "end": "00:03:07.580",
+    "start_seconds": 186.26,
+    "end_seconds": 187.58,
+    "text": "We met people like Joey,"
+  },
+  {
+    "start": "00:03:07.620",
+    "end": "00:03:09.540",
+    "start_seconds": 187.62,
+    "end_seconds": 189.54,
+    "text": "[a] 56-year-old radio technician"
+  },
+  {
+    "start": "00:03:09.580",
+    "end": "00:03:13.300",
+    "start_seconds": 189.58,
+    "end_seconds": 193.3,
+    "text": "who works from 2am to 11pm most nights."
+  },
+  {
+    "start": "00:03:13.340",
+    "end": "00:03:15.940",
+    "start_seconds": 193.34,
+    "end_seconds": 195.94,
+    "text": "He lives in a boarding house close to the station,"
+  },
+  {
+    "start": "00:03:15.940",
+    "end": "00:03:17.540",
+    "start_seconds": 195.94,
+    "end_seconds": 197.54,
+    "text": "given the demands of his job,"
+  },
+  {
+    "start": "00:03:17.580",
+    "end": "00:03:19.420",
+    "start_seconds": 197.57999999999998,
+    "end_seconds": 199.42000000000002,
+    "text": "but still wants to be a farmer,"
+  },
+  {
+    "start": "00:03:19.460",
+    "end": "00:03:21.620",
+    "start_seconds": 199.46,
+    "end_seconds": 201.62,
+    "text": "a social worker and a high school teacher."
+  },
+  {
+    "start": "00:03:22.220",
+    "end": "00:03:24.100",
+    "start_seconds": 202.22,
+    "end_seconds": 204.1,
+    "text": "But he really wants to retire."
+  },
+  {
+    "start": "00:03:24.100",
+    "end": "00:03:27.980",
+    "start_seconds": 204.1,
+    "end_seconds": 207.98,
+    "text": "But every time he asks his company, they say, \"Ah, not yet.\""
+  },
+  {
+    "start": "00:03:28.340",
+    "end": "00:03:30.940",
+    "start_seconds": 208.34,
+    "end_seconds": 210.94,
+    "text": "Right now, he doesn't really have a choice"
+  },
+  {
+    "start": "00:03:30.940",
+    "end": "00:03:34.420",
+    "start_seconds": 210.94,
+    "end_seconds": 214.42000000000002,
+    "text": "because he still has to finish paying for his daughter's education."
+  },
+  {
+    "start": "00:03:35.100",
+    "end": "00:03:38.540",
+    "start_seconds": 215.1,
+    "end_seconds": 218.54,
+    "text": "And third, we learned how people perceived institutions"
+  },
+  {
+    "start": "00:03:38.540",
+    "end": "00:03:40.780",
+    "start_seconds": 218.54,
+    "end_seconds": 220.78,
+    "text": "as helping them achieve those dreams."
+  },
+  {
+    "start": "00:03:41.140",
+    "end": "00:03:42.620",
+    "start_seconds": 221.14,
+    "end_seconds": 222.62,
+    "text": "We learned that most Filipinos"
+  },
+  {
+    "start": "00:03:42.620",
+    "end": "00:03:45.300",
+    "start_seconds": 222.62,
+    "end_seconds": 225.3,
+    "text": "actually didn't feel like public and private institutions"
+  },
+  {
+    "start": "00:03:45.340",
+    "end": "00:03:47.220",
+    "start_seconds": 225.34,
+    "end_seconds": 227.22,
+    "text": "were helping them achieve their dreams,"
+  },
+  {
+    "start": "00:03:47.260",
+    "end": "00:03:49.540",
+    "start_seconds": 227.26,
+    "end_seconds": 229.54,
+    "text": "and so they could only rely on themselves."
+  },
+  {
+    "start": "00:03:49.900",
+    "end": "00:03:51.300",
+    "start_seconds": 229.9,
+    "end_seconds": 231.3,
+    "text": "We met people like Sweden,"
+  },
+  {
+    "start": "00:03:51.340",
+    "end": "00:03:53.020",
+    "start_seconds": 231.34,
+    "end_seconds": 233.02,
+    "text": "[a] 35-year-old news reporter"
+  },
+  {
+    "start": "00:03:53.060",
+    "end": "00:03:56.420",
+    "start_seconds": 233.06,
+    "end_seconds": 236.42000000000002,
+    "text": "who spent years moving from one field assignment to another."
+  },
+  {
+    "start": "00:03:56.460",
+    "end": "00:03:58.060",
+    "start_seconds": 236.46,
+    "end_seconds": 238.06,
+    "text": "But when she had her first child,"
+  },
+  {
+    "start": "00:03:58.060",
+    "end": "00:03:59.260",
+    "start_seconds": 238.06,
+    "end_seconds": 239.26,
+    "text": "she decided to stay home"
+  },
+  {
+    "start": "00:03:59.300",
+    "end": "00:04:01.980",
+    "start_seconds": 239.3,
+    "end_seconds": 241.98,
+    "text": "and start a children's clothing business from her garage,"
+  },
+  {
+    "start": "00:04:01.980",
+    "end": "00:04:04.780",
+    "start_seconds": 241.98,
+    "end_seconds": 244.78,
+    "text": "believing that making and selling children's clothes online"
+  },
+  {
+    "start": "00:04:04.780",
+    "end": "00:04:05.980",
+    "start_seconds": 244.78,
+    "end_seconds": 245.98,
+    "text": "would be a better way"
+  },
+  {
+    "start": "00:04:05.980",
+    "end": "00:04:08.340",
+    "start_seconds": 245.98,
+    "end_seconds": 248.34,
+    "text": "of creating financial stability for her family."
+  },
+  {
+    "start": "00:04:08.380",
+    "end": "00:04:11.420",
+    "start_seconds": 248.38,
+    "end_seconds": 251.42,
+    "text": "Today, she dreams of opening up a flagship store in a mall"
+  },
+  {
+    "start": "00:04:11.460",
+    "end": "00:04:12.940",
+    "start_seconds": 251.46,
+    "end_seconds": 252.94,
+    "text": "for her business,"
+  },
+  {
+    "start": "00:04:12.980",
+    "end": "00:04:15.900",
+    "start_seconds": 252.98,
+    "end_seconds": 255.9,
+    "text": "and of buying a second home in the mountains for her family."
+  },
+  {
+    "start": "00:04:16.500",
+    "end": "00:04:18.260",
+    "start_seconds": 256.5,
+    "end_seconds": 258.26,
+    "text": "Tidri, Joey, Sweden"
+  },
+  {
+    "start": "00:04:18.300",
+    "end": "00:04:21.300",
+    "start_seconds": 258.3,
+    "end_seconds": 261.3,
+    "text": "and 1,500 other Filipinos we've interviewed"
+  },
+  {
+    "start": "00:04:21.340",
+    "end": "00:04:24.260",
+    "start_seconds": 261.34,
+    "end_seconds": 264.26,
+    "text": "all still want to be something when they grow up"
+  },
+  {
+    "start": "00:04:24.300",
+    "end": "00:04:27.220",
+    "start_seconds": 264.3,
+    "end_seconds": 267.22,
+    "text": "and their dreams seem so achievable."
+  },
+  {
+    "start": "00:04:28.180",
+    "end": "00:04:31.180",
+    "start_seconds": 268.18,
+    "end_seconds": 271.18,
+    "text": "But somehow to them, they still feel out of reach."
+  },
+  {
+    "start": "00:04:32.700",
+    "end": "00:04:35.900",
+    "start_seconds": 272.7,
+    "end_seconds": 275.9,
+    "text": "We shared this report with clients, the business community, media,"
+  },
+  {
+    "start": "00:04:35.940",
+    "end": "00:04:37.500",
+    "start_seconds": 275.94,
+    "end_seconds": 277.5,
+    "text": "even government officials."
+  },
+  {
+    "start": "00:04:37.500",
+    "end": "00:04:40.140",
+    "start_seconds": 277.5,
+    "end_seconds": 280.14,
+    "text": "And every single time they asked us the question,"
+  },
+  {
+    "start": "00:04:40.180",
+    "end": "00:04:42.340",
+    "start_seconds": 280.18,
+    "end_seconds": 282.34000000000003,
+    "text": "why hasn't this been done before?"
+  },
+  {
+    "start": "00:04:42.340",
+    "end": "00:04:44.420",
+    "start_seconds": 282.34000000000003,
+    "end_seconds": 284.42,
+    "text": "Why haven't we tried to measure dreams?"
+  },
+  {
+    "start": "00:04:44.980",
+    "end": "00:04:46.620",
+    "start_seconds": 284.98,
+    "end_seconds": 286.62,
+    "text": "Look, there are many reasons,"
+  },
+  {
+    "start": "00:04:46.620",
+    "end": "00:04:49.900",
+    "start_seconds": 286.62,
+    "end_seconds": 289.9,
+    "text": "but I think it's because those who have the power to ask the question"
+  },
+  {
+    "start": "00:04:49.940",
+    "end": "00:04:51.900",
+    "start_seconds": 289.94,
+    "end_seconds": 291.9,
+    "text": "think they already know the answer."
+  },
+  {
+    "start": "00:04:51.900",
+    "end": "00:04:54.340",
+    "start_seconds": 291.9,
+    "end_seconds": 294.34000000000003,
+    "text": "In every single forum where I've asked the question,"
+  },
+  {
+    "start": "00:04:54.340",
+    "end": "00:04:56.860",
+    "start_seconds": 294.34000000000003,
+    "end_seconds": 296.86,
+    "text": "“What do you think is the number-one Filipino dream,”"
+  },
+  {
+    "start": "00:04:56.900",
+    "end": "00:05:00.260",
+    "start_seconds": 296.9,
+    "end_seconds": 300.26,
+    "text": "I've never seen the most senior person in the room answer it correctly."
+  },
+  {
+    "start": "00:05:00.300",
+    "end": "00:05:02.900",
+    "start_seconds": 300.3,
+    "end_seconds": 302.9,
+    "text": "They usually guess something safe, like to buy a house"
+  },
+  {
+    "start": "00:05:02.900",
+    "end": "00:05:05.500",
+    "start_seconds": 302.9,
+    "end_seconds": 305.5,
+    "text": "or something generic, like to have a happy family."
+  },
+  {
+    "start": "00:05:05.940",
+    "end": "00:05:08.140",
+    "start_seconds": 305.94,
+    "end_seconds": 308.14,
+    "text": "Less than about five percent of people guess it"
+  },
+  {
+    "start": "00:05:08.180",
+    "end": "00:05:10.020",
+    "start_seconds": 308.18,
+    "end_seconds": 310.02,
+    "text": "and it's usually somebody more junior,"
+  },
+  {
+    "start": "00:05:10.060",
+    "end": "00:05:12.180",
+    "start_seconds": 310.06,
+    "end_seconds": 312.18,
+    "text": "somebody who grew up in a lower-income family"
+  },
+  {
+    "start": "00:05:12.180",
+    "end": "00:05:14.100",
+    "start_seconds": 312.18,
+    "end_seconds": 314.1,
+    "text": "and worked their way up the ladder."
+  },
+  {
+    "start": "00:05:14.460",
+    "end": "00:05:16.980",
+    "start_seconds": 314.46,
+    "end_seconds": 316.98,
+    "text": "And I wonder, in how many other countries in the world"
+  },
+  {
+    "start": "00:05:17.020",
+    "end": "00:05:18.340",
+    "start_seconds": 317.02,
+    "end_seconds": 318.34,
+    "text": "is this actually happening?"
+  },
+  {
+    "start": "00:05:18.340",
+    "end": "00:05:19.900",
+    "start_seconds": 318.34,
+    "end_seconds": 319.9,
+    "text": "Where what we call “development”"
+  },
+  {
+    "start": "00:05:19.900",
+    "end": "00:05:23.340",
+    "start_seconds": 319.9,
+    "end_seconds": 323.34,
+    "text": "is really just watching some numbers somewhere going up and to the right,"
+  },
+  {
+    "start": "00:05:23.380",
+    "end": "00:05:25.540",
+    "start_seconds": 323.38,
+    "end_seconds": 325.54,
+    "text": "but people on the ground feel nowhere closer"
+  },
+  {
+    "start": "00:05:25.540",
+    "end": "00:05:28.580",
+    "start_seconds": 325.54,
+    "end_seconds": 328.58,
+    "text": "to where they're actually trying to go than they were yesterday."
+  },
+  {
+    "start": "00:05:28.620",
+    "end": "00:05:31.100",
+    "start_seconds": 328.62,
+    "end_seconds": 331.1,
+    "text": "Where the only way up is out."
+  },
+  {
+    "start": "00:05:32.140",
+    "end": "00:05:35.340",
+    "start_seconds": 332.14,
+    "end_seconds": 335.34000000000003,
+    "text": "But wait, we already have something better than GDP, right?"
+  },
+  {
+    "start": "00:05:35.340",
+    "end": "00:05:38.260",
+    "start_seconds": 335.34000000000003,
+    "end_seconds": 338.26,
+    "text": "Doesn't Gross National Happiness measure the same thing?"
+  },
+  {
+    "start": "00:05:38.260",
+    "end": "00:05:41.620",
+    "start_seconds": 338.26,
+    "end_seconds": 341.62,
+    "text": "Look, Bhutan's GNH, I think, has really redefined development for them."
+  },
+  {
+    "start": "00:05:41.660",
+    "end": "00:05:43.380",
+    "start_seconds": 341.65999999999997,
+    "end_seconds": 343.38,
+    "text": "It's asked whether people are happy,"
+  },
+  {
+    "start": "00:05:43.420",
+    "end": "00:05:45.020",
+    "start_seconds": 343.42,
+    "end_seconds": 345.02,
+    "text": "whether their culture is thriving"
+  },
+  {
+    "start": "00:05:45.020",
+    "end": "00:05:47.260",
+    "start_seconds": 345.02,
+    "end_seconds": 347.26,
+    "text": "and whether they feel spiritually fulfilled."
+  },
+  {
+    "start": "00:05:47.300",
+    "end": "00:05:49.060",
+    "start_seconds": 347.3,
+    "end_seconds": 349.06,
+    "text": "But being happy today"
+  },
+  {
+    "start": "00:05:49.060",
+    "end": "00:05:53.180",
+    "start_seconds": 349.06,
+    "end_seconds": 353.18,
+    "text": "is very different from feeling like you're coming closer to your dreams."
+  },
+  {
+    "start": "00:05:53.180",
+    "end": "00:05:56.260",
+    "start_seconds": 353.18,
+    "end_seconds": 356.26,
+    "text": "Bhutan might be one of the most obsessed countries in the world"
+  },
+  {
+    "start": "00:05:56.260",
+    "end": "00:05:58.020",
+    "start_seconds": 356.26,
+    "end_seconds": 358.02,
+    "text": "with measuring happiness,"
+  },
+  {
+    "start": "00:05:58.020",
+    "end": "00:06:00.900",
+    "start_seconds": 358.02,
+    "end_seconds": 360.9,
+    "text": "but about 10 percent of their skilled and educated population"
+  },
+  {
+    "start": "00:06:00.940",
+    "end": "00:06:02.740",
+    "start_seconds": 360.94,
+    "end_seconds": 362.74,
+    "text": "emigrated in 2022."
+  },
+  {
+    "start": "00:06:03.540",
+    "end": "00:06:05.980",
+    "start_seconds": 363.54,
+    "end_seconds": 365.98,
+    "text": "Maybe that's the problem with measuring happiness."
+  },
+  {
+    "start": "00:06:05.980",
+    "end": "00:06:08.740",
+    "start_seconds": 365.98,
+    "end_seconds": 368.74,
+    "text": "I could be happy today because I've got everything I need"
+  },
+  {
+    "start": "00:06:08.740",
+    "end": "00:06:10.020",
+    "start_seconds": 368.74,
+    "end_seconds": 370.02,
+    "text": "and things are going well,"
+  },
+  {
+    "start": "00:06:10.020",
+    "end": "00:06:12.900",
+    "start_seconds": 370.02,
+    "end_seconds": 372.9,
+    "text": "but I might not actually be closer to where I'm trying to go."
+  },
+  {
+    "start": "00:06:12.940",
+    "end": "00:06:15.580",
+    "start_seconds": 372.94,
+    "end_seconds": 375.58,
+    "text": "And I think that's what measuring dreams can do for us."
+  },
+  {
+    "start": "00:06:15.580",
+    "end": "00:06:17.980",
+    "start_seconds": 375.58,
+    "end_seconds": 377.98,
+    "text": "Look not only at how we feel today,"
+  },
+  {
+    "start": "00:06:17.980",
+    "end": "00:06:21.060",
+    "start_seconds": 377.98,
+    "end_seconds": 381.06,
+    "text": "but at the vector of that progress over time."
+  },
+  {
+    "start": "00:06:21.060",
+    "end": "00:06:23.660",
+    "start_seconds": 381.06,
+    "end_seconds": 383.66,
+    "text": "And I don't think what I'm suggesting is too far off."
+  },
+  {
+    "start": "00:06:23.660",
+    "end": "00:06:27.340",
+    "start_seconds": 383.66,
+    "end_seconds": 387.34,
+    "text": "After all, most of us here already work for companies that have HR departments"
+  },
+  {
+    "start": "00:06:27.380",
+    "end": "00:06:30.020",
+    "start_seconds": 387.38,
+    "end_seconds": 390.02,
+    "text": "that measure the progression of our employees."
+  },
+  {
+    "start": "00:06:30.060",
+    "end": "00:06:32.500",
+    "start_seconds": 390.06,
+    "end_seconds": 392.5,
+    "text": "So why couldn't our countries have HR departments"
+  },
+  {
+    "start": "00:06:32.540",
+    "end": "00:06:36.820",
+    "start_seconds": 392.54,
+    "end_seconds": 396.82,
+    "text": "that measure the personal ambition and fulfillment of its citizens?"
+  },
+  {
+    "start": "00:06:36.860",
+    "end": "00:06:39.580",
+    "start_seconds": 396.86,
+    "end_seconds": 399.58,
+    "text": "If every country has the Department of Defense,"
+  },
+  {
+    "start": "00:06:39.620",
+    "end": "00:06:41.780",
+    "start_seconds": 399.62,
+    "end_seconds": 401.78,
+    "text": "why couldn't we have a Department of Dreams?"
+  },
+  {
+    "start": "00:06:42.780",
+    "end": "00:06:43.940",
+    "start_seconds": 402.78,
+    "end_seconds": 403.94,
+    "text": "Imagine this."
+  },
+  {
+    "start": "00:06:43.980",
+    "end": "00:06:46.300",
+    "start_seconds": 403.98,
+    "end_seconds": 406.3,
+    "text": "The annual Aspiration of the Nation report"
+  },
+  {
+    "start": "00:06:46.300",
+    "end": "00:06:48.500",
+    "start_seconds": 406.3,
+    "end_seconds": 408.5,
+    "text": "presented by the Secretary of Dreams."
+  },
+  {
+    "start": "00:06:48.500",
+    "end": "00:06:52.260",
+    "start_seconds": 408.5,
+    "end_seconds": 412.26,
+    "text": "It looks at what people dream of by age, by income group, by geography."
+  },
+  {
+    "start": "00:06:52.300",
+    "end": "00:06:54.740",
+    "start_seconds": 412.3,
+    "end_seconds": 414.74,
+    "text": "It looks at how people came up with their dreams,"
+  },
+  {
+    "start": "00:06:54.780",
+    "end": "00:06:56.420",
+    "start_seconds": 414.78,
+    "end_seconds": 416.42,
+    "text": "how they graduate to bigger ones,"
+  },
+  {
+    "start": "00:06:56.420",
+    "end": "00:06:58.660",
+    "start_seconds": 416.42,
+    "end_seconds": 418.65999999999997,
+    "text": "and when they decide to give up on old dreams."
+  },
+  {
+    "start": "00:06:59.340",
+    "end": "00:07:02.700",
+    "start_seconds": 419.34000000000003,
+    "end_seconds": 422.7,
+    "text": "Imagine National Dream centers where you could attend trainings"
+  },
+  {
+    "start": "00:07:02.700",
+    "end": "00:07:04.460",
+    "start_seconds": 422.7,
+    "end_seconds": 424.46,
+    "text": "on making personal progress,"
+  },
+  {
+    "start": "00:07:04.500",
+    "end": "00:07:06.500",
+    "start_seconds": 424.5,
+    "end_seconds": 426.5,
+    "text": "or social workers trained as life coaches"
+  },
+  {
+    "start": "00:07:06.540",
+    "end": "00:07:08.660",
+    "start_seconds": 426.54,
+    "end_seconds": 428.66,
+    "text": "who can help keep you on track."
+  },
+  {
+    "start": "00:07:08.660",
+    "end": "00:07:12.140",
+    "start_seconds": 428.66,
+    "end_seconds": 432.14,
+    "text": "Imagine the Department of Dreams could work with the Department of Health"
+  },
+  {
+    "start": "00:07:12.140",
+    "end": "00:07:14.900",
+    "start_seconds": 432.14,
+    "end_seconds": 434.9,
+    "text": "to measure how healthcare emergencies affect ambition."
+  },
+  {
+    "start": "00:07:14.940",
+    "end": "00:07:17.020",
+    "start_seconds": 434.94,
+    "end_seconds": 437.02,
+    "text": "Could we not improve healthcare outcomes"
+  },
+  {
+    "start": "00:07:17.060",
+    "end": "00:07:21.260",
+    "start_seconds": 437.06,
+    "end_seconds": 441.26,
+    "text": "if we took a lens on how these emergencies affect ambition and motivation?"
+  },
+  {
+    "start": "00:07:22.220",
+    "end": "00:07:25.900",
+    "start_seconds": 442.22,
+    "end_seconds": 445.9,
+    "text": "The Department of Dreams could work with the Department of Trade and Industry"
+  },
+  {
+    "start": "00:07:25.900",
+    "end": "00:07:28.900",
+    "start_seconds": 445.9,
+    "end_seconds": 448.9,
+    "text": "to ensure that when people say they have these dream businesses,"
+  },
+  {
+    "start": "00:07:28.940",
+    "end": "00:07:30.980",
+    "start_seconds": 448.94,
+    "end_seconds": 450.98,
+    "text": "they actually get the tools to create them."
+  },
+  {
+    "start": "00:07:30.980",
+    "end": "00:07:32.620",
+    "start_seconds": 450.98,
+    "end_seconds": 452.62,
+    "text": "Or with the Department of Labor,"
+  },
+  {
+    "start": "00:07:32.620",
+    "end": "00:07:34.940",
+    "start_seconds": 452.62,
+    "end_seconds": 454.94,
+    "text": "to ensure that the jobs that people say they want"
+  },
+  {
+    "start": "00:07:34.980",
+    "end": "00:07:37.020",
+    "start_seconds": 454.98,
+    "end_seconds": 457.02,
+    "text": "are the same jobs that are being created."
+  },
+  {
+    "start": "00:07:37.060",
+    "end": "00:07:39.940",
+    "start_seconds": 457.06,
+    "end_seconds": 459.94,
+    "text": "Or with the Department of Education to train future students"
+  },
+  {
+    "start": "00:07:39.980",
+    "end": "00:07:41.500",
+    "start_seconds": 459.98,
+    "end_seconds": 461.5,
+    "text": "for those dream jobs."
+  },
+  {
+    "start": "00:07:41.540",
+    "end": "00:07:43.900",
+    "start_seconds": 461.54,
+    "end_seconds": 463.9,
+    "text": "Look, I understand that there are free markets,"
+  },
+  {
+    "start": "00:07:43.940",
+    "end": "00:07:46.340",
+    "start_seconds": 463.94,
+    "end_seconds": 466.34000000000003,
+    "text": "but could we not imagine a world where people said,"
+  },
+  {
+    "start": "00:07:46.340",
+    "end": "00:07:50.140",
+    "start_seconds": 466.34000000000003,
+    "end_seconds": 470.14,
+    "text": "I want to become a writer or a historian or an astronaut or a psychiatrist,"
+  },
+  {
+    "start": "00:07:50.140",
+    "end": "00:07:51.540",
+    "start_seconds": 470.14,
+    "end_seconds": 471.54,
+    "text": "and government said,"
+  },
+  {
+    "start": "00:07:51.540",
+    "end": "00:07:54.580",
+    "start_seconds": 471.54,
+    "end_seconds": 474.58,
+    "text": "\"Sure, we'll find a way to make that happen.\""
+  },
+  {
+    "start": "00:07:54.940",
+    "end": "00:07:57.940",
+    "start_seconds": 474.94,
+    "end_seconds": 477.94,
+    "text": "Imagine how much better the world would be"
+  },
+  {
+    "start": "00:07:57.940",
+    "end": "00:07:59.940",
+    "start_seconds": 477.94,
+    "end_seconds": 479.94,
+    "text": "if everyone was obsessed"
+  },
+  {
+    "start": "00:07:59.980",
+    "end": "00:08:02.260",
+    "start_seconds": 479.98,
+    "end_seconds": 482.26,
+    "text": "with helping each other achieve their dreams,"
+  },
+  {
+    "start": "00:08:02.300",
+    "end": "00:08:05.540",
+    "start_seconds": 482.3,
+    "end_seconds": 485.54,
+    "text": "and somehow there was a government official somewhere"
+  },
+  {
+    "start": "00:08:05.580",
+    "end": "00:08:07.820",
+    "start_seconds": 485.58,
+    "end_seconds": 487.82,
+    "text": "accountable for making that happen."
+  },
+  {
+    "start": "00:08:09.380",
+    "end": "00:08:12.940",
+    "start_seconds": 489.38,
+    "end_seconds": 492.94,
+    "text": "There's so much more we still want to do in our work in measuring dreams."
+  },
+  {
+    "start": "00:08:12.940",
+    "end": "00:08:15.020",
+    "start_seconds": 492.94,
+    "end_seconds": 495.02,
+    "text": "And we're really just getting started."
+  },
+  {
+    "start": "00:08:15.060",
+    "end": "00:08:17.660",
+    "start_seconds": 495.06,
+    "end_seconds": 497.66,
+    "text": "For one, we hope to run this survey every few years"
+  },
+  {
+    "start": "00:08:17.700",
+    "end": "00:08:19.940",
+    "start_seconds": 497.7,
+    "end_seconds": 499.94,
+    "text": "to see how these dreams change over time."
+  },
+  {
+    "start": "00:08:20.500",
+    "end": "00:08:22.780",
+    "start_seconds": 500.5,
+    "end_seconds": 502.78,
+    "text": "We also want to run the survey in other markets"
+  },
+  {
+    "start": "00:08:22.780",
+    "end": "00:08:25.940",
+    "start_seconds": 502.78,
+    "end_seconds": 505.94,
+    "text": "to see how the Filipino dream might be different from the Malaysian"
+  },
+  {
+    "start": "00:08:25.980",
+    "end": "00:08:27.140",
+    "start_seconds": 505.98,
+    "end_seconds": 507.14,
+    "text": "or the Emirati dream,"
+  },
+  {
+    "start": "00:08:27.140",
+    "end": "00:08:29.900",
+    "start_seconds": 507.14,
+    "end_seconds": 509.9,
+    "text": "and encourage governments and companies around the world"
+  },
+  {
+    "start": "00:08:29.900",
+    "end": "00:08:32.420",
+    "start_seconds": 509.9,
+    "end_seconds": 512.42,
+    "text": "to begin taking dreams more seriously."
+  },
+  {
+    "start": "00:08:33.060",
+    "end": "00:08:34.500",
+    "start_seconds": 513.06,
+    "end_seconds": 514.5,
+    "text": "So let's measure dreams."
+  },
+  {
+    "start": "00:08:35.300",
+    "end": "00:08:37.340",
+    "start_seconds": 515.3,
+    "end_seconds": 517.34,
+    "text": "Let's measure what people dream of"
+  },
+  {
+    "start": "00:08:37.340",
+    "end": "00:08:40.300",
+    "start_seconds": 517.34,
+    "end_seconds": 520.3,
+    "text": "and how the content of those dreams changes over time."
+  },
+  {
+    "start": "00:08:41.140",
+    "end": "00:08:45.340",
+    "start_seconds": 521.14,
+    "end_seconds": 525.34,
+    "text": "Let’s measure how much progress people feel like they’ve made versus last year,"
+  },
+  {
+    "start": "00:08:45.340",
+    "end": "00:08:49.020",
+    "start_seconds": 525.34,
+    "end_seconds": 529.02,
+    "text": "and how much more progress they think they'll make looking into next year."
+  },
+  {
+    "start": "00:08:49.500",
+    "end": "00:08:54.180",
+    "start_seconds": 529.5,
+    "end_seconds": 534.18,
+    "text": "And then let's measure whether people perceive institutions as helping them"
+  },
+  {
+    "start": "00:08:54.220",
+    "end": "00:08:56.820",
+    "start_seconds": 534.22,
+    "end_seconds": 536.82,
+    "text": "or holding them back from achieving those dreams."
+  },
+  {
+    "start": "00:08:57.740",
+    "end": "00:08:59.900",
+    "start_seconds": 537.74,
+    "end_seconds": 539.9,
+    "text": "Then let's create the conditions"
+  },
+  {
+    "start": "00:08:59.900",
+    "end": "00:09:03.220",
+    "start_seconds": 539.9,
+    "end_seconds": 543.22,
+    "text": "that allow people to truly live their dreams."
+  },
+  {
+    "start": "00:09:04.020",
+    "end": "00:09:05.660",
+    "start_seconds": 544.02,
+    "end_seconds": 545.66,
+    "text": "After all,"
+  },
+  {
+    "start": "00:09:05.700",
+    "end": "00:09:09.100",
+    "start_seconds": 545.7,
+    "end_seconds": 549.1,
+    "text": "we all still want to be something when we grow up."
+  },
+  {
+    "start": "00:09:09.900",
+    "end": "00:09:11.060",
+    "start_seconds": 549.9,
+    "end_seconds": 551.06,
+    "text": "Thank you."
+  },
+  {
+    "start": "00:09:11.100",
+    "end": "00:09:13.340",
+    "start_seconds": 551.1,
+    "end_seconds": 553.34,
+    "text": "(Applause)"
+  }
+]

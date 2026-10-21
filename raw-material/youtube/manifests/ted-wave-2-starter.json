@@ -1,0 +1,251 @@
+{
+  "slug": "ted-wave-2-starter",
+  "title": "TED — Wave 2 Starter Slice",
+  "url": "https://www.youtube.com/@TED/videos",
+  "category": "polished-talks",
+  "source_manifest": "raw-material/youtube/manifests/ted-wave-2.json",
+  "selection_rule": "First 40 title-qualified talks with distinct speaker keys; channel-level manifest remains 4,842 videos.",
+  "notes": "Transcript-backed starter slice only. It is not a representative sample of the full channel and is not promotion validated.",
+  "videos": [
+    {
+      "index": 1,
+      "id": "SD1MypHgAwc",
+      "title": "Why You Fear the Unknown — and What It Can Teach You | Maya Shankar and Simone Stolzoff | TED",
+      "url": "https://www.youtube.com/watch?v=SD1MypHgAwc"
+    },
+    {
+      "index": 2,
+      "id": "e0Q_TcQUCks",
+      "title": "The Wiggly Wonder of Music | Jacob Collier | TED",
+      "url": "https://www.youtube.com/watch?v=e0Q_TcQUCks"
+    },
+    {
+      "index": 3,
+      "id": "X6hstmAa0cg",
+      "title": "Meet the Youngest-Ever Mayor in Japan’s History | Ryosuke Takashima | TED",
+      "url": "https://www.youtube.com/watch?v=X6hstmAa0cg"
+    },
+    {
+      "index": 4,
+      "id": "zc_eKn13GQU",
+      "title": "This Is What the Birth of the Universe Sounded Like | Mark Whittle | TED",
+      "url": "https://www.youtube.com/watch?v=zc_eKn13GQU"
+    },
+    {
+      "index": 5,
+      "id": "4qtsOh2FwIs",
+      "title": "How Tech Will (and Won’t) Replace Your Doctor | TED Intersections",
+      "url": "https://www.youtube.com/watch?v=4qtsOh2FwIs"
+    },
+    {
+      "index": 6,
+      "id": "owRN5fVLoEk",
+      "title": "The Four Steps to Hearing Hard Feedback Gracefully | Chris Wheatley | TED",
+      "url": "https://www.youtube.com/watch?v=owRN5fVLoEk"
+    },
+    {
+      "index": 7,
+      "id": "4WUVkpC8MKs",
+      "title": "A New Take on an Ancient Sound | Tina Lajevardian | TED",
+      "url": "https://www.youtube.com/watch?v=4WUVkpC8MKs"
+    },
+    {
+      "index": 8,
+      "id": "u3qlbHrB7KI",
+      "title": "How to Fix Africa’s Learning Crisis | Rapelang Rabana | TED",
+      "url": "https://www.youtube.com/watch?v=u3qlbHrB7KI"
+    },
+    {
+      "index": 9,
+      "id": "1r2fqbD0KZ4",
+      "title": "The Secret to Deeper Conversations | TED Intersections",
+      "url": "https://www.youtube.com/watch?v=1r2fqbD0KZ4"
+    },
+    {
+      "index": 10,
+      "id": "5vwbbLB3Uww",
+      "title": "How I’m Helping Thousands Rebuild Their Lives After Prison | Susan Burton | TED",
+      "url": "https://www.youtube.com/watch?v=5vwbbLB3Uww"
+    },
+    {
+      "index": 11,
+      "id": "rUhllpnYWR8",
+      "title": "How to Make Learning Impossibly Fun | Mark Rober | TED",
+      "url": "https://www.youtube.com/watch?v=rUhllpnYWR8"
+    },
+    {
+      "index": 12,
+      "id": "LmszJQzuAcc",
+      "title": "“Bridge Over Troubled Water” — Like You’ve Never Heard It Before | MAS Vocal | TED",
+      "url": "https://www.youtube.com/watch?v=LmszJQzuAcc"
+    },
+    {
+      "index": 13,
+      "id": "nptUQtYVl1M",
+      "title": "Who Controls Your City’s Money? | Trinity Tran | TED",
+      "url": "https://www.youtube.com/watch?v=nptUQtYVl1M"
+    },
+    {
+      "index": 14,
+      "id": "YCldrsmxi_s",
+      "title": "How AI Is Breaking the Internet (and What to Do About It) | Matthew Prince | TED",
+      "url": "https://www.youtube.com/watch?v=YCldrsmxi_s"
+    },
+    {
+      "index": 15,
+      "id": "daLpHnD4b9A",
+      "title": "How to Live a Good Life — on Earth and in Space | TED Intersections",
+      "url": "https://www.youtube.com/watch?v=daLpHnD4b9A"
+    },
+    {
+      "index": 16,
+      "id": "6eYEi9tN6Og",
+      "title": "We’ve Solved Many Medical Mysteries. Where Are the Cures? | Saloni Dattani | TED",
+      "url": "https://www.youtube.com/watch?v=6eYEi9tN6Og"
+    },
+    {
+      "index": 17,
+      "id": "rIRon8zJyps",
+      "title": "How Doodling Unlocks Your Imagination | Joe Whale | TED",
+      "url": "https://www.youtube.com/watch?v=rIRon8zJyps"
+    },
+    {
+      "index": 18,
+      "id": "E-Se-_A4o-Y",
+      "title": "The Creative Genius of Sneaker Design | Salehe Bembury and Cloe Shasha Brooks | TED",
+      "url": "https://www.youtube.com/watch?v=E-Se-_A4o-Y"
+    },
+    {
+      "index": 19,
+      "id": "P5ZCRBV5z0w",
+      "title": "How to Get Past the “Messy Middle” of a Big Change | Mary Martin | TED",
+      "url": "https://www.youtube.com/watch?v=P5ZCRBV5z0w"
+    },
+    {
+      "index": 20,
+      "id": "tXZs2NuLFRA",
+      "title": "How Citizens (Not Politicians) Are Building the Future | Jon Alexander | TED",
+      "url": "https://www.youtube.com/watch?v=tXZs2NuLFRA"
+    },
+    {
+      "index": 21,
+      "id": "GRQlIAWVO_E",
+      "title": "A Cosmologist’s Guide to the End of the Universe | Katie Mack and Debbie Millman | TED",
+      "url": "https://www.youtube.com/watch?v=GRQlIAWVO_E"
+    },
+    {
+      "index": 22,
+      "id": "IHqPcDaMtFg",
+      "title": "Why Big Tech Is Incompatible with Democracy | Bruno Giussani | TED",
+      "url": "https://www.youtube.com/watch?v=IHqPcDaMtFg"
+    },
+    {
+      "index": 23,
+      "id": "nLw3o-XgEdo",
+      "title": "A Musical Journey Through Turkana | Turkana Sessions | TED",
+      "url": "https://www.youtube.com/watch?v=nLw3o-XgEdo"
+    },
+    {
+      "index": 24,
+      "id": "rTubAg019-A",
+      "title": "Why Countries Should Measure Dreams and Ambitions (Just like GDP) | Lance Katigbak | TED",
+      "url": "https://www.youtube.com/watch?v=rTubAg019-A"
+    },
+    {
+      "index": 25,
+      "id": "fd_TsNUpPWw",
+      "title": "How Satellites and AI Can Protect the Planet | Robbie Schingler | TED",
+      "url": "https://www.youtube.com/watch?v=fd_TsNUpPWw"
+    },
+    {
+      "index": 26,
+      "id": "TeVE4TQPEwM",
+      "title": "The Power of Imagination — Onstage and Off | Suki Hillier | TED",
+      "url": "https://www.youtube.com/watch?v=TeVE4TQPEwM"
+    },
+    {
+      "index": 27,
+      "id": "Ip77mh3Of0I",
+      "title": "Why Economic Inequality Is the Biggest Threat to Democracy | Sally Kohn | TED",
+      "url": "https://www.youtube.com/watch?v=Ip77mh3Of0I"
+    },
+    {
+      "index": 28,
+      "id": "3Ae4qCvQIcM",
+      "title": "Why Depression Isn’t What We Think | Lisa Monteggia | TED",
+      "url": "https://www.youtube.com/watch?v=3Ae4qCvQIcM"
+    },
+    {
+      "index": 29,
+      "id": "LGb0_ed_euA",
+      "title": "How Play Boosts Your Creativity and Resilience | Katina Bajaj | TED",
+      "url": "https://www.youtube.com/watch?v=LGb0_ed_euA"
+    },
+    {
+      "index": 30,
+      "id": "wqOY7Y0w7pA",
+      "title": "How I Turn Joy into Art | Yinka Ilori | TED",
+      "url": "https://www.youtube.com/watch?v=wqOY7Y0w7pA"
+    },
+    {
+      "index": 31,
+      "id": "HSxytYCWVow",
+      "title": "The Path to Mathematical Superintelligence | Tudor Achim | TED",
+      "url": "https://www.youtube.com/watch?v=HSxytYCWVow"
+    },
+    {
+      "index": 32,
+      "id": "ElYYD7Wx2WE",
+      "title": "Idiots Are Everywhere. Here’s How to Cope | Joshua Johnson | TED",
+      "url": "https://www.youtube.com/watch?v=ElYYD7Wx2WE"
+    },
+    {
+      "index": 33,
+      "id": "jM5MIRDCL-8",
+      "title": "Why Overtourism Could Ruin Your Next Vacation | Suresh Subudhi | TED",
+      "url": "https://www.youtube.com/watch?v=jM5MIRDCL-8"
+    },
+    {
+      "index": 34,
+      "id": "XJUcZV_F_T0",
+      "title": "“To My Bones” / “As the River Flows” / “In Dictum” | Wallis Bird | TED",
+      "url": "https://www.youtube.com/watch?v=XJUcZV_F_T0"
+    },
+    {
+      "index": 35,
+      "id": "6YNOQTqNfgQ",
+      "title": "Save It to Your Desktop! | Alan Resnick | TED",
+      "url": "https://www.youtube.com/watch?v=6YNOQTqNfgQ"
+    },
+    {
+      "index": 36,
+      "id": "9LTGzEzDat0",
+      "title": "Our Last, Best Chance to Cool the Earth | Bill McKibben | TED",
+      "url": "https://www.youtube.com/watch?v=9LTGzEzDat0"
+    },
+    {
+      "index": 37,
+      "id": "cGZwLEoAx0U",
+      "title": "How to Live with Your Biggest Regret | Gregg Ward | TED",
+      "url": "https://www.youtube.com/watch?v=cGZwLEoAx0U"
+    },
+    {
+      "index": 38,
+      "id": "-Z-Miko0nrQ",
+      "title": "How I Built a Machine That Feeds Millions | Felix Brooks-church | TED",
+      "url": "https://www.youtube.com/watch?v=-Z-Miko0nrQ"
+    },
+    {
+      "index": 39,
+      "id": "btRVIeprWWY",
+      "title": "What 3D Scanning the Aftermath of the LA Fires Revealed | Nonny de la Peña | TED",
+      "url": "https://www.youtube.com/watch?v=btRVIeprWWY"
+    },
+    {
+      "index": 40,
+      "id": "EUKbVj2iiSE",
+      "title": "Inside Dubai’s Mission to Build the City of the Future | His Excellency Khalfan Belhoul | TED",
+      "url": "https://www.youtube.com/watch?v=EUKbVj2iiSE"
+    }
+  ]
+}
