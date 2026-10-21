@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "status": "provisional_cross_corpus_mapping",
+  "claim_boundary": "These mappings identify where a corpus is likely to contribute evidence. They do not prove recurrence, effectiveness, or source superiority.",
+  "canonical_job_source": "../best-speech-analysis/research/communication-job-curriculum-index.json",
+  "rows": [
+    {"corpus_id": "ultraspeaking-wave-1", "source": "Ultraspeaking", "jobs": ["opening", "answer_or_response", "repair_or_self_correction", "transition_or_structure"], "novelty_target": "spontaneous speaking and visible recovery"},
+    {"corpus_id": "vinh-giang-wave-1", "source": "Vinh Giang", "jobs": ["opening", "definition_or_explanation", "transition_or_structure", "closing", "humor_or_rapport"], "novelty_target": "vocal delivery and audience engagement"},
+    {"corpus_id": "think-fast-talk-smart-wave-1", "source": "Think Fast Talk Smart", "jobs": ["answer_or_response", "correction_or_reframe", "qualification_or_boundary", "persuasion_or_advocacy", "transition_or_structure"], "novelty_target": "structured answers under pressure"},
+    {"corpus_id": "charisma-on-command-wave-1", "source": "Charisma on Command", "jobs": ["humor_or_rapport", "question", "credit_or_acknowledgment", "repair_or_self_correction", "answer_or_response"], "novelty_target": "social presence and awkwardness recovery"},
+    {"corpus_id": "matthew-dicks-wave-1", "source": "Matthew Dicks", "jobs": ["story_or_personal_experience", "opening", "callback_or_repetition", "reflection_or_value_frame", "closing"], "novelty_target": "story selection, specificity, and narrative payoff"},
+    {"corpus_id": "jefferson-fisher-wave-1", "source": "Jefferson Fisher", "jobs": ["contrast_or_disagreement", "qualification_or_boundary", "answer_or_response", "correction_or_reframe", "closing"], "novelty_target": "calm authority and boundary language"},
+    {"corpus_id": "chad-littlefield-wave-1", "source": "Chad Littlefield", "jobs": ["question", "credit_or_acknowledgment", "humor_or_rapport", "repair_or_self_correction", "transition_or_structure"], "novelty_target": "conversation design and reflective listening"},
+    {"corpus_id": "alexander-lyon-wave-1", "source": "Communication Coach Alexander Lyon", "jobs": ["opening", "definition_or_explanation", "answer_or_response", "transition_or_structure", "closing"], "novelty_target": "concise workplace and executive communication"},
+    {"corpus_id": "toastmasters-wave-1", "source": "Toastmasters International", "jobs": ["opening", "story_or_personal_experience", "example_or_case", "humor_or_rapport", "callback_or_repetition", "closing"], "novelty_target": "speech exemplars and contest-style structure"},
+    {"corpus_id": "andrew-tarvin-wave-1", "source": "Andrew Tarvin", "jobs": ["humor_or_rapport", "example_or_case", "story_or_personal_experience", "callback_or_repetition", "call_to_action_or_audience_role"], "novelty_target": "humor mechanics and workplace transfer"}
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "updated_on": "2026-09-21",
+  "purpose": "Bridge the channel-and-curriculum atlas to best-speech-analysis without merging evidence layers or overstating validation.",
+  "upstream_projects": [
+    {
+      "id": "speaking-humor-and-communication-concepts-research",
+      "role": "source selection, transcript-backed synthesis, themes, concepts, drills, pathways, and learner-facing atlas",
+      "root": "."
+    },
+    {
+      "id": "best-speech-analysis",
+      "role": "fixed-corpus evidence model, communication jobs, presentation patterns, delivery boundaries, review instruments, and validation gates",
+      "root": "../best-speech-analysis"
+    }
+  ],
+  "evidence_layers": [
+    {
+      "id": "source_inventory",
+      "status": "available",
+      "meaning": "A source or video is identified and its provenance is recorded.",
+      "promotion_rule": "Never treat inventory as analysis or effectiveness evidence."
+    },
+    {
+      "id": "transcript_synthesis",
+      "status": "available",
+      "meaning": "Transcript-backed source themes, examples, and candidate approaches.",
+      "promotion_rule": "Useful for discovery and practice hypotheses; preserve source and transcript boundaries."
+    },
+    {
+      "id": "cross_corpus_candidate",
+      "status": "integration_target",
+      "meaning": "A move or pattern appears across sources, jobs, events, or formats.",
+      "promotion_rule": "Require event-level denominators, identity checks, and explicit uncertainty before promotion."
+    },
+    {
+      "id": "independent_review",
+      "status": "open",
+      "meaning": "A blinded reviewer confirms identity, function, recurrence, phrase form, or delivery interpretation.",
+      "promotion_rule": "No reviewer record means the candidate remains unvalidated."
+    },
+    {
+      "id": "learner_listener_outcome",
+      "status": "open",
+      "meaning": "Consented learner and listener records test recognition, transfer, revision, comprehension, or recall.",
+      "promotion_rule": "Runnable instruments and synthetic dry runs are not human outcome evidence."
+    }
+  ],
+  "corpora": [
+    {"id": "ultraspeaking-wave-1", "source": "Ultraspeaking", "videos_captured": 108, "primary_jobs": ["spontaneous speaking", "visible composure", "recovery"], "integration_status": "ready_for_crosswalk"},
+    {"id": "vinh-giang-wave-1", "source": "Vinh Giang", "videos_captured": 388, "primary_jobs": ["delivery", "vocal variety", "articulation", "presence"], "integration_status": "ready_for_crosswalk"},
+    {"id": "think-fast-talk-smart-wave-1", "source": "Think Fast Talk Smart", "videos_captured": 346, "primary_jobs": ["structured communication", "pressure speaking", "workplace communication"], "integration_status": "ready_for_crosswalk"},
+    {"id": "charisma-on-command-wave-1", "source": "Charisma on Command", "videos_captured": 477, "primary_jobs": ["social presence", "likability", "awkwardness recovery", "rapport"], "integration_status": "ready_for_crosswalk"},
+    {"id": "matthew-dicks-wave-1", "source": "Matthew Dicks", "videos_captured": 232, "primary_jobs": ["storytelling", "openings", "narrative attention"], "integration_status": "ready_for_crosswalk"},
+    {"id": "jefferson-fisher-wave-1", "source": "Jefferson Fisher", "videos_captured": 560, "primary_jobs": ["calm authority", "disagreement", "boundaries"], "integration_status": "ready_for_crosswalk"},
+    {"id": "chad-littlefield-wave-1", "source": "Chad Littlefield", "videos_captured": 453, "primary_jobs": ["conversation design", "questions", "listening"], "integration_status": "ready_for_crosswalk"},
+    {"id": "alexander-lyon-wave-1", "source": "Communication Coach Alexander Lyon", "videos_captured": 462, "primary_jobs": ["executive presence", "concise workplace communication", "meetings"], "integration_status": "ready_for_crosswalk"},
+    {"id": "toastmasters-wave-1", "source": "Toastmasters International", "videos_captured": 476, "primary_jobs": ["speech craft", "openings", "humor timing", "story architecture"], "integration_status": "ready_for_crosswalk"},
+    {"id": "andrew-tarvin-wave-1", "source": "Andrew Tarvin", "videos_captured": 49, "primary_jobs": ["humor at work", "comic structure", "improv-style drills"], "integration_status": "ready_for_crosswalk"}
+  ],
+  "crosswalk_targets": [
+    {"atlas": "source-specific theme map", "shared_target": "communication job and pattern candidate", "required_evidence": ["source_id", "video_id", "transcript_location", "context", "claim_status"]},
+    {"atlas": "evidence-backed drill map", "shared_target": "practice lesson", "required_evidence": ["underlying_choice", "adaptation", "self_check", "non_fit", "listener_check", "provenance"]},
+    {"atlas": "concept and curriculum pages", "shared_target": "presentation pattern or communication-job card", "required_evidence": ["plain_language_form", "mechanism_hypothesis", "counterexample_status", "validation_status"]},
+    {"atlas": "channel/source status", "shared_target": "corpus inventory and denominator", "required_evidence": ["captured_count", "reviewed_count", "transcript_boundary", "missingness"]}
+  ],
+  "next_actions": [
+    "Build a source-to-pattern crosswalk for the ten existing corpora before adding new channels.",
+    "Join only stable provenance fields across repositories: corpus_id, video_id, source, timestamp, transcript reference, pattern/job id, and claim status.",
+    "Keep transcript-derived candidates separate from the 395 canonical full-context reviews and from independent human validation.",
+    "Run one end-to-end vertical slice from a source video to a learner drill and presentation adaptation, then audit every link.",
+    "Keep the Ali Siddiq, Dry Bar Comedy, and TED starter candidates in the unified provisional crosswalk; do not promote them until the shared review and outcome gates are completed."
+  ]
+}

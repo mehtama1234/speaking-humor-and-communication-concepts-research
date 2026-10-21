@@ -1,0 +1,9 @@
+{
+  "queue_id": "stand-up-studios-wave-3-starter-context-review",
+  "source": "stand-up-studios-wave-3-starter",
+  "status": "deferred_insufficient_transcript_coverage",
+  "review_boundary": "Only 1 of 22 selected videos has a transcript. Metadata-derived leads are not evidence and must not be promoted.",
+  "items": [],
+  "missing_video_count": 21,
+  "next_action": "Recover transcript/media access or replace the source before contextual review."
+}

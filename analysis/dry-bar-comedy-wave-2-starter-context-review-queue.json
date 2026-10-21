@@ -1,0 +1,50 @@
+{
+  "queue_id": "dry-bar-comedy-wave-2-starter-context-review",
+  "source": "dry-bar-comedy-wave-2-starter",
+  "status": "unreviewed_contextual_review_queue",
+  "review_boundary": "This is a 40-video starter slice from a 2,829-video channel manifest. Title and transcript retrieval leads require full-context review and do not establish humor or presentation effectiveness.",
+  "items": [
+    {
+      "item_id": "drybar-001",
+      "candidate_pattern": "concrete_friction_before_generalization",
+      "transcript_refs": ["#1", "#2", "#39"],
+      "review_prompt": "Does a concrete everyday friction carry the explanatory or comic premise before any generalized claim?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "drybar-002",
+      "candidate_pattern": "premise_promise_turn_payoff",
+      "transcript_refs": ["#6", "#18", "#24"],
+      "review_prompt": "Does the opening premise create an accurate promise that later beats fulfil, complicate, or reverse?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "drybar-003",
+      "candidate_pattern": "contrast_and_frame_replacement",
+      "transcript_refs": ["#12", "#15", "#30"],
+      "review_prompt": "Does the turn replace a real initial frame with a more specific one without relying on a false binary or caricature?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "drybar-004",
+      "candidate_pattern": "character_specificity_and_point_of_view",
+      "transcript_refs": ["#4", "#9", "#34"],
+      "review_prompt": "Do character details and point of view materially change how the same everyday subject is understood?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "drybar-005",
+      "candidate_pattern": "room_awareness_and_recovery",
+      "transcript_refs": ["#24", "#31", "#32"],
+      "review_prompt": "Is the apparent acknowledgment or recovery supported by full audio/video context and transferable without copying stand-up persona?",
+      "decision": "unreviewed"
+    },
+    {
+      "item_id": "drybar-006",
+      "candidate_pattern": "self_inclusion_as_safety_boundary",
+      "transcript_refs": ["#1", "#11", "#39"],
+      "review_prompt": "Does self-inclusion change the risk or relationship of the observation, and where would the move fail because of power or topic?",
+      "decision": "unreviewed"
+    }
+  ]
+}
